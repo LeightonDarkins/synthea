@@ -1,0 +1,163 @@
+Rusty501 Parisian75
+===================
+Race:                Other
+Ethnicity:           Central American
+Gender:              M
+Age:                 39
+Birth Date:          1979-10-19
+Marital Status:      M
+Outpatient Provider: ANNA JAQUES HOSPITAL
+Primary Care Provider: 25 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-09-20[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-09-20 - 2015-10-04 : Acute bronchitis (disorder)
+  2001-08-17 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-09-20[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2006-12-10[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-09-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+           - MCV [Entitic volume] by Automated count  81.3 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 377.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 395.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2018-09-28 : Lipid Panel
+           - Total Cholesterol                        194.6 mg/dL
+           - Triglycerides                            111.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      106.9 mg/dL
+           - High Density Lipoprotein Cholesterol     65.3 mg/dL
+  2012-12-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.0 %
+           - MCV [Entitic volume] by Automated count  85.4 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 216.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 355.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2012-12-21 : Lipid Panel
+           - Total Cholesterol                        175.4 mg/dL
+           - Triglycerides                            147.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.3 mg/dL
+           - High Density Lipoprotein Cholesterol     66.5 mg/dL
+  2009-12-18 : Lipid Panel
+           - Total Cholesterol                        183.4 mg/dL
+           - Triglycerides                            141.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.1 mg/dL
+           - High Density Lipoprotein Cholesterol     76.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-28 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2018-09-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 395.3 fL
+  2018-09-28 : Platelets [#/volume] in Blood by Automated count 377.6 10*3/uL
+  2018-09-28 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2018-09-28 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2018-09-28 : MCH [Entitic mass] by Automated count    28.7 pg
+  2018-09-28 : MCV [Entitic volume] by Automated count  81.3 fL
+  2018-09-28 : Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+  2018-09-28 : Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+  2018-09-28 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2018-09-28 : Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+  2018-09-28 : High Density Lipoprotein Cholesterol     65.3 mg/dL
+  2018-09-28 : Low Density Lipoprotein Cholesterol      106.9 mg/dL
+  2018-09-28 : Triglycerides                            111.8 mg/dL
+  2018-09-28 : Total Cholesterol                        194.6 mg/dL
+  2018-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 83.9 mmHg
+           - Systolic Blood Pressure                  113.7 mmHg
+  2018-09-28 : Body Mass Index                          39.8 kg/m2
+  2018-09-28 : Body Weight                              125.3 kg
+  2018-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2018-09-28 : Body Height                              177.4 cm
+  2015-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mmHg
+           - Systolic Blood Pressure                  116.2 mmHg
+  2015-09-25 : Body Mass Index                          38.4 kg/m2
+  2015-09-25 : Body Weight                              120.7 kg
+  2015-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2015-09-25 : Body Height                              177.4 cm
+  2012-12-21 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2012-12-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 355.8 fL
+  2012-12-21 : Platelets [#/volume] in Blood by Automated count 216.6 10*3/uL
+  2012-12-21 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2012-12-21 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2012-12-21 : MCH [Entitic mass] by Automated count    32.8 pg
+  2012-12-21 : MCV [Entitic volume] by Automated count  85.4 fL
+  2012-12-21 : Hematocrit [Volume Fraction] of Blood by Automated count 38.0 %
+  2012-12-21 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2012-12-21 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2012-12-21 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2012-12-21 : High Density Lipoprotein Cholesterol     66.5 mg/dL
+  2012-12-21 : Low Density Lipoprotein Cholesterol      79.3 mg/dL
+  2012-12-21 : Triglycerides                            147.9 mg/dL
+  2012-12-21 : Total Cholesterol                        175.4 mg/dL
+  2012-12-21 : Blood Pressure
+           - Diastolic Blood Pressure                 71.5 mmHg
+           - Systolic Blood Pressure                  111.5 mmHg
+  2012-12-21 : Body Mass Index                          37.4 kg/m2
+  2012-12-21 : Body Weight                              117.8 kg
+  2012-12-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2012-12-21 : Body Height                              177.4 cm
+  2009-12-18 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-18 : High Density Lipoprotein Cholesterol     76.0 mg/dL
+  2009-12-18 : Low Density Lipoprotein Cholesterol      79.1 mg/dL
+  2009-12-18 : Triglycerides                            141.3 mg/dL
+  2009-12-18 : Total Cholesterol                        183.4 mg/dL
+  2009-12-18 : Blood Pressure
+           - Diastolic Blood Pressure                 85.5 mmHg
+           - Systolic Blood Pressure                  127.5 mmHg
+  2009-12-18 : Body Mass Index                          36.1 kg/m2
+  2009-12-18 : Body Weight                              113.8 kg
+  2009-12-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2009-12-18 : Body Height                              177.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-09-20 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2015-09-25 : Documentation of current medications
+  2012-12-21 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-28 : Influenza, seasonal, injectable, preservative free
+  2015-09-25 : Influenza, seasonal, injectable, preservative free
+  2012-12-21 : Td (adult) preservative free
+  2012-12-21 : Influenza, seasonal, injectable, preservative free
+  2009-12-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-28 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2015-09-20 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Acute bronchitis (disorder)
+2015-09-25 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2012-12-21 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2009-12-18 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2006-12-10 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Acute bronchitis (disorder)
+2001-08-17 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

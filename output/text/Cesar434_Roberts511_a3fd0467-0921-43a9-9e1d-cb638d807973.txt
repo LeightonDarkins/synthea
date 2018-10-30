@@ -1,0 +1,127 @@
+Cesar434 Roberts511
+===================
+Race:                Other
+Ethnicity:           South American
+Gender:              M
+Age:                 40
+Birth Date:          1978-06-25
+Marital Status:      M
+Outpatient Provider: HOLY FAMILY HOSPITAL
+Primary Care Provider: 70 EAST STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-03-13[STOPPED] : Acetaminophen 325 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-03-13 - 2015-04-17 : Sprain of ankle
+  2010-03-30 - 2010-04-20 : Viral sinusitis (disorder)
+  2008-04-27 -            : Body mass index 30+ - obesity (finding)
+  1999-05-18 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-03-13[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-05-07 : Lipid Panel
+           - Total Cholesterol                        180.1 mg/dL
+           - Triglycerides                            102.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.2 mg/dL
+           - High Density Lipoprotein Cholesterol     65.5 mg/dL
+  2014-05-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.6 %
+           - MCV [Entitic volume] by Automated count  80.9 fL
+           - MCH [Entitic mass] by Automated count    29.9 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+           - Platelets [#/volume] in Blood by Automated count 412.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 289.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2014-05-04 : Lipid Panel
+           - Total Cholesterol                        190.8 mg/dL
+           - Triglycerides                            146.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.7 mg/dL
+           - High Density Lipoprotein Cholesterol     75.8 mg/dL
+  2011-05-01 : Lipid Panel
+           - Total Cholesterol                        169.3 mg/dL
+           - Triglycerides                            106.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      73.1 mg/dL
+           - High Density Lipoprotein Cholesterol     75.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-05-07 : Tobacco smoking status NHIS              Never smoker 
+  2017-05-07 : High Density Lipoprotein Cholesterol     65.5 mg/dL
+  2017-05-07 : Low Density Lipoprotein Cholesterol      94.2 mg/dL
+  2017-05-07 : Triglycerides                            102.1 mg/dL
+  2017-05-07 : Total Cholesterol                        180.1 mg/dL
+  2017-05-07 : Blood Pressure
+           - Diastolic Blood Pressure                 88.4 mmHg
+           - Systolic Blood Pressure                  106.4 mmHg
+  2017-05-07 : Body Mass Index                          35.6 kg/m2
+  2017-05-07 : Body Weight                              104.2 kg
+  2017-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2017-05-07 : Body Height                              171.2 cm
+  2014-05-04 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2014-05-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 289.1 fL
+  2014-05-04 : Platelets [#/volume] in Blood by Automated count 412.2 10*3/uL
+  2014-05-04 : Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+  2014-05-04 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2014-05-04 : MCH [Entitic mass] by Automated count    29.9 pg
+  2014-05-04 : MCV [Entitic volume] by Automated count  80.9 fL
+  2014-05-04 : Hematocrit [Volume Fraction] of Blood by Automated count 49.6 %
+  2014-05-04 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2014-05-04 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2014-05-04 : Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+  2014-05-04 : High Density Lipoprotein Cholesterol     75.8 mg/dL
+  2014-05-04 : Low Density Lipoprotein Cholesterol      85.7 mg/dL
+  2014-05-04 : Triglycerides                            146.7 mg/dL
+  2014-05-04 : Total Cholesterol                        190.8 mg/dL
+  2014-05-04 : Blood Pressure
+           - Diastolic Blood Pressure                 71.8 mmHg
+           - Systolic Blood Pressure                  110.8 mmHg
+  2014-05-04 : Body Mass Index                          33.9 kg/m2
+  2014-05-04 : Body Weight                              99.4 kg
+  2014-05-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2014-05-04 : Body Height                              171.2 cm
+  2011-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2011-05-01 : High Density Lipoprotein Cholesterol     75.0 mg/dL
+  2011-05-01 : Low Density Lipoprotein Cholesterol      73.1 mg/dL
+  2011-05-01 : Triglycerides                            106.2 mg/dL
+  2011-05-01 : Total Cholesterol                        169.3 mg/dL
+  2011-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 70.7 mmHg
+           - Systolic Blood Pressure                  133.0 mmHg
+  2011-05-01 : Body Mass Index                          32.5 kg/m2
+  2011-05-01 : Body Weight                              95.2 kg
+  2011-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2011-05-01 : Body Height                              171.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-05-04 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-05-07 : Influenza, seasonal, injectable, preservative free
+  2014-05-04 : Influenza, seasonal, injectable, preservative free
+  2011-05-01 : Td (adult) preservative free
+  2011-05-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-05-07 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2015-03-13 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2014-05-04 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2011-05-01 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2010-03-30 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2008-04-27 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+1999-05-18 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

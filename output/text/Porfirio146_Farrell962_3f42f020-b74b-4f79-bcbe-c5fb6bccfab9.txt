@@ -1,0 +1,158 @@
+Porfirio146 Farrell962
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 24
+Birth Date:          1994-07-15
+Marital Status:      S
+Outpatient Provider: MILFORD REGIONAL MEDICAL CENTER
+Primary Care Provider: 14 PROSPECT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-08-27 - 2017-09-07 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.2 %
+           - MCV [Entitic volume] by Automated count  86.9 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+           - Platelets [#/volume] in Blood by Automated count 207.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 416.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2010-08-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.5 %
+           - MCV [Entitic volume] by Automated count  94.7 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 289.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 249.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-08-27 : Oral temperature                         37.9 Cel
+  2017-09-01 : Tobacco smoking status NHIS              Former smoker 
+  2017-09-01 : Blood Pressure
+           - Diastolic Blood Pressure                 88.7 mmHg
+           - Systolic Blood Pressure                  126.5 mmHg
+  2017-09-01 : Body Mass Index                          18.6 kg/m2
+  2017-09-01 : Body Weight                              70.6 kg
+  2017-09-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2017-09-01 : Body Height                              195.0 cm
+  2016-09-16 : Tobacco smoking status NHIS              Former smoker 
+  2016-09-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2016-09-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 416.0 fL
+  2016-09-16 : Platelets [#/volume] in Blood by Automated count 207.8 10*3/uL
+  2016-09-16 : Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+  2016-09-16 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2016-09-16 : MCH [Entitic mass] by Automated count    31.4 pg
+  2016-09-16 : MCV [Entitic volume] by Automated count  86.9 fL
+  2016-09-16 : Hematocrit [Volume Fraction] of Blood by Automated count 44.2 %
+  2016-09-16 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2016-09-16 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2016-09-16 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2016-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  127.4 mmHg
+  2016-09-16 : Body Mass Index                          18.2 kg/m2
+  2016-09-16 : Body Weight                              69.2 kg
+  2016-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2016-09-16 : Body Height                              195.0 cm
+  2013-09-13 : Tobacco smoking status NHIS              Current every day smoker 
+  2013-09-13 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  101.4 mmHg
+  2013-09-13 : Body Mass Index                          16.9 kg/m2
+  2013-09-13 : Body Weight                              64.1 kg
+  2013-09-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2013-09-13 : Body Height                              194.8 cm
+  2012-09-07 : Tobacco smoking status NHIS              Current every day smoker 
+  2012-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 87.4 mmHg
+           - Systolic Blood Pressure                  113.7 mmHg
+  2012-09-07 : Body Mass Index                          16.5 kg/m2
+  2012-09-07 : Body Weight                              62.4 kg
+  2012-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2012-09-07 : Body Height                              194.3 cm
+  2011-09-02 : Tobacco smoking status NHIS              Current every day smoker 
+  2011-09-02 : Blood Pressure
+           - Diastolic Blood Pressure                 88.2 mmHg
+           - Systolic Blood Pressure                  111.0 mmHg
+  2011-09-02 : Body Mass Index                          16.0 kg/m2
+  2011-09-02 : Body Weight                              59.9 kg
+  2011-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-09-02 : Body Height                              193.4 cm
+  2010-08-27 : Tobacco smoking status NHIS              Current every day smoker 
+  2010-08-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2010-08-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 249.8 fL
+  2010-08-27 : Platelets [#/volume] in Blood by Automated count 289.8 10*3/uL
+  2010-08-27 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2010-08-27 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2010-08-27 : MCH [Entitic mass] by Automated count    32.3 pg
+  2010-08-27 : MCV [Entitic volume] by Automated count  94.7 fL
+  2010-08-27 : Hematocrit [Volume Fraction] of Blood by Automated count 48.5 %
+  2010-08-27 : Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+  2010-08-27 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2010-08-27 : Leukocytes [#/volume] in Blood by Automated count 7.3 10*3/uL
+  2010-08-27 : Blood Pressure
+           - Diastolic Blood Pressure                 88.4 mmHg
+           - Systolic Blood Pressure                  135.7 mmHg
+  2010-08-27 : Body Mass Index                          15.3 kg/m2
+  2010-08-27 : Body Weight                              56.5 kg
+  2010-08-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2010-08-27 : Body Height                              191.9 cm
+  2009-08-21 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-21 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  108.0 mmHg
+  2009-08-21 : Body Mass Index                          14.5 kg/m2
+  2009-08-21 : Body Weight                              51.7 kg
+  2009-08-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2009-08-21 : Body Height                              188.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2013-09-13 : Documentation of current medications
+  2009-08-21 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-09-01 : Hep B, adult
+  2017-09-01 : Influenza, seasonal, injectable, preservative free
+  2016-09-16 : meningococcal MCV4P
+  2016-09-16 : Hep B, adult
+  2016-09-16 : Td (adult) preservative free
+  2016-09-16 : Influenza, seasonal, injectable, preservative free
+  2013-09-13 : Influenza, seasonal, injectable, preservative free
+  2012-09-07 : Influenza, seasonal, injectable, preservative free
+  2011-09-02 : Influenza, seasonal, injectable, preservative free
+  2010-08-27 : meningococcal MCV4P
+  2010-08-27 : Influenza, seasonal, injectable, preservative free
+  2009-08-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-08-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2017-09-01 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2016-09-16 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2013-09-13 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2012-09-07 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2011-09-02 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2010-08-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2009-08-21 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

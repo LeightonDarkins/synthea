@@ -1,0 +1,260 @@
+Gary33 Lind531
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 77
+Birth Date:          1941-10-19
+Marital Status:      M
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-04-29[STOPPED] : Alteplase 100 MG Injection
+  2015-11-22[CURRENT] : Amlodipine 5 MG Oral Tablet
+  2015-11-22[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2015-11-22[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-11-22[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2015-10-03[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2013-09-29[STOPPED] : Alteplase 100 MG Injection
+  2013-09-29[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2009-10-18[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2002-09-08[CURRENT] : Alendronic acid 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-10-23 - 2018-01-01 : Acute bacterial sinusitis (disorder)
+  2015-11-22 -            : Coronary Heart Disease
+  2015-10-13 - 2015-10-27 : Viral sinusitis (disorder)
+  2015-10-03 - 2015-10-31 : Sprain of ankle
+  2013-09-29 -            : Stroke
+  2008-10-12 -            : Chronic obstructive bronchitis (disorder)
+  2002-09-08 -            : Osteoporosis (disorder)
+  1985-11-03 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-10-03[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2008-10-12[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Chronic obstructive bronchitis (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-12-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.3 %
+           - MCV [Entitic volume] by Automated count  91.6 fL
+           - MCH [Entitic mass] by Automated count    33.0 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+           - Platelets [#/volume] in Blood by Automated count 331.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 239.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2015-11-22 : Lipid Panel
+           - Total Cholesterol                        174.5 mg/dL
+           - Triglycerides                            104.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.1 mg/dL
+           - High Density Lipoprotein Cholesterol     72.5 mg/dL
+  2012-11-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.8 %
+           - MCV [Entitic volume] by Automated count  93.4 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 187.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 244.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2012-11-04 : Lipid Panel
+           - Total Cholesterol                        173.8 mg/dL
+           - Triglycerides                            121.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.5 mg/dL
+           - High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2009-10-18 : Lipid Panel
+           - Total Cholesterol                        198.5 mg/dL
+           - Triglycerides                            141.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      107.0 mg/dL
+           - High Density Lipoprotein Cholesterol     63.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-12-03 : FEV1/FVC                                 57.7 %
+  2017-12-03 : Tobacco smoking status NHIS              Former smoker 
+  2017-12-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2017-12-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 239.4 fL
+  2017-12-03 : Platelets [#/volume] in Blood by Automated count 331.3 10*3/uL
+  2017-12-03 : Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+  2017-12-03 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2017-12-03 : MCH [Entitic mass] by Automated count    33.0 pg
+  2017-12-03 : MCV [Entitic volume] by Automated count  91.6 fL
+  2017-12-03 : Hematocrit [Volume Fraction] of Blood by Automated count 40.3 %
+  2017-12-03 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2017-12-03 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2017-12-03 : Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+  2017-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 79.3 mmHg
+           - Systolic Blood Pressure                  116.1 mmHg
+  2017-12-03 : Body Mass Index                          25.4 kg/m2
+  2017-12-03 : Body Weight                              86.2 kg
+  2017-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2017-12-03 : Body Height                              184.3 cm
+  2016-11-27 : FEV1/FVC                                 77.1 %
+  2016-11-27 : Tobacco smoking status NHIS              Former smoker 
+  2016-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 70.2 mmHg
+           - Systolic Blood Pressure                  101.6 mmHg
+  2016-11-27 : Body Mass Index                          25.7 kg/m2
+  2016-11-27 : Body Weight                              87.3 kg
+  2016-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2016-11-27 : Body Height                              184.3 cm
+  2015-11-22 : FEV1/FVC                                 62.3 %
+  2015-11-22 : Tobacco smoking status NHIS              Former smoker 
+  2015-11-22 : High Density Lipoprotein Cholesterol     72.5 mg/dL
+  2015-11-22 : Low Density Lipoprotein Cholesterol      81.1 mg/dL
+  2015-11-22 : Triglycerides                            104.4 mg/dL
+  2015-11-22 : Total Cholesterol                        174.5 mg/dL
+  2015-11-22 : Blood Pressure
+           - Diastolic Blood Pressure                 70.9 mmHg
+           - Systolic Blood Pressure                  128.3 mmHg
+  2015-11-22 : Body Mass Index                          26.3 kg/m2
+  2015-11-22 : Body Weight                              89.2 kg
+  2015-11-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2015-11-22 : Body Height                              184.3 cm
+  2014-11-16 : FEV1/FVC                                 78.9 %
+  2014-11-16 : Tobacco smoking status NHIS              Former smoker 
+  2014-11-16 : Blood Pressure
+           - Diastolic Blood Pressure                 86.9 mmHg
+           - Systolic Blood Pressure                  102.7 mmHg
+  2014-11-16 : Body Mass Index                          26.6 kg/m2
+  2014-11-16 : Body Weight                              90.3 kg
+  2014-11-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-11-16 : Body Height                              184.3 cm
+  2013-11-10 : FEV1/FVC                                 67.5 %
+  2013-11-10 : Tobacco smoking status NHIS              Former smoker 
+  2013-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 70.8 mmHg
+           - Systolic Blood Pressure                  138.6 mmHg
+  2013-11-10 : Body Mass Index                          27.1 kg/m2
+  2013-11-10 : Body Weight                              92.2 kg
+  2013-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2013-11-10 : Body Height                              184.3 cm
+  2012-11-04 : FEV1/FVC                                 71.2 %
+  2012-11-04 : Tobacco smoking status NHIS              Former smoker 
+  2012-11-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2012-11-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 244.0 fL
+  2012-11-04 : Platelets [#/volume] in Blood by Automated count 187.6 10*3/uL
+  2012-11-04 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2012-11-04 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2012-11-04 : MCH [Entitic mass] by Automated count    29.5 pg
+  2012-11-04 : MCV [Entitic volume] by Automated count  93.4 fL
+  2012-11-04 : Hematocrit [Volume Fraction] of Blood by Automated count 41.8 %
+  2012-11-04 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2012-11-04 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2012-11-04 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2012-11-04 : High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2012-11-04 : Low Density Lipoprotein Cholesterol      76.5 mg/dL
+  2012-11-04 : Triglycerides                            121.4 mg/dL
+  2012-11-04 : Total Cholesterol                        173.8 mg/dL
+  2012-11-04 : Blood Pressure
+           - Diastolic Blood Pressure                 72.9 mmHg
+           - Systolic Blood Pressure                  107.0 mmHg
+  2012-11-04 : Body Mass Index                          27.5 kg/m2
+  2012-11-04 : Body Weight                              93.3 kg
+  2012-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2012-11-04 : Body Height                              184.3 cm
+  2011-10-30 : FEV1/FVC                                 68.0 %
+  2011-10-30 : Tobacco smoking status NHIS              Former smoker 
+  2011-10-30 : Blood Pressure
+           - Diastolic Blood Pressure                 77.4 mmHg
+           - Systolic Blood Pressure                  130.8 mmHg
+  2011-10-30 : Body Mass Index                          28.0 kg/m2
+  2011-10-30 : Body Weight                              95.1 kg
+  2011-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2011-10-30 : Body Height                              184.3 cm
+  2010-10-24 : FEV1/FVC                                 70.1 %
+  2010-10-24 : Tobacco smoking status NHIS              Former smoker 
+  2010-10-24 : Blood Pressure
+           - Diastolic Blood Pressure                 87.2 mmHg
+           - Systolic Blood Pressure                  115.1 mmHg
+  2010-10-24 : Body Mass Index                          28.9 kg/m2
+  2010-10-24 : Body Weight                              98.2 kg
+  2010-10-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-10-24 : Body Height                              184.3 cm
+  2009-10-18 : FEV1/FVC                                 76.5 %
+  2009-10-18 : Tobacco smoking status NHIS              Former smoker 
+  2009-10-18 : High Density Lipoprotein Cholesterol     63.2 mg/dL
+  2009-10-18 : Low Density Lipoprotein Cholesterol      107.0 mg/dL
+  2009-10-18 : Triglycerides                            141.6 mg/dL
+  2009-10-18 : Total Cholesterol                        198.5 mg/dL
+  2009-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 85.8 mmHg
+           - Systolic Blood Pressure                  133.9 mmHg
+  2009-10-18 : Body Mass Index                          29.4 kg/m2
+  2009-10-18 : Body Weight                              99.8 kg
+  2009-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2009-10-18 : Body Height                              184.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-04-29 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  2017-12-03 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2017-12-03 : Documentation of current medications
+  2016-11-27 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2016-10-13 : Colonoscopy
+  2015-11-22 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2015-11-22 : Documentation of current medications
+  2014-11-16 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2013-11-10 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2013-11-10 : Documentation of current medications
+  2013-09-29 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  2012-11-04 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2012-11-04 : Documentation of current medications
+  2011-10-30 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2011-10-30 : Documentation of current medications
+  2011-10-15 : Colonoscopy
+  2010-10-24 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2010-10-24 : Documentation of current medications
+  2009-10-18 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2009-10-18 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-03 : Influenza, seasonal, injectable, preservative free
+  2016-11-27 : Influenza, seasonal, injectable, preservative free
+  2015-11-22 : Influenza, seasonal, injectable, preservative free
+  2014-11-16 : Influenza, seasonal, injectable, preservative free
+  2013-11-10 : Influenza, seasonal, injectable, preservative free
+  2012-11-04 : Td (adult) preservative free
+  2012-11-04 : Influenza, seasonal, injectable, preservative free
+  2011-10-30 : Influenza, seasonal, injectable, preservative free
+  2010-10-24 : Influenza, seasonal, injectable, preservative free
+  2009-10-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-29 : Emergency Encounter
+2017-12-03 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-10-23 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute bacterial sinusitis (disorder)
+2016-11-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2016-10-13 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2015-11-22 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2015-10-13 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+2015-10-03 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+2014-11-16 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2013-11-10 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-11-04 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-10-30 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-10-15 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2010-10-24 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-10-18 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2008-10-12 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2002-09-08 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1985-11-03 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

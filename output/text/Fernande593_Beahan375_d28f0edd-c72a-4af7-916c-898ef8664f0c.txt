@@ -1,0 +1,365 @@
+Fernande593 Beahan375
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 64
+Birth Date:          1954-06-19
+Marital Status:      S
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1999-11-20[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  1973-11-18[CURRENT] : Fluoxetine 25MG for Major depression, single episode
+  1973-08-04[STOPPED] : Fluoxetine 25MG for Major depression, single episode
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-07-12 - 2016-12-03 : Polyp of colon
+  2015-03-02 - 2015-03-14 : Acute viral pharyngitis (disorder)
+  2009-06-18 - 2010-07-13 : Polyp of colon
+  2004-01-06 -            : Drug overdose
+  1997-11-15 -            : Pulmonary emphysema (disorder)
+  1997-11-15 -            : Body mass index 30+ - obesity (finding)
+  1991-02-08 -            : Chronic intractable migraine without aura
+  1990-06-03 -            : Chronic pain
+  1990-03-21 -            : Impacted molars
+  1973-08-04 -            : Major depression disorder
+  1973-06-14 -            : Anemia (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2004-01-06[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1997-11-15[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+  1973-08-17[CURRENT] : Psychiatry care plan
+                         Reason: Major depression disorder
+                         Activity: Coping Support Management
+                         Activity: Psychiatric Follow-up
+                         Activity: Suicide Risk Assessment
+  1973-08-04[CURRENT] : Major depressive disorder clinical management plan
+                         Reason: Major depression disorder
+                         Reason: Major depression disorder
+  1973-08-04[CURRENT] : Mental health care plan
+                         Reason: Major depression, single episode
+                         Activity: Initial psychiatric interview with mental status and evaluation
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-03-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+           - MCV [Entitic volume] by Automated count  90.8 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 186.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 208.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2017-03-25 : Lipid Panel
+           - Total Cholesterol                        168.3 mg/dL
+           - Triglycerides                            149.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.3 mg/dL
+           - High Density Lipoprotein Cholesterol     61.0 mg/dL
+  2014-01-25 : Lipid Panel
+           - Total Cholesterol                        189.5 mg/dL
+           - Triglycerides                            140.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.1 mg/dL
+           - High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2012-01-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %
+           - MCV [Entitic volume] by Automated count  83.1 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+           - Platelets [#/volume] in Blood by Automated count 243.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 237.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2011-01-08 : Lipid Panel
+           - Total Cholesterol                        183.4 mg/dL
+           - Triglycerides                            115.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      89.6 mg/dL
+           - High Density Lipoprotein Cholesterol     70.6 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-31 : FEV1/FVC                                 20.9 %
+  2018-03-31 : Tobacco smoking status NHIS              Former smoker 
+  2018-03-31 : Blood Pressure
+           - Diastolic Blood Pressure                 79.4 mmHg
+           - Systolic Blood Pressure                  112.4 mmHg
+  2018-03-31 : Body Mass Index                          31.7 kg/m2
+  2018-03-31 : Body Weight                              94.0 kg
+  2018-03-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-03-31 : Body Height                              172.1 cm
+  2017-03-25 : FEV1/FVC                                 14.8 %
+  2017-03-25 : Tobacco smoking status NHIS              Former smoker 
+  2017-03-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2017-03-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 208.6 fL
+  2017-03-25 : Platelets [#/volume] in Blood by Automated count 186.9 10*3/uL
+  2017-03-25 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  2017-03-25 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2017-03-25 : MCH [Entitic mass] by Automated count    29.5 pg
+  2017-03-25 : MCV [Entitic volume] by Automated count  90.8 fL
+  2017-03-25 : Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+  2017-03-25 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2017-03-25 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2017-03-25 : Leukocytes [#/volume] in Blood by Automated count 4.3 10*3/uL
+  2017-03-25 : High Density Lipoprotein Cholesterol     61.0 mg/dL
+  2017-03-25 : Low Density Lipoprotein Cholesterol      77.3 mg/dL
+  2017-03-25 : Triglycerides                            149.5 mg/dL
+  2017-03-25 : Total Cholesterol                        168.3 mg/dL
+  2017-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 87.9 mmHg
+           - Systolic Blood Pressure                  128.9 mmHg
+  2017-03-25 : Body Mass Index                          32.2 kg/m2
+  2017-03-25 : Body Weight                              95.4 kg
+  2017-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2017-03-25 : Body Height                              172.1 cm
+  2016-03-19 : FEV1/FVC                                 10.3 %
+  2016-03-19 : Tobacco smoking status NHIS              Former smoker 
+  2016-03-19 : Blood Pressure
+           - Diastolic Blood Pressure                 85.6 mmHg
+           - Systolic Blood Pressure                  121.2 mmHg
+  2016-03-19 : Body Mass Index                          32.6 kg/m2
+  2016-03-19 : Body Weight                              96.6 kg
+  2016-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-03-19 : Body Height                              172.1 cm
+  2015-07-12 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 1.0 ng/mL
+  2015-07-12 : Polyp size greatest dimension by CAP cancer protocols 4.0 mm
+  2015-03-14 : FEV1/FVC                                 26.6 %
+  2015-03-14 : Tobacco smoking status NHIS              Former smoker 
+  2015-03-14 : Blood Pressure
+           - Diastolic Blood Pressure                 88.2 mmHg
+           - Systolic Blood Pressure                  123.2 mmHg
+  2015-03-14 : Body Mass Index                          33.1 kg/m2
+  2015-03-14 : Body Weight                              98.1 kg
+  2015-03-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2015-03-14 : Body Height                              172.1 cm
+  2015-03-02 : Oral temperature                         37.9 Cel
+  2015-01-31 : FEV1/FVC                                 16.1 %
+  2015-01-31 : Tobacco smoking status NHIS              Former smoker 
+  2015-01-31 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  130.5 mmHg
+  2015-01-31 : Body Mass Index                          33.1 kg/m2
+  2015-01-31 : Body Weight                              98.1 kg
+  2015-01-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2015-01-31 : Body Height                              172.1 cm
+  2014-01-25 : FEV1/FVC                                 16.3 %
+  2014-01-25 : Tobacco smoking status NHIS              Former smoker 
+  2014-01-25 : High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2014-01-25 : Low Density Lipoprotein Cholesterol      82.1 mg/dL
+  2014-01-25 : Triglycerides                            140.5 mg/dL
+  2014-01-25 : Total Cholesterol                        189.5 mg/dL
+  2014-01-25 : Blood Pressure
+           - Diastolic Blood Pressure                 85.3 mmHg
+           - Systolic Blood Pressure                  111.9 mmHg
+  2014-01-25 : Body Mass Index                          33.5 kg/m2
+  2014-01-25 : Body Weight                              99.3 kg
+  2014-01-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2014-01-25 : Body Height                              172.1 cm
+  2013-01-19 : FEV1/FVC                                 20.3 %
+  2013-01-19 : Tobacco smoking status NHIS              Former smoker 
+  2013-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 75.2 mmHg
+           - Systolic Blood Pressure                  108.8 mmHg
+  2013-01-19 : Body Mass Index                          33.5 kg/m2
+  2013-01-19 : Body Weight                              99.3 kg
+  2013-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2013-01-19 : Body Height                              172.1 cm
+  2012-01-14 : FEV1/FVC                                 16.4 %
+  2012-01-14 : Tobacco smoking status NHIS              Former smoker 
+  2012-01-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2012-01-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 237.2 fL
+  2012-01-14 : Platelets [#/volume] in Blood by Automated count 243.4 10*3/uL
+  2012-01-14 : Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+  2012-01-14 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2012-01-14 : MCH [Entitic mass] by Automated count    27.4 pg
+  2012-01-14 : MCV [Entitic volume] by Automated count  83.1 fL
+  2012-01-14 : Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %
+  2012-01-14 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2012-01-14 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2012-01-14 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2012-01-14 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  121.8 mmHg
+  2012-01-14 : Body Mass Index                          33.5 kg/m2
+  2012-01-14 : Body Weight                              99.3 kg
+  2012-01-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-01-14 : Body Height                              172.1 cm
+  2011-01-08 : FEV1/FVC                                 27.9 %
+  2011-01-08 : Tobacco smoking status NHIS              Former smoker 
+  2011-01-08 : High Density Lipoprotein Cholesterol     70.6 mg/dL
+  2011-01-08 : Low Density Lipoprotein Cholesterol      89.6 mg/dL
+  2011-01-08 : Triglycerides                            115.7 mg/dL
+  2011-01-08 : Total Cholesterol                        183.4 mg/dL
+  2011-01-08 : Blood Pressure
+           - Diastolic Blood Pressure                 73.8 mmHg
+           - Systolic Blood Pressure                  117.8 mmHg
+  2011-01-08 : Body Mass Index                          33.5 kg/m2
+  2011-01-08 : Body Weight                              99.3 kg
+  2011-01-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2011-01-08 : Body Height                              172.1 cm
+  2010-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.3 {score}
+  2010-01-02 : FEV1/FVC                                 22.5 %
+  2010-01-02 : Tobacco smoking status NHIS              Former smoker 
+  2010-01-02 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  134.4 mmHg
+  2010-01-02 : Body Mass Index                          33.5 kg/m2
+  2010-01-02 : Body Weight                              99.3 kg
+  2010-01-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2010-01-02 : Body Height                              172.1 cm
+  2009-06-18 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 1.5 ng/mL
+  2009-06-18 : Polyp size greatest dimension by CAP cancer protocols 5.6 mm
+  2008-12-27 : FEV1/FVC                                 14.5 %
+  2008-12-27 : Tobacco smoking status NHIS              Former smoker 
+  2008-12-27 : Blood Pressure
+           - Diastolic Blood Pressure                 73.1 mmHg
+           - Systolic Blood Pressure                  118.6 mmHg
+  2008-12-27 : Body Mass Index                          33.5 kg/m2
+  2008-12-27 : Body Weight                              99.3 kg
+  2008-12-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2008-12-27 : Body Height                              172.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-31 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2018-03-31 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2018-03-31 : Documentation of current medications
+  2017-03-25 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2017-03-25 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2016-12-03 : Colonoscopy
+  2016-03-19 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2016-03-19 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2015-07-12 : Rectal polypectomy for Polyp of colon
+  2015-07-12 : Fecal occult blood test for Polyp of colon
+  2015-07-12 : Colonoscopy
+  2015-03-14 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2015-03-14 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2015-03-14 : Documentation of current medications
+  2015-01-31 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2015-01-31 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2014-01-25 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2014-01-25 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2014-01-25 : Documentation of current medications
+  2013-01-19 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2013-01-19 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2012-01-14 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2012-01-14 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2012-01-14 : Documentation of current medications
+  2011-01-08 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2011-01-08 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2011-01-08 : Documentation of current medications
+  2010-07-13 : Colonoscopy
+  2010-01-02 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2010-01-02 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2010-01-02 : Documentation of current medications
+  2009-06-18 : Rectal polypectomy for Polyp of colon
+  2009-06-18 : Fecal occult blood test for Polyp of colon
+  2009-06-18 : Colonoscopy
+  2008-12-27 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2008-12-27 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-31 : Influenza, seasonal, injectable, preservative free
+  2017-03-25 : Influenza, seasonal, injectable, preservative free
+  2016-03-19 : Td (adult) preservative free
+  2016-03-19 : Influenza, seasonal, injectable, preservative free
+  2015-01-31 : Influenza, seasonal, injectable, preservative free
+  2014-01-25 : Influenza, seasonal, injectable, preservative free
+  2013-01-19 : Influenza, seasonal, injectable, preservative free
+  2012-01-14 : Influenza, seasonal, injectable, preservative free
+  2011-01-08 : Influenza, seasonal, injectable, preservative free
+  2010-01-02 : Influenza, seasonal, injectable, preservative free
+  2008-12-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-09-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-08-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-06-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-03-31 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-02-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Drug overdose
+2017-10-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-09-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Drug overdose
+2017-03-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-12-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-11-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-10-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-03-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-09-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-08-05 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-07-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-07-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-03-28 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-03-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-03-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute viral pharyngitis (disorder)
+2015-02-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-01-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-01-31 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-12-28 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-11-28 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-10-29 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-01-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-12-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-11-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-10-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-09-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-08-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-07-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-06-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-05-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-01-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-01-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-11-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-01-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-12-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-11-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-10-31 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-10-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-09-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-08-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-07-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-07-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-06-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Drug overdose
+2010-01-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-01-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-12-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-11-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-10-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-09-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-08-05 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-07-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-06-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-06-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-05-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-04-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-01-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2008-12-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2008-11-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2004-01-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Drug overdose
+1999-11-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+1997-11-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+1991-02-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Chronic intractable migraine without aura
+1990-06-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Chronic pain
+1990-03-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Impacted molars
+1973-11-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Major depression disorder
+1973-08-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Major depression disorder
+1973-08-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Major depression, single episode
+1973-08-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Major depression, single episode
+1973-06-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

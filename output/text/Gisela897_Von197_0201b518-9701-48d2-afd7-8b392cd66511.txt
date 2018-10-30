@@ -1,0 +1,242 @@
+Gisela897 Von197
+================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 82
+Birth Date:          1936-01-07
+Marital Status:      M
+Outpatient Provider: NORWOOD HOSPITAL
+Primary Care Provider: 800 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-11-08[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2006-03-21[CURRENT] : Alendronic acid 10 MG Oral Tablet
+  2003-12-21[CURRENT] : Levothyroxine Sodium 0.075 MG Oral Tablet
+  1955-03-15[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-11-08 - 2017-11-15 : Viral sinusitis (disorder)
+  2006-03-21 -            : Osteoporosis (disorder)
+  2003-12-21 -            : Hypothyroidism (disorder)
+  1994-05-28 -            : Chronic sinusitis (disorder)
+  1981-10-27 -            : Body mass index 40+ - severely obese (finding)
+  1966-10-04 -            : Body mass index 30+ - obesity (finding)
+  1954-03-09 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-05-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+           - MCV [Entitic volume] by Automated count  89.4 fL
+           - MCH [Entitic mass] by Automated count    28.3 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 434.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 222.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2017-05-23 : Lipid Panel
+           - Total Cholesterol                        160.8 mg/dL
+           - Triglycerides                            127.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      55.7 mg/dL
+           - High Density Lipoprotein Cholesterol     79.7 mg/dL
+  2014-05-06 : Lipid Panel
+           - Total Cholesterol                        189.7 mg/dL
+           - Triglycerides                            125.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.8 mg/dL
+           - High Density Lipoprotein Cholesterol     67.9 mg/dL
+  2012-04-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+           - MCV [Entitic volume] by Automated count  94.4 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+           - Platelets [#/volume] in Blood by Automated count 166.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 298.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2011-04-19 : Lipid Panel
+           - Total Cholesterol                        196.2 mg/dL
+           - Triglycerides                            123.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      110.3 mg/dL
+           - High Density Lipoprotein Cholesterol     61.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-29 : Tobacco smoking status NHIS              Former smoker 
+  2018-05-29 : Estimated Glomerular Filtration Rate     76.3 mL/min/{1.73_m2}
+  2018-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 101.2 mmHg
+           - Systolic Blood Pressure                  150.0 mmHg
+  2018-05-29 : Body Mass Index                          28.9 kg/m2
+  2018-05-29 : Body Weight                              68.8 kg
+  2018-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2018-05-29 : Body Height                              154.4 cm
+  2017-05-23 : Tobacco smoking status NHIS              Former smoker 
+  2017-05-23 : Estimated Glomerular Filtration Rate     83.7 mL/min/{1.73_m2}
+  2017-05-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2017-05-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 222.0 fL
+  2017-05-23 : Platelets [#/volume] in Blood by Automated count 434.5 10*3/uL
+  2017-05-23 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  2017-05-23 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2017-05-23 : MCH [Entitic mass] by Automated count    28.3 pg
+  2017-05-23 : MCV [Entitic volume] by Automated count  89.4 fL
+  2017-05-23 : Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+  2017-05-23 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2017-05-23 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2017-05-23 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2017-05-23 : High Density Lipoprotein Cholesterol     79.7 mg/dL
+  2017-05-23 : Low Density Lipoprotein Cholesterol      55.7 mg/dL
+  2017-05-23 : Triglycerides                            127.1 mg/dL
+  2017-05-23 : Total Cholesterol                        160.8 mg/dL
+  2017-05-23 : Blood Pressure
+           - Diastolic Blood Pressure                 96.3 mmHg
+           - Systolic Blood Pressure                  172.1 mmHg
+  2017-05-23 : Body Mass Index                          29.4 kg/m2
+  2017-05-23 : Body Weight                              70.1 kg
+  2017-05-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2017-05-23 : Body Height                              154.4 cm
+  2016-05-17 : Tobacco smoking status NHIS              Former smoker 
+  2016-05-17 : Estimated Glomerular Filtration Rate     153.6 mL/min/{1.73_m2}
+  2016-05-17 : Blood Pressure
+           - Diastolic Blood Pressure                 94.2 mmHg
+           - Systolic Blood Pressure                  188.6 mmHg
+  2016-05-17 : Body Mass Index                          30.2 kg/m2
+  2016-05-17 : Body Weight                              72.0 kg
+  2016-05-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2016-05-17 : Body Height                              154.4 cm
+  2015-05-12 : Tobacco smoking status NHIS              Former smoker 
+  2015-05-12 : Estimated Glomerular Filtration Rate     129.2 mL/min/{1.73_m2}
+  2015-05-12 : Blood Pressure
+           - Diastolic Blood Pressure                 100.4 mmHg
+           - Systolic Blood Pressure                  193.5 mmHg
+  2015-05-12 : Body Mass Index                          30.8 kg/m2
+  2015-05-12 : Body Weight                              73.4 kg
+  2015-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2015-05-12 : Body Height                              154.4 cm
+  2014-05-06 : Tobacco smoking status NHIS              Former smoker 
+  2014-05-06 : Estimated Glomerular Filtration Rate     89.4 mL/min/{1.73_m2}
+  2014-05-06 : High Density Lipoprotein Cholesterol     67.9 mg/dL
+  2014-05-06 : Low Density Lipoprotein Cholesterol      96.8 mg/dL
+  2014-05-06 : Triglycerides                            125.2 mg/dL
+  2014-05-06 : Total Cholesterol                        189.7 mg/dL
+  2014-05-06 : Blood Pressure
+           - Diastolic Blood Pressure                 111.7 mmHg
+           - Systolic Blood Pressure                  140.1 mmHg
+  2014-05-06 : Body Mass Index                          31.3 kg/m2
+  2014-05-06 : Body Weight                              74.5 kg
+  2014-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2014-05-06 : Body Height                              154.4 cm
+  2013-04-30 : Tobacco smoking status NHIS              Former smoker 
+  2013-04-30 : Estimated Glomerular Filtration Rate     119.5 mL/min/{1.73_m2}
+  2013-04-30 : Blood Pressure
+           - Diastolic Blood Pressure                 98.3 mmHg
+           - Systolic Blood Pressure                  156.6 mmHg
+  2013-04-30 : Body Mass Index                          31.7 kg/m2
+  2013-04-30 : Body Weight                              75.6 kg
+  2013-04-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2013-04-30 : Body Height                              154.4 cm
+  2012-04-24 : Tobacco smoking status NHIS              Former smoker 
+  2012-04-24 : Estimated Glomerular Filtration Rate     107.9 mL/min/{1.73_m2}
+  2012-04-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2012-04-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 298.0 fL
+  2012-04-24 : Platelets [#/volume] in Blood by Automated count 166.4 10*3/uL
+  2012-04-24 : Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+  2012-04-24 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2012-04-24 : MCH [Entitic mass] by Automated count    27.5 pg
+  2012-04-24 : MCV [Entitic volume] by Automated count  94.4 fL
+  2012-04-24 : Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+  2012-04-24 : Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+  2012-04-24 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2012-04-24 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2012-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 94.4 mmHg
+           - Systolic Blood Pressure                  166.1 mmHg
+  2012-04-24 : Body Mass Index                          32.4 kg/m2
+  2012-04-24 : Body Weight                              77.3 kg
+  2012-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2012-04-24 : Body Height                              154.4 cm
+  2011-04-19 : Tobacco smoking status NHIS              Former smoker 
+  2011-04-19 : Estimated Glomerular Filtration Rate     61.2 mL/min/{1.73_m2}
+  2011-04-19 : High Density Lipoprotein Cholesterol     61.2 mg/dL
+  2011-04-19 : Low Density Lipoprotein Cholesterol      110.3 mg/dL
+  2011-04-19 : Triglycerides                            123.0 mg/dL
+  2011-04-19 : Total Cholesterol                        196.2 mg/dL
+  2011-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 113.1 mmHg
+           - Systolic Blood Pressure                  176.2 mmHg
+  2011-04-19 : Body Mass Index                          33.1 kg/m2
+  2011-04-19 : Body Weight                              78.8 kg
+  2011-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2011-04-19 : Body Height                              154.4 cm
+  2010-04-13 : Tobacco smoking status NHIS              Former smoker 
+  2010-04-13 : Estimated Glomerular Filtration Rate     108.2 mL/min/{1.73_m2}
+  2010-04-13 : Blood Pressure
+           - Diastolic Blood Pressure                 113.9 mmHg
+           - Systolic Blood Pressure                  174.6 mmHg
+  2010-04-13 : Body Mass Index                          33.9 kg/m2
+  2010-04-13 : Body Weight                              80.7 kg
+  2010-04-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2010-04-13 : Body Height                              154.4 cm
+  2009-04-07 : Tobacco smoking status NHIS              Former smoker 
+  2009-04-07 : Estimated Glomerular Filtration Rate     142.8 mL/min/{1.73_m2}
+  2009-04-07 : Blood Pressure
+           - Diastolic Blood Pressure                 104.3 mmHg
+           - Systolic Blood Pressure                  194.3 mmHg
+  2009-04-07 : Body Mass Index                          34.4 kg/m2
+  2009-04-07 : Body Weight                              82.1 kg
+  2009-04-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2009-04-07 : Body Height                              154.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-05-17 : Documentation of current medications
+  2015-12-31 : Colonoscopy
+  2012-04-24 : Documentation of current medications
+  2011-01-01 : Colonoscopy
+  2010-04-13 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-29 : Influenza, seasonal, injectable, preservative free
+  2017-05-23 : Td (adult) preservative free
+  2017-05-23 : Influenza, seasonal, injectable, preservative free
+  2016-05-17 : Influenza, seasonal, injectable, preservative free
+  2015-05-12 : Influenza, seasonal, injectable, preservative free
+  2014-05-06 : Influenza, seasonal, injectable, preservative free
+  2013-04-30 : Influenza, seasonal, injectable, preservative free
+  2012-04-24 : Influenza, seasonal, injectable, preservative free
+  2011-04-19 : Influenza, seasonal, injectable, preservative free
+  2010-04-13 : Influenza, seasonal, injectable, preservative free
+  2009-04-07 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-29 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2017-11-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2017-05-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-05-17 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-12-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-05-12 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-05-06 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-04-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2012-04-24 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-04-19 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-01-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-04-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-04-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2006-03-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2003-12-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+1994-05-28 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Sinusitis (disorder)
+1981-10-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+1966-10-04 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+1955-03-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+1954-03-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

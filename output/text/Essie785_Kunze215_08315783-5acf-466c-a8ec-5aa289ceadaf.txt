@@ -1,0 +1,292 @@
+Essie785 Kunze215
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 35
+Birth Date:          1983-06-17
+Marital Status:      S
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-06-10[CURRENT] : Jolivette 28 Day Pack
+  2015-06-21[STOPPED] : Liletta 52 MG Intrauterine System
+  2014-11-11[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2014-06-26[STOPPED] : Camila 28 Day Pack
+  2013-07-01[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2012-07-02[STOPPED] : Mirena 52 MG Intrauterine System
+  2010-08-30[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2009-07-14[STOPPED] : Jolivette 28 Day Pack
+  2003-08-15[STOPPED] : Jolivette 28 Day Pack
+  2001-07-20[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-07-06 - 2016-07-19 : Acute viral pharyngitis (disorder)
+  2014-11-11 - 2014-12-16 : Sprain of ankle
+  2014-05-05 - 2014-05-17 : Acute viral pharyngitis (disorder)
+  2012-04-27 - 2012-05-18 : Antepartum eclampsia
+  2011-10-28 - 2011-11-04 : Viral sinusitis (disorder)
+  2011-10-14 - 2012-05-18 : Normal pregnancy
+  2010-09-10 -            : Body mass index 30+ - obesity (finding)
+  2010-08-30 - 2010-09-13 : Acute bronchitis (disorder)
+  2008-10-24 - 2009-06-05 : Normal pregnancy
+  2001-07-20 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-11-11[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2011-10-14[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2010-08-30[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2008-10-24[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-16 : Lipid Panel
+           - Total Cholesterol                        198.5 mg/dL
+           - Triglycerides                            106.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      104.6 mg/dL
+           - High Density Lipoprotein Cholesterol     72.7 mg/dL
+  2013-09-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.6 %
+           - MCV [Entitic volume] by Automated count  86.7 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 181.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 165.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2013-09-13 : Lipid Panel
+           - Total Cholesterol                        160.7 mg/dL
+           - Triglycerides                            118.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.4 mg/dL
+           - High Density Lipoprotein Cholesterol     60.5 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-09-16 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-16 : Estimated Glomerular Filtration Rate     58.2 mL/min/{1.73_m2}
+  2016-09-16 : High Density Lipoprotein Cholesterol     72.7 mg/dL
+  2016-09-16 : Low Density Lipoprotein Cholesterol      104.6 mg/dL
+  2016-09-16 : Triglycerides                            106.2 mg/dL
+  2016-09-16 : Total Cholesterol                        198.5 mg/dL
+  2016-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 105.8 mmHg
+           - Systolic Blood Pressure                  191.7 mmHg
+  2016-09-16 : Body Mass Index                          34.0 kg/m2
+  2016-09-16 : Body Weight                              89.4 kg
+  2016-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2016-09-16 : Body Height                              162.2 cm
+  2016-07-06 : Oral temperature                         37.9 Cel
+  2014-05-05 : Oral temperature                         37.1 Cel
+  2013-09-13 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-13 : Estimated Glomerular Filtration Rate     91.1 mL/min/{1.73_m2}
+  2013-09-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2013-09-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 165.9 fL
+  2013-09-13 : Platelets [#/volume] in Blood by Automated count 181.4 10*3/uL
+  2013-09-13 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  2013-09-13 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2013-09-13 : MCH [Entitic mass] by Automated count    29.5 pg
+  2013-09-13 : MCV [Entitic volume] by Automated count  86.7 fL
+  2013-09-13 : Hematocrit [Volume Fraction] of Blood by Automated count 42.6 %
+  2013-09-13 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2013-09-13 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2013-09-13 : Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+  2013-09-13 : High Density Lipoprotein Cholesterol     60.5 mg/dL
+  2013-09-13 : Low Density Lipoprotein Cholesterol      76.4 mg/dL
+  2013-09-13 : Triglycerides                            118.7 mg/dL
+  2013-09-13 : Total Cholesterol                        160.7 mg/dL
+  2013-09-13 : Blood Pressure
+           - Diastolic Blood Pressure                 99.8 mmHg
+           - Systolic Blood Pressure                  170.9 mmHg
+  2013-09-13 : Body Mass Index                          32.1 kg/m2
+  2013-09-13 : Body Weight                              84.5 kg
+  2013-09-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2013-09-13 : Body Height                              162.2 cm
+  2010-09-10 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-10 : Estimated Glomerular Filtration Rate     132.1 mL/min/{1.73_m2}
+  2010-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 111.2 mmHg
+           - Systolic Blood Pressure                  178.5 mmHg
+  2010-09-10 : Body Mass Index                          30.4 kg/m2
+  2010-09-10 : Body Weight                              80.1 kg
+  2010-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-09-10 : Body Height                              162.2 cm
+  2009-04-24 : Tobacco smoking status NHIS              Never smoker 
+  2009-04-24 : Estimated Glomerular Filtration Rate     137.7 mL/min/{1.73_m2}
+  2009-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 117.1 mmHg
+           - Systolic Blood Pressure                  189.8 mmHg
+  2009-04-24 : Body Mass Index                          29.1 kg/m2
+  2009-04-24 : Body Weight                              76.5 kg
+  2009-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2009-04-24 : Body Height                              162.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-07-07 : Replacement of contraceptive intrauterine device
+  2016-09-16 : Documentation of current medications
+  2016-07-06 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2015-06-23 : Insertion of intrauterine contraceptive device
+  2014-05-05 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2012-07-04 : Insertion of intrauterine contraceptive device
+  2012-06-29 : Depression screening
+  2012-06-29 : Physical examination following birth
+  2012-06-29 : RhD passive immunization
+  2012-05-18 : Childbirth for Normal pregnancy
+  2012-05-18 : Medical induction of labor for Normal pregnancy
+  2012-05-11 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-27 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-27 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-03-30 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-02 : Urine screening for glucose for Normal pregnancy
+  2012-03-02 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-03-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-03-02 : RhD passive immunization for Normal pregnancy
+  2012-03-02 : Antenatal RhD antibody screening for Normal pregnancy
+  2012-02-03 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-06 : Auscultation of the fetal heart for Normal pregnancy
+  2012-01-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-12-09 : Auscultation of the fetal heart for Normal pregnancy
+  2011-12-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-12-09 : Alpha-fetoprotein test for Normal pregnancy
+  2011-12-09 : Fetal anatomy study for Normal pregnancy
+  2011-11-11 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-11-11 : Auscultation of the fetal heart for Normal pregnancy
+  2011-11-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-14 : Physical examination of mother for Normal pregnancy
+  2011-10-14 : Urine protein test for Normal pregnancy
+  2011-10-14 : Skin test for tuberculosis for Normal pregnancy
+  2011-10-14 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-10-14 : Rubella screening for Normal pregnancy
+  2011-10-14 : Hepatitis C antibody test for Normal pregnancy
+  2011-10-14 : Urine screening test for diabetes for Normal pregnancy
+  2011-10-14 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-10-14 : Urine culture for Normal pregnancy
+  2011-10-14 : Syphilis infection test for Normal pregnancy
+  2011-10-14 : Gonorrhea infection test for Normal pregnancy
+  2011-10-14 : Chlamydia antigen test for Normal pregnancy
+  2011-10-14 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-10-14 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-10-14 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-10-14 : Blood typing, RH typing for Normal pregnancy
+  2011-10-14 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-14 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-10-14 : Standard pregnancy test for Normal pregnancy
+  2011-08-12 : Removal of intrauterine device
+  2011-07-06 : Insertion of intrauterine contraceptive device
+  2010-09-10 : Documentation of current medications
+  2010-08-30 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2009-07-17 : Depression screening
+  2009-07-17 : Physical examination following birth
+  2009-07-17 : RhD passive immunization
+  2009-06-05 : Childbirth for Normal pregnancy
+  2009-06-05 : Augmentation of labor for Normal pregnancy
+  2009-05-29 : Auscultation of the fetal heart for Normal pregnancy
+  2009-05-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-22 : Auscultation of the fetal heart for Normal pregnancy
+  2009-05-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-08 : Auscultation of the fetal heart for Normal pregnancy
+  2009-05-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-08 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2009-04-10 : Auscultation of the fetal heart for Normal pregnancy
+  2009-04-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-03-13 : Auscultation of the fetal heart for Normal pregnancy
+  2009-03-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-03-13 : Urine screening for glucose for Normal pregnancy
+  2009-03-13 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2009-03-13 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-03-13 : RhD passive immunization for Normal pregnancy
+  2009-03-13 : Antenatal RhD antibody screening for Normal pregnancy
+  2009-02-13 : Auscultation of the fetal heart for Normal pregnancy
+  2009-02-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-01-16 : Auscultation of the fetal heart for Normal pregnancy
+  2009-01-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2008-12-19 : Auscultation of the fetal heart for Normal pregnancy
+  2008-12-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2008-12-19 : Alpha-fetoprotein test for Normal pregnancy
+  2008-12-19 : Fetal anatomy study for Normal pregnancy
+  2008-11-21 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2008-11-21 : Auscultation of the fetal heart for Normal pregnancy
+  2008-11-21 : Evaluation of uterine fundal height for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-09-16 : Td (adult) preservative free
+  2016-09-16 : Influenza, seasonal, injectable, preservative free
+  2013-09-13 : Influenza, seasonal, injectable, preservative free
+  2010-09-10 : Influenza, seasonal, injectable, preservative free
+  2009-04-24 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-06-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-07-07 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-09-16 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-07-06 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2015-06-23 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2015-06-21 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-11-11 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-06-26 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-05-05 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2013-09-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-07-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-07-04 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-07-02 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-06-29 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-05-18 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-05-11 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-04-27 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-03-30 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-03-02 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-02-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-01-06 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2011-12-09 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2011-11-11 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2011-10-28 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-10-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2011-08-12 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-07-06 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-07-04 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-09-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-08-30 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute bronchitis (disorder)
+2009-07-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-07-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-06-05 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2009-05-29 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2009-05-22 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2009-05-08 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2009-04-24 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-04-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2009-03-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2009-02-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2009-01-16 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2008-12-19 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2008-11-21 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2008-10-24 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2003-08-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2001-07-20 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

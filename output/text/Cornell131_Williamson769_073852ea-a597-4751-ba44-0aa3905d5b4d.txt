@@ -1,0 +1,192 @@
+Cornell131 Williamson769
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 47
+Birth Date:          1971-05-14
+Marital Status:      M
+Outpatient Provider: MERCY MEDICAL CTR
+Primary Care Provider: 271 CAREW STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-05-29[STOPPED] : 3 ML liraglutide 6 MG/ML Pen Injector for Diabetes
+  2015-05-29[CURRENT] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2015-05-29[CURRENT] : Hydrochlorothiazide 6.25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-06-02 -            : Metabolic syndrome X (disorder)
+  2017-06-02 -            : Hypertriglyceridemia (disorder)
+  2017-06-02 -            : Hyperglycemia (disorder)
+  2017-01-16 - 2017-02-13 : Sinusitis (disorder)
+  2016-08-28 - 2016-09-11 : Viral sinusitis (disorder)
+  2015-05-29 -            : Diabetes
+  2015-05-29 -            : Hypertension
+  1999-10-22 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-05-29[CURRENT] : Diabetes self management plan
+                         Reason: Diabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-06-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.0 %
+           - MCV [Entitic volume] by Automated count  82.0 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 320.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 468.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2017-06-02 : Lipid Panel
+           - Total Cholesterol                        260.8 mg/dL
+           - Triglycerides                            501.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      141.0 mg/dL
+           - High Density Lipoprotein Cholesterol     19.5 mg/dL
+  2017-06-02 : Basic Metabolic Panel
+           - Glucose                                  159.6 mg/dL
+           - Urea Nitrogen                            8.1 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   136.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 108.8 mmol/L
+           - Carbon Dioxide                           23.0 mmol/L
+  2015-05-29 : Lipid Panel
+           - Total Cholesterol                        170.1 mg/dL
+           - Triglycerides                            137.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      67.9 mg/dL
+           - High Density Lipoprotein Cholesterol     74.7 mg/dL
+  2011-05-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+           - MCV [Entitic volume] by Automated count  86.5 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 405.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 452.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2011-05-20 : Lipid Panel
+           - Total Cholesterol                        197.4 mg/dL
+           - Triglycerides                            119.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      111.1 mg/dL
+           - High Density Lipoprotein Cholesterol     62.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-06-02 : Hemoglobin A1c/Hemoglobin.total in Blood 7.9 %
+  2017-06-02 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-02 : Estimated Glomerular Filtration Rate     91.8 mL/min/{1.73_m2}
+  2017-06-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2017-06-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 468.1 fL
+  2017-06-02 : Platelets [#/volume] in Blood by Automated count 320.2 10*3/uL
+  2017-06-02 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  2017-06-02 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2017-06-02 : MCH [Entitic mass] by Automated count    31.1 pg
+  2017-06-02 : MCV [Entitic volume] by Automated count  82.0 fL
+  2017-06-02 : Hematocrit [Volume Fraction] of Blood by Automated count 35.0 %
+  2017-06-02 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2017-06-02 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2017-06-02 : Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+  2017-06-02 : Microalbumin Creatinine Ratio            15.5 mg/g
+  2017-06-02 : High Density Lipoprotein Cholesterol     19.5 mg/dL
+  2017-06-02 : Low Density Lipoprotein Cholesterol      141.0 mg/dL
+  2017-06-02 : Triglycerides                            501.7 mg/dL
+  2017-06-02 : Total Cholesterol                        260.8 mg/dL
+  2017-06-02 : Carbon Dioxide                           23.0 mmol/L
+  2017-06-02 : Chloride                                 108.8 mmol/L
+  2017-06-02 : Potassium                                5.1 mmol/L
+  2017-06-02 : Sodium                                   136.7 mmol/L
+  2017-06-02 : Calcium                                  9.6 mg/dL
+  2017-06-02 : Creatinine                               1.8 mg/dL
+  2017-06-02 : Urea Nitrogen                            8.1 mg/dL
+  2017-06-02 : Glucose                                  159.6 mg/dL
+  2017-06-02 : Blood Pressure
+           - Diastolic Blood Pressure                 101.2 mmHg
+           - Systolic Blood Pressure                  151.4 mmHg
+  2017-06-02 : Body Mass Index                          39.7 kg/m2
+  2017-06-02 : Body Weight                              126.2 kg
+  2017-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2017-06-02 : Body Height                              178.3 cm
+  2015-05-29 : Hemoglobin A1c/Hemoglobin.total in Blood 9.8 %
+  2015-05-29 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-29 : High Density Lipoprotein Cholesterol     74.7 mg/dL
+  2015-05-29 : Low Density Lipoprotein Cholesterol      67.9 mg/dL
+  2015-05-29 : Triglycerides                            137.5 mg/dL
+  2015-05-29 : Total Cholesterol                        170.1 mg/dL
+  2015-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 117.2 mmHg
+           - Systolic Blood Pressure                  190.2 mmHg
+  2015-05-29 : Body Mass Index                          39.0 kg/m2
+  2015-05-29 : Body Weight                              124.0 kg
+  2015-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2015-05-29 : Body Height                              178.3 cm
+  2013-05-24 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-24 : Blood Pressure
+           - Diastolic Blood Pressure                 75.5 mmHg
+           - Systolic Blood Pressure                  106.1 mmHg
+  2013-05-24 : Body Mass Index                          37.9 kg/m2
+  2013-05-24 : Body Weight                              120.5 kg
+  2013-05-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2013-05-24 : Body Height                              178.3 cm
+  2011-05-20 : Tobacco smoking status NHIS              Never smoker 
+  2011-05-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2011-05-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 452.0 fL
+  2011-05-20 : Platelets [#/volume] in Blood by Automated count 405.6 10*3/uL
+  2011-05-20 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2011-05-20 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2011-05-20 : MCH [Entitic mass] by Automated count    30.5 pg
+  2011-05-20 : MCV [Entitic volume] by Automated count  86.5 fL
+  2011-05-20 : Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+  2011-05-20 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2011-05-20 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2011-05-20 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2011-05-20 : High Density Lipoprotein Cholesterol     62.4 mg/dL
+  2011-05-20 : Low Density Lipoprotein Cholesterol      111.1 mg/dL
+  2011-05-20 : Triglycerides                            119.4 mg/dL
+  2011-05-20 : Total Cholesterol                        197.4 mg/dL
+  2011-05-20 : Blood Pressure
+           - Diastolic Blood Pressure                 74.2 mmHg
+           - Systolic Blood Pressure                  109.6 mmHg
+  2011-05-20 : Body Mass Index                          36.5 kg/m2
+  2011-05-20 : Body Weight                              116.0 kg
+  2011-05-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2011-05-20 : Body Height                              178.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-06-02 : Documentation of current medications
+  2017-02-13 : Nasal sinus endoscopy (procedure)
+  2013-05-24 : Documentation of current medications
+  2011-05-20 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-06-02 : Influenza, seasonal, injectable, preservative free
+  2015-05-29 : Influenza, seasonal, injectable, preservative free
+  2013-05-24 : Hep A, adult
+  2013-05-24 : Td (adult) preservative free
+  2013-05-24 : Influenza, seasonal, injectable, preservative free
+  2011-05-20 : Hep A, adult
+  2011-05-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-06-02 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2017-02-13 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Sinusitis (disorder)
+2017-01-16 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Sinusitis (disorder)
+2016-08-28 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Viral sinusitis (disorder)
+2015-05-29 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2013-05-24 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2011-05-20 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+1999-10-22 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,347 @@
+Isabela97 Alba338
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 50
+Birth Date:          1968-02-26
+Marital Status:      M
+Outpatient Provider: NORTH SHORE MEDICAL CENTER -
+Primary Care Provider: 81 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-01-23[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2011-02-15[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of hip
+  1991-02-04[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-01-23 - 2015-02-13 : Sprain of wrist
+  2014-04-09 - 2014-04-16 : Viral sinusitis (disorder)
+  2011-02-15 -            : Osteoarthritis of hip
+  2008-11-22 - 2008-11-29 : Viral sinusitis (disorder)
+  2005-05-30 -            : Prediabetes
+  1991-03-05 -            : Drug overdose
+  1990-04-08 -            : Chronic pain
+  1990-01-31 -            : Chronic intractable migraine without aura
+  1988-02-01 -            : Pulmonary emphysema (disorder)
+  1988-02-01 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-01-23[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2011-02-15[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of hip
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2005-05-30[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1991-03-05[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1988-02-01[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-26 : Basic Metabolic Panel
+           - Glucose                                  71.0 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   143.4 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 106.2 mmol/L
+           - Carbon Dioxide                           24.5 mmol/L
+  2016-04-25 : Lipid Panel
+           - Total Cholesterol                        171.6 mg/dL
+           - Triglycerides                            100.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.9 mg/dL
+           - High Density Lipoprotein Cholesterol     64.7 mg/dL
+  2016-04-25 : Basic Metabolic Panel
+           - Glucose                                  87.6 mg/dL
+           - Urea Nitrogen                            8.8 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   140.3 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 105.7 mmol/L
+           - Carbon Dioxide                           26.3 mmol/L
+  2014-04-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.7 %
+           - MCV [Entitic volume] by Automated count  85.0 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 296.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 444.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2014-04-21 : Basic Metabolic Panel
+           - Glucose                                  99.3 mg/dL
+           - Urea Nitrogen                            12.6 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   142.9 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 107.1 mmol/L
+           - Carbon Dioxide                           20.1 mmol/L
+  2012-12-03 : Lipid Panel
+           - Total Cholesterol                        170.6 mg/dL
+           - Triglycerides                            113.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.3 mg/dL
+           - High Density Lipoprotein Cholesterol     79.5 mg/dL
+  2012-12-03 : Basic Metabolic Panel
+           - Glucose                                  87.1 mg/dL
+           - Urea Nitrogen                            10.8 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 104.8 mmol/L
+           - Carbon Dioxide                           29.0 mmol/L
+  2010-11-29 : Basic Metabolic Panel
+           - Glucose                                  96.0 mg/dL
+           - Urea Nitrogen                            12.5 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 108.8 mmol/L
+           - Carbon Dioxide                           24.6 mmol/L
+  2008-11-24 : Basic Metabolic Panel
+           - Glucose                                  95.3 mg/dL
+           - Urea Nitrogen                            12.3 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 104.1 mmol/L
+           - Carbon Dioxide                           23.0 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-26 : FEV1/FVC                                 28.7 %
+  2018-02-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2018-02-26 : Tobacco smoking status NHIS              Former smoker 
+  2018-02-26 : Carbon Dioxide                           24.5 mmol/L
+  2018-02-26 : Chloride                                 106.2 mmol/L
+  2018-02-26 : Potassium                                5.0 mmol/L
+  2018-02-26 : Sodium                                   143.4 mmol/L
+  2018-02-26 : Calcium                                  8.9 mg/dL
+  2018-02-26 : Creatinine                               1.6 mg/dL
+  2018-02-26 : Urea Nitrogen                            10.9 mg/dL
+  2018-02-26 : Glucose                                  71.0 mg/dL
+  2018-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 88.8 mmHg
+           - Systolic Blood Pressure                  114.2 mmHg
+  2018-02-26 : Body Mass Index                          47.6 kg/m2
+  2018-02-26 : Body Weight                              124.5 kg
+  2018-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2018-02-26 : Body Height                              161.7 cm
+  2016-04-25 : FEV1/FVC                                 17.9 %
+  2016-04-25 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-04-25 : Tobacco smoking status NHIS              Former smoker 
+  2016-04-25 : High Density Lipoprotein Cholesterol     64.7 mg/dL
+  2016-04-25 : Low Density Lipoprotein Cholesterol      86.9 mg/dL
+  2016-04-25 : Triglycerides                            100.6 mg/dL
+  2016-04-25 : Total Cholesterol                        171.6 mg/dL
+  2016-04-25 : Carbon Dioxide                           26.3 mmol/L
+  2016-04-25 : Chloride                                 105.7 mmol/L
+  2016-04-25 : Potassium                                5.1 mmol/L
+  2016-04-25 : Sodium                                   140.3 mmol/L
+  2016-04-25 : Calcium                                  9.0 mg/dL
+  2016-04-25 : Creatinine                               1.3 mg/dL
+  2016-04-25 : Urea Nitrogen                            8.8 mg/dL
+  2016-04-25 : Glucose                                  87.6 mg/dL
+  2016-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 74.4 mmHg
+           - Systolic Blood Pressure                  113.5 mmHg
+  2016-04-25 : Body Mass Index                          46.9 kg/m2
+  2016-04-25 : Body Weight                              122.7 kg
+  2016-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2016-04-25 : Body Height                              161.7 cm
+  2014-04-21 : FEV1/FVC                                 12.4 %
+  2014-04-21 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2014-04-21 : Tobacco smoking status NHIS              Former smoker 
+  2014-04-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2014-04-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 444.2 fL
+  2014-04-21 : Platelets [#/volume] in Blood by Automated count 296.3 10*3/uL
+  2014-04-21 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2014-04-21 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2014-04-21 : MCH [Entitic mass] by Automated count    32.9 pg
+  2014-04-21 : MCV [Entitic volume] by Automated count  85.0 fL
+  2014-04-21 : Hematocrit [Volume Fraction] of Blood by Automated count 45.7 %
+  2014-04-21 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2014-04-21 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2014-04-21 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2014-04-21 : Carbon Dioxide                           20.1 mmol/L
+  2014-04-21 : Chloride                                 107.1 mmol/L
+  2014-04-21 : Potassium                                4.3 mmol/L
+  2014-04-21 : Sodium                                   142.9 mmol/L
+  2014-04-21 : Calcium                                  8.8 mg/dL
+  2014-04-21 : Creatinine                               1.3 mg/dL
+  2014-04-21 : Urea Nitrogen                            12.6 mg/dL
+  2014-04-21 : Glucose                                  99.3 mg/dL
+  2014-04-21 : Blood Pressure
+           - Diastolic Blood Pressure                 74.6 mmHg
+           - Systolic Blood Pressure                  109.2 mmHg
+  2014-04-21 : Body Mass Index                          45.4 kg/m2
+  2014-04-21 : Body Weight                              118.8 kg
+  2014-04-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2014-04-21 : Body Height                              161.7 cm
+  2012-12-03 : FEV1/FVC                                 25.8 %
+  2012-12-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2012-12-03 : Tobacco smoking status NHIS              Former smoker 
+  2012-12-03 : High Density Lipoprotein Cholesterol     79.5 mg/dL
+  2012-12-03 : Low Density Lipoprotein Cholesterol      68.3 mg/dL
+  2012-12-03 : Triglycerides                            113.9 mg/dL
+  2012-12-03 : Total Cholesterol                        170.6 mg/dL
+  2012-12-03 : Carbon Dioxide                           29.0 mmol/L
+  2012-12-03 : Chloride                                 104.8 mmol/L
+  2012-12-03 : Potassium                                4.9 mmol/L
+  2012-12-03 : Sodium                                   137.7 mmol/L
+  2012-12-03 : Calcium                                  9.6 mg/dL
+  2012-12-03 : Creatinine                               1.3 mg/dL
+  2012-12-03 : Urea Nitrogen                            10.8 mg/dL
+  2012-12-03 : Glucose                                  87.1 mg/dL
+  2012-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 87.3 mmHg
+           - Systolic Blood Pressure                  114.9 mmHg
+  2012-12-03 : Body Mass Index                          44.5 kg/m2
+  2012-12-03 : Body Weight                              116.4 kg
+  2012-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2012-12-03 : Body Height                              161.7 cm
+  2011-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.9 {score}
+  2011-02-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.2 {score}
+  2010-11-29 : FEV1/FVC                                 15.8 %
+  2010-11-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2010-11-29 : Tobacco smoking status NHIS              Former smoker 
+  2010-11-29 : Carbon Dioxide                           24.6 mmol/L
+  2010-11-29 : Chloride                                 108.8 mmol/L
+  2010-11-29 : Potassium                                4.9 mmol/L
+  2010-11-29 : Sodium                                   142.3 mmol/L
+  2010-11-29 : Calcium                                  9.6 mg/dL
+  2010-11-29 : Creatinine                               1.3 mg/dL
+  2010-11-29 : Urea Nitrogen                            12.5 mg/dL
+  2010-11-29 : Glucose                                  96.0 mg/dL
+  2010-11-29 : Blood Pressure
+           - Diastolic Blood Pressure                 75.7 mmHg
+           - Systolic Blood Pressure                  100.8 mmHg
+  2010-11-29 : Body Mass Index                          43.5 kg/m2
+  2010-11-29 : Body Weight                              113.7 kg
+  2010-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-11-29 : Body Height                              161.7 cm
+  2008-11-24 : FEV1/FVC                                 17.2 %
+  2008-11-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2008-11-24 : Tobacco smoking status NHIS              Former smoker 
+  2008-11-24 : Carbon Dioxide                           23.0 mmol/L
+  2008-11-24 : Chloride                                 104.1 mmol/L
+  2008-11-24 : Potassium                                4.4 mmol/L
+  2008-11-24 : Sodium                                   140.4 mmol/L
+  2008-11-24 : Calcium                                  9.0 mg/dL
+  2008-11-24 : Creatinine                               1.3 mg/dL
+  2008-11-24 : Urea Nitrogen                            12.3 mg/dL
+  2008-11-24 : Glucose                                  95.3 mg/dL
+  2008-11-24 : Blood Pressure
+           - Diastolic Blood Pressure                 81.3 mmHg
+           - Systolic Blood Pressure                  126.0 mmHg
+  2008-11-24 : Body Mass Index                          42.1 kg/m2
+  2008-11-24 : Body Weight                              110.1 kg
+  2008-11-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2008-11-24 : Body Height                              161.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-02-26 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2018-02-26 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2018-02-26 : Documentation of current medications
+  2018-02-26 : Colonoscopy
+  2016-04-25 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2016-04-25 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2014-04-21 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2014-04-21 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2012-12-03 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2012-12-03 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2012-12-03 : Documentation of current medications
+  2010-11-29 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2010-11-29 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2008-11-24 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  2008-11-24 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2008-11-24 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-26 : Influenza, seasonal, injectable, preservative free
+  2018-02-26 : zoster
+  2016-04-25 : Influenza, seasonal, injectable, preservative free
+  2014-04-21 : Influenza, seasonal, injectable, preservative free
+  2014-04-14 : Influenza, seasonal, injectable, preservative free
+  2012-12-03 : Influenza, seasonal, injectable, preservative free
+  2010-11-29 : Td (adult) preservative free
+  2010-11-29 : Influenza, seasonal, injectable, preservative free
+  2008-11-24 : Hep A, adult
+  2008-11-24 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-06-28 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-05-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-04-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-03-30 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-02-28 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-02-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-02-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-01-31 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2017-12-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-11-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-10-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2017-07-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-06-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-06-13 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2017-04-02 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-03-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-02-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-01-02 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-12-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-11-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-10-27 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2016-04-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-01-23 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-04-21 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-04-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2014-04-14 (Dr. Renaldo199 King743) : Encounter at FAMILY DOCTORS
+2013-11-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-07-16 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2013-05-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-04-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-03-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-02-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-12-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-09-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-08-15 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2011-02-15 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Osteoarthritis of hip
+2010-11-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-06-12 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-05-13 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-04-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2008-12-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2008-11-22 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2008-11-24 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2008-11-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2005-05-27 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+1991-03-05 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+1991-02-04 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1990-04-08 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic pain
+1990-01-31 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic intractable migraine without aura
+1988-02-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,163 @@
+Dewey930 Conn188
+================
+Race:                Other
+Ethnicity:           Puerto Rican
+Gender:              M
+Age:                 43
+Birth Date:          1975-05-22
+Marital Status:      M
+Outpatient Provider: BEVERLY HOSPITAL CORPORATION
+Primary Care Provider: 85 HERRICK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-05-19[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-05-19 - 2017-06-09 : Viral sinusitis (disorder)
+  2016-07-02 - 2016-07-16 : Viral sinusitis (disorder)
+  2015-09-10 -            : Body mass index 30+ - obesity (finding)
+  2015-02-25 - 2015-03-04 : Viral sinusitis (disorder)
+  2011-03-18 - 2011-04-08 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-09-14 : Lipid Panel
+           - Total Cholesterol                        168.8 mg/dL
+           - Triglycerides                            145.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      69.9 mg/dL
+           - High Density Lipoprotein Cholesterol     69.8 mg/dL
+  2015-09-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+           - MCV [Entitic volume] by Automated count  92.3 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 329.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 152.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2013-09-05 : Lipid Panel
+           - Total Cholesterol                        173.9 mg/dL
+           - Triglycerides                            128.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.1 mg/dL
+           - High Density Lipoprotein Cholesterol     68.1 mg/dL
+  2010-09-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+           - MCV [Entitic volume] by Automated count  83.7 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 283.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 462.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2010-09-02 : Lipid Panel
+           - Total Cholesterol                        163.0 mg/dL
+           - Triglycerides                            135.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      61.1 mg/dL
+           - High Density Lipoprotein Cholesterol     74.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-09-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-14 : High Density Lipoprotein Cholesterol     69.8 mg/dL
+  2017-09-14 : Low Density Lipoprotein Cholesterol      69.9 mg/dL
+  2017-09-14 : Triglycerides                            145.6 mg/dL
+  2017-09-14 : Total Cholesterol                        168.8 mg/dL
+  2017-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  126.1 mmHg
+  2017-09-14 : Body Mass Index                          32.0 kg/m2
+  2017-09-14 : Body Weight                              97.7 kg
+  2017-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2017-09-14 : Body Height                              174.8 cm
+  2015-09-10 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2015-09-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 152.6 fL
+  2015-09-10 : Platelets [#/volume] in Blood by Automated count 329.9 10*3/uL
+  2015-09-10 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2015-09-10 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2015-09-10 : MCH [Entitic mass] by Automated count    30.4 pg
+  2015-09-10 : MCV [Entitic volume] by Automated count  92.3 fL
+  2015-09-10 : Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+  2015-09-10 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2015-09-10 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2015-09-10 : Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+  2015-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 84.8 mmHg
+           - Systolic Blood Pressure                  137.8 mmHg
+  2015-09-10 : Body Mass Index                          30.8 kg/m2
+  2015-09-10 : Body Weight                              94.3 kg
+  2015-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2015-09-10 : Body Height                              174.8 cm
+  2013-09-05 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-05 : High Density Lipoprotein Cholesterol     68.1 mg/dL
+  2013-09-05 : Low Density Lipoprotein Cholesterol      80.1 mg/dL
+  2013-09-05 : Triglycerides                            128.6 mg/dL
+  2013-09-05 : Total Cholesterol                        173.9 mg/dL
+  2013-09-05 : Blood Pressure
+           - Diastolic Blood Pressure                 84.7 mmHg
+           - Systolic Blood Pressure                  102.4 mmHg
+  2013-09-05 : Body Mass Index                          30.0 kg/m2
+  2013-09-05 : Body Weight                              91.7 kg
+  2013-09-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2013-09-05 : Body Height                              174.8 cm
+  2010-09-02 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2010-09-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 462.8 fL
+  2010-09-02 : Platelets [#/volume] in Blood by Automated count 283.5 10*3/uL
+  2010-09-02 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2010-09-02 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2010-09-02 : MCH [Entitic mass] by Automated count    29.8 pg
+  2010-09-02 : MCV [Entitic volume] by Automated count  83.7 fL
+  2010-09-02 : Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+  2010-09-02 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2010-09-02 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2010-09-02 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2010-09-02 : High Density Lipoprotein Cholesterol     74.7 mg/dL
+  2010-09-02 : Low Density Lipoprotein Cholesterol      61.1 mg/dL
+  2010-09-02 : Triglycerides                            135.7 mg/dL
+  2010-09-02 : Total Cholesterol                        163.0 mg/dL
+  2010-09-02 : Blood Pressure
+           - Diastolic Blood Pressure                 85.9 mmHg
+           - Systolic Blood Pressure                  111.3 mmHg
+  2010-09-02 : Body Mass Index                          28.5 kg/m2
+  2010-09-02 : Body Weight                              87.2 kg
+  2010-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2010-09-02 : Body Height                              174.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-09-10 : Documentation of current medications
+  2013-09-05 : Documentation of current medications
+  2010-09-02 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-09-14 : Hep A, adult
+  2017-09-14 : Td (adult) preservative free
+  2017-09-14 : Influenza, seasonal, injectable, preservative free
+  2015-09-10 : Hep A, adult
+  2015-09-10 : Influenza, seasonal, injectable, preservative free
+  2013-09-05 : Influenza, seasonal, injectable, preservative free
+  2011-03-17 : Influenza, seasonal, injectable, preservative free
+  2010-09-02 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-09-14 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-05-19 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Viral sinusitis (disorder)
+2016-07-02 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Viral sinusitis (disorder)
+2015-09-10 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2015-02-25 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Viral sinusitis (disorder)
+2013-09-05 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2011-03-18 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Viral sinusitis (disorder)
+2011-03-17 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2010-09-02 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

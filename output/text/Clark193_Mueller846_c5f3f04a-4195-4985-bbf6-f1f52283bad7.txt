@@ -1,0 +1,314 @@
+Clark193 Mueller846
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2007-10-14
+Marital Status:      S
+Outpatient Provider: CLINTON HOSPITAL ASSOCIATION
+Primary Care Provider: 201 HIGHLAND STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2009-01-24 -            : Allergy to dairy product
+  2009-01-24 -            : Allergy to tree pollen
+  2009-01-24 -            : Allergy to grass pollen
+  2009-01-24 -            : Dander (animal) allergy
+  2009-01-24 -            : House dust mite allergy
+  2009-01-24 -            : Allergy to mould
+  2009-01-24 -            : Allergy to bee venom
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-08-27[STOPPED] : predniSONE 5 MG Oral Tablet
+  2016-04-11[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2013-09-12[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2013-09-12[STOPPED] : Cefuroxime 250 MG Oral Tablet
+  2013-03-07[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2010-06-30[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2009-01-24[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2009-01-24[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+  2009-01-06[STOPPED] : predniSONE 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-08-27 - 2017-08-27 : Acute allergic reaction
+  2016-04-11 - 2016-07-10 : Fracture of ankle
+  2013-09-12 - 2014-02-16 : Otitis media
+  2013-03-07 - 2013-03-28 : Laceration of hand
+  2013-02-12 - 2013-02-19 : Viral sinusitis (disorder)
+  2011-05-01 - 2011-05-15 : Viral sinusitis (disorder)
+  2010-10-20 -            : Perennial allergic rhinitis with seasonal variation
+  2010-08-01 - 2010-08-13 : Acute viral pharyngitis (disorder)
+  2010-06-30 - 2010-07-21 : Laceration of thigh
+  2009-01-06 - 2009-01-06 : Acute allergic reaction
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-04-11[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2013-03-07[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2010-06-30[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2009-01-11[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.2 %
+           - MCV [Entitic volume] by Automated count  80.3 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 377.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 412.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2013-02-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  82.2 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 432.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 483.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-11 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2018-03-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 412.2 fL
+  2018-03-11 : Platelets [#/volume] in Blood by Automated count 377.4 10*3/uL
+  2018-03-11 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  2018-03-11 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2018-03-11 : MCH [Entitic mass] by Automated count    31.9 pg
+  2018-03-11 : MCV [Entitic volume] by Automated count  80.3 fL
+  2018-03-11 : Hematocrit [Volume Fraction] of Blood by Automated count 44.2 %
+  2018-03-11 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  2018-03-11 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2018-03-11 : Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+  2018-03-11 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mmHg
+           - Systolic Blood Pressure                  101.1 mmHg
+  2018-03-11 : Body Mass Index                          11.7 kg/m2
+  2018-03-11 : Body Weight                              23.5 kg
+  2018-03-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2018-03-11 : Body Height                              141.8 cm
+  2017-03-05 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-05 : Blood Pressure
+           - Diastolic Blood Pressure                 87.4 mmHg
+           - Systolic Blood Pressure                  114.9 mmHg
+  2017-03-05 : Body Mass Index                          11.5 kg/m2
+  2017-03-05 : Body Weight                              21.6 kg
+  2017-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2017-03-05 : Body Height                              136.7 cm
+  2016-02-28 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  116.7 mmHg
+  2016-02-28 : Body Mass Index                          11.5 kg/m2
+  2016-02-28 : Body Weight                              19.7 kg
+  2016-02-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2016-02-28 : Body Height                              131.2 cm
+  2015-02-22 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-22 : Blood Pressure
+           - Diastolic Blood Pressure                 72.2 mmHg
+           - Systolic Blood Pressure                  135.7 mmHg
+  2015-02-22 : Body Mass Index                          11.5 kg/m2
+  2015-02-22 : Body Weight                              18.0 kg
+  2015-02-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2015-02-22 : Body Height                              125.2 cm
+  2014-02-16 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-16 : Blood Pressure
+           - Diastolic Blood Pressure                 87.3 mmHg
+           - Systolic Blood Pressure                  129.2 mmHg
+  2014-02-16 : Body Mass Index                          11.5 kg/m2
+  2014-02-16 : Body Weight                              16.1 kg
+  2014-02-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2014-02-16 : Body Height                              118.3 cm
+  2013-02-10 : Tobacco smoking status NHIS              Never smoker 
+  2013-02-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2013-02-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 483.2 fL
+  2013-02-10 : Platelets [#/volume] in Blood by Automated count 432.3 10*3/uL
+  2013-02-10 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  2013-02-10 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2013-02-10 : MCH [Entitic mass] by Automated count    27.6 pg
+  2013-02-10 : MCV [Entitic volume] by Automated count  82.2 fL
+  2013-02-10 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2013-02-10 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2013-02-10 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2013-02-10 : Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+  2013-02-10 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  114.6 mmHg
+  2013-02-10 : Body Mass Index                          11.7 kg/m2
+  2013-02-10 : Body Weight                              14.6 kg
+  2013-02-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2013-02-10 : Body Height                              111.7 cm
+  2012-08-12 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-12 : Blood Pressure
+           - Diastolic Blood Pressure                 83.5 mmHg
+           - Systolic Blood Pressure                  103.5 mmHg
+  2012-08-12 : Body Mass Index                          11.7 kg/m2
+  2012-08-12 : Body Weight                              13.8 kg
+  2012-08-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2012-08-12 : Body Height                              108.4 cm
+  2011-08-07 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-07 : Blood Pressure
+           - Diastolic Blood Pressure                 81.4 mmHg
+           - Systolic Blood Pressure                  111.9 mmHg
+  2011-08-07 : Body Mass Index                          12.0 kg/m2
+  2011-08-07 : Body Weight                              12.4 kg
+  2011-08-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2011-08-07 : Body Height                              101.6 cm
+  2011-02-06 : Tobacco smoking status NHIS              Never smoker 
+  2011-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 73.1 mmHg
+           - Systolic Blood Pressure                  135.4 mmHg
+  2011-02-06 : Body Mass Index                          12.1 kg/m2
+  2011-02-06 : Body Weight                              11.6 kg
+  2011-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2011-02-06 : Body Height                              97.9 cm
+  2010-08-08 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 72.9 mmHg
+           - Systolic Blood Pressure                  115.4 mmHg
+  2010-08-08 : Body Mass Index                          12.4 kg/m2
+  2010-08-08 : Body Weight                              11.0 kg
+  2010-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2010-08-08 : Body Height                              94.1 cm
+  2010-08-01 : Oral temperature                         37.1 Cel
+  2010-03-21 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 85.2 mmHg
+           - Systolic Blood Pressure                  128.7 mmHg
+  2010-03-21 : Body Mass Index                          12.6 kg/m2
+  2010-03-21 : Body Weight                              10.5 kg
+  2010-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2010-03-21 : Body Height                              91.4 cm
+  2009-09-20 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  112.6 mmHg
+  2009-09-20 : Body Weight                              9.7 kg
+  2009-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2009-09-20 : Body Height                              86.7 cm
+  2009-03-22 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-22 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  123.6 mmHg
+  2009-03-22 : Body Weight                              9.1 kg
+  2009-03-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2009-03-22 : Body Height                              82.1 cm
+  2009-01-24 : Latex IgE Ab in Serum                    0.0 kU/L
+  2009-01-24 : Honey bee IgE Ab in Serum                55.6 kU/L
+  2009-01-24 : Cladosporium herbarum IgE Ab in Serum    71.2 kU/L
+  2009-01-24 : American house dust mite IgE Ab in Serum 43.7 kU/L
+  2009-01-24 : Cat dander IgE Ab in Serum               84.0 kU/L
+  2009-01-24 : Common Ragweed IgE Ab in Serum           75.2 kU/L
+  2009-01-24 : White oak IgE Ab in Serum                89.4 kU/L
+  2009-01-24 : Cow milk IgE Ab in Serum                 94.7 kU/L
+  2009-01-24 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2009-01-24 : Egg white IgE Ab in Serum                0.3 kU/L
+  2009-01-24 : Wheat IgE Ab in Serum                    0.1 kU/L
+  2009-01-24 : Shrimp IgE Ab in Serum                   0.2 kU/L
+  2009-01-24 : Codfish IgE Ab in Serum                  0.1 kU/L
+  2009-01-24 : Walnut IgE Ab in Serum                   0.3 kU/L
+  2009-01-24 : Peanut IgE Ab in Serum                   0.3 kU/L
+  2008-12-21 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-21 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  119.9 mmHg
+  2008-12-21 : Body Weight                              8.5 kg
+  2008-12-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2008-12-21 : Body Height                              79.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-08-27 : Injection of adrenaline
+  2017-03-05 : Documentation of current medications
+  2016-04-11 : Bone immobilization for Fracture of ankle
+  2016-04-11 : Ankle X-ray
+  2016-02-28 : Documentation of current medications
+  2015-02-22 : Documentation of current medications
+  2013-03-07 : Injection of tetanus antitoxin for Laceration of hand
+  2013-03-07 : Suture open wound for Laceration of hand
+  2012-08-12 : Documentation of current medications
+  2011-08-07 : Documentation of current medications
+  2010-08-08 : Documentation of current medications
+  2010-08-01 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2010-06-30 : Injection of tetanus antitoxin for Laceration of thigh
+  2010-06-30 : Suture open wound for Laceration of thigh
+  2010-03-21 : Documentation of current medications
+  2009-09-20 : Documentation of current medications
+  2009-01-24 : Allergy screening test
+  2009-01-06 : Injection of adrenaline
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-11 : Influenza, seasonal, injectable, preservative free
+  2017-03-05 : Influenza, seasonal, injectable, preservative free
+  2016-02-28 : Influenza, seasonal, injectable, preservative free
+  2015-02-22 : Influenza, seasonal, injectable, preservative free
+  2014-02-16 : Influenza, seasonal, injectable, preservative free
+  2012-08-12 : MMR
+  2012-08-12 : DTaP
+  2012-08-12 : Influenza, seasonal, injectable, preservative free
+  2012-08-12 : IPV
+  2012-08-12 : varicella
+  2011-08-07 : Pneumococcal conjugate PCV 13
+  2011-08-07 : Influenza, seasonal, injectable, preservative free
+  2011-02-06 : Pneumococcal conjugate PCV 13
+  2010-08-08 : Pneumococcal conjugate PCV 13
+  2010-08-08 : Influenza, seasonal, injectable, preservative free
+  2010-03-21 : Hep A, ped/adol, 2 dose
+  2010-03-21 : Pneumococcal conjugate PCV 13
+  2009-09-20 : Influenza, seasonal, injectable, preservative free
+  2009-03-22 : DTaP
+  2008-12-21 : Hep A, ped/adol, 2 dose
+  2008-12-21 : MMR
+  2008-12-21 : varicella
+  2008-12-21 : Hib (PRP-OMP)
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-11 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2017-09-03 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2017-08-27 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2017-03-05 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2016-07-10 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION : Encounter for Fracture of ankle
+2016-04-11 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2016-02-28 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2015-02-22 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2014-02-16 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2013-09-12 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION : Encounter for Otitis media
+2013-03-07 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2013-02-12 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION : Encounter for Viral sinusitis (disorder)
+2013-02-10 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2012-08-12 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2011-08-07 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2011-05-01 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION : Encounter for Viral sinusitis (disorder)
+2011-02-06 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2010-10-20 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION : Encounter for Perennial allergic rhinitis with seasonal variation
+2010-08-08 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2010-08-01 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION : Encounter for Acute viral pharyngitis (disorder)
+2010-06-30 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2010-03-21 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2009-09-20 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2009-03-22 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2009-01-24 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2009-01-11 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2009-01-06 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+2008-12-21 (Dr. Rob341 Prohaska837) : Encounter at CLINTON HOSPITAL ASSOCIATION
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2016-04-11 : Digital Radiography, Ankle
+--------------------------------------------------------------------------------

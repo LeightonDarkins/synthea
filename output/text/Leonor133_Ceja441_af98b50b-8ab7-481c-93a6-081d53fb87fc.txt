@@ -1,0 +1,247 @@
+Leonor133 Ceja441
+=================
+Race:                Other
+Ethnicity:           Puerto Rican
+Gender:              F
+Age:                 21
+Birth Date:          1997-03-17
+Marital Status:      S
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1997-11-25 -            : Shellfish allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-05-14[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2017-04-24[STOPPED] : Alteplase 100 MG Injection
+  2017-04-24[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2016-06-15[STOPPED] : Levora 0.15/30 28 Day Pack
+  2013-07-01[STOPPED] : Seasonique 91 Day Pack
+  2012-03-08[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  1997-11-25[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1997-11-25[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-08-13 - 2018-09-10 : Normal pregnancy
+  2017-05-14 - 2017-05-21 : Viral sinusitis (disorder)
+  2017-04-24 -            : Stroke
+  2015-05-08 - 2015-06-19 : Sinusitis (disorder)
+  2012-10-15 - 2013-05-20 : Normal pregnancy
+  2011-04-01 - 2011-04-22 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-10-15[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1997-11-17[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-07-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.0 %
+           - MCV [Entitic volume] by Automated count  88.8 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+           - Platelets [#/volume] in Blood by Automated count 428.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 261.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-07-25 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-25 : Blood Pressure
+           - Diastolic Blood Pressure                 70.1 mmHg
+           - Systolic Blood Pressure                  132.7 mmHg
+  2016-07-25 : Body Mass Index                          20.4 kg/m2
+  2016-07-25 : Body Weight                              51.6 kg
+  2016-07-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2016-07-25 : Body Height                              158.8 cm
+  2015-07-20 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-20 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  108.2 mmHg
+  2015-07-20 : Body Mass Index                          20.1 kg/m2
+  2015-07-20 : Body Weight                              50.7 kg
+  2015-07-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2015-07-20 : Body Height                              158.7 cm
+  2014-07-14 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-14 : Blood Pressure
+           - Diastolic Blood Pressure                 81.6 mmHg
+           - Systolic Blood Pressure                  102.1 mmHg
+  2014-07-14 : Body Mass Index                          19.8 kg/m2
+  2014-07-14 : Body Weight                              49.7 kg
+  2014-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2014-07-14 : Body Height                              158.5 cm
+  2013-07-08 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2013-07-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 261.5 fL
+  2013-07-08 : Platelets [#/volume] in Blood by Automated count 428.7 10*3/uL
+  2013-07-08 : Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+  2013-07-08 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2013-07-08 : MCH [Entitic mass] by Automated count    32.9 pg
+  2013-07-08 : MCV [Entitic volume] by Automated count  88.8 fL
+  2013-07-08 : Hematocrit [Volume Fraction] of Blood by Automated count 36.0 %
+  2013-07-08 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2013-07-08 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2013-07-08 : Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+  2013-07-08 : Blood Pressure
+           - Diastolic Blood Pressure                 88.6 mmHg
+           - Systolic Blood Pressure                  104.4 mmHg
+  2013-07-08 : Body Mass Index                          19.4 kg/m2
+  2013-07-08 : Body Weight                              48.5 kg
+  2013-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2013-07-08 : Body Height                              158.2 cm
+  2012-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mmHg
+           - Systolic Blood Pressure                  129.1 mmHg
+  2012-07-02 : Body Mass Index                          18.8 kg/m2
+  2012-07-02 : Body Weight                              46.7 kg
+  2012-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2012-07-02 : Body Height                              157.6 cm
+  2011-06-27 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-27 : Blood Pressure
+           - Diastolic Blood Pressure                 88.2 mmHg
+           - Systolic Blood Pressure                  131.4 mmHg
+  2011-06-27 : Body Mass Index                          18.0 kg/m2
+  2011-06-27 : Body Weight                              44.1 kg
+  2011-06-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2011-06-27 : Body Height                              156.4 cm
+  2010-06-21 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 83.4 mmHg
+           - Systolic Blood Pressure                  122.4 mmHg
+  2010-06-21 : Body Mass Index                          17.3 kg/m2
+  2010-06-21 : Body Weight                              40.6 kg
+  2010-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2010-06-21 : Body Height                              153.3 cm
+  2009-06-15 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-15 : Blood Pressure
+           - Diastolic Blood Pressure                 85.4 mmHg
+           - Systolic Blood Pressure                  111.5 mmHg
+  2009-06-15 : Body Mass Index                          16.9 kg/m2
+  2009-06-15 : Body Weight                              36.9 kg
+  2009-06-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2009-06-15 : Body Height                              147.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-10 : Depression screening for Normal pregnancy
+  2018-09-10 : Physical exam following abortion for Normal pregnancy
+  2018-09-10 : Pregnancy termination care for Normal pregnancy
+  2018-08-27 : Induced termination of pregnancy for Normal pregnancy
+  2018-08-27 : Counseling for termination of pregnancy for Normal pregnancy
+  2018-08-13 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-08-13 : Standard pregnancy test for Normal pregnancy
+  2017-04-24 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  2015-07-20 : Documentation of current medications
+  2015-06-19 : Nasal sinus endoscopy (procedure)
+  2013-07-08 : Documentation of current medications
+  2013-07-01 : Depression screening
+  2013-07-01 : Physical examination following birth
+  2013-05-20 : Childbirth for Normal pregnancy
+  2013-05-20 : Instrumental delivery for Normal pregnancy
+  2013-05-13 : Auscultation of the fetal heart for Normal pregnancy
+  2013-05-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-04-29 : Auscultation of the fetal heart for Normal pregnancy
+  2013-04-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-04-29 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2013-04-01 : Auscultation of the fetal heart for Normal pregnancy
+  2013-04-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-03-04 : Auscultation of the fetal heart for Normal pregnancy
+  2013-03-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-03-04 : Urine screening for glucose for Normal pregnancy
+  2013-03-04 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2013-03-04 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-02-04 : Auscultation of the fetal heart for Normal pregnancy
+  2013-02-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-01-07 : Auscultation of the fetal heart for Normal pregnancy
+  2013-01-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-10 : Auscultation of the fetal heart for Normal pregnancy
+  2012-12-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-10 : Alpha-fetoprotein test for Normal pregnancy
+  2012-12-10 : Fetal anatomy study for Normal pregnancy
+  2012-11-12 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-11-12 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-15 : Physical examination of mother for Normal pregnancy
+  2012-10-15 : Urine protein test for Normal pregnancy
+  2012-10-15 : Skin test for tuberculosis for Normal pregnancy
+  2012-10-15 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-10-15 : Rubella screening for Normal pregnancy
+  2012-10-15 : Hepatitis C antibody test for Normal pregnancy
+  2012-10-15 : Urine screening test for diabetes for Normal pregnancy
+  2012-10-15 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-10-15 : Urine culture for Normal pregnancy
+  2012-10-15 : Syphilis infection test for Normal pregnancy
+  2012-10-15 : Gonorrhea infection test for Normal pregnancy
+  2012-10-15 : Chlamydia antigen test for Normal pregnancy
+  2012-10-15 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-10-15 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-10-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-10-15 : Blood typing, RH typing for Normal pregnancy
+  2012-10-15 : Auscultation of the fetal heart for Normal pregnancy
+  2012-10-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-15 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-10-15 : Standard pregnancy test for Normal pregnancy
+  2012-07-02 : Documentation of current medications
+  2011-06-27 : Documentation of current medications
+  2010-06-21 : Documentation of current medications
+  2009-06-15 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-07-25 : Influenza, seasonal, injectable, preservative free
+  2015-07-20 : Influenza, seasonal, injectable, preservative free
+  2014-07-14 : Influenza, seasonal, injectable, preservative free
+  2013-07-08 : meningococcal MCV4P
+  2013-07-08 : Influenza, seasonal, injectable, preservative free
+  2012-07-02 : Influenza, seasonal, injectable, preservative free
+  2011-06-27 : Influenza, seasonal, injectable, preservative free
+  2010-06-21 : HPV, quadrivalent
+  2010-06-21 : Influenza, seasonal, injectable, preservative free
+  2009-06-15 : HPV, quadrivalent
+  2009-06-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2018-08-27 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2018-08-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2017-05-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-07-25 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-06-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2015-07-20 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2015-06-19 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Sinusitis (disorder)
+2015-05-08 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Sinusitis (disorder)
+2014-07-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-07-08 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-07-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-07-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-05-20 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2013-05-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2013-04-29 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2013-04-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2013-03-04 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2013-02-04 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2013-01-07 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-12-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-11-12 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-10-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+2012-07-02 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-03-08 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-06-27 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-04-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+2010-06-21 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-03-22 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-06-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1997-11-25 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1997-11-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

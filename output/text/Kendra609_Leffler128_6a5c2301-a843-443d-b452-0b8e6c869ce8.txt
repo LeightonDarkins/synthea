@@ -1,0 +1,266 @@
+Kendra609 Leffler128
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 23
+Birth Date:          1995-05-15
+Marital Status:      S
+Outpatient Provider: BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+Primary Care Provider: 148 CHESTNUT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-10-16[CURRENT] : Errin 28 Day Pack
+  2017-10-21[STOPPED] : 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe
+  2017-07-09[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2015-12-16[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2014-11-06[STOPPED] : Camila 28 Day Pack
+  2014-11-01[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2013-12-30[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  2012-04-25[STOPPED] : Seasonique 91 Day Pack
+  2011-05-01[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-10-05 - 2017-10-18 : Acute viral pharyngitis (disorder)
+  2017-07-09 - 2017-07-23 : Laceration of thigh
+  2015-12-16 - 2015-12-23 : Acute bronchitis (disorder)
+  2014-11-01 - 2014-11-22 : Sprain of wrist
+  2013-12-30 -            : Hypertension
+  2013-03-04 - 2013-09-30 : Normal pregnancy
+  2010-01-23 - 2010-02-13 : Viral sinusitis (disorder)
+  2009-04-01 - 2009-05-01 : Concussion with no loss of consciousness
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-07-09[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2015-12-16[CURRENT] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2014-11-01[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2013-03-04[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2009-04-01[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2006-11-15[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2011-12-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+           - MCV [Entitic volume] by Automated count  87.8 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 291.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 431.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-10-05 : Oral temperature                         37.4 Cel
+  2015-12-21 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-21 : Estimated Glomerular Filtration Rate     131.9 mL/min/{1.73_m2}
+  2015-12-21 : Blood Pressure
+           - Diastolic Blood Pressure                 111.9 mmHg
+           - Systolic Blood Pressure                  161.5 mmHg
+  2015-12-21 : Body Mass Index                          20.3 kg/m2
+  2015-12-21 : Body Weight                              51.0 kg
+  2015-12-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-12-21 : Body Height                              158.7 cm
+  2015-01-05 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-05 : Estimated Glomerular Filtration Rate     152.4 mL/min/{1.73_m2}
+  2015-01-05 : Blood Pressure
+           - Diastolic Blood Pressure                 105.1 mmHg
+           - Systolic Blood Pressure                  149.8 mmHg
+  2015-01-05 : Body Mass Index                          19.6 kg/m2
+  2015-01-05 : Body Weight                              49.3 kg
+  2015-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2015-01-05 : Body Height                              158.7 cm
+  2013-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 91.1 mmHg
+           - Systolic Blood Pressure                  154.8 mmHg
+  2013-12-30 : Body Mass Index                          19.3 kg/m2
+  2013-12-30 : Body Weight                              48.6 kg
+  2013-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2013-12-30 : Body Height                              158.6 cm
+  2012-12-24 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-24 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  117.3 mmHg
+  2012-12-24 : Body Mass Index                          19.0 kg/m2
+  2012-12-24 : Body Weight                              47.8 kg
+  2012-12-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2012-12-24 : Body Height                              158.4 cm
+  2011-12-19 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2011-12-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 431.1 fL
+  2011-12-19 : Platelets [#/volume] in Blood by Automated count 291.0 10*3/uL
+  2011-12-19 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2011-12-19 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2011-12-19 : MCH [Entitic mass] by Automated count    28.5 pg
+  2011-12-19 : MCV [Entitic volume] by Automated count  87.8 fL
+  2011-12-19 : Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+  2011-12-19 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2011-12-19 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2011-12-19 : Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+  2011-12-19 : Blood Pressure
+           - Diastolic Blood Pressure                 70.2 mmHg
+           - Systolic Blood Pressure                  127.0 mmHg
+  2011-12-19 : Body Mass Index                          18.6 kg/m2
+  2011-12-19 : Body Weight                              46.6 kg
+  2011-12-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2011-12-19 : Body Height                              158.2 cm
+  2010-12-13 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-13 : Blood Pressure
+           - Diastolic Blood Pressure                 82.2 mmHg
+           - Systolic Blood Pressure                  103.9 mmHg
+  2010-12-13 : Body Mass Index                          18.0 kg/m2
+  2010-12-13 : Body Weight                              44.8 kg
+  2010-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2010-12-13 : Body Height                              157.7 cm
+  2009-12-07 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-07 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  134.6 mmHg
+  2009-12-07 : Body Mass Index                          17.3 kg/m2
+  2009-12-07 : Body Weight                              42.4 kg
+  2009-12-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2009-12-07 : Body Height                              156.7 cm
+  2008-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 85.3 mmHg
+           - Systolic Blood Pressure                  121.0 mmHg
+  2008-12-01 : Body Mass Index                          16.5 kg/m2
+  2008-12-01 : Body Weight                              39.3 kg
+  2008-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2008-12-01 : Body Height                              154.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-22 : Intramuscular injection
+  2018-07-23 : Intramuscular injection
+  2018-04-23 : Intramuscular injection
+  2018-01-22 : Intramuscular injection
+  2017-10-21 : Intramuscular injection
+  2017-07-09 : Injection of tetanus antitoxin for Laceration of thigh
+  2017-07-09 : Suture open wound for Laceration of thigh
+  2015-12-16 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2015-01-05 : Documentation of current medications
+  2013-11-11 : Depression screening
+  2013-11-11 : Physical examination following birth
+  2013-09-30 : Childbirth for Normal pregnancy
+  2013-09-30 : Instrumental delivery for Normal pregnancy
+  2013-09-16 : Auscultation of the fetal heart for Normal pregnancy
+  2013-09-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-09-16 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2013-08-19 : Auscultation of the fetal heart for Normal pregnancy
+  2013-08-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-07-22 : Auscultation of the fetal heart for Normal pregnancy
+  2013-07-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-07-22 : Urine screening for glucose for Normal pregnancy
+  2013-07-22 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2013-07-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-06-24 : Auscultation of the fetal heart for Normal pregnancy
+  2013-06-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-05-27 : Auscultation of the fetal heart for Normal pregnancy
+  2013-05-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-04-29 : Auscultation of the fetal heart for Normal pregnancy
+  2013-04-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-04-29 : Alpha-fetoprotein test for Normal pregnancy
+  2013-04-29 : Fetal anatomy study for Normal pregnancy
+  2013-04-01 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-04-01 : Auscultation of the fetal heart for Normal pregnancy
+  2013-04-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-03-04 : Physical examination of mother for Normal pregnancy
+  2013-03-04 : Urine protein test for Normal pregnancy
+  2013-03-04 : Skin test for tuberculosis for Normal pregnancy
+  2013-03-04 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-03-04 : Rubella screening for Normal pregnancy
+  2013-03-04 : Hepatitis C antibody test for Normal pregnancy
+  2013-03-04 : Urine screening test for diabetes for Normal pregnancy
+  2013-03-04 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-03-04 : Urine culture for Normal pregnancy
+  2013-03-04 : Syphilis infection test for Normal pregnancy
+  2013-03-04 : Gonorrhea infection test for Normal pregnancy
+  2013-03-04 : Chlamydia antigen test for Normal pregnancy
+  2013-03-04 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-03-04 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-03-04 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-03-04 : Blood typing, RH typing for Normal pregnancy
+  2013-03-04 : Auscultation of the fetal heart for Normal pregnancy
+  2013-03-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-03-04 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-03-04 : Standard pregnancy test for Normal pregnancy
+  2012-12-24 : Documentation of current medications
+  2011-12-19 : Documentation of current medications
+  2010-12-13 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2015-12-21 : Hep B, adult
+  2015-12-21 : Influenza, seasonal, injectable, preservative free
+  2015-01-05 : Influenza, seasonal, injectable, preservative free
+  2013-12-30 : Influenza, seasonal, injectable, preservative free
+  2012-12-24 : Influenza, seasonal, injectable, preservative free
+  2011-12-19 : meningococcal MCV4P
+  2011-12-19 : Influenza, seasonal, injectable, preservative free
+  2010-12-13 : Influenza, seasonal, injectable, preservative free
+  2009-12-07 : Influenza, seasonal, injectable, preservative free
+  2008-12-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-22 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2018-10-16 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2018-07-23 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2018-04-23 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2018-01-22 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2017-10-21 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2017-10-05 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Acute viral pharyngitis (disorder)
+2017-07-09 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2015-12-16 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Acute bronchitis (disorder)
+2015-12-21 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2015-01-05 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2014-11-06 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2014-11-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2013-12-30 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2013-11-11 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2013-09-30 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2013-09-16 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2013-08-19 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2013-07-22 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2013-06-24 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2013-05-27 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2013-04-29 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2013-04-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2013-03-04 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-12-24 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2012-04-25 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2011-12-19 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2011-05-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2010-12-13 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2010-01-23 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Viral sinusitis (disorder)
+2009-12-07 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2009-05-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Concussion with no loss of consciousness
+2009-04-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2008-12-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2006-11-15 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

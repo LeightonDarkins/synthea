@@ -1,0 +1,1502 @@
+Arnulfo253 Jenkins714
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 56
+Birth Date:          1962-08-10
+Marital Status:      M
+Outpatient Provider: NORTH SHORE MEDICAL CENTER -
+Primary Care Provider: 81 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-08-23[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2011-01-13[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2002-08-09[CURRENT] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  1997-08-22[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  1994-08-19[CURRENT] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  1988-08-12[CURRENT] : 24hr nicotine transdermal patch
+  1966-08-30[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-08-23 - 2015-09-20 : Whiplash injury to neck
+  2012-09-07 - 2012-10-07 : Concussion with no loss of consciousness
+  2011-01-13 - 2011-01-20 : Acute bronchitis (disorder)
+  2009-12-01 - 2009-12-12 : Acute viral pharyngitis (disorder)
+  2009-08-09 - 2009-08-30 : Viral sinusitis (disorder)
+  2002-08-09 -            : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2002-08-09 -            : Chronic kidney disease stage 2 (disorder)
+  1999-08-13 -            : Diabetic renal disease (disorder)
+  1999-08-13 -            : Chronic kidney disease stage 1 (disorder)
+  1997-08-22 -            : Metabolic syndrome X (disorder)
+  1997-08-22 -            : Hypertriglyceridemia (disorder)
+  1997-08-22 -            : Hyperglycemia (disorder)
+  1994-08-19 -            : Diabetes
+  1991-08-16 -            : Smokes tobacco daily
+  1991-08-16 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-08-23[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+  2012-09-07[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2011-01-13[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1994-08-19[CURRENT] : Diabetes self management plan
+                         Reason: Diabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1988-08-12[CURRENT] : Care Plan
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Reason: Smokes tobacco daily
+                         Activity: smoking cessation therapy
+  1966-09-03[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-03 : Lipid Panel
+           - Total Cholesterol                        228.7 mg/dL
+           - Triglycerides                            158.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      154.0 mg/dL
+           - High Density Lipoprotein Cholesterol     43.0 mg/dL
+  2018-08-03 : Basic Metabolic Panel
+           - Glucose                                  124.8 mg/dL
+           - Urea Nitrogen                            12.5 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   138.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 109.9 mmol/L
+           - Carbon Dioxide                           21.9 mmol/L
+  2018-05-04 : Lipid Panel
+           - Total Cholesterol                        232.2 mg/dL
+           - Triglycerides                            195.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      147.1 mg/dL
+           - High Density Lipoprotein Cholesterol     46.0 mg/dL
+  2018-05-04 : Basic Metabolic Panel
+           - Glucose                                  119.2 mg/dL
+           - Urea Nitrogen                            18.8 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   138.6 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 101.6 mmol/L
+           - Carbon Dioxide                           25.8 mmol/L
+  2018-03-09 : Lipid Panel
+           - Total Cholesterol                        203.5 mg/dL
+           - Triglycerides                            175.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      121.6 mg/dL
+           - High Density Lipoprotein Cholesterol     46.9 mg/dL
+  2018-03-09 : Basic Metabolic Panel
+           - Glucose                                  104.1 mg/dL
+           - Urea Nitrogen                            14.2 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   142.6 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 105.8 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+  2017-08-04 : Lipid Panel
+           - Total Cholesterol                        207.1 mg/dL
+           - Triglycerides                            165.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      116.0 mg/dL
+           - High Density Lipoprotein Cholesterol     58.0 mg/dL
+  2017-08-04 : Basic Metabolic Panel
+           - Glucose                                  113.5 mg/dL
+           - Urea Nitrogen                            17.2 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   139.4 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 110.9 mmol/L
+           - Carbon Dioxide                           21.0 mmol/L
+  2017-07-07 : Lipid Panel
+           - Total Cholesterol                        217.9 mg/dL
+           - Triglycerides                            173.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      126.3 mg/dL
+           - High Density Lipoprotein Cholesterol     57.0 mg/dL
+  2017-07-07 : Basic Metabolic Panel
+           - Glucose                                  107.1 mg/dL
+           - Urea Nitrogen                            15.4 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   142.5 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 107.4 mmol/L
+           - Carbon Dioxide                           20.4 mmol/L
+  2017-06-09 : Lipid Panel
+           - Total Cholesterol                        221.2 mg/dL
+           - Triglycerides                            182.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      127.0 mg/dL
+           - High Density Lipoprotein Cholesterol     57.7 mg/dL
+  2017-06-09 : Basic Metabolic Panel
+           - Glucose                                  123.2 mg/dL
+           - Urea Nitrogen                            18.2 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   140.6 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 109.8 mmol/L
+           - Carbon Dioxide                           27.2 mmol/L
+  2017-05-05 : Lipid Panel
+           - Total Cholesterol                        209.4 mg/dL
+           - Triglycerides                            184.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      131.2 mg/dL
+           - High Density Lipoprotein Cholesterol     41.4 mg/dL
+  2017-05-05 : Basic Metabolic Panel
+           - Glucose                                  102.7 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 109.3 mmol/L
+           - Carbon Dioxide                           26.0 mmol/L
+  2016-12-09 : Lipid Panel
+           - Total Cholesterol                        233.3 mg/dL
+           - Triglycerides                            177.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      145.2 mg/dL
+           - High Density Lipoprotein Cholesterol     52.6 mg/dL
+  2016-12-09 : Basic Metabolic Panel
+           - Glucose                                  113.2 mg/dL
+           - Urea Nitrogen                            19.6 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   141.3 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 102.0 mmol/L
+           - Carbon Dioxide                           26.0 mmol/L
+  2016-11-11 : Lipid Panel
+           - Total Cholesterol                        202.0 mg/dL
+           - Triglycerides                            163.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      116.5 mg/dL
+           - High Density Lipoprotein Cholesterol     53.0 mg/dL
+  2016-11-11 : Basic Metabolic Panel
+           - Glucose                                  121.3 mg/dL
+           - Urea Nitrogen                            12.3 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           23.0 mmol/L
+  2016-08-19 : Lipid Panel
+           - Total Cholesterol                        202.4 mg/dL
+           - Triglycerides                            160.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      122.2 mg/dL
+           - High Density Lipoprotein Cholesterol     48.0 mg/dL
+  2016-08-19 : Basic Metabolic Panel
+           - Glucose                                  122.2 mg/dL
+           - Urea Nitrogen                            14.5 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2015-08-14 : Lipid Panel
+           - Total Cholesterol                        219.2 mg/dL
+           - Triglycerides                            176.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      142.0 mg/dL
+           - High Density Lipoprotein Cholesterol     41.9 mg/dL
+  2015-08-14 : Basic Metabolic Panel
+           - Glucose                                  124.5 mg/dL
+           - Urea Nitrogen                            18.0 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   140.1 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 103.4 mmol/L
+           - Carbon Dioxide                           20.6 mmol/L
+  2015-06-19 : Lipid Panel
+           - Total Cholesterol                        201.6 mg/dL
+           - Triglycerides                            160.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      119.7 mg/dL
+           - High Density Lipoprotein Cholesterol     49.8 mg/dL
+  2015-06-19 : Basic Metabolic Panel
+           - Glucose                                  109.4 mg/dL
+           - Urea Nitrogen                            9.7 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   142.9 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.9 mmol/L
+           - Carbon Dioxide                           27.2 mmol/L
+  2015-01-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+           - MCV [Entitic volume] by Automated count  89.6 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 216.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 423.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2015-01-16 : Lipid Panel
+           - Total Cholesterol                        213.8 mg/dL
+           - Triglycerides                            182.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      132.5 mg/dL
+           - High Density Lipoprotein Cholesterol     44.8 mg/dL
+  2015-01-16 : Basic Metabolic Panel
+           - Glucose                                  103.3 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   139.2 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 108.9 mmol/L
+           - Carbon Dioxide                           23.1 mmol/L
+  2014-04-25 : Lipid Panel
+           - Total Cholesterol                        227.0 mg/dL
+           - Triglycerides                            163.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      154.0 mg/dL
+           - High Density Lipoprotein Cholesterol     40.4 mg/dL
+  2014-04-25 : Basic Metabolic Panel
+           - Glucose                                  106.1 mg/dL
+           - Urea Nitrogen                            8.7 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   138.3 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 102.8 mmol/L
+           - Carbon Dioxide                           26.9 mmol/L
+  2014-02-21 : Lipid Panel
+           - Total Cholesterol                        208.1 mg/dL
+           - Triglycerides                            172.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      116.8 mg/dL
+           - High Density Lipoprotein Cholesterol     56.7 mg/dL
+  2014-02-21 : Basic Metabolic Panel
+           - Glucose                                  112.0 mg/dL
+           - Urea Nitrogen                            8.4 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   143.1 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 104.2 mmol/L
+           - Carbon Dioxide                           21.3 mmol/L
+  2013-05-31 : Lipid Panel
+           - Total Cholesterol                        204.6 mg/dL
+           - Triglycerides                            166.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      118.0 mg/dL
+           - High Density Lipoprotein Cholesterol     53.3 mg/dL
+  2013-05-31 : Basic Metabolic Panel
+           - Glucose                                  108.0 mg/dL
+           - Urea Nitrogen                            15.5 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   138.5 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 110.8 mmol/L
+           - Carbon Dioxide                           26.2 mmol/L
+  2013-03-01 : Lipid Panel
+           - Total Cholesterol                        209.1 mg/dL
+           - Triglycerides                            166.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      134.9 mg/dL
+           - High Density Lipoprotein Cholesterol     40.9 mg/dL
+  2013-03-01 : Basic Metabolic Panel
+           - Glucose                                  105.3 mg/dL
+           - Urea Nitrogen                            12.1 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   139.2 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 105.5 mmol/L
+           - Carbon Dioxide                           21.2 mmol/L
+  2012-03-02 : Lipid Panel
+           - Total Cholesterol                        217.4 mg/dL
+           - Triglycerides                            180.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      129.6 mg/dL
+           - High Density Lipoprotein Cholesterol     51.6 mg/dL
+  2012-03-02 : Basic Metabolic Panel
+           - Glucose                                  106.6 mg/dL
+           - Urea Nitrogen                            19.4 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   140.2 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 102.7 mmol/L
+           - Carbon Dioxide                           21.5 mmol/L
+  2012-01-06 : Lipid Panel
+           - Total Cholesterol                        209.1 mg/dL
+           - Triglycerides                            155.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      130.8 mg/dL
+           - High Density Lipoprotein Cholesterol     47.2 mg/dL
+  2012-01-06 : Basic Metabolic Panel
+           - Glucose                                  117.0 mg/dL
+           - Urea Nitrogen                            12.5 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   143.1 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 104.2 mmol/L
+           - Carbon Dioxide                           24.5 mmol/L
+  2011-10-07 : Lipid Panel
+           - Total Cholesterol                        237.9 mg/dL
+           - Triglycerides                            159.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      151.1 mg/dL
+           - High Density Lipoprotein Cholesterol     54.9 mg/dL
+  2011-10-07 : Basic Metabolic Panel
+           - Glucose                                  121.1 mg/dL
+           - Urea Nitrogen                            13.3 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   136.1 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 106.5 mmol/L
+           - Carbon Dioxide                           27.7 mmol/L
+  2011-08-05 : Lipid Panel
+           - Total Cholesterol                        232.2 mg/dL
+           - Triglycerides                            178.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      139.3 mg/dL
+           - High Density Lipoprotein Cholesterol     57.1 mg/dL
+  2011-08-05 : Basic Metabolic Panel
+           - Glucose                                  122.4 mg/dL
+           - Urea Nitrogen                            17.0 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   140.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 110.9 mmol/L
+           - Carbon Dioxide                           24.2 mmol/L
+  2011-02-11 : Lipid Panel
+           - Total Cholesterol                        202.1 mg/dL
+           - Triglycerides                            152.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      126.4 mg/dL
+           - High Density Lipoprotein Cholesterol     45.2 mg/dL
+  2011-02-11 : Basic Metabolic Panel
+           - Glucose                                  116.2 mg/dL
+           - Urea Nitrogen                            10.2 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   138.2 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 106.2 mmol/L
+           - Carbon Dioxide                           21.0 mmol/L
+  2010-11-12 : Lipid Panel
+           - Total Cholesterol                        223.7 mg/dL
+           - Triglycerides                            163.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      146.6 mg/dL
+           - High Density Lipoprotein Cholesterol     44.5 mg/dL
+  2010-11-12 : Basic Metabolic Panel
+           - Glucose                                  100.5 mg/dL
+           - Urea Nitrogen                            12.0 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           22.2 mmol/L
+  2010-07-16 : Lipid Panel
+           - Total Cholesterol                        205.6 mg/dL
+           - Triglycerides                            191.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      123.7 mg/dL
+           - High Density Lipoprotein Cholesterol     43.7 mg/dL
+  2010-07-16 : Basic Metabolic Panel
+           - Glucose                                  115.5 mg/dL
+           - Urea Nitrogen                            12.9 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   141.0 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 104.3 mmol/L
+           - Carbon Dioxide                           26.9 mmol/L
+  2010-01-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+           - MCV [Entitic volume] by Automated count  82.0 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 278.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 367.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2010-01-15 : Lipid Panel
+           - Total Cholesterol                        201.4 mg/dL
+           - Triglycerides                            164.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.4 mg/dL
+           - High Density Lipoprotein Cholesterol     40.1 mg/dL
+  2010-01-15 : Basic Metabolic Panel
+           - Glucose                                  116.0 mg/dL
+           - Urea Nitrogen                            15.7 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   141.2 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 110.3 mmol/L
+           - Carbon Dioxide                           25.8 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-03 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2018-08-03 : Tobacco smoking status NHIS              Former smoker 
+  2018-08-03 : Estimated Glomerular Filtration Rate     119.1 mL/min/{1.73_m2}
+  2018-08-03 : Microalbumin Creatinine Ratio            11.0 mg/g
+  2018-08-03 : High Density Lipoprotein Cholesterol     43.0 mg/dL
+  2018-08-03 : Low Density Lipoprotein Cholesterol      154.0 mg/dL
+  2018-08-03 : Triglycerides                            158.2 mg/dL
+  2018-08-03 : Total Cholesterol                        228.7 mg/dL
+  2018-08-03 : Carbon Dioxide                           21.9 mmol/L
+  2018-08-03 : Chloride                                 109.9 mmol/L
+  2018-08-03 : Potassium                                5.1 mmol/L
+  2018-08-03 : Sodium                                   138.7 mmol/L
+  2018-08-03 : Calcium                                  10.1 mg/dL
+  2018-08-03 : Creatinine                               1.6 mg/dL
+  2018-08-03 : Urea Nitrogen                            12.5 mg/dL
+  2018-08-03 : Glucose                                  124.8 mg/dL
+  2018-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 98.6 mmHg
+           - Systolic Blood Pressure                  181.5 mmHg
+  2018-08-03 : Body Mass Index                          39.9 kg/m2
+  2018-08-03 : Body Weight                              133.9 kg
+  2018-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2018-08-03 : Body Height                              183.1 cm
+  2018-05-04 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2018-05-04 : Tobacco smoking status NHIS              Former smoker 
+  2018-05-04 : Estimated Glomerular Filtration Rate     157.7 mL/min/{1.73_m2}
+  2018-05-04 : Microalbumin Creatinine Ratio            5.0 mg/g
+  2018-05-04 : High Density Lipoprotein Cholesterol     46.0 mg/dL
+  2018-05-04 : Low Density Lipoprotein Cholesterol      147.1 mg/dL
+  2018-05-04 : Triglycerides                            195.8 mg/dL
+  2018-05-04 : Total Cholesterol                        232.2 mg/dL
+  2018-05-04 : Carbon Dioxide                           25.8 mmol/L
+  2018-05-04 : Chloride                                 101.6 mmol/L
+  2018-05-04 : Potassium                                3.8 mmol/L
+  2018-05-04 : Sodium                                   138.6 mmol/L
+  2018-05-04 : Calcium                                  9.1 mg/dL
+  2018-05-04 : Creatinine                               1.6 mg/dL
+  2018-05-04 : Urea Nitrogen                            18.8 mg/dL
+  2018-05-04 : Glucose                                  119.2 mg/dL
+  2018-05-04 : Blood Pressure
+           - Diastolic Blood Pressure                 107.7 mmHg
+           - Systolic Blood Pressure                  172.9 mmHg
+  2018-05-04 : Body Mass Index                          39.9 kg/m2
+  2018-05-04 : Body Weight                              133.9 kg
+  2018-05-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2018-05-04 : Body Height                              183.1 cm
+  2018-03-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2018-03-09 : Tobacco smoking status NHIS              Former smoker 
+  2018-03-09 : Estimated Glomerular Filtration Rate     90.0 mL/min/{1.73_m2}
+  2018-03-09 : Microalbumin Creatinine Ratio            14.7 mg/g
+  2018-03-09 : High Density Lipoprotein Cholesterol     46.9 mg/dL
+  2018-03-09 : Low Density Lipoprotein Cholesterol      121.6 mg/dL
+  2018-03-09 : Triglycerides                            175.0 mg/dL
+  2018-03-09 : Total Cholesterol                        203.5 mg/dL
+  2018-03-09 : Carbon Dioxide                           20.3 mmol/L
+  2018-03-09 : Chloride                                 105.8 mmol/L
+  2018-03-09 : Potassium                                4.1 mmol/L
+  2018-03-09 : Sodium                                   142.6 mmol/L
+  2018-03-09 : Calcium                                  9.5 mg/dL
+  2018-03-09 : Creatinine                               1.8 mg/dL
+  2018-03-09 : Urea Nitrogen                            14.2 mg/dL
+  2018-03-09 : Glucose                                  104.1 mg/dL
+  2018-03-09 : Blood Pressure
+           - Diastolic Blood Pressure                 118.0 mmHg
+           - Systolic Blood Pressure                  189.1 mmHg
+  2018-03-09 : Body Mass Index                          39.9 kg/m2
+  2018-03-09 : Body Weight                              133.9 kg
+  2018-03-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2018-03-09 : Body Height                              183.1 cm
+  2017-08-04 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2017-08-04 : Tobacco smoking status NHIS              Former smoker 
+  2017-08-04 : Estimated Glomerular Filtration Rate     140.7 mL/min/{1.73_m2}
+  2017-08-04 : Microalbumin Creatinine Ratio            8.8 mg/g
+  2017-08-04 : High Density Lipoprotein Cholesterol     58.0 mg/dL
+  2017-08-04 : Low Density Lipoprotein Cholesterol      116.0 mg/dL
+  2017-08-04 : Triglycerides                            165.4 mg/dL
+  2017-08-04 : Total Cholesterol                        207.1 mg/dL
+  2017-08-04 : Carbon Dioxide                           21.0 mmol/L
+  2017-08-04 : Chloride                                 110.9 mmol/L
+  2017-08-04 : Potassium                                5.2 mmol/L
+  2017-08-04 : Sodium                                   139.4 mmol/L
+  2017-08-04 : Calcium                                  10.0 mg/dL
+  2017-08-04 : Creatinine                               1.6 mg/dL
+  2017-08-04 : Urea Nitrogen                            17.2 mg/dL
+  2017-08-04 : Glucose                                  113.5 mg/dL
+  2017-08-04 : Blood Pressure
+           - Diastolic Blood Pressure                 112.3 mmHg
+           - Systolic Blood Pressure                  165.7 mmHg
+  2017-08-04 : Body Mass Index                          39.9 kg/m2
+  2017-08-04 : Body Weight                              133.9 kg
+  2017-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2017-08-04 : Body Height                              183.1 cm
+  2017-07-07 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2017-07-07 : Tobacco smoking status NHIS              Former smoker 
+  2017-07-07 : Estimated Glomerular Filtration Rate     97.5 mL/min/{1.73_m2}
+  2017-07-07 : Microalbumin Creatinine Ratio            10.2 mg/g
+  2017-07-07 : High Density Lipoprotein Cholesterol     57.0 mg/dL
+  2017-07-07 : Low Density Lipoprotein Cholesterol      126.3 mg/dL
+  2017-07-07 : Triglycerides                            173.4 mg/dL
+  2017-07-07 : Total Cholesterol                        217.9 mg/dL
+  2017-07-07 : Carbon Dioxide                           20.4 mmol/L
+  2017-07-07 : Chloride                                 107.4 mmol/L
+  2017-07-07 : Potassium                                4.2 mmol/L
+  2017-07-07 : Sodium                                   142.5 mmol/L
+  2017-07-07 : Calcium                                  9.6 mg/dL
+  2017-07-07 : Creatinine                               1.6 mg/dL
+  2017-07-07 : Urea Nitrogen                            15.4 mg/dL
+  2017-07-07 : Glucose                                  107.1 mg/dL
+  2017-07-07 : Blood Pressure
+           - Diastolic Blood Pressure                 106.3 mmHg
+           - Systolic Blood Pressure                  152.6 mmHg
+  2017-07-07 : Body Mass Index                          39.9 kg/m2
+  2017-07-07 : Body Weight                              133.9 kg
+  2017-07-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2017-07-07 : Body Height                              183.1 cm
+  2017-06-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2017-06-09 : Tobacco smoking status NHIS              Former smoker 
+  2017-06-09 : Estimated Glomerular Filtration Rate     113.6 mL/min/{1.73_m2}
+  2017-06-09 : Microalbumin Creatinine Ratio            8.7 mg/g
+  2017-06-09 : High Density Lipoprotein Cholesterol     57.7 mg/dL
+  2017-06-09 : Low Density Lipoprotein Cholesterol      127.0 mg/dL
+  2017-06-09 : Triglycerides                            182.5 mg/dL
+  2017-06-09 : Total Cholesterol                        221.2 mg/dL
+  2017-06-09 : Carbon Dioxide                           27.2 mmol/L
+  2017-06-09 : Chloride                                 109.8 mmol/L
+  2017-06-09 : Potassium                                3.7 mmol/L
+  2017-06-09 : Sodium                                   140.6 mmol/L
+  2017-06-09 : Calcium                                  10.0 mg/dL
+  2017-06-09 : Creatinine                               1.6 mg/dL
+  2017-06-09 : Urea Nitrogen                            18.2 mg/dL
+  2017-06-09 : Glucose                                  123.2 mg/dL
+  2017-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 115.4 mmHg
+           - Systolic Blood Pressure                  170.5 mmHg
+  2017-06-09 : Body Mass Index                          39.9 kg/m2
+  2017-06-09 : Body Weight                              133.9 kg
+  2017-06-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2017-06-09 : Body Height                              183.1 cm
+  2017-05-05 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2017-05-05 : Tobacco smoking status NHIS              Former smoker 
+  2017-05-05 : Estimated Glomerular Filtration Rate     144.4 mL/min/{1.73_m2}
+  2017-05-05 : Microalbumin Creatinine Ratio            8.9 mg/g
+  2017-05-05 : High Density Lipoprotein Cholesterol     41.4 mg/dL
+  2017-05-05 : Low Density Lipoprotein Cholesterol      131.2 mg/dL
+  2017-05-05 : Triglycerides                            184.3 mg/dL
+  2017-05-05 : Total Cholesterol                        209.4 mg/dL
+  2017-05-05 : Carbon Dioxide                           26.0 mmol/L
+  2017-05-05 : Chloride                                 109.3 mmol/L
+  2017-05-05 : Potassium                                4.0 mmol/L
+  2017-05-05 : Sodium                                   137.6 mmol/L
+  2017-05-05 : Calcium                                  9.5 mg/dL
+  2017-05-05 : Creatinine                               1.6 mg/dL
+  2017-05-05 : Urea Nitrogen                            16.6 mg/dL
+  2017-05-05 : Glucose                                  102.7 mg/dL
+  2017-05-05 : Blood Pressure
+           - Diastolic Blood Pressure                 116.4 mmHg
+           - Systolic Blood Pressure                  155.2 mmHg
+  2017-05-05 : Body Mass Index                          39.9 kg/m2
+  2017-05-05 : Body Weight                              133.9 kg
+  2017-05-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2017-05-05 : Body Height                              183.1 cm
+  2016-12-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2016-12-09 : Tobacco smoking status NHIS              Former smoker 
+  2016-12-09 : Estimated Glomerular Filtration Rate     151.9 mL/min/{1.73_m2}
+  2016-12-09 : Microalbumin Creatinine Ratio            14.8 mg/g
+  2016-12-09 : High Density Lipoprotein Cholesterol     52.6 mg/dL
+  2016-12-09 : Low Density Lipoprotein Cholesterol      145.2 mg/dL
+  2016-12-09 : Triglycerides                            177.3 mg/dL
+  2016-12-09 : Total Cholesterol                        233.3 mg/dL
+  2016-12-09 : Carbon Dioxide                           26.0 mmol/L
+  2016-12-09 : Chloride                                 102.0 mmol/L
+  2016-12-09 : Potassium                                3.7 mmol/L
+  2016-12-09 : Sodium                                   141.3 mmol/L
+  2016-12-09 : Calcium                                  8.8 mg/dL
+  2016-12-09 : Creatinine                               1.6 mg/dL
+  2016-12-09 : Urea Nitrogen                            19.6 mg/dL
+  2016-12-09 : Glucose                                  113.2 mg/dL
+  2016-12-09 : Blood Pressure
+           - Diastolic Blood Pressure                 101.9 mmHg
+           - Systolic Blood Pressure                  162.9 mmHg
+  2016-12-09 : Body Mass Index                          39.9 kg/m2
+  2016-12-09 : Body Weight                              133.9 kg
+  2016-12-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2016-12-09 : Body Height                              183.1 cm
+  2016-11-11 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2016-11-11 : Tobacco smoking status NHIS              Former smoker 
+  2016-11-11 : Estimated Glomerular Filtration Rate     136.0 mL/min/{1.73_m2}
+  2016-11-11 : Microalbumin Creatinine Ratio            8.4 mg/g
+  2016-11-11 : High Density Lipoprotein Cholesterol     53.0 mg/dL
+  2016-11-11 : Low Density Lipoprotein Cholesterol      116.5 mg/dL
+  2016-11-11 : Triglycerides                            163.1 mg/dL
+  2016-11-11 : Total Cholesterol                        202.0 mg/dL
+  2016-11-11 : Carbon Dioxide                           23.0 mmol/L
+  2016-11-11 : Chloride                                 107.0 mmol/L
+  2016-11-11 : Potassium                                4.6 mmol/L
+  2016-11-11 : Sodium                                   141.7 mmol/L
+  2016-11-11 : Calcium                                  8.5 mg/dL
+  2016-11-11 : Creatinine                               1.6 mg/dL
+  2016-11-11 : Urea Nitrogen                            12.3 mg/dL
+  2016-11-11 : Glucose                                  121.3 mg/dL
+  2016-11-11 : Blood Pressure
+           - Diastolic Blood Pressure                 92.6 mmHg
+           - Systolic Blood Pressure                  159.4 mmHg
+  2016-11-11 : Body Mass Index                          39.9 kg/m2
+  2016-11-11 : Body Weight                              133.9 kg
+  2016-11-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2016-11-11 : Body Height                              183.1 cm
+  2016-08-19 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2016-08-19 : Tobacco smoking status NHIS              Former smoker 
+  2016-08-19 : Estimated Glomerular Filtration Rate     124.6 mL/min/{1.73_m2}
+  2016-08-19 : Microalbumin Creatinine Ratio            10.7 mg/g
+  2016-08-19 : High Density Lipoprotein Cholesterol     48.0 mg/dL
+  2016-08-19 : Low Density Lipoprotein Cholesterol      122.2 mg/dL
+  2016-08-19 : Triglycerides                            160.7 mg/dL
+  2016-08-19 : Total Cholesterol                        202.4 mg/dL
+  2016-08-19 : Carbon Dioxide                           26.5 mmol/L
+  2016-08-19 : Chloride                                 106.8 mmol/L
+  2016-08-19 : Potassium                                4.9 mmol/L
+  2016-08-19 : Sodium                                   141.5 mmol/L
+  2016-08-19 : Calcium                                  9.2 mg/dL
+  2016-08-19 : Creatinine                               1.6 mg/dL
+  2016-08-19 : Urea Nitrogen                            14.5 mg/dL
+  2016-08-19 : Glucose                                  122.2 mg/dL
+  2016-08-19 : Blood Pressure
+           - Diastolic Blood Pressure                 97.4 mmHg
+           - Systolic Blood Pressure                  170.2 mmHg
+  2016-08-19 : Body Mass Index                          39.9 kg/m2
+  2016-08-19 : Body Weight                              133.9 kg
+  2016-08-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2016-08-19 : Body Height                              183.1 cm
+  2015-08-14 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2015-08-14 : Tobacco smoking status NHIS              Former smoker 
+  2015-08-14 : Estimated Glomerular Filtration Rate     149.0 mL/min/{1.73_m2}
+  2015-08-14 : Microalbumin Creatinine Ratio            8.4 mg/g
+  2015-08-14 : High Density Lipoprotein Cholesterol     41.9 mg/dL
+  2015-08-14 : Low Density Lipoprotein Cholesterol      142.0 mg/dL
+  2015-08-14 : Triglycerides                            176.8 mg/dL
+  2015-08-14 : Total Cholesterol                        219.2 mg/dL
+  2015-08-14 : Carbon Dioxide                           20.6 mmol/L
+  2015-08-14 : Chloride                                 103.4 mmol/L
+  2015-08-14 : Potassium                                4.3 mmol/L
+  2015-08-14 : Sodium                                   140.1 mmol/L
+  2015-08-14 : Calcium                                  10.0 mg/dL
+  2015-08-14 : Creatinine                               1.6 mg/dL
+  2015-08-14 : Urea Nitrogen                            18.0 mg/dL
+  2015-08-14 : Glucose                                  124.5 mg/dL
+  2015-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 91.1 mmHg
+           - Systolic Blood Pressure                  190.7 mmHg
+  2015-08-14 : Body Mass Index                          39.9 kg/m2
+  2015-08-14 : Body Weight                              133.9 kg
+  2015-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2015-08-14 : Body Height                              183.1 cm
+  2015-06-19 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2015-06-19 : Tobacco smoking status NHIS              Former smoker 
+  2015-06-19 : Estimated Glomerular Filtration Rate     135.2 mL/min/{1.73_m2}
+  2015-06-19 : Microalbumin Creatinine Ratio            16.0 mg/g
+  2015-06-19 : High Density Lipoprotein Cholesterol     49.8 mg/dL
+  2015-06-19 : Low Density Lipoprotein Cholesterol      119.7 mg/dL
+  2015-06-19 : Triglycerides                            160.5 mg/dL
+  2015-06-19 : Total Cholesterol                        201.6 mg/dL
+  2015-06-19 : Carbon Dioxide                           27.2 mmol/L
+  2015-06-19 : Chloride                                 108.9 mmol/L
+  2015-06-19 : Potassium                                4.7 mmol/L
+  2015-06-19 : Sodium                                   142.9 mmol/L
+  2015-06-19 : Calcium                                  9.5 mg/dL
+  2015-06-19 : Creatinine                               1.6 mg/dL
+  2015-06-19 : Urea Nitrogen                            9.7 mg/dL
+  2015-06-19 : Glucose                                  109.4 mg/dL
+  2015-06-19 : Blood Pressure
+           - Diastolic Blood Pressure                 105.6 mmHg
+           - Systolic Blood Pressure                  159.7 mmHg
+  2015-06-19 : Body Mass Index                          39.9 kg/m2
+  2015-06-19 : Body Weight                              133.9 kg
+  2015-06-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2015-06-19 : Body Height                              183.1 cm
+  2015-01-16 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2015-01-16 : Tobacco smoking status NHIS              Former smoker 
+  2015-01-16 : Estimated Glomerular Filtration Rate     145.9 mL/min/{1.73_m2}
+  2015-01-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2015-01-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 423.5 fL
+  2015-01-16 : Platelets [#/volume] in Blood by Automated count 216.8 10*3/uL
+  2015-01-16 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2015-01-16 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2015-01-16 : MCH [Entitic mass] by Automated count    32.1 pg
+  2015-01-16 : MCV [Entitic volume] by Automated count  89.6 fL
+  2015-01-16 : Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+  2015-01-16 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2015-01-16 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2015-01-16 : Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+  2015-01-16 : Microalbumin Creatinine Ratio            11.1 mg/g
+  2015-01-16 : High Density Lipoprotein Cholesterol     44.8 mg/dL
+  2015-01-16 : Low Density Lipoprotein Cholesterol      132.5 mg/dL
+  2015-01-16 : Triglycerides                            182.7 mg/dL
+  2015-01-16 : Total Cholesterol                        213.8 mg/dL
+  2015-01-16 : Carbon Dioxide                           23.1 mmol/L
+  2015-01-16 : Chloride                                 108.9 mmol/L
+  2015-01-16 : Potassium                                4.8 mmol/L
+  2015-01-16 : Sodium                                   139.2 mmol/L
+  2015-01-16 : Calcium                                  9.3 mg/dL
+  2015-01-16 : Creatinine                               1.6 mg/dL
+  2015-01-16 : Urea Nitrogen                            12.7 mg/dL
+  2015-01-16 : Glucose                                  103.3 mg/dL
+  2015-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 95.6 mmHg
+           - Systolic Blood Pressure                  182.9 mmHg
+  2015-01-16 : Body Mass Index                          39.9 kg/m2
+  2015-01-16 : Body Weight                              133.9 kg
+  2015-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2015-01-16 : Body Height                              183.1 cm
+  2014-04-25 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2014-04-25 : Tobacco smoking status NHIS              Former smoker 
+  2014-04-25 : Estimated Glomerular Filtration Rate     88.7 mL/min/{1.73_m2}
+  2014-04-25 : Microalbumin Creatinine Ratio            12.1 mg/g
+  2014-04-25 : High Density Lipoprotein Cholesterol     40.4 mg/dL
+  2014-04-25 : Low Density Lipoprotein Cholesterol      154.0 mg/dL
+  2014-04-25 : Triglycerides                            163.2 mg/dL
+  2014-04-25 : Total Cholesterol                        227.0 mg/dL
+  2014-04-25 : Carbon Dioxide                           26.9 mmol/L
+  2014-04-25 : Chloride                                 102.8 mmol/L
+  2014-04-25 : Potassium                                4.3 mmol/L
+  2014-04-25 : Sodium                                   138.3 mmol/L
+  2014-04-25 : Calcium                                  9.2 mg/dL
+  2014-04-25 : Creatinine                               1.9 mg/dL
+  2014-04-25 : Urea Nitrogen                            8.7 mg/dL
+  2014-04-25 : Glucose                                  106.1 mg/dL
+  2014-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 100.8 mmHg
+           - Systolic Blood Pressure                  142.2 mmHg
+  2014-04-25 : Body Mass Index                          39.9 kg/m2
+  2014-04-25 : Body Weight                              133.9 kg
+  2014-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2014-04-25 : Body Height                              183.1 cm
+  2014-02-21 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2014-02-21 : Tobacco smoking status NHIS              Former smoker 
+  2014-02-21 : Estimated Glomerular Filtration Rate     146.6 mL/min/{1.73_m2}
+  2014-02-21 : Microalbumin Creatinine Ratio            4.0 mg/g
+  2014-02-21 : High Density Lipoprotein Cholesterol     56.7 mg/dL
+  2014-02-21 : Low Density Lipoprotein Cholesterol      116.8 mg/dL
+  2014-02-21 : Triglycerides                            172.9 mg/dL
+  2014-02-21 : Total Cholesterol                        208.1 mg/dL
+  2014-02-21 : Carbon Dioxide                           21.3 mmol/L
+  2014-02-21 : Chloride                                 104.2 mmol/L
+  2014-02-21 : Potassium                                5.1 mmol/L
+  2014-02-21 : Sodium                                   143.1 mmol/L
+  2014-02-21 : Calcium                                  9.4 mg/dL
+  2014-02-21 : Creatinine                               1.7 mg/dL
+  2014-02-21 : Urea Nitrogen                            8.4 mg/dL
+  2014-02-21 : Glucose                                  112.0 mg/dL
+  2014-02-21 : Blood Pressure
+           - Diastolic Blood Pressure                 117.2 mmHg
+           - Systolic Blood Pressure                  163.0 mmHg
+  2014-02-21 : Body Mass Index                          39.9 kg/m2
+  2014-02-21 : Body Weight                              133.9 kg
+  2014-02-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2014-02-21 : Body Height                              183.1 cm
+  2013-05-31 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2013-05-31 : Tobacco smoking status NHIS              Former smoker 
+  2013-05-31 : Estimated Glomerular Filtration Rate     82.0 mL/min/{1.73_m2}
+  2013-05-31 : Microalbumin Creatinine Ratio            7.1 mg/g
+  2013-05-31 : High Density Lipoprotein Cholesterol     53.3 mg/dL
+  2013-05-31 : Low Density Lipoprotein Cholesterol      118.0 mg/dL
+  2013-05-31 : Triglycerides                            166.2 mg/dL
+  2013-05-31 : Total Cholesterol                        204.6 mg/dL
+  2013-05-31 : Carbon Dioxide                           26.2 mmol/L
+  2013-05-31 : Chloride                                 110.8 mmol/L
+  2013-05-31 : Potassium                                4.2 mmol/L
+  2013-05-31 : Sodium                                   138.5 mmol/L
+  2013-05-31 : Calcium                                  9.7 mg/dL
+  2013-05-31 : Creatinine                               2.0 mg/dL
+  2013-05-31 : Urea Nitrogen                            15.5 mg/dL
+  2013-05-31 : Glucose                                  108.0 mg/dL
+  2013-05-31 : Blood Pressure
+           - Diastolic Blood Pressure                 114.6 mmHg
+           - Systolic Blood Pressure                  173.7 mmHg
+  2013-05-31 : Body Mass Index                          39.9 kg/m2
+  2013-05-31 : Body Weight                              133.9 kg
+  2013-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2013-05-31 : Body Height                              183.1 cm
+  2013-03-01 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2013-03-01 : Tobacco smoking status NHIS              Former smoker 
+  2013-03-01 : Estimated Glomerular Filtration Rate     129.4 mL/min/{1.73_m2}
+  2013-03-01 : Microalbumin Creatinine Ratio            6.1 mg/g
+  2013-03-01 : High Density Lipoprotein Cholesterol     40.9 mg/dL
+  2013-03-01 : Low Density Lipoprotein Cholesterol      134.9 mg/dL
+  2013-03-01 : Triglycerides                            166.4 mg/dL
+  2013-03-01 : Total Cholesterol                        209.1 mg/dL
+  2013-03-01 : Carbon Dioxide                           21.2 mmol/L
+  2013-03-01 : Chloride                                 105.5 mmol/L
+  2013-03-01 : Potassium                                3.7 mmol/L
+  2013-03-01 : Sodium                                   139.2 mmol/L
+  2013-03-01 : Calcium                                  8.6 mg/dL
+  2013-03-01 : Creatinine                               1.7 mg/dL
+  2013-03-01 : Urea Nitrogen                            12.1 mg/dL
+  2013-03-01 : Glucose                                  105.3 mg/dL
+  2013-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 100.2 mmHg
+           - Systolic Blood Pressure                  154.3 mmHg
+  2013-03-01 : Body Mass Index                          39.9 kg/m2
+  2013-03-01 : Body Weight                              133.9 kg
+  2013-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2013-03-01 : Body Height                              183.1 cm
+  2012-03-02 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2012-03-02 : Tobacco smoking status NHIS              Former smoker 
+  2012-03-02 : Estimated Glomerular Filtration Rate     158.3 mL/min/{1.73_m2}
+  2012-03-02 : Microalbumin Creatinine Ratio            2.9 mg/g
+  2012-03-02 : High Density Lipoprotein Cholesterol     51.6 mg/dL
+  2012-03-02 : Low Density Lipoprotein Cholesterol      129.6 mg/dL
+  2012-03-02 : Triglycerides                            180.6 mg/dL
+  2012-03-02 : Total Cholesterol                        217.4 mg/dL
+  2012-03-02 : Carbon Dioxide                           21.5 mmol/L
+  2012-03-02 : Chloride                                 102.7 mmol/L
+  2012-03-02 : Potassium                                5.1 mmol/L
+  2012-03-02 : Sodium                                   140.2 mmol/L
+  2012-03-02 : Calcium                                  9.8 mg/dL
+  2012-03-02 : Creatinine                               1.7 mg/dL
+  2012-03-02 : Urea Nitrogen                            19.4 mg/dL
+  2012-03-02 : Glucose                                  106.6 mg/dL
+  2012-03-02 : Blood Pressure
+           - Diastolic Blood Pressure                 116.7 mmHg
+           - Systolic Blood Pressure                  198.6 mmHg
+  2012-03-02 : Body Mass Index                          39.9 kg/m2
+  2012-03-02 : Body Weight                              133.9 kg
+  2012-03-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2012-03-02 : Body Height                              183.1 cm
+  2012-01-06 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2012-01-06 : Tobacco smoking status NHIS              Former smoker 
+  2012-01-06 : Estimated Glomerular Filtration Rate     104.3 mL/min/{1.73_m2}
+  2012-01-06 : Microalbumin Creatinine Ratio            16.6 mg/g
+  2012-01-06 : High Density Lipoprotein Cholesterol     47.2 mg/dL
+  2012-01-06 : Low Density Lipoprotein Cholesterol      130.8 mg/dL
+  2012-01-06 : Triglycerides                            155.2 mg/dL
+  2012-01-06 : Total Cholesterol                        209.1 mg/dL
+  2012-01-06 : Carbon Dioxide                           24.5 mmol/L
+  2012-01-06 : Chloride                                 104.2 mmol/L
+  2012-01-06 : Potassium                                3.8 mmol/L
+  2012-01-06 : Sodium                                   143.1 mmol/L
+  2012-01-06 : Calcium                                  9.5 mg/dL
+  2012-01-06 : Creatinine                               1.7 mg/dL
+  2012-01-06 : Urea Nitrogen                            12.5 mg/dL
+  2012-01-06 : Glucose                                  117.0 mg/dL
+  2012-01-06 : Blood Pressure
+           - Diastolic Blood Pressure                 119.5 mmHg
+           - Systolic Blood Pressure                  167.4 mmHg
+  2012-01-06 : Body Mass Index                          39.9 kg/m2
+  2012-01-06 : Body Weight                              133.9 kg
+  2012-01-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2012-01-06 : Body Height                              183.1 cm
+  2011-10-07 : Hemoglobin A1c/Hemoglobin.total in Blood 5.5 %
+  2011-10-07 : Tobacco smoking status NHIS              Former smoker 
+  2011-10-07 : Estimated Glomerular Filtration Rate     155.3 mL/min/{1.73_m2}
+  2011-10-07 : Microalbumin Creatinine Ratio            7.0 mg/g
+  2011-10-07 : High Density Lipoprotein Cholesterol     54.9 mg/dL
+  2011-10-07 : Low Density Lipoprotein Cholesterol      151.1 mg/dL
+  2011-10-07 : Triglycerides                            159.6 mg/dL
+  2011-10-07 : Total Cholesterol                        237.9 mg/dL
+  2011-10-07 : Carbon Dioxide                           27.7 mmol/L
+  2011-10-07 : Chloride                                 106.5 mmol/L
+  2011-10-07 : Potassium                                5.0 mmol/L
+  2011-10-07 : Sodium                                   136.1 mmol/L
+  2011-10-07 : Calcium                                  8.9 mg/dL
+  2011-10-07 : Creatinine                               1.7 mg/dL
+  2011-10-07 : Urea Nitrogen                            13.3 mg/dL
+  2011-10-07 : Glucose                                  121.1 mg/dL
+  2011-10-07 : Blood Pressure
+           - Diastolic Blood Pressure                 110.2 mmHg
+           - Systolic Blood Pressure                  188.1 mmHg
+  2011-10-07 : Body Mass Index                          39.9 kg/m2
+  2011-10-07 : Body Weight                              133.9 kg
+  2011-10-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2011-10-07 : Body Height                              183.1 cm
+  2011-08-05 : Hemoglobin A1c/Hemoglobin.total in Blood 5.4 %
+  2011-08-05 : Tobacco smoking status NHIS              Former smoker 
+  2011-08-05 : Estimated Glomerular Filtration Rate     135.2 mL/min/{1.73_m2}
+  2011-08-05 : Microalbumin Creatinine Ratio            14.9 mg/g
+  2011-08-05 : High Density Lipoprotein Cholesterol     57.1 mg/dL
+  2011-08-05 : Low Density Lipoprotein Cholesterol      139.3 mg/dL
+  2011-08-05 : Triglycerides                            178.9 mg/dL
+  2011-08-05 : Total Cholesterol                        232.2 mg/dL
+  2011-08-05 : Carbon Dioxide                           24.2 mmol/L
+  2011-08-05 : Chloride                                 110.9 mmol/L
+  2011-08-05 : Potassium                                4.5 mmol/L
+  2011-08-05 : Sodium                                   140.6 mmol/L
+  2011-08-05 : Calcium                                  8.6 mg/dL
+  2011-08-05 : Creatinine                               1.7 mg/dL
+  2011-08-05 : Urea Nitrogen                            17.0 mg/dL
+  2011-08-05 : Glucose                                  122.4 mg/dL
+  2011-08-05 : Blood Pressure
+           - Diastolic Blood Pressure                 104.4 mmHg
+           - Systolic Blood Pressure                  186.2 mmHg
+  2011-08-05 : Body Mass Index                          39.5 kg/m2
+  2011-08-05 : Body Weight                              132.3 kg
+  2011-08-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2011-08-05 : Body Height                              183.1 cm
+  2011-02-11 : Hemoglobin A1c/Hemoglobin.total in Blood 5.4 %
+  2011-02-11 : Tobacco smoking status NHIS              Former smoker 
+  2011-02-11 : Estimated Glomerular Filtration Rate     80.9 mL/min/{1.73_m2}
+  2011-02-11 : Microalbumin Creatinine Ratio            2.6 mg/g
+  2011-02-11 : High Density Lipoprotein Cholesterol     45.2 mg/dL
+  2011-02-11 : Low Density Lipoprotein Cholesterol      126.4 mg/dL
+  2011-02-11 : Triglycerides                            152.7 mg/dL
+  2011-02-11 : Total Cholesterol                        202.1 mg/dL
+  2011-02-11 : Carbon Dioxide                           21.0 mmol/L
+  2011-02-11 : Chloride                                 106.2 mmol/L
+  2011-02-11 : Potassium                                4.4 mmol/L
+  2011-02-11 : Sodium                                   138.2 mmol/L
+  2011-02-11 : Calcium                                  9.0 mg/dL
+  2011-02-11 : Creatinine                               2.1 mg/dL
+  2011-02-11 : Urea Nitrogen                            10.2 mg/dL
+  2011-02-11 : Glucose                                  116.2 mg/dL
+  2011-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 102.7 mmHg
+           - Systolic Blood Pressure                  187.8 mmHg
+  2011-02-11 : Body Mass Index                          39.5 kg/m2
+  2011-02-11 : Body Weight                              132.3 kg
+  2011-02-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2011-02-11 : Body Height                              183.1 cm
+  2010-11-12 : Hemoglobin A1c/Hemoglobin.total in Blood 5.4 %
+  2010-11-12 : Tobacco smoking status NHIS              Former smoker 
+  2010-11-12 : Estimated Glomerular Filtration Rate     127.8 mL/min/{1.73_m2}
+  2010-11-12 : Microalbumin Creatinine Ratio            16.7 mg/g
+  2010-11-12 : High Density Lipoprotein Cholesterol     44.5 mg/dL
+  2010-11-12 : Low Density Lipoprotein Cholesterol      146.6 mg/dL
+  2010-11-12 : Triglycerides                            163.0 mg/dL
+  2010-11-12 : Total Cholesterol                        223.7 mg/dL
+  2010-11-12 : Carbon Dioxide                           22.2 mmol/L
+  2010-11-12 : Chloride                                 108.2 mmol/L
+  2010-11-12 : Potassium                                4.5 mmol/L
+  2010-11-12 : Sodium                                   138.1 mmol/L
+  2010-11-12 : Calcium                                  9.7 mg/dL
+  2010-11-12 : Creatinine                               1.7 mg/dL
+  2010-11-12 : Urea Nitrogen                            12.0 mg/dL
+  2010-11-12 : Glucose                                  100.5 mg/dL
+  2010-11-12 : Blood Pressure
+           - Diastolic Blood Pressure                 103.6 mmHg
+           - Systolic Blood Pressure                  158.7 mmHg
+  2010-11-12 : Body Mass Index                          39.5 kg/m2
+  2010-11-12 : Body Weight                              132.3 kg
+  2010-11-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2010-11-12 : Body Height                              183.1 cm
+  2010-07-16 : Hemoglobin A1c/Hemoglobin.total in Blood 5.2 %
+  2010-07-16 : Tobacco smoking status NHIS              Former smoker 
+  2010-07-16 : Estimated Glomerular Filtration Rate     92.4 mL/min/{1.73_m2}
+  2010-07-16 : Microalbumin Creatinine Ratio            14.1 mg/g
+  2010-07-16 : High Density Lipoprotein Cholesterol     43.7 mg/dL
+  2010-07-16 : Low Density Lipoprotein Cholesterol      123.7 mg/dL
+  2010-07-16 : Triglycerides                            191.2 mg/dL
+  2010-07-16 : Total Cholesterol                        205.6 mg/dL
+  2010-07-16 : Carbon Dioxide                           26.9 mmol/L
+  2010-07-16 : Chloride                                 104.3 mmol/L
+  2010-07-16 : Potassium                                4.8 mmol/L
+  2010-07-16 : Sodium                                   141.0 mmol/L
+  2010-07-16 : Calcium                                  8.9 mg/dL
+  2010-07-16 : Creatinine                               1.8 mg/dL
+  2010-07-16 : Urea Nitrogen                            12.9 mg/dL
+  2010-07-16 : Glucose                                  115.5 mg/dL
+  2010-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 104.6 mmHg
+           - Systolic Blood Pressure                  185.4 mmHg
+  2010-07-16 : Body Mass Index                          38.9 kg/m2
+  2010-07-16 : Body Weight                              130.6 kg
+  2010-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2010-07-16 : Body Height                              183.1 cm
+  2010-01-15 : Hemoglobin A1c/Hemoglobin.total in Blood 5.2 %
+  2010-01-15 : Tobacco smoking status NHIS              Former smoker 
+  2010-01-15 : Estimated Glomerular Filtration Rate     151.7 mL/min/{1.73_m2}
+  2010-01-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2010-01-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 367.3 fL
+  2010-01-15 : Platelets [#/volume] in Blood by Automated count 278.0 10*3/uL
+  2010-01-15 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2010-01-15 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2010-01-15 : MCH [Entitic mass] by Automated count    32.0 pg
+  2010-01-15 : MCV [Entitic volume] by Automated count  82.0 fL
+  2010-01-15 : Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+  2010-01-15 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2010-01-15 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2010-01-15 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2010-01-15 : Microalbumin Creatinine Ratio            2.0 mg/g
+  2010-01-15 : High Density Lipoprotein Cholesterol     40.1 mg/dL
+  2010-01-15 : Low Density Lipoprotein Cholesterol      128.4 mg/dL
+  2010-01-15 : Triglycerides                            164.6 mg/dL
+  2010-01-15 : Total Cholesterol                        201.4 mg/dL
+  2010-01-15 : Carbon Dioxide                           25.8 mmol/L
+  2010-01-15 : Chloride                                 110.3 mmol/L
+  2010-01-15 : Potassium                                4.0 mmol/L
+  2010-01-15 : Sodium                                   141.2 mmol/L
+  2010-01-15 : Calcium                                  9.9 mg/dL
+  2010-01-15 : Creatinine                               1.7 mg/dL
+  2010-01-15 : Urea Nitrogen                            15.7 mg/dL
+  2010-01-15 : Glucose                                  116.0 mg/dL
+  2010-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 98.8 mmHg
+           - Systolic Blood Pressure                  164.5 mmHg
+  2010-01-15 : Body Mass Index                          38.9 kg/m2
+  2010-01-15 : Body Weight                              130.6 kg
+  2010-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2010-01-15 : Body Height                              183.1 cm
+  2009-12-01 : Oral temperature                         37.8 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-09 : Documentation of current medications
+  2017-07-07 : Documentation of current medications
+  2017-06-09 : Documentation of current medications
+  2016-12-09 : Documentation of current medications
+  2016-11-11 : Documentation of current medications
+  2016-08-19 : Documentation of current medications
+  2015-06-19 : Documentation of current medications
+  2014-02-21 : Documentation of current medications
+  2012-03-02 : Documentation of current medications
+  2012-01-06 : Documentation of current medications
+  2011-02-11 : Documentation of current medications
+  2011-01-13 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2010-11-12 : Documentation of current medications
+  2010-07-16 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-02 : Influenza, seasonal, injectable, preservative free
+  2017-05-05 : Influenza, seasonal, injectable, preservative free
+  2016-08-19 : Influenza, seasonal, injectable, preservative free
+  2015-06-19 : Influenza, seasonal, injectable, preservative free
+  2014-02-21 : Td (adult) preservative free
+  2014-02-21 : Influenza, seasonal, injectable, preservative free
+  2013-05-31 : zoster
+  2013-03-01 : Influenza, seasonal, injectable, preservative free
+  2013-03-01 : zoster
+  2012-03-02 : Influenza, seasonal, injectable, preservative free
+  2011-02-11 : Influenza, seasonal, injectable, preservative free
+  2010-07-16 : Influenza, seasonal, injectable, preservative free
+  2009-08-07 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-06-29 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2018-05-04 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-04-06 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2018-03-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-03-02 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2017-08-04 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-07-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-06-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-05-05 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-12-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-11-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-08-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-08-23 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-08-14 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-06-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-01-16 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-04-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-02-21 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-05-31 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-03-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-10-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Concussion with no loss of consciousness
+2012-09-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-03-02 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-01-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-10-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-08-05 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-02-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-01-21 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2011-01-13 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute bronchitis (disorder)
+2010-12-10 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2010-11-12 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-07-16 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-01-15 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-12-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-12-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-12-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute viral pharyngitis (disorder)
+2009-09-04 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2009-08-28 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2009-08-21 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-08-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2009-08-14 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2009-08-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2002-08-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1999-08-13 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1997-08-22 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1994-08-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1991-08-16 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1988-08-12 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1966-09-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1966-08-16 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,205 @@
+Rosalina69 Botsford977
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 16
+Birth Date:          2002-06-21
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-06-12[STOPPED] : Errin 28 Day Pack
+  2013-12-04[STOPPED] : Ibuprofen 100 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-07-28 -            : Body mass index 40+ - severely obese (finding)
+  2014-08-20 - 2014-08-27 : Viral sinusitis (disorder)
+  2013-12-04 - 2014-01-08 : Sprain of wrist
+  2011-06-24 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-12-04[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.0 %
+           - MCV [Entitic volume] by Automated count  87.9 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 164.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 192.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2013-07-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 385.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 192.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-03 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2018-08-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 192.3 fL
+  2018-08-03 : Platelets [#/volume] in Blood by Automated count 164.1 10*3/uL
+  2018-08-03 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2018-08-03 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2018-08-03 : MCH [Entitic mass] by Automated count    27.8 pg
+  2018-08-03 : MCV [Entitic volume] by Automated count  87.9 fL
+  2018-08-03 : Hematocrit [Volume Fraction] of Blood by Automated count 36.0 %
+  2018-08-03 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  2018-08-03 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2018-08-03 : Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+  2018-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 81.4 mmHg
+           - Systolic Blood Pressure                  108.3 mmHg
+  2018-08-03 : Body Mass Index                          42.0 kg/m2
+  2018-08-03 : Body Weight                              102.5 kg
+  2018-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2018-08-03 : Body Height                              156.3 cm
+  2017-07-28 : Tobacco smoking status NHIS              Never smoker 
+  2017-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 83.4 mmHg
+           - Systolic Blood Pressure                  126.1 mmHg
+  2017-07-28 : Body Mass Index                          40.2 kg/m2
+  2017-07-28 : Body Weight                              97.5 kg
+  2017-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2017-07-28 : Body Height                              155.7 cm
+  2016-07-22 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 75.9 mmHg
+           - Systolic Blood Pressure                  128.2 mmHg
+  2016-07-22 : Body Mass Index                          38.3 kg/m2
+  2016-07-22 : Body Weight                              91.0 kg
+  2016-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2016-07-22 : Body Height                              154.1 cm
+  2015-07-17 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-17 : Blood Pressure
+           - Diastolic Blood Pressure                 86.3 mmHg
+           - Systolic Blood Pressure                  123.1 mmHg
+  2015-07-17 : Body Mass Index                          37.1 kg/m2
+  2015-07-17 : Body Weight                              84.0 kg
+  2015-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2015-07-17 : Body Height                              150.6 cm
+  2014-07-11 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-11 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  122.2 mmHg
+  2014-07-11 : Body Mass Index                          36.6 kg/m2
+  2014-07-11 : Body Weight                              76.1 kg
+  2014-07-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2014-07-11 : Body Height                              144.3 cm
+  2013-07-05 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2013-07-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 192.8 fL
+  2013-07-05 : Platelets [#/volume] in Blood by Automated count 385.8 10*3/uL
+  2013-07-05 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2013-07-05 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2013-07-05 : MCH [Entitic mass] by Automated count    27.8 pg
+  2013-07-05 : MCV [Entitic volume] by Automated count  81.7 fL
+  2013-07-05 : Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+  2013-07-05 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2013-07-05 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2013-07-05 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2013-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 87.4 mmHg
+           - Systolic Blood Pressure                  117.2 mmHg
+  2013-07-05 : Body Mass Index                          36.0 kg/m2
+  2013-07-05 : Body Weight                              67.7 kg
+  2013-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2013-07-05 : Body Height                              137.2 cm
+  2012-06-29 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-29 : Blood Pressure
+           - Diastolic Blood Pressure                 73.5 mmHg
+           - Systolic Blood Pressure                  124.9 mmHg
+  2012-06-29 : Body Mass Index                          34.1 kg/m2
+  2012-06-29 : Body Weight                              59.2 kg
+  2012-06-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2012-06-29 : Body Height                              131.8 cm
+  2011-06-24 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-24 : Blood Pressure
+           - Diastolic Blood Pressure                 73.6 mmHg
+           - Systolic Blood Pressure                  136.1 mmHg
+  2011-06-24 : Body Mass Index                          31.5 kg/m2
+  2011-06-24 : Body Weight                              50.6 kg
+  2011-06-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2011-06-24 : Body Height                              126.8 cm
+  2010-06-18 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-18 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  128.8 mmHg
+  2010-06-18 : Body Mass Index                          29.4 kg/m2
+  2010-06-18 : Body Weight                              43.6 kg
+  2010-06-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-06-18 : Body Height                              121.8 cm
+  2009-06-12 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-12 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  110.2 mmHg
+  2009-06-12 : Body Mass Index                          27.9 kg/m2
+  2009-06-12 : Body Weight                              37.5 kg
+  2009-06-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2009-06-12 : Body Height                              116.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-03 : Documentation of current medications
+  2017-07-28 : Documentation of current medications
+  2014-07-11 : Documentation of current medications
+  2013-07-05 : Documentation of current medications
+  2012-06-29 : Documentation of current medications
+  2011-06-24 : Documentation of current medications
+  2010-06-18 : Documentation of current medications
+  2009-06-12 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-03 : meningococcal MCV4P
+  2018-08-03 : Influenza, seasonal, injectable, preservative free
+  2017-07-28 : Influenza, seasonal, injectable, preservative free
+  2016-07-22 : Influenza, seasonal, injectable, preservative free
+  2015-07-17 : HPV, quadrivalent
+  2015-07-17 : Influenza, seasonal, injectable, preservative free
+  2014-07-11 : HPV, quadrivalent
+  2014-07-11 : Influenza, seasonal, injectable, preservative free
+  2013-07-05 : meningococcal MCV4P
+  2013-07-05 : HPV, quadrivalent
+  2013-07-05 : Influenza, seasonal, injectable, preservative free
+  2013-07-05 : Tdap
+  2012-06-29 : Influenza, seasonal, injectable, preservative free
+  2011-06-24 : Influenza, seasonal, injectable, preservative free
+  2010-06-18 : Influenza, seasonal, injectable, preservative free
+  2009-06-12 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-07-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-06-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-07-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-07-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-08-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-07-11 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-12-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-07-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-06-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-06-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-06-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-06-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,155 @@
+Joey457 Smith67
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 33
+Birth Date:          1985-01-19
+Marital Status:      M
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1989-02-13 -            : Allergy to tree pollen
+  1989-02-13 -            : Dander (animal) allergy
+  1989-02-13 -            : House dust mite allergy
+  1989-02-13 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-07-28[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2014-10-10[STOPPED] : Hydrocortisone 10 MG/ML Topical Cream for Atopic dermatitis
+  2014-10-10[STOPPED] : cycloSPORINE 50 MG Oral Capsule for Atopic dermatitis
+  2014-01-16[STOPPED] : Hydrocortisone 10 MG/ML Topical Cream for Atopic dermatitis
+  2014-01-16[STOPPED] : cycloSPORINE 50 MG Oral Capsule for Atopic dermatitis
+  2010-08-09[STOPPED] : Hydrocortisone 10 MG/ML Topical Cream for Atopic dermatitis
+  2010-08-09[STOPPED] : cycloSPORINE 50 MG Oral Capsule for Atopic dermatitis
+  2003-12-13[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  1989-02-13[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1989-02-08[CURRENT] : Astemizole 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-07-28 - 2017-08-11 : Laceration of hand
+  2017-02-12 - 2017-03-05 : Viral sinusitis (disorder)
+  2012-04-30 - 2012-05-07 : Acute viral pharyngitis (disorder)
+  2003-12-13 -            : Hypertension
+  1989-06-04 -            : Atopic dermatitis
+  1989-01-25 -            : Seasonal allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-07-28[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1989-06-04[CURRENT] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+  1989-02-13[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-05-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.9 %
+           - MCV [Entitic volume] by Automated count  80.7 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+           - Platelets [#/volume] in Blood by Automated count 204.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 481.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2015-05-16 : Lipid Panel
+           - Total Cholesterol                        160.3 mg/dL
+           - Triglycerides                            114.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      65.8 mg/dL
+           - High Density Lipoprotein Cholesterol     71.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-02-11 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-11 : Estimated Glomerular Filtration Rate     82.4 mL/min/{1.73_m2}
+  2017-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 93.9 mmHg
+           - Systolic Blood Pressure                  177.0 mmHg
+  2017-02-11 : Body Mass Index                          23.4 kg/m2
+  2017-02-11 : Body Weight                              79.3 kg
+  2017-02-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2017-02-11 : Body Height                              184.2 cm
+  2015-05-16 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-16 : Estimated Glomerular Filtration Rate     118.2 mL/min/{1.73_m2}
+  2015-05-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2015-05-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 481.1 fL
+  2015-05-16 : Platelets [#/volume] in Blood by Automated count 204.1 10*3/uL
+  2015-05-16 : Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+  2015-05-16 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2015-05-16 : MCH [Entitic mass] by Automated count    30.4 pg
+  2015-05-16 : MCV [Entitic volume] by Automated count  80.7 fL
+  2015-05-16 : Hematocrit [Volume Fraction] of Blood by Automated count 43.9 %
+  2015-05-16 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2015-05-16 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2015-05-16 : Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+  2015-05-16 : High Density Lipoprotein Cholesterol     71.7 mg/dL
+  2015-05-16 : Low Density Lipoprotein Cholesterol      65.8 mg/dL
+  2015-05-16 : Triglycerides                            114.0 mg/dL
+  2015-05-16 : Total Cholesterol                        160.3 mg/dL
+  2015-05-16 : Blood Pressure
+           - Diastolic Blood Pressure                 106.1 mmHg
+           - Systolic Blood Pressure                  152.2 mmHg
+  2015-05-16 : Body Mass Index                          22.4 kg/m2
+  2015-05-16 : Body Weight                              76.0 kg
+  2015-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2015-05-16 : Body Height                              184.2 cm
+  2012-05-12 : Tobacco smoking status NHIS              Never smoker 
+  2012-05-12 : Estimated Glomerular Filtration Rate     102.5 mL/min/{1.73_m2}
+  2012-05-12 : Blood Pressure
+           - Diastolic Blood Pressure                 102.4 mmHg
+           - Systolic Blood Pressure                  187.4 mmHg
+  2012-05-12 : Body Mass Index                          20.9 kg/m2
+  2012-05-12 : Body Weight                              71.1 kg
+  2012-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2012-05-12 : Body Height                              184.2 cm
+  2012-04-30 : Oral temperature                         37.5 Cel
+  2010-12-25 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-25 : Estimated Glomerular Filtration Rate     81.3 mL/min/{1.73_m2}
+  2010-12-25 : Blood Pressure
+           - Diastolic Blood Pressure                 93.1 mmHg
+           - Systolic Blood Pressure                  195.0 mmHg
+  2010-12-25 : Body Mass Index                          20.0 kg/m2
+  2010-12-25 : Body Weight                              67.9 kg
+  2010-12-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2010-12-25 : Body Height                              184.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-07-28 : Injection of tetanus antitoxin for Laceration of hand
+  2017-07-28 : Suture open wound for Laceration of hand
+  2015-05-16 : Documentation of current medications
+  2012-04-30 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2010-12-25 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-02-11 : Td (adult) preservative free
+  2017-02-11 : Influenza, seasonal, injectable, preservative free
+  2015-05-16 : Influenza, seasonal, injectable, preservative free
+  2012-05-12 : Influenza, seasonal, injectable, preservative free
+  2012-05-05 : Influenza, seasonal, injectable, preservative free
+  2010-12-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-07-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-02-12 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2017-02-11 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-05-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-10-10 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Atopic dermatitis
+2014-01-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Atopic dermatitis
+2012-05-12 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-04-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2012-05-05 (Dr. Debrah72 Ortiz186) : Encounter at URGENT CARE MEDICAL CLINIC
+2010-12-25 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-08-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Atopic dermatitis
+2003-12-13 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+1989-06-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Atopic dermatitis
+1989-02-13 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+1989-01-25 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Seasonal allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,312 @@
+Argelia29 Pagac496
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 54
+Birth Date:          1964-05-31
+Marital Status:      M
+Outpatient Provider: CAPE COD HOSPITAL
+Primary Care Provider: 88 LEWIS BAY ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-02-21[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2016-07-24[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2009-06-03[STOPPED] : Allopurinol 100 MG Oral Tablet for Gout
+  2009-06-03[STOPPED] : Naproxen 500 MG Oral Tablet for Gout
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-02-21 - 2018-03-07 : Acute bronchitis (disorder)
+  2016-08-18 - 2016-08-26 : Acute viral pharyngitis (disorder)
+  2016-07-24 - 2016-07-31 : Acute bronchitis (disorder)
+  2013-11-24 - 2013-12-01 : Acute viral pharyngitis (disorder)
+  2007-05-21 -            : Gout
+  2005-01-09 -            : Body mass index 30+ - obesity (finding)
+  1992-05-11 -            : Drug overdose
+  1990-11-15 -            : Chronic pain
+  1990-09-09 -            : Chronic intractable migraine without aura
+  1990-05-28 -            : Impacted molars
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-02-21[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2016-07-24[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2007-05-21[CURRENT] : Musculoskeletal care
+                         Reason: Gout
+                         Activity: Physical exercises
+                         Activity: Ice therapy
+                         Activity: Healthy diet
+  1992-05-11[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-11 : Lipid Panel
+           - Total Cholesterol                        162.8 mg/dL
+           - Triglycerides                            115.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.7 mg/dL
+           - High Density Lipoprotein Cholesterol     60.0 mg/dL
+  2016-08-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.8 %
+           - MCV [Entitic volume] by Automated count  87.2 fL
+           - MCH [Entitic mass] by Automated count    27.9 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 197.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 314.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2014-12-07 : Lipid Panel
+           - Total Cholesterol                        163.5 mg/dL
+           - Triglycerides                            104.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.2 mg/dL
+           - High Density Lipoprotein Cholesterol     68.4 mg/dL
+  2011-01-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+           - MCV [Entitic volume] by Automated count  83.2 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+           - Platelets [#/volume] in Blood by Automated count 156.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 184.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2011-01-23 : Lipid Panel
+           - Total Cholesterol                        195.9 mg/dL
+           - Triglycerides                            106.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.9 mg/dL
+           - High Density Lipoprotein Cholesterol     77.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-11 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-11 : High Density Lipoprotein Cholesterol     60.0 mg/dL
+  2018-03-11 : Low Density Lipoprotein Cholesterol      79.7 mg/dL
+  2018-03-11 : Triglycerides                            115.7 mg/dL
+  2018-03-11 : Total Cholesterol                        162.8 mg/dL
+  2018-03-11 : Blood Pressure
+           - Diastolic Blood Pressure                 79.3 mmHg
+           - Systolic Blood Pressure                  110.8 mmHg
+  2018-03-11 : Body Mass Index                          35.3 kg/m2
+  2018-03-11 : Body Weight                              106.1 kg
+  2018-03-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2018-03-11 : Body Height                              173.4 cm
+  2017-09-03 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-03 : Blood Pressure
+           - Diastolic Blood Pressure                 75.3 mmHg
+           - Systolic Blood Pressure                  135.6 mmHg
+  2017-09-03 : Body Mass Index                          35.3 kg/m2
+  2017-09-03 : Body Weight                              106.1 kg
+  2017-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2017-09-03 : Body Height                              173.4 cm
+  2016-08-28 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2016-08-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 314.7 fL
+  2016-08-28 : Platelets [#/volume] in Blood by Automated count 197.9 10*3/uL
+  2016-08-28 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2016-08-28 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2016-08-28 : MCH [Entitic mass] by Automated count    27.9 pg
+  2016-08-28 : MCV [Entitic volume] by Automated count  87.2 fL
+  2016-08-28 : Hematocrit [Volume Fraction] of Blood by Automated count 46.8 %
+  2016-08-28 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2016-08-28 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2016-08-28 : Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+  2016-08-28 : Blood Pressure
+           - Diastolic Blood Pressure                 73.8 mmHg
+           - Systolic Blood Pressure                  136.3 mmHg
+  2016-08-28 : Body Mass Index                          35.3 kg/m2
+  2016-08-28 : Body Weight                              106.1 kg
+  2016-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2016-08-28 : Body Height                              173.4 cm
+  2016-08-18 : Oral temperature                         37.2 Cel
+  2015-12-13 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-13 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  134.6 mmHg
+  2015-12-13 : Body Mass Index                          35.3 kg/m2
+  2015-12-13 : Body Weight                              106.1 kg
+  2015-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2015-12-13 : Body Height                              173.4 cm
+  2014-12-07 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-07 : High Density Lipoprotein Cholesterol     68.4 mg/dL
+  2014-12-07 : Low Density Lipoprotein Cholesterol      74.2 mg/dL
+  2014-12-07 : Triglycerides                            104.5 mg/dL
+  2014-12-07 : Total Cholesterol                        163.5 mg/dL
+  2014-12-07 : Blood Pressure
+           - Diastolic Blood Pressure                 73.3 mmHg
+           - Systolic Blood Pressure                  101.8 mmHg
+  2014-12-07 : Body Mass Index                          35.3 kg/m2
+  2014-12-07 : Body Weight                              106.1 kg
+  2014-12-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2014-12-07 : Body Height                              173.4 cm
+  2013-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.3 mmHg
+           - Systolic Blood Pressure                  118.1 mmHg
+  2013-12-01 : Body Mass Index                          35.3 kg/m2
+  2013-12-01 : Body Weight                              106.1 kg
+  2013-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2013-12-01 : Body Height                              173.4 cm
+  2013-11-24 : Oral temperature                         37.3 Cel
+  2013-01-27 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 84.1 mmHg
+           - Systolic Blood Pressure                  109.9 mmHg
+  2013-01-27 : Body Mass Index                          34.7 kg/m2
+  2013-01-27 : Body Weight                              104.5 kg
+  2013-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2013-01-27 : Body Height                              173.4 cm
+  2012-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2011-01-23 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2011-01-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 184.1 fL
+  2011-01-23 : Platelets [#/volume] in Blood by Automated count 156.3 10*3/uL
+  2011-01-23 : Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+  2011-01-23 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2011-01-23 : MCH [Entitic mass] by Automated count    29.7 pg
+  2011-01-23 : MCV [Entitic volume] by Automated count  83.2 fL
+  2011-01-23 : Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+  2011-01-23 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2011-01-23 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2011-01-23 : Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+  2011-01-23 : High Density Lipoprotein Cholesterol     77.7 mg/dL
+  2011-01-23 : Low Density Lipoprotein Cholesterol      96.9 mg/dL
+  2011-01-23 : Triglycerides                            106.5 mg/dL
+  2011-01-23 : Total Cholesterol                        195.9 mg/dL
+  2011-01-23 : Blood Pressure
+           - Diastolic Blood Pressure                 70.6 mmHg
+           - Systolic Blood Pressure                  100.6 mmHg
+  2011-01-23 : Body Mass Index                          34.0 kg/m2
+  2011-01-23 : Body Weight                              102.2 kg
+  2011-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-01-23 : Body Height                              173.4 cm
+  2009-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.4 {score}
+  2009-01-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2009-01-18 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 80.9 mmHg
+           - Systolic Blood Pressure                  122.6 mmHg
+  2009-01-18 : Body Mass Index                          33.1 kg/m2
+  2009-01-18 : Body Weight                              99.6 kg
+  2009-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2009-01-18 : Body Height                              173.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-11 : Documentation of current medications
+  2018-02-21 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2016-08-28 : Documentation of current medications
+  2016-08-18 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2014-06-01 : Colonoscopy
+  2013-12-01 : Documentation of current medications
+  2013-01-27 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-04 : Influenza, seasonal, injectable, preservative free
+  2017-09-03 : Influenza, seasonal, injectable, preservative free
+  2015-12-13 : Td (adult) preservative free
+  2015-12-13 : Influenza, seasonal, injectable, preservative free
+  2015-12-13 : zoster
+  2014-12-07 : Influenza, seasonal, injectable, preservative free
+  2014-12-07 : zoster
+  2013-12-01 : Influenza, seasonal, injectable, preservative free
+  2013-01-27 : Influenza, seasonal, injectable, preservative free
+  2011-01-23 : Influenza, seasonal, injectable, preservative free
+  2009-01-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-09-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-08-24 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-07-25 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-03-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-03-04 (Dr. Mason910 Thompson596) : Encounter at FAMILY MEDICAL CENTER
+2018-02-21 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute bronchitis (disorder)
+2017-09-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-09-03 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-08-12 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-07-13 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-06-13 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-05-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-04-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-03-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-02-13 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2017-01-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2016-12-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2016-11-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2016-10-16 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2016-09-16 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2016-08-28 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2016-08-18 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2016-07-31 (Dr. Mason910 Thompson596) : Encounter at FAMILY MEDICAL CENTER
+2016-07-24 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute bronchitis (disorder)
+2015-12-30 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-12-13 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-11-30 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-10-31 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-10-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-09-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-08-02 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-07-03 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-06-03 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-05-04 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-04-04 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-03-05 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-02-03 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-01-04 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2014-12-05 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2014-12-07 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2014-11-05 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2014-06-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2013-12-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2013-11-24 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2013-03-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2013-02-09 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2013-01-27 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2013-01-10 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2012-12-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2012-11-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2012-02-12 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-11-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-10-12 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-09-12 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-08-13 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-07-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-01-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-10-12 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-09-12 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-08-13 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-07-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-06-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-05-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-04-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-03-16 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-02-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2009-10-30 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2009-09-30 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2009-06-03 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Gout
+2009-04-27 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2009-03-28 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2009-01-17 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2009-01-18 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2007-05-21 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Gout
+2005-01-09 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1992-05-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Drug overdose
+1990-11-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Chronic pain
+1990-09-09 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Chronic intractable migraine without aura
+1990-05-28 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Impacted molars
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

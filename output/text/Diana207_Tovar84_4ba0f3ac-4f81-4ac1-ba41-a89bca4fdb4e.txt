@@ -1,0 +1,288 @@
+Diana207 Tovar84
+================
+Race:                Other
+Ethnicity:           Puerto Rican
+Gender:              F
+Age:                 41
+Birth Date:          1976-12-27
+Marital Status:      M
+Outpatient Provider: BAYSTATE FRANKLIN MEDICAL CENTER
+Primary Care Provider: 164 HIGH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-04-12[CURRENT] : Jolivette 28 Day Pack
+  2015-04-19[STOPPED] : Errin 28 Day Pack
+  2011-07-14[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2011-05-02[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2008-07-07[STOPPED] : Mirena 52 MG Intrauterine System
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-01-30 - 2017-02-27 : Preeclampsia
+  2016-08-15 - 2017-02-27 : Normal pregnancy
+  2012-09-30 - 2012-10-07 : Viral sinusitis (disorder)
+  2011-09-26 -            : Body mass index 30+ - obesity (finding)
+  2011-07-14 -            : Chronic intractable migraine without aura
+  2011-04-25 - 2011-05-02 : Viral sinusitis (disorder)
+  2011-02-28 - 2011-03-21 : Antepartum eclampsia
+  2010-08-16 - 2011-03-21 : Normal pregnancy
+  2009-12-16 - 2010-02-14 : Concussion with no loss of consciousness
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-08-15[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2010-08-16[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2009-12-16[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-01-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.2 %
+           - MCV [Entitic volume] by Automated count  85.7 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+           - Platelets [#/volume] in Blood by Automated count 153.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 174.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2014-09-29 : Lipid Panel
+           - Total Cholesterol                        169.8 mg/dL
+           - Triglycerides                            144.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.0 mg/dL
+           - High Density Lipoprotein Cholesterol     68.9 mg/dL
+  2011-09-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.8 %
+           - MCV [Entitic volume] by Automated count  94.0 fL
+           - MCH [Entitic mass] by Automated count    31.0 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.8 fL
+           - Platelets [#/volume] in Blood by Automated count 277.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 316.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2011-09-26 : Lipid Panel
+           - Total Cholesterol                        170.7 mg/dL
+           - Triglycerides                            140.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.3 mg/dL
+           - High Density Lipoprotein Cholesterol     63.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-01-02 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2017-01-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 174.2 fL
+  2017-01-02 : Platelets [#/volume] in Blood by Automated count 153.9 10*3/uL
+  2017-01-02 : Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+  2017-01-02 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2017-01-02 : MCH [Entitic mass] by Automated count    31.8 pg
+  2017-01-02 : MCV [Entitic volume] by Automated count  85.7 fL
+  2017-01-02 : Hematocrit [Volume Fraction] of Blood by Automated count 37.2 %
+  2017-01-02 : Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+  2017-01-02 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2017-01-02 : Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+  2017-01-02 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  128.6 mmHg
+  2017-01-02 : Body Mass Index                          33.1 kg/m2
+  2017-01-02 : Body Weight                              77.8 kg
+  2017-01-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2017-01-02 : Body Height                              153.2 cm
+  2014-09-29 : Tobacco smoking status NHIS              Never smoker 
+  2014-09-29 : High Density Lipoprotein Cholesterol     68.9 mg/dL
+  2014-09-29 : Low Density Lipoprotein Cholesterol      72.0 mg/dL
+  2014-09-29 : Triglycerides                            144.6 mg/dL
+  2014-09-29 : Total Cholesterol                        169.8 mg/dL
+  2014-09-29 : Blood Pressure
+           - Diastolic Blood Pressure                 76.6 mmHg
+           - Systolic Blood Pressure                  111.0 mmHg
+  2014-09-29 : Body Mass Index                          31.6 kg/m2
+  2014-09-29 : Body Weight                              74.3 kg
+  2014-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2014-09-29 : Body Height                              153.2 cm
+  2011-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2011-09-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 316.7 fL
+  2011-09-26 : Platelets [#/volume] in Blood by Automated count 277.3 10*3/uL
+  2011-09-26 : Erythrocyte distribution width [Entitic volume] by Automated count 40.8 fL
+  2011-09-26 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2011-09-26 : MCH [Entitic mass] by Automated count    31.0 pg
+  2011-09-26 : MCV [Entitic volume] by Automated count  94.0 fL
+  2011-09-26 : Hematocrit [Volume Fraction] of Blood by Automated count 41.8 %
+  2011-09-26 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2011-09-26 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2011-09-26 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2011-09-26 : High Density Lipoprotein Cholesterol     63.3 mg/dL
+  2011-09-26 : Low Density Lipoprotein Cholesterol      79.3 mg/dL
+  2011-09-26 : Triglycerides                            140.6 mg/dL
+  2011-09-26 : Total Cholesterol                        170.7 mg/dL
+  2011-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  137.7 mmHg
+  2011-09-26 : Body Mass Index                          30.2 kg/m2
+  2011-09-26 : Body Weight                              70.9 kg
+  2011-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2011-09-26 : Body Height                              153.2 cm
+  2011-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-04-12 : Insertion of intrauterine contraceptive device
+  2017-04-10 : Depression screening
+  2017-04-10 : Physical examination following birth
+  2017-02-27 : Premature birth of newborn for Normal pregnancy
+  2017-02-27 : Epidural anesthesia for Normal pregnancy
+  2017-01-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-01-02 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-01-02 : Urine screening for glucose for Normal pregnancy
+  2017-01-02 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-01-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-01-02 : Documentation of current medications
+  2016-12-05 : Auscultation of the fetal heart for Normal pregnancy
+  2016-12-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-07 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-10-10 : Auscultation of the fetal heart for Normal pregnancy
+  2016-10-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-10-10 : Alpha-fetoprotein test for Normal pregnancy
+  2016-10-10 : Fetal anatomy study for Normal pregnancy
+  2016-09-12 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-09-12 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-08-15 : Physical examination of mother for Normal pregnancy
+  2016-08-15 : Urine protein test for Normal pregnancy
+  2016-08-15 : Skin test for tuberculosis for Normal pregnancy
+  2016-08-15 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-08-15 : Rubella screening for Normal pregnancy
+  2016-08-15 : Hepatitis C antibody test for Normal pregnancy
+  2016-08-15 : Urine screening test for diabetes for Normal pregnancy
+  2016-08-15 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-08-15 : Urine culture for Normal pregnancy
+  2016-08-15 : Syphilis infection test for Normal pregnancy
+  2016-08-15 : Gonorrhea infection test for Normal pregnancy
+  2016-08-15 : Chlamydia antigen test for Normal pregnancy
+  2016-08-15 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-08-15 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-08-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-08-15 : Blood typing, RH typing for Normal pregnancy
+  2016-08-15 : Auscultation of the fetal heart for Normal pregnancy
+  2016-08-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-08-15 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-08-15 : Standard pregnancy test for Normal pregnancy
+  2016-06-13 : Removal of subcutaneous contraceptive
+  2015-05-04 : Replacement of subcutaneous contraceptive
+  2013-04-23 : Insertion of intrauterine contraceptive device
+  2011-05-02 : Insertion of subcutaneous contraceptive
+  2011-05-02 : Depression screening
+  2011-05-02 : Physical examination following birth
+  2011-03-21 : Cesarean section for Normal pregnancy
+  2011-03-21 : Episiotomy for Normal pregnancy
+  2011-03-14 : Auscultation of the fetal heart for Normal pregnancy
+  2011-03-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-02-28 : Auscultation of the fetal heart for Normal pregnancy
+  2011-02-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-02-28 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2011-01-31 : Auscultation of the fetal heart for Normal pregnancy
+  2011-01-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-01-03 : Auscultation of the fetal heart for Normal pregnancy
+  2011-01-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-01-03 : Urine screening for glucose for Normal pregnancy
+  2011-01-03 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2011-01-03 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2010-12-06 : Auscultation of the fetal heart for Normal pregnancy
+  2010-12-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-11-08 : Auscultation of the fetal heart for Normal pregnancy
+  2010-11-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-10-11 : Auscultation of the fetal heart for Normal pregnancy
+  2010-10-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-10-11 : Alpha-fetoprotein test for Normal pregnancy
+  2010-10-11 : Fetal anatomy study for Normal pregnancy
+  2010-09-13 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2010-09-13 : Auscultation of the fetal heart for Normal pregnancy
+  2010-09-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-08-16 : Physical examination of mother for Normal pregnancy
+  2010-08-16 : Urine protein test for Normal pregnancy
+  2010-08-16 : Skin test for tuberculosis for Normal pregnancy
+  2010-08-16 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2010-08-16 : Rubella screening for Normal pregnancy
+  2010-08-16 : Hepatitis C antibody test for Normal pregnancy
+  2010-08-16 : Urine screening test for diabetes for Normal pregnancy
+  2010-08-16 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2010-08-16 : Urine culture for Normal pregnancy
+  2010-08-16 : Syphilis infection test for Normal pregnancy
+  2010-08-16 : Gonorrhea infection test for Normal pregnancy
+  2010-08-16 : Chlamydia antigen test for Normal pregnancy
+  2010-08-16 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2010-08-16 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2010-08-16 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2010-08-16 : Blood typing, RH typing for Normal pregnancy
+  2010-08-16 : Auscultation of the fetal heart for Normal pregnancy
+  2010-08-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-08-16 : Ultrasound scan for fetal viability for Normal pregnancy
+  2010-08-16 : Standard pregnancy test for Normal pregnancy
+  2010-06-14 : Removal of intrauterine device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-01-02 : Hep A, adult
+  2017-01-02 : Influenza, seasonal, injectable, preservative free
+  2014-09-29 : Influenza, seasonal, injectable, preservative free
+  2011-09-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-12 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2017-04-12 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2017-04-08 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2017-04-10 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2017-02-27 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2017-01-30 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2017-01-02 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2017-01-02 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2016-12-05 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2016-11-07 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2016-10-10 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2016-09-12 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2016-08-15 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2016-06-13 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2015-05-04 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2015-04-19 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2014-09-29 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2013-04-23 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2013-04-21 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2012-09-30 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2011-09-26 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2011-07-14 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Chronic intractable migraine without aura
+2011-05-02 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2011-05-02 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2011-04-25 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2011-03-21 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2011-03-14 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2011-02-28 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2011-01-31 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2011-01-03 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2010-12-06 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2010-11-08 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2010-10-11 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2010-09-13 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2010-08-16 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2010-06-14 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2010-02-14 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Concussion with no loss of consciousness
+2009-12-16 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2008-07-07 (Dr. Rene434 Beier427) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

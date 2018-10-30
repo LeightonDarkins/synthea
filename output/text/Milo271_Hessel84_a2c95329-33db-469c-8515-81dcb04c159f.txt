@@ -1,0 +1,163 @@
+Milo271 Hessel84
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 43
+Birth Date:          1975-09-01
+Marital Status:      M
+Outpatient Provider: BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+Primary Care Provider: 275 SANDWICH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1997-05-19[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-02-19 - 2015-02-26 : Viral sinusitis (disorder)
+  2014-12-15 -            : Body mass index 30+ - obesity (finding)
+  1993-11-15 -            : Hypertension
+  1975-09-01 -            : History of single seizure (situation)
+  1975-09-01 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-12-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.5 %
+           - MCV [Entitic volume] by Automated count  89.5 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 440.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 415.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2014-12-15 : Lipid Panel
+           - Total Cholesterol                        189.3 mg/dL
+           - Triglycerides                            106.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      93.0 mg/dL
+           - High Density Lipoprotein Cholesterol     74.9 mg/dL
+  2011-12-12 : Lipid Panel
+           - Total Cholesterol                        173.5 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.7 mg/dL
+           - High Density Lipoprotein Cholesterol     73.9 mg/dL
+  2008-12-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+           - MCV [Entitic volume] by Automated count  93.9 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 394.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 278.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2008-12-08 : Lipid Panel
+           - Total Cholesterol                        184.4 mg/dL
+           - Triglycerides                            131.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.1 mg/dL
+           - High Density Lipoprotein Cholesterol     76.1 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-12-19 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-19 : Estimated Glomerular Filtration Rate     147.8 mL/min/{1.73_m2}
+  2016-12-19 : Blood Pressure
+           - Diastolic Blood Pressure                 116.9 mmHg
+           - Systolic Blood Pressure                  146.1 mmHg
+  2016-12-19 : Body Mass Index                          31.2 kg/m2
+  2016-12-19 : Body Weight                              100.6 kg
+  2016-12-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2016-12-19 : Body Height                              179.6 cm
+  2014-12-15 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-15 : Estimated Glomerular Filtration Rate     140.5 mL/min/{1.73_m2}
+  2014-12-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2014-12-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 415.7 fL
+  2014-12-15 : Platelets [#/volume] in Blood by Automated count 440.2 10*3/uL
+  2014-12-15 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2014-12-15 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2014-12-15 : MCH [Entitic mass] by Automated count    32.5 pg
+  2014-12-15 : MCV [Entitic volume] by Automated count  89.5 fL
+  2014-12-15 : Hematocrit [Volume Fraction] of Blood by Automated count 36.5 %
+  2014-12-15 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2014-12-15 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2014-12-15 : Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+  2014-12-15 : High Density Lipoprotein Cholesterol     74.9 mg/dL
+  2014-12-15 : Low Density Lipoprotein Cholesterol      93.0 mg/dL
+  2014-12-15 : Triglycerides                            106.8 mg/dL
+  2014-12-15 : Total Cholesterol                        189.3 mg/dL
+  2014-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 116.9 mmHg
+           - Systolic Blood Pressure                  162.9 mmHg
+  2014-12-15 : Body Mass Index                          30.4 kg/m2
+  2014-12-15 : Body Weight                              98.0 kg
+  2014-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2014-12-15 : Body Height                              179.6 cm
+  2011-12-12 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-12 : Estimated Glomerular Filtration Rate     83.6 mL/min/{1.73_m2}
+  2011-12-12 : High Density Lipoprotein Cholesterol     73.9 mg/dL
+  2011-12-12 : Low Density Lipoprotein Cholesterol      76.7 mg/dL
+  2011-12-12 : Triglycerides                            115.1 mg/dL
+  2011-12-12 : Total Cholesterol                        173.5 mg/dL
+  2011-12-12 : Blood Pressure
+           - Diastolic Blood Pressure                 116.1 mmHg
+           - Systolic Blood Pressure                  161.6 mmHg
+  2011-12-12 : Body Mass Index                          28.9 kg/m2
+  2011-12-12 : Body Weight                              93.1 kg
+  2011-12-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2011-12-12 : Body Height                              179.6 cm
+  2008-12-08 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-08 : Estimated Glomerular Filtration Rate     147.5 mL/min/{1.73_m2}
+  2008-12-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2008-12-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 278.0 fL
+  2008-12-08 : Platelets [#/volume] in Blood by Automated count 394.7 10*3/uL
+  2008-12-08 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2008-12-08 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2008-12-08 : MCH [Entitic mass] by Automated count    30.4 pg
+  2008-12-08 : MCV [Entitic volume] by Automated count  93.9 fL
+  2008-12-08 : Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+  2008-12-08 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2008-12-08 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2008-12-08 : Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+  2008-12-08 : High Density Lipoprotein Cholesterol     76.1 mg/dL
+  2008-12-08 : Low Density Lipoprotein Cholesterol      82.1 mg/dL
+  2008-12-08 : Triglycerides                            131.2 mg/dL
+  2008-12-08 : Total Cholesterol                        184.4 mg/dL
+  2008-12-08 : Blood Pressure
+           - Diastolic Blood Pressure                 92.4 mmHg
+           - Systolic Blood Pressure                  183.7 mmHg
+  2008-12-08 : Body Mass Index                          27.6 kg/m2
+  2008-12-08 : Body Weight                              89.1 kg
+  2008-12-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2008-12-08 : Body Height                              179.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-12-19 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-12-19 : Hep A, adult
+  2016-12-19 : Td (adult) preservative free
+  2016-12-19 : Influenza, seasonal, injectable, preservative free
+  2014-12-15 : Influenza, seasonal, injectable, preservative free
+  2011-12-12 : Influenza, seasonal, injectable, preservative free
+  2008-12-08 : Td (adult) preservative free
+  2008-12-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2016-12-19 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2015-02-19 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Viral sinusitis (disorder)
+2014-12-15 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2011-12-12 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2008-12-08 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1997-05-19 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1993-11-15 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1975-09-01 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Seizure disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

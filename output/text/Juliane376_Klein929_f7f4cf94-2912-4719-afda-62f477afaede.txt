@@ -1,0 +1,196 @@
+Juliane376 Klein929
+===================
+Race:                Other
+Ethnicity:           Puerto Rican
+Gender:              F
+Age:                 18
+Birth Date:          2000-02-09
+Marital Status:      S
+Outpatient Provider: COOLEY DICKINSON HOSPITAL INC,THE
+Primary Care Provider: 30 LOCUST STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-01-15[CURRENT] : Natazia 28 Day Pack
+  2017-01-20[STOPPED] : Seasonique 91 Day Pack
+  2014-02-05[STOPPED] : Yaz 28 Day Pack
+  2011-04-16[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2011-04-16 - 2011-04-27 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-03-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.4 %
+           - MCV [Entitic volume] by Automated count  80.3 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+           - Platelets [#/volume] in Blood by Automated count 169.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 460.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2011-02-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+           - Platelets [#/volume] in Blood by Automated count 222.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 354.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-04-04 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-04 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  115.8 mmHg
+  2018-04-04 : Body Mass Index                          18.0 kg/m2
+  2018-04-04 : Body Weight                              51.4 kg
+  2018-04-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2018-04-04 : Body Height                              169.2 cm
+  2017-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mmHg
+           - Systolic Blood Pressure                  124.9 mmHg
+  2017-03-29 : Body Mass Index                          17.7 kg/m2
+  2017-03-29 : Body Weight                              50.4 kg
+  2017-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2017-03-29 : Body Height                              169.0 cm
+  2016-03-23 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2016-03-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 460.7 fL
+  2016-03-23 : Platelets [#/volume] in Blood by Automated count 169.0 10*3/uL
+  2016-03-23 : Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+  2016-03-23 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2016-03-23 : MCH [Entitic mass] by Automated count    30.4 pg
+  2016-03-23 : MCV [Entitic volume] by Automated count  80.3 fL
+  2016-03-23 : Hematocrit [Volume Fraction] of Blood by Automated count 39.4 %
+  2016-03-23 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2016-03-23 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2016-03-23 : Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+  2016-03-23 : Blood Pressure
+           - Diastolic Blood Pressure                 83.7 mmHg
+           - Systolic Blood Pressure                  110.1 mmHg
+  2016-03-23 : Body Mass Index                          17.3 kg/m2
+  2016-03-23 : Body Weight                              49.1 kg
+  2016-03-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2016-03-23 : Body Height                              168.7 cm
+  2015-03-18 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 76.5 mmHg
+           - Systolic Blood Pressure                  137.0 mmHg
+  2015-03-18 : Body Mass Index                          16.7 kg/m2
+  2015-03-18 : Body Weight                              47.2 kg
+  2015-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2015-03-18 : Body Height                              168.1 cm
+  2014-03-12 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-12 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  113.2 mmHg
+  2014-03-12 : Body Mass Index                          16.0 kg/m2
+  2014-03-12 : Body Weight                              44.3 kg
+  2014-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2014-03-12 : Body Height                              166.6 cm
+  2013-03-06 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-06 : Blood Pressure
+           - Diastolic Blood Pressure                 74.5 mmHg
+           - Systolic Blood Pressure                  128.9 mmHg
+  2013-03-06 : Body Mass Index                          15.3 kg/m2
+  2013-03-06 : Body Weight                              40.9 kg
+  2013-03-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2013-03-06 : Body Height                              163.8 cm
+  2012-02-29 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-29 : Blood Pressure
+           - Diastolic Blood Pressure                 83.7 mmHg
+           - Systolic Blood Pressure                  117.3 mmHg
+  2012-02-29 : Body Mass Index                          14.8 kg/m2
+  2012-02-29 : Body Weight                              37.1 kg
+  2012-02-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2012-02-29 : Body Height                              158.3 cm
+  2011-04-16 : Oral temperature                         37.9 Cel
+  2011-02-23 : Tobacco smoking status NHIS              Never smoker 
+  2011-02-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2011-02-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 354.6 fL
+  2011-02-23 : Platelets [#/volume] in Blood by Automated count 222.2 10*3/uL
+  2011-02-23 : Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+  2011-02-23 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2011-02-23 : MCH [Entitic mass] by Automated count    32.2 pg
+  2011-02-23 : MCV [Entitic volume] by Automated count  92.0 fL
+  2011-02-23 : Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+  2011-02-23 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2011-02-23 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2011-02-23 : Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+  2011-02-23 : Blood Pressure
+           - Diastolic Blood Pressure                 75.7 mmHg
+           - Systolic Blood Pressure                  112.8 mmHg
+  2011-02-23 : Body Mass Index                          14.5 kg/m2
+  2011-02-23 : Body Weight                              33.2 kg
+  2011-02-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2011-02-23 : Body Height                              151.1 cm
+  2010-02-17 : Tobacco smoking status NHIS              Never smoker 
+  2010-02-17 : Blood Pressure
+           - Diastolic Blood Pressure                 74.9 mmHg
+           - Systolic Blood Pressure                  117.4 mmHg
+  2010-02-17 : Body Mass Index                          14.1 kg/m2
+  2010-02-17 : Body Weight                              29.5 kg
+  2010-02-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2010-02-17 : Body Height                              144.6 cm
+  2009-02-11 : Tobacco smoking status NHIS              Never smoker 
+  2009-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mmHg
+           - Systolic Blood Pressure                  127.5 mmHg
+  2009-02-11 : Body Mass Index                          13.5 kg/m2
+  2009-02-11 : Body Weight                              25.9 kg
+  2009-02-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2009-02-11 : Body Height                              138.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-04-04 : Documentation of current medications
+  2012-02-29 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-04-04 : Influenza, seasonal, injectable, preservative free
+  2017-03-29 : Influenza, seasonal, injectable, preservative free
+  2016-03-23 : meningococcal MCV4P
+  2016-03-23 : Influenza, seasonal, injectable, preservative free
+  2015-03-18 : Influenza, seasonal, injectable, preservative free
+  2014-03-12 : Influenza, seasonal, injectable, preservative free
+  2013-03-06 : HPV, quadrivalent
+  2013-03-06 : Influenza, seasonal, injectable, preservative free
+  2012-02-29 : HPV, quadrivalent
+  2012-02-29 : Influenza, seasonal, injectable, preservative free
+  2011-02-23 : meningococcal MCV4P
+  2011-02-23 : HPV, quadrivalent
+  2011-02-23 : Influenza, seasonal, injectable, preservative free
+  2011-02-23 : Tdap
+  2010-02-17 : Influenza, seasonal, injectable, preservative free
+  2009-02-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-04 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2018-01-15 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2017-03-29 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2017-01-20 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2016-03-23 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2015-03-18 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2014-03-12 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2014-02-05 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2013-03-06 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2012-02-29 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2011-04-16 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE : Encounter for Acute viral pharyngitis (disorder)
+2011-02-23 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2010-02-17 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+2009-02-11 (Dr. Guadalupe206 Padilla483) : Encounter at COOLEY DICKINSON HOSPITAL INC,THE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

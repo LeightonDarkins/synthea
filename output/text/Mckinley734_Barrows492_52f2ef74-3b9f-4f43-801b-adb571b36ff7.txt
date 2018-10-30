@@ -1,0 +1,306 @@
+Mckinley734 Barrows492
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 6
+Birth Date:          2012-03-15
+Marital Status:      S
+Outpatient Provider: SOUTH SHORE HOSPITAL
+Primary Care Provider: 55 FOGG ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2012-09-29 -            : Allergy to peanuts
+  2012-09-29 -            : Allergy to nut
+  2012-09-29 -            : Shellfish allergy
+  2012-09-29 -            : Allergy to eggs
+  2012-09-29 -            : Allergy to tree pollen
+  2012-09-29 -            : Allergy to grass pollen
+  2012-09-29 -            : Dander (animal) allergy
+  2012-09-29 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-03-05[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2013-09-15[STOPPED] : Hydrocortisone 10 MG/ML Topical Cream for Atopic dermatitis
+  2012-09-29[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2012-09-29[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-01-20 - 2018-02-10 : Viral sinusitis (disorder)
+  2014-03-22 -            : Perennial allergic rhinitis with seasonal variation
+  2014-03-05 - 2014-03-19 : Sprain of ankle
+  2012-09-18 -            : Atopic dermatitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-03-05[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2012-09-29[CURRENT] : Self care
+                         Activity: Allergy education
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+  2012-09-18[CURRENT] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+           - MCV [Entitic volume] by Automated count  85.3 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 301.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 215.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2012-03-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.4 %
+           - MCV [Entitic volume] by Automated count  93.7 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 269.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 280.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2018-02-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 215.0 fL
+  2018-02-01 : Platelets [#/volume] in Blood by Automated count 301.9 10*3/uL
+  2018-02-01 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2018-02-01 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2018-02-01 : MCH [Entitic mass] by Automated count    32.1 pg
+  2018-02-01 : MCV [Entitic volume] by Automated count  85.3 fL
+  2018-02-01 : Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+  2018-02-01 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2018-02-01 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2018-02-01 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2018-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  104.2 mmHg
+  2018-02-01 : Body Mass Index                          12.4 kg/m2
+  2018-02-01 : Body Weight                              19.6 kg
+  2018-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-02-01 : Body Height                              125.4 cm
+  2017-02-23 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-23 : Blood Pressure
+           - Diastolic Blood Pressure                 77.3 mmHg
+           - Systolic Blood Pressure                  106.8 mmHg
+  2017-02-23 : Body Mass Index                          12.5 kg/m2
+  2017-02-23 : Body Weight                              17.6 kg
+  2017-02-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-02-23 : Body Height                              118.7 cm
+  2016-02-18 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 73.7 mmHg
+           - Systolic Blood Pressure                  126.5 mmHg
+  2016-02-18 : Body Mass Index                          12.6 kg/m2
+  2016-02-18 : Body Weight                              15.4 kg
+  2016-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2016-02-18 : Body Height                              110.7 cm
+  2015-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  111.5 mmHg
+  2015-08-20 : Body Mass Index                          12.7 kg/m2
+  2015-08-20 : Body Weight                              14.5 kg
+  2015-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2015-08-20 : Body Height                              106.9 cm
+  2015-02-19 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-19 : Blood Pressure
+           - Diastolic Blood Pressure                 75.3 mmHg
+           - Systolic Blood Pressure                  130.1 mmHg
+  2015-02-19 : Body Mass Index                          12.9 kg/m2
+  2015-02-19 : Body Weight                              13.6 kg
+  2015-02-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2015-02-19 : Body Height                              102.9 cm
+  2014-08-21 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-21 : Blood Pressure
+           - Diastolic Blood Pressure                 79.7 mmHg
+           - Systolic Blood Pressure                  114.5 mmHg
+  2014-08-21 : Body Mass Index                          13.3 kg/m2
+  2014-08-21 : Body Weight                              12.9 kg
+  2014-08-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2014-08-21 : Body Height                              98.2 cm
+  2014-02-20 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 70.4 mmHg
+           - Systolic Blood Pressure                  131.2 mmHg
+  2014-02-20 : Body Weight                              12.0 kg
+  2014-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2014-02-20 : Body Height                              93.7 cm
+  2013-08-22 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-22 : Blood Pressure
+           - Diastolic Blood Pressure                 77.5 mmHg
+           - Systolic Blood Pressure                  127.9 mmHg
+  2013-08-22 : Body Weight                              11.2 kg
+  2013-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2013-08-22 : Body Height                              88.8 cm
+  2013-05-23 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-23 : Blood Pressure
+           - Diastolic Blood Pressure                 88.1 mmHg
+           - Systolic Blood Pressure                  112.2 mmHg
+  2013-05-23 : Body Weight                              10.6 kg
+  2013-05-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2013-05-23 : Body Height                              85.5 cm
+  2013-05-14 : History of Hospitalizations+Outpatient visits 1.9 {count}
+  2013-05-14 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2013-05-14 : Housing status                           Patient is homeless {nominal}
+  2013-05-14 : Abuse Status [OMAHA]                     Severe signs/symptoms {nominal}
+  2013-05-14 : HIV status                               not HIV positive {nominal}
+  2013-05-14 : Sexual orientation                       heterosexual {nominal}
+  2013-02-21 : Tobacco smoking status NHIS              Never smoker 
+  2013-02-21 : Blood Pressure
+           - Diastolic Blood Pressure                 84.3 mmHg
+           - Systolic Blood Pressure                  133.1 mmHg
+  2013-02-21 : Body Weight                              9.5 kg
+  2013-02-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2013-02-21 : Body Height                              80.5 cm
+  2012-11-22 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-22 : Blood Pressure
+           - Diastolic Blood Pressure                 87.8 mmHg
+           - Systolic Blood Pressure                  118.8 mmHg
+  2012-11-22 : Body Weight                              8.8 kg
+  2012-11-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2012-11-22 : Body Height                              77.6 cm
+  2012-09-29 : Latex IgE Ab in Serum                    0.1 kU/L
+  2012-09-29 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2012-09-29 : Cladosporium herbarum IgE Ab in Serum    30.3 kU/L
+  2012-09-29 : American house dust mite IgE Ab in Serum 0.0 kU/L
+  2012-09-29 : Cat dander IgE Ab in Serum               42.3 kU/L
+  2012-09-29 : Common Ragweed IgE Ab in Serum           69.9 kU/L
+  2012-09-29 : White oak IgE Ab in Serum                70.5 kU/L
+  2012-09-29 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2012-09-29 : Soybean IgE Ab in Serum                  0.0 kU/L
+  2012-09-29 : Egg white IgE Ab in Serum                31.6 kU/L
+  2012-09-29 : Wheat IgE Ab in Serum                    0.0 kU/L
+  2012-09-29 : Shrimp IgE Ab in Serum                   70.1 kU/L
+  2012-09-29 : Codfish IgE Ab in Serum                  0.3 kU/L
+  2012-09-29 : Walnut IgE Ab in Serum                   31.5 kU/L
+  2012-09-29 : Peanut IgE Ab in Serum                   24.7 kU/L
+  2012-09-19 : Percentage area affected by eczema Lower extremitiy - bilateral 16.1 %
+  2012-09-19 : Percentage area affected by eczema Upper extremitiy - bilateral 0.2 %
+  2012-09-19 : Percentage area affected by eczema Trunk 16.5 %
+  2012-09-19 : Percentage area affected by eczema Head and Neck 48.0 %
+  2012-08-23 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-23 : Blood Pressure
+           - Diastolic Blood Pressure                 80.1 mmHg
+           - Systolic Blood Pressure                  133.0 mmHg
+  2012-08-23 : Body Weight                              7.4 kg
+  2012-08-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2012-08-23 : Body Height                              72.5 cm
+  2012-06-21 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 78.1 mmHg
+           - Systolic Blood Pressure                  133.8 mmHg
+  2012-06-21 : Body Weight                              5.4 kg
+  2012-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2012-06-21 : Body Height                              65.6 cm
+  2012-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 87.2 mmHg
+           - Systolic Blood Pressure                  133.7 mmHg
+  2012-04-19 : Body Weight                              3.8 kg
+  2012-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2012-04-19 : Body Height                              58.5 cm
+  2012-03-15 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2012-03-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 280.3 fL
+  2012-03-15 : Platelets [#/volume] in Blood by Automated count 269.5 10*3/uL
+  2012-03-15 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2012-03-15 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2012-03-15 : MCH [Entitic mass] by Automated count    30.7 pg
+  2012-03-15 : MCV [Entitic volume] by Automated count  93.7 fL
+  2012-03-15 : Hematocrit [Volume Fraction] of Blood by Automated count 37.4 %
+  2012-03-15 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2012-03-15 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2012-03-15 : Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+  2012-03-15 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2012-03-15 : Body Weight                              3.8 kg
+  2012-03-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2012-03-15 : Body Height                              58.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-02-18 : Documentation of current medications
+  2015-02-19 : Documentation of current medications
+  2013-08-22 : Documentation of current medications
+  2013-05-14 : Information gathering (procedure)
+  2013-02-21 : Documentation of current medications
+  2012-09-29 : Allergy screening test
+  2012-06-21 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-25 : Influenza, seasonal, injectable, preservative free
+  2017-02-23 : MMR
+  2017-02-23 : DTaP
+  2017-02-23 : Influenza, seasonal, injectable, preservative free
+  2017-02-23 : IPV
+  2017-02-23 : varicella
+  2016-02-18 : Influenza, seasonal, injectable, preservative free
+  2015-02-19 : Influenza, seasonal, injectable, preservative free
+  2014-08-21 : Hep A, ped/adol, 2 dose
+  2014-02-20 : Influenza, seasonal, injectable, preservative free
+  2013-08-22 : DTaP
+  2013-05-23 : Hep A, ped/adol, 2 dose
+  2013-05-23 : Pneumococcal conjugate PCV 13
+  2013-05-23 : MMR
+  2013-05-23 : varicella
+  2013-05-23 : Hib (PRP-OMP)
+  2012-11-22 : Hep B, adolescent or pediatric
+  2012-11-22 : Pneumococcal conjugate PCV 13
+  2012-11-22 : DTaP
+  2012-11-22 : Influenza, seasonal, injectable, preservative free
+  2012-11-22 : IPV
+  2012-08-23 : Pneumococcal conjugate PCV 13
+  2012-08-23 : DTaP
+  2012-08-23 : IPV
+  2012-08-23 : rotavirus, monovalent
+  2012-08-23 : Hib (PRP-OMP)
+  2012-06-21 : Pneumococcal conjugate PCV 13
+  2012-06-21 : DTaP
+  2012-06-21 : IPV
+  2012-06-21 : rotavirus, monovalent
+  2012-06-21 : Hib (PRP-OMP)
+  2012-04-19 : Hep B, adolescent or pediatric
+  2012-03-15 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-02-01 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2018-01-20 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-01-25 (Dr. Jennine355 Lynch190) : Encounter at HARVARD VANGUARD BRAINTREE PRACTICE URGENT CARE
+2017-05-18 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2017-02-23 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2016-02-18 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2015-08-20 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2015-02-19 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2014-08-21 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2014-03-22 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Perennial allergic rhinitis with seasonal variation
+2014-03-05 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2014-02-20 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2013-09-15 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Atopic dermatitis
+2013-08-22 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2013-05-23 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2013-05-14 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2013-05-09 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2013-02-21 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-11-22 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-09-29 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-09-19 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-09-18 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Atopic dermatitis
+2012-08-23 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-06-21 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-04-19 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-03-15 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

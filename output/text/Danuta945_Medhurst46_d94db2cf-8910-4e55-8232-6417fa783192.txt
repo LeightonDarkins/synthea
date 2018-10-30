@@ -1,0 +1,296 @@
+Danuta945 Medhurst46
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 31
+Birth Date:          1987-10-11
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-09-28[STOPPED] : Yaz 28 Day Pack
+  2015-10-04[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2013-03-12[STOPPED] : Seasonique 91 Day Pack
+  2010-03-28[STOPPED] : Yaz 28 Day Pack
+  2008-10-20[STOPPED] : Acetaminophen 325 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-01-25 - 2015-08-23 : Normal pregnancy
+  2014-10-10 - 2014-10-17 : Chronic sinusitis (disorder)
+  2014-10-12 - 2014-10-26 : Normal pregnancy
+  2014-09-12 - 2014-10-17 : Sinusitis (disorder)
+  2012-10-02 - 2012-10-16 : Viral sinusitis (disorder)
+  2011-09-18 - 2011-11-20 : Normal pregnancy
+  2010-03-07 - 2010-03-28 : Normal pregnancy
+  2008-10-20 - 2008-11-10 : Sprain of ankle
+  2007-06-17 -            : Miscarriage in first trimester
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-09-18[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2008-10-20[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-10-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.5 %
+           - MCV [Entitic volume] by Automated count  80.9 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+           - Platelets [#/volume] in Blood by Automated count 164.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 284.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2017-10-22 : Lipid Panel
+           - Total Cholesterol                        194.3 mg/dL
+           - Triglycerides                            100.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.4 mg/dL
+           - High Density Lipoprotein Cholesterol     77.9 mg/dL
+  2010-01-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+           - MCV [Entitic volume] by Automated count  81.3 fL
+           - MCH [Entitic mass] by Automated count    28.1 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 284.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 230.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-10-22 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2017-10-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 284.0 fL
+  2017-10-22 : Platelets [#/volume] in Blood by Automated count 164.2 10*3/uL
+  2017-10-22 : Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+  2017-10-22 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2017-10-22 : MCH [Entitic mass] by Automated count    32.0 pg
+  2017-10-22 : MCV [Entitic volume] by Automated count  80.9 fL
+  2017-10-22 : Hematocrit [Volume Fraction] of Blood by Automated count 37.5 %
+  2017-10-22 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2017-10-22 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2017-10-22 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2017-10-22 : High Density Lipoprotein Cholesterol     77.9 mg/dL
+  2017-10-22 : Low Density Lipoprotein Cholesterol      96.4 mg/dL
+  2017-10-22 : Triglycerides                            100.4 mg/dL
+  2017-10-22 : Total Cholesterol                        194.3 mg/dL
+  2017-10-22 : Blood Pressure
+           - Diastolic Blood Pressure                 78.7 mmHg
+           - Systolic Blood Pressure                  137.7 mmHg
+  2017-10-22 : Body Mass Index                          25.2 kg/m2
+  2017-10-22 : Body Weight                              62.0 kg
+  2017-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2017-10-22 : Body Height                              157.0 cm
+  2014-10-19 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 79.6 mmHg
+           - Systolic Blood Pressure                  122.5 mmHg
+  2014-10-19 : Body Mass Index                          23.2 kg/m2
+  2014-10-19 : Body Weight                              57.2 kg
+  2014-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2014-10-19 : Body Height                              157.0 cm
+  2013-01-27 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  136.8 mmHg
+  2013-01-27 : Body Mass Index                          22.1 kg/m2
+  2013-01-27 : Body Weight                              54.5 kg
+  2013-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2013-01-27 : Body Height                              157.0 cm
+  2010-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2010-01-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2010-01-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 230.5 fL
+  2010-01-24 : Platelets [#/volume] in Blood by Automated count 284.1 10*3/uL
+  2010-01-24 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2010-01-24 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2010-01-24 : MCH [Entitic mass] by Automated count    28.1 pg
+  2010-01-24 : MCV [Entitic volume] by Automated count  81.3 fL
+  2010-01-24 : Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+  2010-01-24 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2010-01-24 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2010-01-24 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2010-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 86.4 mmHg
+           - Systolic Blood Pressure                  123.4 mmHg
+  2010-01-24 : Body Mass Index                          20.5 kg/m2
+  2010-01-24 : Body Weight                              50.5 kg
+  2010-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2010-01-24 : Body Height                              157.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-30 : Intramuscular injection
+  2018-07-01 : Intramuscular injection
+  2018-04-01 : Intramuscular injection
+  2017-12-31 : Intramuscular injection
+  2017-10-22 : Documentation of current medications
+  2017-10-01 : Intramuscular injection
+  2017-07-02 : Intramuscular injection
+  2017-04-02 : Intramuscular injection
+  2017-01-01 : Intramuscular injection
+  2016-10-02 : Intramuscular injection
+  2016-07-03 : Intramuscular injection
+  2016-04-03 : Intramuscular injection
+  2016-01-03 : Intramuscular injection
+  2015-10-04 : Intramuscular injection
+  2015-10-04 : Depression screening
+  2015-10-04 : Physical examination following birth
+  2015-08-23 : Childbirth for Normal pregnancy
+  2015-08-23 : Epidural anesthesia for Normal pregnancy
+  2015-08-09 : Auscultation of the fetal heart for Normal pregnancy
+  2015-08-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-08-09 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2015-07-12 : Auscultation of the fetal heart for Normal pregnancy
+  2015-07-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-06-14 : Auscultation of the fetal heart for Normal pregnancy
+  2015-06-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-06-14 : Urine screening for glucose for Normal pregnancy
+  2015-06-14 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2015-06-14 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-05-17 : Auscultation of the fetal heart for Normal pregnancy
+  2015-05-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-04-19 : Auscultation of the fetal heart for Normal pregnancy
+  2015-04-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-03-22 : Auscultation of the fetal heart for Normal pregnancy
+  2015-03-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-03-22 : Alpha-fetoprotein test for Normal pregnancy
+  2015-03-22 : Fetal anatomy study for Normal pregnancy
+  2015-02-22 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-02-22 : Auscultation of the fetal heart for Normal pregnancy
+  2015-02-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-01-25 : Physical examination of mother for Normal pregnancy
+  2015-01-25 : Urine protein test for Normal pregnancy
+  2015-01-25 : Skin test for tuberculosis for Normal pregnancy
+  2015-01-25 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-01-25 : Rubella screening for Normal pregnancy
+  2015-01-25 : Hepatitis C antibody test for Normal pregnancy
+  2015-01-25 : Urine screening test for diabetes for Normal pregnancy
+  2015-01-25 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-01-25 : Urine culture for Normal pregnancy
+  2015-01-25 : Syphilis infection test for Normal pregnancy
+  2015-01-25 : Gonorrhea infection test for Normal pregnancy
+  2015-01-25 : Chlamydia antigen test for Normal pregnancy
+  2015-01-25 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-01-25 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-01-25 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-01-25 : Blood typing, RH typing for Normal pregnancy
+  2015-01-25 : Auscultation of the fetal heart for Normal pregnancy
+  2015-01-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-01-25 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-01-25 : Standard pregnancy test for Normal pregnancy
+  2014-10-26 : Depression screening for Normal pregnancy
+  2014-10-26 : Physical exam following abortion for Normal pregnancy
+  2014-10-26 : Pregnancy termination care for Normal pregnancy
+  2014-10-17 : Nasal sinus endoscopy (procedure)
+  2014-10-19 : Induced termination of pregnancy for Normal pregnancy
+  2014-10-19 : Counseling for termination of pregnancy for Normal pregnancy
+  2014-10-12 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-10-12 : Standard pregnancy test for Normal pregnancy
+  2011-11-20 : Depression screening for Normal pregnancy
+  2011-11-20 : Physical examination for Normal pregnancy
+  2011-10-16 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-10-16 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-09-18 : Physical examination of mother for Normal pregnancy
+  2011-09-18 : Urine protein test for Normal pregnancy
+  2011-09-18 : Skin test for tuberculosis for Normal pregnancy
+  2011-09-18 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-09-18 : Rubella screening for Normal pregnancy
+  2011-09-18 : Hepatitis C antibody test for Normal pregnancy
+  2011-09-18 : Urine screening test for diabetes for Normal pregnancy
+  2011-09-18 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-09-18 : Urine culture for Normal pregnancy
+  2011-09-18 : Syphilis infection test for Normal pregnancy
+  2011-09-18 : Gonorrhea infection test for Normal pregnancy
+  2011-09-18 : Chlamydia antigen test for Normal pregnancy
+  2011-09-18 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-09-18 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-09-18 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-09-18 : Blood typing, RH typing for Normal pregnancy
+  2011-09-18 : Auscultation of the fetal heart for Normal pregnancy
+  2011-09-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-09-18 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-09-18 : Standard pregnancy test for Normal pregnancy
+  2010-03-28 : Depression screening for Normal pregnancy
+  2010-03-28 : Physical exam following abortion for Normal pregnancy
+  2010-03-28 : Pregnancy termination care for Normal pregnancy
+  2010-03-21 : Induced termination of pregnancy for Normal pregnancy
+  2010-03-21 : Counseling for termination of pregnancy for Normal pregnancy
+  2010-03-07 : Ultrasound scan for fetal viability for Normal pregnancy
+  2010-03-07 : Standard pregnancy test for Normal pregnancy
+  2010-01-24 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-10-22 : Influenza, seasonal, injectable, preservative free
+  2014-10-19 : Influenza, seasonal, injectable, preservative free
+  2013-01-27 : Influenza, seasonal, injectable, preservative free
+  2010-01-24 : meningococcal MCV4P
+  2010-01-24 : Hep B, adult
+  2010-01-24 : Td (adult) preservative free
+  2010-01-24 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-07-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-04-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-12-31 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-10-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-10-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-07-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-04-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-01-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-10-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-09-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-07-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-04-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-01-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-10-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-10-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-08-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-08-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-07-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-06-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-05-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-04-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-03-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-02-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-01-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2014-10-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2014-10-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Sinusitis (disorder)
+2014-10-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2014-10-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-10-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Sinusitis (disorder)
+2014-10-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2014-09-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Sinusitis (disorder)
+2013-03-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-01-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-10-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-11-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Complication occuring during pregnancy
+2011-11-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2011-10-16 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2011-09-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2010-03-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-03-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2010-03-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2010-03-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2010-01-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-10-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2007-06-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

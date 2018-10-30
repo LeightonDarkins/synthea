@@ -1,0 +1,230 @@
+Burt293 Rath779
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2001-08-20
+Marital Status:      S
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-07-02[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2016-07-02[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2013-04-19[STOPPED] : Acetaminophen 160 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-07-02 - 2016-07-16 : Otitis media
+  2015-01-24 - 2015-02-14 : Viral sinusitis (disorder)
+  2014-06-03 -            : Chronic sinusitis (disorder)
+  2014-05-06 - 2014-07-22 : Sinusitis (disorder)
+  2013-04-19 - 2013-05-19 : Fracture of clavicle
+  2012-05-19 - 2012-06-09 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-04-19[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-07-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+           - MCV [Entitic volume] by Automated count  82.9 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 415.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 252.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2012-02-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.5 %
+           - MCV [Entitic volume] by Automated count  85.4 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 401.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 458.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-30 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 72.2 mmHg
+           - Systolic Blood Pressure                  107.2 mmHg
+  2018-07-30 : Body Mass Index                          16.5 kg/m2
+  2018-07-30 : Body Weight                              54.0 kg
+  2018-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2018-07-30 : Body Height                              181.1 cm
+  2017-07-24 : Tobacco smoking status NHIS              Never smoker 
+  2017-07-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2017-07-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 252.9 fL
+  2017-07-24 : Platelets [#/volume] in Blood by Automated count 415.2 10*3/uL
+  2017-07-24 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  2017-07-24 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2017-07-24 : MCH [Entitic mass] by Automated count    31.9 pg
+  2017-07-24 : MCV [Entitic volume] by Automated count  82.9 fL
+  2017-07-24 : Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+  2017-07-24 : Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+  2017-07-24 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2017-07-24 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2017-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mmHg
+           - Systolic Blood Pressure                  118.5 mmHg
+  2017-07-24 : Body Mass Index                          15.6 kg/m2
+  2017-07-24 : Body Weight                              50.1 kg
+  2017-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2017-07-24 : Body Height                              179.2 cm
+  2016-07-18 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 86.5 mmHg
+           - Systolic Blood Pressure                  105.0 mmHg
+  2016-07-18 : Body Mass Index                          14.8 kg/m2
+  2016-07-18 : Body Weight                              45.6 kg
+  2016-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2016-07-18 : Body Height                              175.6 cm
+  2015-07-13 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-13 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  115.3 mmHg
+  2015-07-13 : Body Mass Index                          14.2 kg/m2
+  2015-07-13 : Body Weight                              40.9 kg
+  2015-07-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2015-07-13 : Body Height                              169.4 cm
+  2014-07-07 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-07 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  111.7 mmHg
+  2014-07-07 : Body Mass Index                          13.9 kg/m2
+  2014-07-07 : Body Weight                              36.4 kg
+  2014-07-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2014-07-07 : Body Height                              161.6 cm
+  2014-06-16 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-16 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  102.4 mmHg
+  2014-06-16 : Body Mass Index                          13.9 kg/m2
+  2014-06-16 : Body Weight                              36.0 kg
+  2014-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-06-16 : Body Height                              160.9 cm
+  2014-03-03 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-03 : Blood Pressure
+           - Diastolic Blood Pressure                 82.6 mmHg
+           - Systolic Blood Pressure                  106.8 mmHg
+  2014-03-03 : Body Mass Index                          13.8 kg/m2
+  2014-03-03 : Body Weight                              35.0 kg
+  2014-03-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2014-03-03 : Body Height                              159.0 cm
+  2013-02-25 : Tobacco smoking status NHIS              Never smoker 
+  2013-02-25 : Blood Pressure
+           - Diastolic Blood Pressure                 80.2 mmHg
+           - Systolic Blood Pressure                  137.7 mmHg
+  2013-02-25 : Body Mass Index                          13.4 kg/m2
+  2013-02-25 : Body Weight                              30.9 kg
+  2013-02-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2013-02-25 : Body Height                              151.9 cm
+  2012-02-20 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2012-02-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 458.9 fL
+  2012-02-20 : Platelets [#/volume] in Blood by Automated count 401.7 10*3/uL
+  2012-02-20 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  2012-02-20 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2012-02-20 : MCH [Entitic mass] by Automated count    31.1 pg
+  2012-02-20 : MCV [Entitic volume] by Automated count  85.4 fL
+  2012-02-20 : Hematocrit [Volume Fraction] of Blood by Automated count 42.5 %
+  2012-02-20 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2012-02-20 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2012-02-20 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2012-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 82.4 mmHg
+           - Systolic Blood Pressure                  116.1 mmHg
+  2012-02-20 : Body Mass Index                          13.0 kg/m2
+  2012-02-20 : Body Weight                              27.8 kg
+  2012-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2012-02-20 : Body Height                              146.5 cm
+  2011-02-14 : Tobacco smoking status NHIS              Never smoker 
+  2011-02-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mmHg
+           - Systolic Blood Pressure                  120.4 mmHg
+  2011-02-14 : Body Mass Index                          12.6 kg/m2
+  2011-02-14 : Body Weight                              25.2 kg
+  2011-02-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2011-02-14 : Body Height                              141.2 cm
+  2010-02-08 : Tobacco smoking status NHIS              Never smoker 
+  2010-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  116.4 mmHg
+  2010-02-08 : Body Mass Index                          12.4 kg/m2
+  2010-02-08 : Body Weight                              22.8 kg
+  2010-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2010-02-08 : Body Height                              135.5 cm
+  2009-02-02 : Tobacco smoking status NHIS              Never smoker 
+  2009-02-02 : Blood Pressure
+           - Diastolic Blood Pressure                 84.7 mmHg
+           - Systolic Blood Pressure                  103.2 mmHg
+  2009-02-02 : Body Mass Index                          12.4 kg/m2
+  2009-02-02 : Body Weight                              20.7 kg
+  2009-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2009-02-02 : Body Height                              129.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-07-30 : Documentation of current medications
+  2014-06-16 : Documentation of current medications
+  2013-04-19 : Admission to orthopedic department for Fracture of clavicle
+  2013-04-19 : Clavicle X-ray
+  2010-02-08 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-30 : meningococcal MCV4P
+  2018-07-30 : Influenza, seasonal, injectable, preservative free
+  2017-07-24 : Influenza, seasonal, injectable, preservative free
+  2016-07-18 : Influenza, seasonal, injectable, preservative free
+  2015-07-13 : Influenza, seasonal, injectable, preservative free
+  2014-06-16 : HPV, quadrivalent
+  2014-06-16 : Influenza, seasonal, injectable, preservative free
+  2014-03-03 : HPV, quadrivalent
+  2014-03-03 : Influenza, seasonal, injectable, preservative free
+  2013-02-25 : meningococcal MCV4P
+  2013-02-25 : HPV, quadrivalent
+  2013-02-25 : Influenza, seasonal, injectable, preservative free
+  2013-02-25 : Tdap
+  2012-02-20 : Influenza, seasonal, injectable, preservative free
+  2011-02-14 : Influenza, seasonal, injectable, preservative free
+  2010-02-08 : Influenza, seasonal, injectable, preservative free
+  2009-02-02 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-07-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-07-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-07-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Otitis media
+2015-07-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-01-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2014-07-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-06-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Sinusitis (disorder)
+2014-06-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-06-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Sinusitis (disorder)
+2014-05-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Sinusitis (disorder)
+2014-03-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-05-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Fracture of clavicle
+2013-04-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-02-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-05-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2012-02-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-02-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-02-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-02-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2013-04-19 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------

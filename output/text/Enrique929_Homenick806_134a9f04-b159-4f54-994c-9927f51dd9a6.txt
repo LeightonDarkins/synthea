@@ -1,0 +1,256 @@
+Enrique929 Homenick806
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1983-08-14
+Marital Status:      S
+Outpatient Provider: HOLYOKE MEDICAL CENTER
+Primary Care Provider: 575 BEECH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2003-07-31[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2002-10-13[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  2001-10-07[STOPPED] : Hydrochlorothiazide 6.25 MG for Hypertension
+  2000-07-15[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2000-07-15[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2006-10-22 -            : Pulmonary emphysema (disorder)
+  2003-10-10 -            : Chronic sinusitis (disorder)
+  2003-09-05 - 2003-10-24 : Sinusitis (disorder)
+  2003-07-31 - 2003-08-07 : Acute bronchitis (disorder)
+  2003-04-15 - 2003-04-23 : Acute viral pharyngitis (disorder)
+  2003-01-19 -            : Drug overdose
+  2001-10-07 -            : Hypertension
+  2000-07-15 - 2000-08-14 : Fracture of forearm
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2006-10-22[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+  2003-07-31[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2003-01-19[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  2000-07-15[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2006-10-29 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Pulmonary emphysema (disorder) 
+  2006-10-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.9 %
+           - MCV [Entitic volume] by Automated count  93.6 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+           - Platelets [#/volume] in Blood by Automated count 338.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 211.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  1999-09-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+           - MCV [Entitic volume] by Automated count  94.0 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 257.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 506.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2006-10-29 : Cause of Death [US Standard Certificate of Death] Pulmonary emphysema (disorder) 
+  2006-10-22 : FEV1/FVC                                 71.1 %
+  2006-10-22 : Tobacco smoking status NHIS              Never smoker 
+  2006-10-22 : Estimated Glomerular Filtration Rate     130.6 mL/min/{1.73_m2}
+  2006-10-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2006-10-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 211.0 fL
+  2006-10-22 : Platelets [#/volume] in Blood by Automated count 338.3 10*3/uL
+  2006-10-22 : Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+  2006-10-22 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2006-10-22 : MCH [Entitic mass] by Automated count    32.2 pg
+  2006-10-22 : MCV [Entitic volume] by Automated count  93.6 fL
+  2006-10-22 : Hematocrit [Volume Fraction] of Blood by Automated count 48.9 %
+  2006-10-22 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  2006-10-22 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2006-10-22 : Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+  2006-10-22 : Blood Pressure
+           - Diastolic Blood Pressure                 94.1 mmHg
+           - Systolic Blood Pressure                  162.7 mmHg
+  2006-10-22 : Body Mass Index                          22.0 kg/m2
+  2006-10-22 : Body Weight                              66.2 kg
+  2006-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2006-10-22 : Body Height                              173.5 cm
+  2004-06-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2003-10-19 : Tobacco smoking status NHIS              Never smoker 
+  2003-10-19 : Estimated Glomerular Filtration Rate     115.4 mL/min/{1.73_m2}
+  2003-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 96.5 mmHg
+           - Systolic Blood Pressure                  179.7 mmHg
+  2003-10-19 : Body Mass Index                          20.4 kg/m2
+  2003-10-19 : Body Weight                              61.6 kg
+  2003-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2003-10-19 : Body Height                              173.5 cm
+  2003-04-15 : Oral temperature                         37.8 Cel
+  2003-04-20 : Tobacco smoking status NHIS              Never smoker 
+  2003-04-20 : Estimated Glomerular Filtration Rate     127.4 mL/min/{1.73_m2}
+  2003-04-20 : Blood Pressure
+           - Diastolic Blood Pressure                 106.2 mmHg
+           - Systolic Blood Pressure                  173.3 mmHg
+  2003-04-20 : Body Mass Index                          19.7 kg/m2
+  2003-04-20 : Body Weight                              59.3 kg
+  2003-04-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2003-04-20 : Body Height                              173.4 cm
+  2002-10-13 : Tobacco smoking status NHIS              Never smoker 
+  2002-10-13 : Estimated Glomerular Filtration Rate     86.4 mL/min/{1.73_m2}
+  2002-10-13 : Blood Pressure
+           - Diastolic Blood Pressure                 94.2 mmHg
+           - Systolic Blood Pressure                  186.7 mmHg
+  2002-10-13 : Body Mass Index                          19.5 kg/m2
+  2002-10-13 : Body Weight                              58.7 kg
+  2002-10-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2002-10-13 : Body Height                              173.3 cm
+  2001-10-07 : Tobacco smoking status NHIS              Never smoker 
+  2001-10-07 : Blood Pressure
+           - Diastolic Blood Pressure                 108.4 mmHg
+           - Systolic Blood Pressure                  194.5 mmHg
+  2001-10-07 : Body Mass Index                          19.1 kg/m2
+  2001-10-07 : Body Weight                              57.1 kg
+  2001-10-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2001-10-07 : Body Height                              172.9 cm
+  2000-10-01 : Tobacco smoking status NHIS              Never smoker 
+  2000-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  106.1 mmHg
+  2000-10-01 : Body Mass Index                          18.5 kg/m2
+  2000-10-01 : Body Weight                              54.7 kg
+  2000-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2000-10-01 : Body Height                              172.0 cm
+  2000-07-15 : DXA [T-score] Bone density               0.2 {T-score}
+  1999-09-26 : Tobacco smoking status NHIS              Never smoker 
+  1999-09-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  1999-09-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 506.0 fL
+  1999-09-26 : Platelets [#/volume] in Blood by Automated count 257.2 10*3/uL
+  1999-09-26 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  1999-09-26 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  1999-09-26 : MCH [Entitic mass] by Automated count    30.2 pg
+  1999-09-26 : MCV [Entitic volume] by Automated count  94.0 fL
+  1999-09-26 : Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+  1999-09-26 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  1999-09-26 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  1999-09-26 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  1999-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mmHg
+           - Systolic Blood Pressure                  125.0 mmHg
+  1999-09-26 : Body Mass Index                          17.7 kg/m2
+  1999-09-26 : Body Weight                              51.3 kg
+  1999-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  1999-09-26 : Body Height                              170.3 cm
+  1998-09-20 : Tobacco smoking status NHIS              Never smoker 
+  1998-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 78.6 mmHg
+           - Systolic Blood Pressure                  109.4 mmHg
+  1998-09-20 : Body Mass Index                          16.8 kg/m2
+  1998-09-20 : Body Weight                              46.6 kg
+  1998-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  1998-09-20 : Body Height                              166.5 cm
+  1997-09-14 : Tobacco smoking status NHIS              Never smoker 
+  1997-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 70.5 mmHg
+           - Systolic Blood Pressure                  136.3 mmHg
+  1997-09-14 : Body Mass Index                          16.3 kg/m2
+  1997-09-14 : Body Weight                              41.8 kg
+  1997-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  1997-09-14 : Body Height                              160.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2006-10-22 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2003-07-31 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2002-10-13 : Documentation of current medications
+  2000-10-01 : Documentation of current medications
+  2000-07-15 : Bone density scan (procedure) for Fracture of forearm
+  2000-07-15 : Bone immobilization for Fracture of forearm
+  2000-07-15 : Upper arm X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2006-10-22 : Hep B, adult
+  2006-10-22 : Influenza, seasonal, injectable, preservative free
+  2006-08-27 : meningococcal MCV4P
+  2006-08-27 : Hep B, adult
+  2006-08-27 : Td (adult) preservative free
+  2006-08-27 : Influenza, seasonal, injectable, preservative free
+  2003-10-19 : Hep B, adult
+  2003-04-20 : Influenza, seasonal, injectable, preservative free
+  2002-10-13 : Influenza, seasonal, injectable, preservative free
+  2001-10-07 : Influenza, seasonal, injectable, preservative free
+  2000-10-01 : Influenza, seasonal, injectable, preservative free
+  1999-09-26 : Influenza, seasonal, injectable, preservative free
+  1998-09-20 : Influenza, seasonal, injectable, preservative free
+  1997-09-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2006-10-29 : Death Certification
+2006-10-22 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2006-08-27 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2006-06-04 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2006-03-19 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Drug overdose
+2005-07-29 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2005-06-29 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2005-05-30 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2005-04-30 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2005-03-31 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2004-06-10 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2004-06-03 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Drug overdose
+2003-10-19 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2003-10-10 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Sinusitis (disorder)
+2003-09-30 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2003-09-05 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Sinusitis (disorder)
+2003-08-31 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2003-08-10 (Dr. Jaye603 Lang846) : Encounter at RIVER BEND MEDICAL GROUP - CHICOPEE OFFICE - URGENT CARE
+2003-07-31 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2003-04-15 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2003-04-20 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2003-01-19 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Drug overdose
+2002-10-13 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2002-03-01 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2002-01-30 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-12-31 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-12-01 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-11-01 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-10-02 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-10-07 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-09-02 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-08-03 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-07-04 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-06-04 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-05-05 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-04-05 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-03-06 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2000-10-01 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2000-08-14 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Fracture of forearm
+2000-07-15 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+1999-09-26 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+1998-09-20 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+1997-09-14 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2000-07-15 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

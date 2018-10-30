@@ -1,0 +1,241 @@
+Patti584 Beier427
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 38
+Birth Date:          1980-07-13
+Marital Status:      M
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-10-08[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2012-08-17[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2009-09-20[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1998-08-02[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-10-08 - 2017-10-22 : Acute bronchitis (disorder)
+  2012-08-17 - 2012-08-31 : Acute bronchitis (disorder)
+  2011-08-21 -            : Body mass index 30+ - obesity (finding)
+  2009-09-20 - 2009-09-27 : Acute bronchitis (disorder)
+  1998-08-02 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-10-08[CURRENT] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2012-08-17[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2009-09-20[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1981-08-08[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-08-27 : Lipid Panel
+           - Total Cholesterol                        163.6 mg/dL
+           - Triglycerides                            111.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.7 mg/dL
+           - High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2014-08-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.7 %
+           - MCV [Entitic volume] by Automated count  80.2 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 204.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 403.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2014-08-24 : Lipid Panel
+           - Total Cholesterol                        193.4 mg/dL
+           - Triglycerides                            138.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      104.3 mg/dL
+           - High Density Lipoprotein Cholesterol     61.3 mg/dL
+  2011-08-21 : Lipid Panel
+           - Total Cholesterol                        177.6 mg/dL
+           - Triglycerides                            102.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.1 mg/dL
+           - High Density Lipoprotein Cholesterol     72.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-10-15 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-15 : Estimated Glomerular Filtration Rate     160.8 mL/min/{1.73_m2}
+  2017-10-15 : Blood Pressure
+           - Diastolic Blood Pressure                 112.2 mmHg
+           - Systolic Blood Pressure                  197.0 mmHg
+  2017-10-15 : Body Mass Index                          34.2 kg/m2
+  2017-10-15 : Body Weight                              87.3 kg
+  2017-10-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2017-10-15 : Body Height                              159.8 cm
+  2017-08-27 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-27 : Estimated Glomerular Filtration Rate     78.0 mL/min/{1.73_m2}
+  2017-08-27 : High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2017-08-27 : Low Density Lipoprotein Cholesterol      76.7 mg/dL
+  2017-08-27 : Triglycerides                            111.0 mg/dL
+  2017-08-27 : Total Cholesterol                        163.6 mg/dL
+  2017-08-27 : Blood Pressure
+           - Diastolic Blood Pressure                 116.4 mmHg
+           - Systolic Blood Pressure                  150.1 mmHg
+  2017-08-27 : Body Mass Index                          34.2 kg/m2
+  2017-08-27 : Body Weight                              87.3 kg
+  2017-08-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2017-08-27 : Body Height                              159.8 cm
+  2014-08-24 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-24 : Estimated Glomerular Filtration Rate     59.5 mL/min/{1.73_m2}
+  2014-08-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2014-08-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 403.6 fL
+  2014-08-24 : Platelets [#/volume] in Blood by Automated count 204.9 10*3/uL
+  2014-08-24 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2014-08-24 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2014-08-24 : MCH [Entitic mass] by Automated count    30.4 pg
+  2014-08-24 : MCV [Entitic volume] by Automated count  80.2 fL
+  2014-08-24 : Hematocrit [Volume Fraction] of Blood by Automated count 36.7 %
+  2014-08-24 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2014-08-24 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2014-08-24 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2014-08-24 : High Density Lipoprotein Cholesterol     61.3 mg/dL
+  2014-08-24 : Low Density Lipoprotein Cholesterol      104.3 mg/dL
+  2014-08-24 : Triglycerides                            138.7 mg/dL
+  2014-08-24 : Total Cholesterol                        193.4 mg/dL
+  2014-08-24 : Blood Pressure
+           - Diastolic Blood Pressure                 118.4 mmHg
+           - Systolic Blood Pressure                  165.0 mmHg
+  2014-08-24 : Body Mass Index                          32.3 kg/m2
+  2014-08-24 : Body Weight                              82.5 kg
+  2014-08-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2014-08-24 : Body Height                              159.8 cm
+  2011-08-21 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-21 : Estimated Glomerular Filtration Rate     91.8 mL/min/{1.73_m2}
+  2011-08-21 : High Density Lipoprotein Cholesterol     72.0 mg/dL
+  2011-08-21 : Low Density Lipoprotein Cholesterol      85.1 mg/dL
+  2011-08-21 : Triglycerides                            102.3 mg/dL
+  2011-08-21 : Total Cholesterol                        177.6 mg/dL
+  2011-08-21 : Blood Pressure
+           - Diastolic Blood Pressure                 106.0 mmHg
+           - Systolic Blood Pressure                  140.2 mmHg
+  2011-08-21 : Body Mass Index                          30.4 kg/m2
+  2011-08-21 : Body Weight                              77.7 kg
+  2011-08-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2011-08-21 : Body Height                              159.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-19 : Intramuscular injection
+  2018-05-20 : Intramuscular injection
+  2018-02-18 : Intramuscular injection
+  2017-11-19 : Intramuscular injection
+  2017-08-27 : Documentation of current medications
+  2017-08-20 : Intramuscular injection
+  2017-05-21 : Intramuscular injection
+  2017-02-19 : Intramuscular injection
+  2016-11-20 : Intramuscular injection
+  2016-08-21 : Intramuscular injection
+  2016-05-22 : Intramuscular injection
+  2016-02-21 : Intramuscular injection
+  2015-11-22 : Intramuscular injection
+  2015-08-23 : Intramuscular injection
+  2015-05-24 : Intramuscular injection
+  2015-02-22 : Intramuscular injection
+  2014-11-23 : Intramuscular injection
+  2014-08-24 : Intramuscular injection
+  2014-05-25 : Intramuscular injection
+  2014-02-23 : Intramuscular injection
+  2013-11-24 : Intramuscular injection
+  2013-08-25 : Intramuscular injection
+  2013-05-26 : Intramuscular injection
+  2013-02-24 : Intramuscular injection
+  2012-11-25 : Intramuscular injection
+  2012-08-26 : Intramuscular injection
+  2012-08-17 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2012-05-27 : Intramuscular injection
+  2012-02-26 : Intramuscular injection
+  2011-11-27 : Intramuscular injection
+  2011-08-28 : Intramuscular injection
+  2011-05-29 : Intramuscular injection
+  2011-02-27 : Intramuscular injection
+  2010-11-28 : Intramuscular injection
+  2010-08-29 : Intramuscular injection
+  2010-05-30 : Intramuscular injection
+  2010-02-28 : Intramuscular injection
+  2009-11-29 : Intramuscular injection
+  2009-08-30 : Intramuscular injection
+  2009-05-31 : Intramuscular injection
+  2009-03-01 : Intramuscular injection
+  2008-11-30 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-10-15 : Influenza, seasonal, injectable, preservative free
+  2017-08-27 : Influenza, seasonal, injectable, preservative free
+  2014-08-24 : Influenza, seasonal, injectable, preservative free
+  2011-08-21 : Td (adult) preservative free
+  2011-08-21 : Influenza, seasonal, injectable, preservative free
+  2009-09-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-05-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-02-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-11-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-10-15 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-10-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2017-08-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-08-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-05-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-02-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-11-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-08-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-05-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-02-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-11-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-08-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-05-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-02-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-11-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-08-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-08-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-05-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-02-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-11-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-08-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-05-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-02-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-11-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-08-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-08-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2012-05-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-02-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-11-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-08-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-08-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-05-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-02-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-11-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-08-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-05-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-02-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-11-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-09-27 (Dr. Aileen250 Johnston597) : Encounter at CONCENTRA URGENT CARE - EAST BOSTON
+2009-09-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2009-08-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-05-31 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-03-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-11-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1998-08-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1981-08-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,438 @@
+Forest317 Conn188
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 72
+Birth Date:          1946-08-15
+Marital Status:      M
+Outpatient Provider: FALMOUTH HOSPITAL
+Primary Care Provider: 67 & 100 TER HEUN DRIVE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2010-12-02[CURRENT] : Amlodipine 5 MG Oral Tablet
+  2010-12-02[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2010-12-02[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2010-12-02[CURRENT] : Clopidogrel 75 MG Oral Tablet
+  1968-08-29[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-02-14 - 2016-02-27 : Acute viral pharyngitis (disorder)
+  2010-12-02 -            : Coronary Heart Disease
+  1977-09-08 -            : Prediabetes
+  1977-05-29 -            : Chronic sinusitis (disorder)
+  1965-11-17 - 1965-12-15 : Chronic sinusitis (disorder)
+  1964-08-20 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1977-09-08[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-01-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+           - MCV [Entitic volume] by Automated count  81.5 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 412.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 175.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2018-01-11 : Lipid Panel
+           - Total Cholesterol                        166.1 mg/dL
+           - Triglycerides                            124.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.3 mg/dL
+           - High Density Lipoprotein Cholesterol     68.9 mg/dL
+  2018-01-11 : Basic Metabolic Panel
+           - Glucose                                  98.3 mg/dL
+           - Urea Nitrogen                            9.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   143.5 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           24.5 mmol/L
+  2017-01-05 : Basic Metabolic Panel
+           - Glucose                                  92.7 mg/dL
+           - Urea Nitrogen                            9.2 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   136.2 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 104.1 mmol/L
+           - Carbon Dioxide                           26.9 mmol/L
+  2015-12-31 : Basic Metabolic Panel
+           - Glucose                                  66.0 mg/dL
+           - Urea Nitrogen                            8.5 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   139.1 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 110.4 mmol/L
+           - Carbon Dioxide                           21.5 mmol/L
+  2014-12-25 : Lipid Panel
+           - Total Cholesterol                        197.0 mg/dL
+           - Triglycerides                            145.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.0 mg/dL
+           - High Density Lipoprotein Cholesterol     71.0 mg/dL
+  2014-12-25 : Basic Metabolic Panel
+           - Glucose                                  99.3 mg/dL
+           - Urea Nitrogen                            9.1 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 108.4 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+  2013-12-19 : Basic Metabolic Panel
+           - Glucose                                  69.1 mg/dL
+           - Urea Nitrogen                            12.2 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   143.8 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 103.4 mmol/L
+           - Carbon Dioxide                           24.4 mmol/L
+  2012-12-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.4 %
+           - MCV [Entitic volume] by Automated count  94.6 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+           - Platelets [#/volume] in Blood by Automated count 322.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 396.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2012-12-13 : Basic Metabolic Panel
+           - Glucose                                  96.6 mg/dL
+           - Urea Nitrogen                            8.7 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   141.8 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 102.1 mmol/L
+           - Carbon Dioxide                           22.7 mmol/L
+  2011-12-08 : Lipid Panel
+           - Total Cholesterol                        162.5 mg/dL
+           - Triglycerides                            112.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      64.2 mg/dL
+           - High Density Lipoprotein Cholesterol     75.9 mg/dL
+  2011-12-08 : Basic Metabolic Panel
+           - Glucose                                  91.0 mg/dL
+           - Urea Nitrogen                            12.9 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   136.2 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 103.3 mmol/L
+           - Carbon Dioxide                           28.6 mmol/L
+  2010-12-02 : Basic Metabolic Panel
+           - Glucose                                  98.8 mg/dL
+           - Urea Nitrogen                            20.0 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   142.8 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 105.7 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2009-11-26 : Basic Metabolic Panel
+           - Glucose                                  99.8 mg/dL
+           - Urea Nitrogen                            9.3 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 102.7 mmol/L
+           - Carbon Dioxide                           22.6 mmol/L
+  2008-11-20 : Lipid Panel
+           - Total Cholesterol                        165.7 mg/dL
+           - Triglycerides                            120.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      71.7 mg/dL
+           - High Density Lipoprotein Cholesterol     70.0 mg/dL
+  2008-11-20 : Basic Metabolic Panel
+           - Glucose                                  84.5 mg/dL
+           - Urea Nitrogen                            9.0 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 104.3 mmol/L
+           - Carbon Dioxide                           29.0 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-01-11 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2018-01-11 : Tobacco smoking status NHIS              Former smoker 
+  2018-01-11 : Estimated Glomerular Filtration Rate     96.6 mL/min/{1.73_m2}
+  2018-01-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2018-01-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 175.7 fL
+  2018-01-11 : Platelets [#/volume] in Blood by Automated count 412.0 10*3/uL
+  2018-01-11 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  2018-01-11 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2018-01-11 : MCH [Entitic mass] by Automated count    28.8 pg
+  2018-01-11 : MCV [Entitic volume] by Automated count  81.5 fL
+  2018-01-11 : Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+  2018-01-11 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2018-01-11 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2018-01-11 : Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+  2018-01-11 : High Density Lipoprotein Cholesterol     68.9 mg/dL
+  2018-01-11 : Low Density Lipoprotein Cholesterol      72.3 mg/dL
+  2018-01-11 : Triglycerides                            124.3 mg/dL
+  2018-01-11 : Total Cholesterol                        166.1 mg/dL
+  2018-01-11 : Carbon Dioxide                           24.5 mmol/L
+  2018-01-11 : Chloride                                 109.5 mmol/L
+  2018-01-11 : Potassium                                5.1 mmol/L
+  2018-01-11 : Sodium                                   143.5 mmol/L
+  2018-01-11 : Calcium                                  9.9 mg/dL
+  2018-01-11 : Creatinine                               0.9 mg/dL
+  2018-01-11 : Urea Nitrogen                            9.9 mg/dL
+  2018-01-11 : Glucose                                  98.3 mg/dL
+  2018-01-11 : Blood Pressure
+           - Diastolic Blood Pressure                 103.8 mmHg
+           - Systolic Blood Pressure                  171.0 mmHg
+  2018-01-11 : Body Mass Index                          26.0 kg/m2
+  2018-01-11 : Body Weight                              91.5 kg
+  2018-01-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2018-01-11 : Body Height                              187.5 cm
+  2017-01-05 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2017-01-05 : Tobacco smoking status NHIS              Former smoker 
+  2017-01-05 : Estimated Glomerular Filtration Rate     131.1 mL/min/{1.73_m2}
+  2017-01-05 : Carbon Dioxide                           26.9 mmol/L
+  2017-01-05 : Chloride                                 104.1 mmol/L
+  2017-01-05 : Potassium                                5.0 mmol/L
+  2017-01-05 : Sodium                                   136.2 mmol/L
+  2017-01-05 : Calcium                                  9.8 mg/dL
+  2017-01-05 : Creatinine                               0.9 mg/dL
+  2017-01-05 : Urea Nitrogen                            9.2 mg/dL
+  2017-01-05 : Glucose                                  92.7 mg/dL
+  2017-01-05 : Blood Pressure
+           - Diastolic Blood Pressure                 95.2 mmHg
+           - Systolic Blood Pressure                  143.0 mmHg
+  2017-01-05 : Body Mass Index                          26.4 kg/m2
+  2017-01-05 : Body Weight                              92.7 kg
+  2017-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2017-01-05 : Body Height                              187.5 cm
+  2016-02-14 : Oral temperature                         37.9 Cel
+  2015-12-31 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2015-12-31 : Tobacco smoking status NHIS              Former smoker 
+  2015-12-31 : Estimated Glomerular Filtration Rate     155.1 mL/min/{1.73_m2}
+  2015-12-31 : Carbon Dioxide                           21.5 mmol/L
+  2015-12-31 : Chloride                                 110.4 mmol/L
+  2015-12-31 : Potassium                                4.1 mmol/L
+  2015-12-31 : Sodium                                   139.1 mmol/L
+  2015-12-31 : Calcium                                  9.3 mg/dL
+  2015-12-31 : Creatinine                               0.9 mg/dL
+  2015-12-31 : Urea Nitrogen                            8.5 mg/dL
+  2015-12-31 : Glucose                                  66.0 mg/dL
+  2015-12-31 : Blood Pressure
+           - Diastolic Blood Pressure                 104.1 mmHg
+           - Systolic Blood Pressure                  188.7 mmHg
+  2015-12-31 : Body Mass Index                          26.8 kg/m2
+  2015-12-31 : Body Weight                              94.2 kg
+  2015-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2015-12-31 : Body Height                              187.5 cm
+  2014-12-25 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2014-12-25 : Tobacco smoking status NHIS              Former smoker 
+  2014-12-25 : Estimated Glomerular Filtration Rate     97.7 mL/min/{1.73_m2}
+  2014-12-25 : High Density Lipoprotein Cholesterol     71.0 mg/dL
+  2014-12-25 : Low Density Lipoprotein Cholesterol      97.0 mg/dL
+  2014-12-25 : Triglycerides                            145.0 mg/dL
+  2014-12-25 : Total Cholesterol                        197.0 mg/dL
+  2014-12-25 : Carbon Dioxide                           24.1 mmol/L
+  2014-12-25 : Chloride                                 108.4 mmol/L
+  2014-12-25 : Potassium                                3.9 mmol/L
+  2014-12-25 : Sodium                                   136.5 mmol/L
+  2014-12-25 : Calcium                                  9.1 mg/dL
+  2014-12-25 : Creatinine                               1.0 mg/dL
+  2014-12-25 : Urea Nitrogen                            9.1 mg/dL
+  2014-12-25 : Glucose                                  99.3 mg/dL
+  2014-12-25 : Blood Pressure
+           - Diastolic Blood Pressure                 98.0 mmHg
+           - Systolic Blood Pressure                  190.4 mmHg
+  2014-12-25 : Body Mass Index                          27.3 kg/m2
+  2014-12-25 : Body Weight                              96.0 kg
+  2014-12-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2014-12-25 : Body Height                              187.5 cm
+  2013-12-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2013-12-19 : Tobacco smoking status NHIS              Former smoker 
+  2013-12-19 : Estimated Glomerular Filtration Rate     135.4 mL/min/{1.73_m2}
+  2013-12-19 : Carbon Dioxide                           24.4 mmol/L
+  2013-12-19 : Chloride                                 103.4 mmol/L
+  2013-12-19 : Potassium                                4.6 mmol/L
+  2013-12-19 : Sodium                                   143.8 mmol/L
+  2013-12-19 : Calcium                                  8.9 mg/dL
+  2013-12-19 : Creatinine                               1.0 mg/dL
+  2013-12-19 : Urea Nitrogen                            12.2 mg/dL
+  2013-12-19 : Glucose                                  69.1 mg/dL
+  2013-12-19 : Blood Pressure
+           - Diastolic Blood Pressure                 114.8 mmHg
+           - Systolic Blood Pressure                  173.9 mmHg
+  2013-12-19 : Body Mass Index                          27.8 kg/m2
+  2013-12-19 : Body Weight                              97.8 kg
+  2013-12-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2013-12-19 : Body Height                              187.5 cm
+  2012-12-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2012-12-13 : Tobacco smoking status NHIS              Former smoker 
+  2012-12-13 : Estimated Glomerular Filtration Rate     77.2 mL/min/{1.73_m2}
+  2012-12-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2012-12-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 396.9 fL
+  2012-12-13 : Platelets [#/volume] in Blood by Automated count 322.3 10*3/uL
+  2012-12-13 : Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+  2012-12-13 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2012-12-13 : MCH [Entitic mass] by Automated count    27.5 pg
+  2012-12-13 : MCV [Entitic volume] by Automated count  94.6 fL
+  2012-12-13 : Hematocrit [Volume Fraction] of Blood by Automated count 39.4 %
+  2012-12-13 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2012-12-13 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2012-12-13 : Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+  2012-12-13 : Carbon Dioxide                           22.7 mmol/L
+  2012-12-13 : Chloride                                 102.1 mmol/L
+  2012-12-13 : Potassium                                4.5 mmol/L
+  2012-12-13 : Sodium                                   141.8 mmol/L
+  2012-12-13 : Calcium                                  9.2 mg/dL
+  2012-12-13 : Creatinine                               1.3 mg/dL
+  2012-12-13 : Urea Nitrogen                            8.7 mg/dL
+  2012-12-13 : Glucose                                  96.6 mg/dL
+  2012-12-13 : Blood Pressure
+           - Diastolic Blood Pressure                 94.6 mmHg
+           - Systolic Blood Pressure                  150.1 mmHg
+  2012-12-13 : Body Mass Index                          28.1 kg/m2
+  2012-12-13 : Body Weight                              98.9 kg
+  2012-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2012-12-13 : Body Height                              187.5 cm
+  2011-12-08 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2011-12-08 : Tobacco smoking status NHIS              Former smoker 
+  2011-12-08 : Estimated Glomerular Filtration Rate     157.5 mL/min/{1.73_m2}
+  2011-12-08 : High Density Lipoprotein Cholesterol     75.9 mg/dL
+  2011-12-08 : Low Density Lipoprotein Cholesterol      64.2 mg/dL
+  2011-12-08 : Triglycerides                            112.1 mg/dL
+  2011-12-08 : Total Cholesterol                        162.5 mg/dL
+  2011-12-08 : Carbon Dioxide                           28.6 mmol/L
+  2011-12-08 : Chloride                                 103.3 mmol/L
+  2011-12-08 : Potassium                                4.3 mmol/L
+  2011-12-08 : Sodium                                   136.2 mmol/L
+  2011-12-08 : Calcium                                  9.3 mg/dL
+  2011-12-08 : Creatinine                               1.0 mg/dL
+  2011-12-08 : Urea Nitrogen                            12.9 mg/dL
+  2011-12-08 : Glucose                                  91.0 mg/dL
+  2011-12-08 : Blood Pressure
+           - Diastolic Blood Pressure                 104.1 mmHg
+           - Systolic Blood Pressure                  192.7 mmHg
+  2011-12-08 : Body Mass Index                          28.6 kg/m2
+  2011-12-08 : Body Weight                              100.7 kg
+  2011-12-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2011-12-08 : Body Height                              187.5 cm
+  2010-12-02 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2010-12-02 : Tobacco smoking status NHIS              Former smoker 
+  2010-12-02 : Estimated Glomerular Filtration Rate     127.3 mL/min/{1.73_m2}
+  2010-12-02 : Carbon Dioxide                           26.5 mmol/L
+  2010-12-02 : Chloride                                 105.7 mmol/L
+  2010-12-02 : Potassium                                3.8 mmol/L
+  2010-12-02 : Sodium                                   142.8 mmol/L
+  2010-12-02 : Calcium                                  9.6 mg/dL
+  2010-12-02 : Creatinine                               1.1 mg/dL
+  2010-12-02 : Urea Nitrogen                            20.0 mg/dL
+  2010-12-02 : Glucose                                  98.8 mg/dL
+  2010-12-02 : Blood Pressure
+           - Diastolic Blood Pressure                 119.6 mmHg
+           - Systolic Blood Pressure                  161.8 mmHg
+  2010-12-02 : Body Mass Index                          29.0 kg/m2
+  2010-12-02 : Body Weight                              102.1 kg
+  2010-12-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2010-12-02 : Body Height                              187.5 cm
+  2009-11-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2009-11-26 : Tobacco smoking status NHIS              Former smoker 
+  2009-11-26 : Estimated Glomerular Filtration Rate     137.6 mL/min/{1.73_m2}
+  2009-11-26 : Carbon Dioxide                           22.6 mmol/L
+  2009-11-26 : Chloride                                 102.7 mmol/L
+  2009-11-26 : Potassium                                4.0 mmol/L
+  2009-11-26 : Sodium                                   142.3 mmol/L
+  2009-11-26 : Calcium                                  9.7 mg/dL
+  2009-11-26 : Creatinine                               1.1 mg/dL
+  2009-11-26 : Urea Nitrogen                            9.3 mg/dL
+  2009-11-26 : Glucose                                  99.8 mg/dL
+  2009-11-26 : Blood Pressure
+           - Diastolic Blood Pressure                 101.2 mmHg
+           - Systolic Blood Pressure                  182.3 mmHg
+  2009-11-26 : Body Mass Index                          29.4 kg/m2
+  2009-11-26 : Body Weight                              103.4 kg
+  2009-11-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2009-11-26 : Body Height                              187.5 cm
+  2008-11-20 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2008-11-20 : Tobacco smoking status NHIS              Former smoker 
+  2008-11-20 : Estimated Glomerular Filtration Rate     100.2 mL/min/{1.73_m2}
+  2008-11-20 : High Density Lipoprotein Cholesterol     70.0 mg/dL
+  2008-11-20 : Low Density Lipoprotein Cholesterol      71.7 mg/dL
+  2008-11-20 : Triglycerides                            120.0 mg/dL
+  2008-11-20 : Total Cholesterol                        165.7 mg/dL
+  2008-11-20 : Carbon Dioxide                           29.0 mmol/L
+  2008-11-20 : Chloride                                 104.3 mmol/L
+  2008-11-20 : Potassium                                4.3 mmol/L
+  2008-11-20 : Sodium                                   141.7 mmol/L
+  2008-11-20 : Calcium                                  10.0 mg/dL
+  2008-11-20 : Creatinine                               1.1 mg/dL
+  2008-11-20 : Urea Nitrogen                            9.0 mg/dL
+  2008-11-20 : Glucose                                  84.5 mg/dL
+  2008-11-20 : Blood Pressure
+           - Diastolic Blood Pressure                 91.5 mmHg
+           - Systolic Blood Pressure                  152.0 mmHg
+  2008-11-20 : Body Mass Index                          29.9 kg/m2
+  2008-11-20 : Body Weight                              105.1 kg
+  2008-11-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2008-11-20 : Body Height                              187.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-01-11 : Documentation of current medications
+  2017-08-05 : Colonoscopy
+  2017-01-05 : Documentation of current medications
+  2013-12-19 : Documentation of current medications
+  2012-08-06 : Colonoscopy
+  2010-12-02 : Documentation of current medications
+  2008-11-20 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-11 : Td (adult) preservative free
+  2018-01-11 : Influenza, seasonal, injectable, preservative free
+  2017-01-05 : Influenza, seasonal, injectable, preservative free
+  2015-12-31 : Influenza, seasonal, injectable, preservative free
+  2014-12-25 : Influenza, seasonal, injectable, preservative free
+  2013-12-19 : Influenza, seasonal, injectable, preservative free
+  2012-12-13 : pneumococcal polysaccharide vaccine, 23 valent
+  2012-12-13 : Influenza, seasonal, injectable, preservative free
+  2011-12-08 : Pneumococcal conjugate PCV 13
+  2011-12-08 : Influenza, seasonal, injectable, preservative free
+  2010-12-02 : Influenza, seasonal, injectable, preservative free
+  2009-11-26 : Influenza, seasonal, injectable, preservative free
+  2008-11-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-11 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2017-08-05 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2017-01-05 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2016-02-14 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2015-12-31 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2014-12-25 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2013-12-19 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2012-12-13 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2012-08-06 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2011-12-08 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2010-12-02 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2009-11-26 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2008-11-20 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+1977-09-08 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+1977-05-29 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL : Encounter for Sinusitis (disorder)
+1968-08-29 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+1965-11-17 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL : Encounter for Sinusitis (disorder)
+1964-08-20 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

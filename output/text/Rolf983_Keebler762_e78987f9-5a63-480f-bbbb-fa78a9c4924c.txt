@@ -1,0 +1,191 @@
+Rolf983 Keebler762
+==================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 31
+Birth Date:          1986-12-08
+Marital Status:      M
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1987-06-17 -            : Allergy to peanuts
+  1987-06-17 -            : Shellfish allergy
+  1987-06-17 -            : Allergy to tree pollen
+  1987-06-17 -            : Dander (animal) allergy
+  1987-06-17 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2011-04-29[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1989-12-14[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1989-12-14[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1987-06-17[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1987-06-17[CURRENT] : Terfenadine 60 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-01-18 - 2014-02-01 : Viral sinusitis (disorder)
+  2012-06-12 - 2012-06-22 : Acute viral pharyngitis (disorder)
+  2011-12-07 - 2011-12-21 : Viral sinusitis (disorder)
+  2011-04-29 - 2011-05-20 : Whiplash injury to neck
+  2010-08-28 - 2010-09-04 : Viral sinusitis (disorder)
+  2009-10-29 - 2009-11-26 : Acute bacterial sinusitis (disorder)
+  1992-11-30 -            : History of cardiac arrest (situation)
+  1992-11-30 -            : Cardiac Arrest
+  1990-12-14 -            : Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-04-29[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+  1989-12-14[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1987-06-08[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-07-02 : Lipid Panel
+           - Total Cholesterol                        183.7 mg/dL
+           - Triglycerides                            139.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      95.8 mg/dL
+           - High Density Lipoprotein Cholesterol     60.0 mg/dL
+  2015-06-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+           - MCV [Entitic volume] by Automated count  91.5 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 441.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 386.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2009-11-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.7 %
+           - MCV [Entitic volume] by Automated count  91.7 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 367.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 257.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-02 : High Density Lipoprotein Cholesterol     60.0 mg/dL
+  2018-07-02 : Low Density Lipoprotein Cholesterol      95.8 mg/dL
+  2018-07-02 : Triglycerides                            139.6 mg/dL
+  2018-07-02 : Total Cholesterol                        183.7 mg/dL
+  2018-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  111.6 mmHg
+  2018-07-02 : Body Mass Index                          21.9 kg/m2
+  2018-07-02 : Body Weight                              77.6 kg
+  2018-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2018-07-02 : Body Height                              188.2 cm
+  2015-06-29 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2015-06-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 386.6 fL
+  2015-06-29 : Platelets [#/volume] in Blood by Automated count 441.2 10*3/uL
+  2015-06-29 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2015-06-29 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2015-06-29 : MCH [Entitic mass] by Automated count    31.7 pg
+  2015-06-29 : MCV [Entitic volume] by Automated count  91.5 fL
+  2015-06-29 : Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+  2015-06-29 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2015-06-29 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2015-06-29 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2015-06-29 : Blood Pressure
+           - Diastolic Blood Pressure                 70.3 mmHg
+           - Systolic Blood Pressure                  137.8 mmHg
+  2015-06-29 : Body Mass Index                          20.8 kg/m2
+  2015-06-29 : Body Weight                              73.5 kg
+  2015-06-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2015-06-29 : Body Height                              188.2 cm
+  2012-06-25 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-25 : Blood Pressure
+           - Diastolic Blood Pressure                 81.5 mmHg
+           - Systolic Blood Pressure                  107.3 mmHg
+  2012-06-25 : Body Mass Index                          19.5 kg/m2
+  2012-06-25 : Body Weight                              69.1 kg
+  2012-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2012-06-25 : Body Height                              188.2 cm
+  2012-06-12 : Oral temperature                         37.9 Cel
+  2011-12-05 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-05 : Blood Pressure
+           - Diastolic Blood Pressure                 72.4 mmHg
+           - Systolic Blood Pressure                  105.1 mmHg
+  2011-12-05 : Body Mass Index                          19.0 kg/m2
+  2011-12-05 : Body Weight                              67.1 kg
+  2011-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2011-12-05 : Body Height                              188.2 cm
+  2009-11-02 : Tobacco smoking status NHIS              Never smoker 
+  2009-11-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2009-11-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 257.9 fL
+  2009-11-02 : Platelets [#/volume] in Blood by Automated count 367.1 10*3/uL
+  2009-11-02 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2009-11-02 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2009-11-02 : MCH [Entitic mass] by Automated count    28.7 pg
+  2009-11-02 : MCV [Entitic volume] by Automated count  91.7 fL
+  2009-11-02 : Hematocrit [Volume Fraction] of Blood by Automated count 38.7 %
+  2009-11-02 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2009-11-02 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2009-11-02 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2009-11-02 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  135.7 mmHg
+  2009-11-02 : Body Mass Index                          18.1 kg/m2
+  2009-11-02 : Body Weight                              64.0 kg
+  2009-11-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2009-11-02 : Body Height                              188.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2012-06-25 : Documentation of current medications
+  2012-06-12 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-02 : Td (adult) preservative free
+  2018-07-02 : Influenza, seasonal, injectable, preservative free
+  2015-06-29 : Influenza, seasonal, injectable, preservative free
+  2012-06-18 : Influenza, seasonal, injectable, preservative free
+  2011-12-05 : Influenza, seasonal, injectable, preservative free
+  2010-08-30 : Influenza, seasonal, injectable, preservative free
+  2009-11-02 : meningococcal MCV4P
+  2009-11-02 : Hep B, adult
+  2009-11-02 : Td (adult) preservative free
+  2009-11-02 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-02 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2015-08-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Asthma
+2015-06-29 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2014-01-18 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+2012-06-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-06-12 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute viral pharyngitis (disorder)
+2012-06-18 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+2011-12-07 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+2011-12-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-04-29 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+2010-08-28 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+2010-08-30 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+2009-10-29 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute bacterial sinusitis (disorder)
+2009-11-02 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-09-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Asthma
+1992-11-30 : Emergency Encounter
+1990-12-14 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Perennial allergic rhinitis with seasonal variation
+1989-12-14 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Childhood asthma
+1987-06-17 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1987-06-08 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,191 @@
+Bo157 Dickinson688
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 53
+Birth Date:          1965-01-17
+Marital Status:      M
+Outpatient Provider: HOLYOKE MEDICAL CENTER
+Primary Care Provider: 575 BEECH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-01-25[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Acute bacterial sinusitis (disorder)
+  2010-01-06[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2001-06-26[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-01-01 - 2018-01-08 : Viral sinusitis (disorder)
+  2015-01-18 -            : Body mass index 30+ - obesity (finding)
+  2014-11-04 - 2014-11-14 : Acute viral pharyngitis (disorder)
+  2014-01-25 - 2014-02-15 : Acute bacterial sinusitis (disorder)
+  2010-01-06 -            : Osteoarthritis of knee
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2010-01-06[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-01-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.9 %
+           - MCV [Entitic volume] by Automated count  83.5 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 410.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 506.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2015-01-18 : Lipid Panel
+           - Total Cholesterol                        168.0 mg/dL
+           - Triglycerides                            115.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      75.7 mg/dL
+           - High Density Lipoprotein Cholesterol     69.1 mg/dL
+  2011-04-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.2 %
+           - MCV [Entitic volume] by Automated count  81.3 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+           - Platelets [#/volume] in Blood by Automated count 356.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 394.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2011-04-24 : Lipid Panel
+           - Total Cholesterol                        167.2 mg/dL
+           - Triglycerides                            145.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.8 mg/dL
+           - High Density Lipoprotein Cholesterol     69.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-01-07 : Tobacco smoking status NHIS              Former smoker 
+  2018-01-07 : Blood Pressure
+           - Diastolic Blood Pressure                 85.4 mmHg
+           - Systolic Blood Pressure                  135.6 mmHg
+  2018-01-07 : Body Mass Index                          30.5 kg/m2
+  2018-01-07 : Body Weight                              108.2 kg
+  2018-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2018-01-07 : Body Height                              188.4 cm
+  2017-01-29 : Tobacco smoking status NHIS              Former smoker 
+  2017-01-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2017-01-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 506.2 fL
+  2017-01-29 : Platelets [#/volume] in Blood by Automated count 410.3 10*3/uL
+  2017-01-29 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2017-01-29 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2017-01-29 : MCH [Entitic mass] by Automated count    31.1 pg
+  2017-01-29 : MCV [Entitic volume] by Automated count  83.5 fL
+  2017-01-29 : Hematocrit [Volume Fraction] of Blood by Automated count 40.9 %
+  2017-01-29 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2017-01-29 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2017-01-29 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2017-01-29 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  117.7 mmHg
+  2017-01-29 : Body Mass Index                          30.5 kg/m2
+  2017-01-29 : Body Weight                              108.2 kg
+  2017-01-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2017-01-29 : Body Height                              188.4 cm
+  2016-01-24 : Tobacco smoking status NHIS              Former smoker 
+  2016-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 78.4 mmHg
+           - Systolic Blood Pressure                  132.7 mmHg
+  2016-01-24 : Body Mass Index                          30.5 kg/m2
+  2016-01-24 : Body Weight                              108.2 kg
+  2016-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2016-01-24 : Body Height                              188.4 cm
+  2015-01-18 : Tobacco smoking status NHIS              Former smoker 
+  2015-01-18 : High Density Lipoprotein Cholesterol     69.1 mg/dL
+  2015-01-18 : Low Density Lipoprotein Cholesterol      75.7 mg/dL
+  2015-01-18 : Triglycerides                            115.6 mg/dL
+  2015-01-18 : Total Cholesterol                        168.0 mg/dL
+  2015-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 79.7 mmHg
+           - Systolic Blood Pressure                  132.9 mmHg
+  2015-01-18 : Body Mass Index                          30.5 kg/m2
+  2015-01-18 : Body Weight                              108.2 kg
+  2015-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2015-01-18 : Body Height                              188.4 cm
+  2014-11-04 : Oral temperature                         37.9 Cel
+  2013-04-28 : Tobacco smoking status NHIS              Former smoker 
+  2013-04-28 : Blood Pressure
+           - Diastolic Blood Pressure                 76.8 mmHg
+           - Systolic Blood Pressure                  132.5 mmHg
+  2013-04-28 : Body Mass Index                          30.0 kg/m2
+  2013-04-28 : Body Weight                              106.5 kg
+  2013-04-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2013-04-28 : Body Height                              188.4 cm
+  2011-04-24 : Tobacco smoking status NHIS              Former smoker 
+  2011-04-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2011-04-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 394.0 fL
+  2011-04-24 : Platelets [#/volume] in Blood by Automated count 356.9 10*3/uL
+  2011-04-24 : Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+  2011-04-24 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2011-04-24 : MCH [Entitic mass] by Automated count    27.7 pg
+  2011-04-24 : MCV [Entitic volume] by Automated count  81.3 fL
+  2011-04-24 : Hematocrit [Volume Fraction] of Blood by Automated count 38.2 %
+  2011-04-24 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2011-04-24 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2011-04-24 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2011-04-24 : High Density Lipoprotein Cholesterol     69.3 mg/dL
+  2011-04-24 : Low Density Lipoprotein Cholesterol      68.8 mg/dL
+  2011-04-24 : Triglycerides                            145.5 mg/dL
+  2011-04-24 : Total Cholesterol                        167.2 mg/dL
+  2011-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 71.1 mmHg
+           - Systolic Blood Pressure                  105.4 mmHg
+  2011-04-24 : Body Mass Index                          29.1 kg/m2
+  2011-04-24 : Body Weight                              103.5 kg
+  2011-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2011-04-24 : Body Height                              188.4 cm
+  2010-01-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.5 {score}
+  2009-04-19 : Tobacco smoking status NHIS              Former smoker 
+  2009-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 78.1 mmHg
+           - Systolic Blood Pressure                  108.1 mmHg
+  2009-04-19 : Body Mass Index                          28.2 kg/m2
+  2009-04-19 : Body Weight                              100.2 kg
+  2009-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2009-04-19 : Body Height                              188.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-01-24 : Documentation of current medications
+  2013-04-28 : Documentation of current medications
+  2009-04-19 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-07 : Influenza, seasonal, injectable, preservative free
+  2017-01-29 : Influenza, seasonal, injectable, preservative free
+  2016-01-24 : Td (adult) preservative free
+  2016-01-24 : Influenza, seasonal, injectable, preservative free
+  2016-01-24 : zoster
+  2015-01-18 : Influenza, seasonal, injectable, preservative free
+  2015-01-18 : zoster
+  2013-04-28 : Influenza, seasonal, injectable, preservative free
+  2011-04-24 : Influenza, seasonal, injectable, preservative free
+  2009-04-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-01 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2018-01-07 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2017-01-29 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2016-01-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2015-01-18 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2014-11-04 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2014-01-25 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Acute bacterial sinusitis (disorder)
+2013-04-28 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2011-04-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2010-01-06 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Osteoarthritis of knee
+2009-04-19 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2001-06-26 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

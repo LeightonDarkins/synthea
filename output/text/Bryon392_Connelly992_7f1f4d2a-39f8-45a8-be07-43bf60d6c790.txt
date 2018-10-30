@@ -1,0 +1,271 @@
+Bryon392 Connelly992
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 40
+Birth Date:          1978-08-21
+Marital Status:      S
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1979-08-05 -            : Shellfish allergy
+  1979-08-05 -            : Allergy to tree pollen
+  1979-08-05 -            : Allergy to grass pollen
+  1979-08-05 -            : Dander (animal) allergy
+  1979-08-05 -            : House dust mite allergy
+  1979-08-05 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-07-02[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2011-08-26[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1982-08-27[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-08-27[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-08-05[CURRENT] : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-02-08 - 2018-03-01 : Viral sinusitis (disorder)
+  2014-07-02 - 2014-07-23 : Viral sinusitis (disorder)
+  2012-08-24 - 2012-09-04 : Acute viral pharyngitis (disorder)
+  2011-08-26 - 2011-09-16 : Laceration of thigh
+  2009-08-15 -            : History of appendectomy
+  2009-08-15 -            : Appendicitis
+  1996-10-14 -            : Prediabetes
+  1982-08-27 -            : Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-08-26[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1996-10-14[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1982-08-27[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1979-07-23[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 397.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 332.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2018-08-27 : Basic Metabolic Panel
+           - Glucose                                  84.9 mg/dL
+           - Urea Nitrogen                            14.1 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 104.5 mmol/L
+           - Carbon Dioxide                           25.6 mmol/L
+  2015-09-07 : Lipid Panel
+           - Total Cholesterol                        188.4 mg/dL
+           - Triglycerides                            133.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.5 mg/dL
+           - High Density Lipoprotein Cholesterol     67.2 mg/dL
+  2015-09-07 : Basic Metabolic Panel
+           - Glucose                                  98.7 mg/dL
+           - Urea Nitrogen                            18.9 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   136.0 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 101.8 mmol/L
+           - Carbon Dioxide                           23.2 mmol/L
+  2012-09-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+           - MCV [Entitic volume] by Automated count  87.9 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 251.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 284.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2012-09-03 : Basic Metabolic Panel
+           - Glucose                                  74.9 mg/dL
+           - Urea Nitrogen                            8.1 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   143.3 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 108.6 mmol/L
+           - Carbon Dioxide                           24.8 mmol/L
+  2010-03-29 : Lipid Panel
+           - Total Cholesterol                        199.7 mg/dL
+           - Triglycerides                            136.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      92.9 mg/dL
+           - High Density Lipoprotein Cholesterol     79.5 mg/dL
+  2010-03-29 : Basic Metabolic Panel
+           - Glucose                                  73.0 mg/dL
+           - Urea Nitrogen                            9.9 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   141.8 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 107.6 mmol/L
+           - Carbon Dioxide                           28.5 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-27 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2018-08-27 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2018-08-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 332.7 fL
+  2018-08-27 : Platelets [#/volume] in Blood by Automated count 397.0 10*3/uL
+  2018-08-27 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2018-08-27 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2018-08-27 : MCH [Entitic mass] by Automated count    28.7 pg
+  2018-08-27 : MCV [Entitic volume] by Automated count  82.3 fL
+  2018-08-27 : Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+  2018-08-27 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2018-08-27 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2018-08-27 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  2018-08-27 : Carbon Dioxide                           25.6 mmol/L
+  2018-08-27 : Chloride                                 104.5 mmol/L
+  2018-08-27 : Potassium                                4.8 mmol/L
+  2018-08-27 : Sodium                                   142.3 mmol/L
+  2018-08-27 : Calcium                                  8.5 mg/dL
+  2018-08-27 : Creatinine                               1.7 mg/dL
+  2018-08-27 : Urea Nitrogen                            14.1 mg/dL
+  2018-08-27 : Glucose                                  84.9 mg/dL
+  2018-08-27 : Blood Pressure
+           - Diastolic Blood Pressure                 88.1 mmHg
+           - Systolic Blood Pressure                  113.3 mmHg
+  2018-08-27 : Body Mass Index                          32.7 kg/m2
+  2018-08-27 : Body Weight                              96.0 kg
+  2018-08-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2018-08-27 : Body Height                              171.3 cm
+  2015-09-07 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-09-07 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-07 : High Density Lipoprotein Cholesterol     67.2 mg/dL
+  2015-09-07 : Low Density Lipoprotein Cholesterol      94.5 mg/dL
+  2015-09-07 : Triglycerides                            133.2 mg/dL
+  2015-09-07 : Total Cholesterol                        188.4 mg/dL
+  2015-09-07 : Carbon Dioxide                           23.2 mmol/L
+  2015-09-07 : Chloride                                 101.8 mmol/L
+  2015-09-07 : Potassium                                5.1 mmol/L
+  2015-09-07 : Sodium                                   136.0 mmol/L
+  2015-09-07 : Calcium                                  9.2 mg/dL
+  2015-09-07 : Creatinine                               1.3 mg/dL
+  2015-09-07 : Urea Nitrogen                            18.9 mg/dL
+  2015-09-07 : Glucose                                  98.7 mg/dL
+  2015-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mmHg
+           - Systolic Blood Pressure                  114.8 mmHg
+  2015-09-07 : Body Mass Index                          31.6 kg/m2
+  2015-09-07 : Body Weight                              92.6 kg
+  2015-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-09-07 : Body Height                              171.3 cm
+  2012-09-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2012-09-03 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2012-09-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 284.3 fL
+  2012-09-03 : Platelets [#/volume] in Blood by Automated count 251.6 10*3/uL
+  2012-09-03 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2012-09-03 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2012-09-03 : MCH [Entitic mass] by Automated count    29.4 pg
+  2012-09-03 : MCV [Entitic volume] by Automated count  87.9 fL
+  2012-09-03 : Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+  2012-09-03 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2012-09-03 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2012-09-03 : Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+  2012-09-03 : Carbon Dioxide                           24.8 mmol/L
+  2012-09-03 : Chloride                                 108.6 mmol/L
+  2012-09-03 : Potassium                                5.0 mmol/L
+  2012-09-03 : Sodium                                   143.3 mmol/L
+  2012-09-03 : Calcium                                  8.6 mg/dL
+  2012-09-03 : Creatinine                               1.4 mg/dL
+  2012-09-03 : Urea Nitrogen                            8.1 mg/dL
+  2012-09-03 : Glucose                                  74.9 mg/dL
+  2012-09-03 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  114.2 mmHg
+  2012-09-03 : Body Mass Index                          29.9 kg/m2
+  2012-09-03 : Body Weight                              87.6 kg
+  2012-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2012-09-03 : Body Height                              171.3 cm
+  2012-08-24 : Oral temperature                         37.4 Cel
+  2010-03-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2010-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-29 : High Density Lipoprotein Cholesterol     79.5 mg/dL
+  2010-03-29 : Low Density Lipoprotein Cholesterol      92.9 mg/dL
+  2010-03-29 : Triglycerides                            136.4 mg/dL
+  2010-03-29 : Total Cholesterol                        199.7 mg/dL
+  2010-03-29 : Carbon Dioxide                           28.5 mmol/L
+  2010-03-29 : Chloride                                 107.6 mmol/L
+  2010-03-29 : Potassium                                3.7 mmol/L
+  2010-03-29 : Sodium                                   141.8 mmol/L
+  2010-03-29 : Calcium                                  9.1 mg/dL
+  2010-03-29 : Creatinine                               1.3 mg/dL
+  2010-03-29 : Urea Nitrogen                            9.9 mg/dL
+  2010-03-29 : Glucose                                  73.0 mg/dL
+  2010-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 81.7 mmHg
+           - Systolic Blood Pressure                  136.7 mmHg
+  2010-03-29 : Body Mass Index                          28.2 kg/m2
+  2010-03-29 : Body Weight                              82.7 kg
+  2010-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2010-03-29 : Body Height                              171.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-09-07 : Documentation of current medications
+  2012-08-24 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2011-08-26 : Suture open wound for Laceration of thigh
+  2010-03-29 : Documentation of current medications
+  2009-08-15 : Appendectomy for Appendicitis
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-27 : Hep A, adult
+  2018-08-27 : Influenza, seasonal, injectable, preservative free
+  2018-02-12 : Influenza, seasonal, injectable, preservative free
+  2015-09-07 : Influenza, seasonal, injectable, preservative free
+  2012-09-03 : Influenza, seasonal, injectable, preservative free
+  2010-03-29 : Td (adult) preservative free
+  2010-03-29 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2018-02-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-02-12 (Dr. Daniel959 Schimmel440) : Encounter at TRU MEDICAL WALK IN CLINIC
+2016-10-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Asthma
+2015-09-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-07-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-04-23 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Asthma
+2012-09-03 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-08-24 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2012-04-28 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Asthma
+2011-10-31 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Asthma
+2011-08-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-03-29 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-09-13 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-08-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Appendicitis
+2009-08-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Appendicitis
+2009-05-14 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Asthma
+2008-11-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Asthma
+1996-10-14 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1982-08-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Childhood asthma
+1982-08-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Perennial allergic rhinitis with seasonal variation
+1979-08-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1979-07-23 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,152 @@
+Neville893 Braun514
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1986-10-03
+Marital Status:      S
+Outpatient Provider: LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+Primary Care Provider: 41 & 45 MALL ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2010-07-29[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-10-02 -            : Contact dermatitis
+  2017-09-19 - 2017-09-27 : Acute viral pharyngitis (disorder)
+  2010-07-29 - 2010-08-28 : Fracture of forearm
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-10-02[CURRENT] : Skin condition care
+                         Reason: Contact dermatitis
+                         Activity: Application of moisturizer to skin
+  2010-07-29[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-12-15 : Lipid Panel
+           - Total Cholesterol                        184.4 mg/dL
+           - Triglycerides                            148.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.5 mg/dL
+           - High Density Lipoprotein Cholesterol     60.3 mg/dL
+  2014-12-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+           - MCV [Entitic volume] by Automated count  89.0 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+           - Platelets [#/volume] in Blood by Automated count 158.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 507.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2008-12-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+           - MCV [Entitic volume] by Automated count  91.2 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+           - Platelets [#/volume] in Blood by Automated count 371.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 231.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-12-15 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-15 : High Density Lipoprotein Cholesterol     60.3 mg/dL
+  2017-12-15 : Low Density Lipoprotein Cholesterol      94.5 mg/dL
+  2017-12-15 : Triglycerides                            148.1 mg/dL
+  2017-12-15 : Total Cholesterol                        184.4 mg/dL
+  2017-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 82.4 mmHg
+           - Systolic Blood Pressure                  137.6 mmHg
+  2017-12-15 : Body Mass Index                          27.2 kg/m2
+  2017-12-15 : Body Weight                              79.2 kg
+  2017-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-12-15 : Body Height                              170.8 cm
+  2017-09-19 : Oral temperature                         37.5 Cel
+  2014-12-12 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2014-12-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 507.4 fL
+  2014-12-12 : Platelets [#/volume] in Blood by Automated count 158.1 10*3/uL
+  2014-12-12 : Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+  2014-12-12 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2014-12-12 : MCH [Entitic mass] by Automated count    32.2 pg
+  2014-12-12 : MCV [Entitic volume] by Automated count  89.0 fL
+  2014-12-12 : Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+  2014-12-12 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2014-12-12 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2014-12-12 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2014-12-12 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  120.0 mmHg
+  2014-12-12 : Body Mass Index                          25.4 kg/m2
+  2014-12-12 : Body Weight                              74.1 kg
+  2014-12-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2014-12-12 : Body Height                              170.8 cm
+  2011-12-09 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-09 : Blood Pressure
+           - Diastolic Blood Pressure                 70.7 mmHg
+           - Systolic Blood Pressure                  124.5 mmHg
+  2011-12-09 : Body Mass Index                          23.8 kg/m2
+  2011-12-09 : Body Weight                              69.5 kg
+  2011-12-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2011-12-09 : Body Height                              170.8 cm
+  2008-12-05 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2008-12-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 231.0 fL
+  2008-12-05 : Platelets [#/volume] in Blood by Automated count 371.2 10*3/uL
+  2008-12-05 : Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+  2008-12-05 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2008-12-05 : MCH [Entitic mass] by Automated count    32.9 pg
+  2008-12-05 : MCV [Entitic volume] by Automated count  91.2 fL
+  2008-12-05 : Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+  2008-12-05 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2008-12-05 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2008-12-05 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2008-12-05 : Blood Pressure
+           - Diastolic Blood Pressure                 76.3 mmHg
+           - Systolic Blood Pressure                  106.7 mmHg
+  2008-12-05 : Body Mass Index                          21.9 kg/m2
+  2008-12-05 : Body Weight                              63.8 kg
+  2008-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2008-12-05 : Body Height                              170.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-12-12 : Documentation of current medications
+  2010-07-29 : Bone immobilization for Fracture of forearm
+  2010-07-29 : Upper arm X-ray
+  2008-12-05 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-15 : Td (adult) preservative free
+  2017-12-15 : Influenza, seasonal, injectable, preservative free
+  2014-12-12 : Influenza, seasonal, injectable, preservative free
+  2011-12-09 : Influenza, seasonal, injectable, preservative free
+  2008-12-05 : meningococcal MCV4P
+  2008-12-05 : Hep B, adult
+  2008-12-05 : Td (adult) preservative free
+  2008-12-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-12-15 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2017-10-02 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Contact dermatitis
+2017-09-19 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute viral pharyngitis (disorder)
+2014-12-12 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2011-12-09 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2010-08-28 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Fracture of forearm
+2010-07-29 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2008-12-05 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2010-07-29 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

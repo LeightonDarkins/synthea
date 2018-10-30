@@ -1,0 +1,136 @@
+Larry532 Morar593
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 26
+Birth Date:          1992-07-08
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-01-17[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2009-02-04[STOPPED] : Atropine Sulfate 1 MG/ML Injectable Solution
+  2009-02-04[STOPPED] : 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+  2009-02-04[STOPPED] : 1 ML Epinephrine 1 MG/ML Injection
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-01-17 - 2017-02-14 : First degree burn
+  2015-05-16 - 2015-05-23 : Viral sinusitis (disorder)
+  2012-12-03 - 2012-12-16 : Acute viral pharyngitis (disorder)
+  2009-02-04 -            : History of cardiac arrest (situation)
+  2009-02-04 -            : Cardiac Arrest
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-01-17[STOPPED] : Burn care
+                         Reason: First degree burn
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent sun exposure
+                         Activity: Behavior to prevent infection
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-09-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.1 %
+           - MCV [Entitic volume] by Automated count  83.0 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+           - Platelets [#/volume] in Blood by Automated count 442.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 158.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-09-13 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-13 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  115.8 mmHg
+  2017-09-13 : Body Mass Index                          29.9 kg/m2
+  2017-09-13 : Body Weight                              97.1 kg
+  2017-09-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2017-09-13 : Body Height                              180.2 cm
+  2014-09-10 : Tobacco smoking status NHIS              Never smoker 
+  2014-09-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2014-09-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 158.1 fL
+  2014-09-10 : Platelets [#/volume] in Blood by Automated count 442.7 10*3/uL
+  2014-09-10 : Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+  2014-09-10 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2014-09-10 : MCH [Entitic mass] by Automated count    32.9 pg
+  2014-09-10 : MCV [Entitic volume] by Automated count  83.0 fL
+  2014-09-10 : Hematocrit [Volume Fraction] of Blood by Automated count 48.1 %
+  2014-09-10 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2014-09-10 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2014-09-10 : Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+  2014-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 72.1 mmHg
+           - Systolic Blood Pressure                  104.4 mmHg
+  2014-09-10 : Body Mass Index                          28.7 kg/m2
+  2014-09-10 : Body Weight                              93.2 kg
+  2014-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2014-09-10 : Body Height                              180.2 cm
+  2012-12-03 : Oral temperature                         37.9 Cel
+  2011-09-07 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  106.0 mmHg
+  2011-09-07 : Body Mass Index                          27.1 kg/m2
+  2011-09-07 : Body Weight                              87.9 kg
+  2011-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2011-09-07 : Body Height                              180.0 cm
+  2010-09-01 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-01 : Blood Pressure
+           - Diastolic Blood Pressure                 86.4 mmHg
+           - Systolic Blood Pressure                  130.2 mmHg
+  2010-09-01 : Body Mass Index                          26.6 kg/m2
+  2010-09-01 : Body Weight                              85.9 kg
+  2010-09-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2010-09-01 : Body Height                              179.6 cm
+  2009-08-26 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-26 : Blood Pressure
+           - Diastolic Blood Pressure                 87.5 mmHg
+           - Systolic Blood Pressure                  106.2 mmHg
+  2009-08-26 : Body Mass Index                          25.9 kg/m2
+  2009-08-26 : Body Weight                              83.0 kg
+  2009-08-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2009-08-26 : Body Height                              178.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-09-13 : Documentation of current medications
+  2014-09-10 : Documentation of current medications
+  2012-12-03 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2011-09-07 : Documentation of current medications
+  2010-09-01 : Documentation of current medications
+  2009-08-26 : Documentation of current medications
+  2009-02-04 : Catheter ablation of tissue of heart for Cardiac Arrest
+  2009-02-04 : Insertion of biventricular implantable cardioverter defibrillator for Cardiac Arrest
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-09-13 : Influenza, seasonal, injectable, preservative free
+  2014-09-10 : meningococcal MCV4P
+  2014-09-10 : Hep B, adult
+  2014-09-10 : Td (adult) preservative free
+  2014-09-10 : Influenza, seasonal, injectable, preservative free
+  2011-09-07 : Influenza, seasonal, injectable, preservative free
+  2010-09-01 : Influenza, seasonal, injectable, preservative free
+  2009-08-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-09-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-02-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for First degree burn
+2017-01-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-05-16 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-09-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-12-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2011-09-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-09-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-08-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-02-04 : Emergency Encounter
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

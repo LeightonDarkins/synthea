@@ -1,0 +1,203 @@
+Mercedez75 Auer97
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2001-07-31
+Marital Status:      S
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-10-30[CURRENT] : Ibuprofen 200 MG Oral Tablet
+  2018-07-12[CURRENT] : Seasonique 91 Day Pack
+  2016-07-22[STOPPED] : Trinessa 28 Day Pack
+  2015-07-28[STOPPED] : Natazia 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-10-30 -            : Sprain of ankle
+  2014-07-28 - 2014-08-18 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-10-30[CURRENT] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-09-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+           - MCV [Entitic volume] by Automated count  81.4 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 225.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 320.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2012-08-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.6 %
+           - MCV [Entitic volume] by Automated count  89.3 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 262.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 246.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-18 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-18 : Blood Pressure
+           - Diastolic Blood Pressure                 85.8 mmHg
+           - Systolic Blood Pressure                  119.8 mmHg
+  2018-09-18 : Body Mass Index                          27.1 kg/m2
+  2018-09-18 : Body Weight                              70.8 kg
+  2018-09-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2018-09-18 : Body Height                              161.7 cm
+  2017-09-12 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2017-09-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 320.2 fL
+  2017-09-12 : Platelets [#/volume] in Blood by Automated count 225.2 10*3/uL
+  2017-09-12 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  2017-09-12 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2017-09-12 : MCH [Entitic mass] by Automated count    28.8 pg
+  2017-09-12 : MCV [Entitic volume] by Automated count  81.4 fL
+  2017-09-12 : Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+  2017-09-12 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2017-09-12 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2017-09-12 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2017-09-12 : Blood Pressure
+           - Diastolic Blood Pressure                 77.2 mmHg
+           - Systolic Blood Pressure                  111.3 mmHg
+  2017-09-12 : Body Mass Index                          26.7 kg/m2
+  2017-09-12 : Body Weight                              69.6 kg
+  2017-09-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2017-09-12 : Body Height                              161.3 cm
+  2016-09-06 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 77.9 mmHg
+           - Systolic Blood Pressure                  116.3 mmHg
+  2016-09-06 : Body Mass Index                          26.2 kg/m2
+  2016-09-06 : Body Weight                              67.6 kg
+  2016-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2016-09-06 : Body Height                              160.6 cm
+  2015-09-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-01 : Blood Pressure
+           - Diastolic Blood Pressure                 79.4 mmHg
+           - Systolic Blood Pressure                  125.1 mmHg
+  2015-09-01 : Body Mass Index                          25.5 kg/m2
+  2015-09-01 : Body Weight                              64.7 kg
+  2015-09-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2015-09-01 : Body Height                              159.2 cm
+  2014-08-26 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-26 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  138.6 mmHg
+  2014-08-26 : Body Mass Index                          24.9 kg/m2
+  2014-08-26 : Body Weight                              60.5 kg
+  2014-08-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2014-08-26 : Body Height                              156.0 cm
+  2013-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 80.1 mmHg
+           - Systolic Blood Pressure                  131.1 mmHg
+  2013-08-20 : Body Mass Index                          24.5 kg/m2
+  2013-08-20 : Body Weight                              55.2 kg
+  2013-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2013-08-20 : Body Height                              150.0 cm
+  2012-08-14 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2012-08-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 246.3 fL
+  2012-08-14 : Platelets [#/volume] in Blood by Automated count 262.3 10*3/uL
+  2012-08-14 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2012-08-14 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2012-08-14 : MCH [Entitic mass] by Automated count    31.1 pg
+  2012-08-14 : MCV [Entitic volume] by Automated count  89.3 fL
+  2012-08-14 : Hematocrit [Volume Fraction] of Blood by Automated count 40.6 %
+  2012-08-14 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2012-08-14 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2012-08-14 : Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+  2012-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.5 mmHg
+           - Systolic Blood Pressure                  134.7 mmHg
+  2012-08-14 : Body Mass Index                          24.2 kg/m2
+  2012-08-14 : Body Weight                              49.3 kg
+  2012-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2012-08-14 : Body Height                              142.8 cm
+  2011-08-09 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-09 : Blood Pressure
+           - Diastolic Blood Pressure                 82.3 mmHg
+           - Systolic Blood Pressure                  136.6 mmHg
+  2011-08-09 : Body Mass Index                          23.1 kg/m2
+  2011-08-09 : Body Weight                              43.3 kg
+  2011-08-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2011-08-09 : Body Height                              136.9 cm
+  2010-08-03 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 74.2 mmHg
+           - Systolic Blood Pressure                  118.6 mmHg
+  2010-08-03 : Body Mass Index                          21.5 kg/m2
+  2010-08-03 : Body Weight                              37.3 kg
+  2010-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2010-08-03 : Body Height                              131.5 cm
+  2009-07-28 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 70.6 mmHg
+           - Systolic Blood Pressure                  134.5 mmHg
+  2009-07-28 : Body Mass Index                          20.4 kg/m2
+  2009-07-28 : Body Weight                              32.4 kg
+  2009-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2009-07-28 : Body Height                              126.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-09-06 : Documentation of current medications
+  2012-08-14 : Documentation of current medications
+  2011-08-09 : Documentation of current medications
+  2009-07-28 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-18 : Influenza, seasonal, injectable, preservative free
+  2017-09-12 : meningococcal MCV4P
+  2017-09-12 : Influenza, seasonal, injectable, preservative free
+  2016-09-06 : Influenza, seasonal, injectable, preservative free
+  2015-09-01 : Influenza, seasonal, injectable, preservative free
+  2014-08-26 : HPV, quadrivalent
+  2014-08-26 : Influenza, seasonal, injectable, preservative free
+  2013-08-20 : HPV, quadrivalent
+  2013-08-20 : Influenza, seasonal, injectable, preservative free
+  2012-08-14 : meningococcal MCV4P
+  2012-08-14 : HPV, quadrivalent
+  2012-08-14 : Influenza, seasonal, injectable, preservative free
+  2012-08-14 : Tdap
+  2011-08-09 : Influenza, seasonal, injectable, preservative free
+  2010-08-03 : Influenza, seasonal, injectable, preservative free
+  2009-07-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-09-18 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-07-12 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-09-12 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-09-06 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-07-22 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-09-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-07-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-08-26 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-07-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-08-20 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-08-14 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-08-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-08-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-07-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

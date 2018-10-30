@@ -1,0 +1,243 @@
+Syble581 Schimmel440
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 27
+Birth Date:          1991-05-27
+Marital Status:      M
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-03-21[STOPPED] : Kyleena 19.5 MG Intrauterine System
+  2012-04-16[STOPPED] : Trinessa 28 Day Pack
+  2010-04-27[STOPPED] : Seasonique 91 Day Pack
+  2009-08-19[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2009-05-02[STOPPED] : 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe
+  2008-11-23[STOPPED] : Ibuprofen 200 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-06-27 - 2014-07-11 : Viral sinusitis (disorder)
+  2014-06-09 - 2014-12-22 : Normal pregnancy
+  2013-10-21 - 2013-10-28 : Fetus with unknown complication
+  2013-10-21 -            : Miscarriage in first trimester
+  2013-10-21 - 2013-10-28 : Normal pregnancy
+  2009-10-24 - 2009-11-14 : Viral sinusitis (disorder)
+  2009-08-19 - 2009-08-26 : Acute bronchitis (disorder)
+  2008-11-23 - 2008-12-07 : Laceration of hand
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-06-09[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2009-08-19[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2008-11-23[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-09-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+           - MCV [Entitic volume] by Automated count  87.9 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+           - Platelets [#/volume] in Blood by Automated count 253.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 164.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-09-12 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-12 : Blood Pressure
+           - Diastolic Blood Pressure                 70.6 mmHg
+           - Systolic Blood Pressure                  121.1 mmHg
+  2016-09-12 : Body Mass Index                          26.8 kg/m2
+  2016-09-12 : Body Weight                              67.8 kg
+  2016-09-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2016-09-12 : Body Height                              159.2 cm
+  2013-09-09 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2013-09-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 164.6 fL
+  2013-09-09 : Platelets [#/volume] in Blood by Automated count 253.5 10*3/uL
+  2013-09-09 : Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+  2013-09-09 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2013-09-09 : MCH [Entitic mass] by Automated count    29.2 pg
+  2013-09-09 : MCV [Entitic volume] by Automated count  87.9 fL
+  2013-09-09 : Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+  2013-09-09 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2013-09-09 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2013-09-09 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2013-09-09 : Blood Pressure
+           - Diastolic Blood Pressure                 87.6 mmHg
+           - Systolic Blood Pressure                  118.1 mmHg
+  2013-09-09 : Body Mass Index                          25.2 kg/m2
+  2013-09-09 : Body Weight                              63.8 kg
+  2013-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2013-09-09 : Body Height                              159.2 cm
+  2010-09-06 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 70.9 mmHg
+           - Systolic Blood Pressure                  130.6 mmHg
+  2010-09-06 : Body Mass Index                          23.3 kg/m2
+  2010-09-06 : Body Weight                              59.0 kg
+  2010-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2010-09-06 : Body Height                              159.1 cm
+  2009-08-31 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 73.4 mmHg
+           - Systolic Blood Pressure                  106.4 mmHg
+  2009-08-31 : Body Mass Index                          22.8 kg/m2
+  2009-08-31 : Body Weight                              57.7 kg
+  2009-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2009-08-31 : Body Height                              159.0 cm
+  2009-03-16 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-16 : Blood Pressure
+           - Diastolic Blood Pressure                 74.5 mmHg
+           - Systolic Blood Pressure                  130.0 mmHg
+  2009-03-16 : Body Mass Index                          22.7 kg/m2
+  2009-03-16 : Body Weight                              57.2 kg
+  2009-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2009-03-16 : Body Height                              158.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-03-24 : Insertion of intrauterine contraceptive device
+  2016-09-12 : Documentation of current medications
+  2015-02-02 : Depression screening
+  2015-02-02 : Physical examination following birth
+  2014-12-22 : Premature birth of newborn for Normal pregnancy
+  2014-12-22 : Medical induction of labor for Normal pregnancy
+  2014-11-24 : Auscultation of the fetal heart for Normal pregnancy
+  2014-11-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-27 : Auscultation of the fetal heart for Normal pregnancy
+  2014-10-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-27 : Urine screening for glucose for Normal pregnancy
+  2014-10-27 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-10-27 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-09-29 : Auscultation of the fetal heart for Normal pregnancy
+  2014-09-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-09-01 : Auscultation of the fetal heart for Normal pregnancy
+  2014-09-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-08-04 : Auscultation of the fetal heart for Normal pregnancy
+  2014-08-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-08-04 : Alpha-fetoprotein test for Normal pregnancy
+  2014-08-04 : Fetal anatomy study for Normal pregnancy
+  2014-07-07 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2014-07-07 : Auscultation of the fetal heart for Normal pregnancy
+  2014-07-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-09 : Physical examination of mother for Normal pregnancy
+  2014-06-09 : Urine protein test for Normal pregnancy
+  2014-06-09 : Skin test for tuberculosis for Normal pregnancy
+  2014-06-09 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2014-06-09 : Rubella screening for Normal pregnancy
+  2014-06-09 : Hepatitis C antibody test for Normal pregnancy
+  2014-06-09 : Urine screening test for diabetes for Normal pregnancy
+  2014-06-09 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2014-06-09 : Urine culture for Normal pregnancy
+  2014-06-09 : Syphilis infection test for Normal pregnancy
+  2014-06-09 : Gonorrhea infection test for Normal pregnancy
+  2014-06-09 : Chlamydia antigen test for Normal pregnancy
+  2014-06-09 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2014-06-09 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2014-06-09 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-06-09 : Blood typing, RH typing for Normal pregnancy
+  2014-06-09 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-09 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-06-09 : Standard pregnancy test for Normal pregnancy
+  2013-10-28 : Depression screening for Normal pregnancy
+  2013-10-28 : Physical examination for Normal pregnancy
+  2013-10-21 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-10-21 : Standard pregnancy test for Normal pregnancy
+  2013-09-09 : Documentation of current medications
+  2013-07-29 : Intramuscular injection
+  2013-04-29 : Intramuscular injection
+  2013-01-28 : Intramuscular injection
+  2012-10-29 : Intramuscular injection
+  2012-07-30 : Intramuscular injection
+  2012-04-30 : Intramuscular injection
+  2012-01-30 : Intramuscular injection
+  2011-10-31 : Intramuscular injection
+  2011-08-01 : Intramuscular injection
+  2011-05-02 : Intramuscular injection
+  2011-01-31 : Intramuscular injection
+  2010-11-01 : Intramuscular injection
+  2010-09-06 : Documentation of current medications
+  2010-08-02 : Intramuscular injection
+  2010-05-03 : Intramuscular injection
+  2010-02-01 : Intramuscular injection
+  2009-11-02 : Intramuscular injection
+  2009-08-31 : Documentation of current medications
+  2009-08-19 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2009-08-03 : Intramuscular injection
+  2009-05-02 : Intramuscular injection
+  2009-03-16 : Documentation of current medications
+  2008-11-23 : Suture open wound for Laceration of hand
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-09-12 : Influenza, seasonal, injectable, preservative free
+  2013-09-09 : meningococcal MCV4P
+  2013-09-09 : Hep B, adult
+  2013-09-09 : Td (adult) preservative free
+  2013-09-09 : Influenza, seasonal, injectable, preservative free
+  2010-09-06 : Influenza, seasonal, injectable, preservative free
+  2009-03-16 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-03-24 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-03-21 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-09-12 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-02-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-12-22 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2014-11-24 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2014-10-27 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2014-09-29 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2014-09-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2014-08-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2014-07-07 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2014-06-27 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-06-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2013-10-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Fetus with unknown complication
+2013-10-21 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2013-09-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-07-29 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-04-29 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-01-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-10-29 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-07-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-04-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-04-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-01-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-10-31 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-08-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-05-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-01-31 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-11-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-09-06 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-08-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-05-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-04-27 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-02-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-11-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-10-24 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2009-08-31 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-08-19 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Acute bronchitis (disorder)
+2009-08-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-05-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-03-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2008-11-23 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

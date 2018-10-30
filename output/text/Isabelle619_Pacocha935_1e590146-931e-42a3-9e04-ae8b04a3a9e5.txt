@@ -1,0 +1,371 @@
+Isabelle619 Pacocha935
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 54
+Birth Date:          1964-07-06
+Marital Status:      M
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-09-13[STOPPED] : Errin 28 Day Pack
+  2012-09-18[STOPPED] : Jolivette 28 Day Pack
+  2011-09-24[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2010-09-29[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2009-10-04[STOPPED] : Jolivette 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-07-21 - 2016-08-11 : Viral sinusitis (disorder)
+  2010-03-07 - 2010-03-14 : Acute viral pharyngitis (disorder)
+  2009-04-10 - 2009-04-24 : Viral sinusitis (disorder)
+  1995-07-24 -            : Prediabetes
+  1992-07-20 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1995-07-24[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-07-30 : Basic Metabolic Panel
+           - Glucose                                  78.1 mg/dL
+           - Urea Nitrogen                            11.9 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   142.6 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 104.0 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+  2017-07-24 : Basic Metabolic Panel
+           - Glucose                                  88.3 mg/dL
+           - Urea Nitrogen                            18.5 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   142.6 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 106.4 mmol/L
+           - Carbon Dioxide                           27.5 mmol/L
+  2016-07-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  91.8 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+           - Platelets [#/volume] in Blood by Automated count 388.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 414.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2016-07-18 : Lipid Panel
+           - Total Cholesterol                        196.8 mg/dL
+           - Triglycerides                            131.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.5 mg/dL
+           - High Density Lipoprotein Cholesterol     69.0 mg/dL
+  2016-07-18 : Basic Metabolic Panel
+           - Glucose                                  81.1 mg/dL
+           - Urea Nitrogen                            10.4 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   143.6 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 106.5 mmol/L
+           - Carbon Dioxide                           22.1 mmol/L
+  2015-07-13 : Basic Metabolic Panel
+           - Glucose                                  75.0 mg/dL
+           - Urea Nitrogen                            9.1 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 103.6 mmol/L
+           - Carbon Dioxide                           21.5 mmol/L
+  2014-07-07 : Basic Metabolic Panel
+           - Glucose                                  76.9 mg/dL
+           - Urea Nitrogen                            15.6 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   143.6 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 104.3 mmol/L
+           - Carbon Dioxide                           26.1 mmol/L
+  2012-07-30 : Lipid Panel
+           - Total Cholesterol                        190.9 mg/dL
+           - Triglycerides                            115.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      106.0 mg/dL
+           - High Density Lipoprotein Cholesterol     61.9 mg/dL
+  2012-07-30 : Basic Metabolic Panel
+           - Glucose                                  69.2 mg/dL
+           - Urea Nitrogen                            20.0 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 108.8 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  2010-07-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+           - MCV [Entitic volume] by Automated count  80.3 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 180.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 346.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2010-07-26 : Basic Metabolic Panel
+           - Glucose                                  66.0 mg/dL
+           - Urea Nitrogen                            16.1 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.0 mmol/L
+           - Carbon Dioxide                           27.6 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2018-07-30 : Tobacco smoking status NHIS              Former smoker 
+  2018-07-30 : Carbon Dioxide                           23.5 mmol/L
+  2018-07-30 : Chloride                                 104.0 mmol/L
+  2018-07-30 : Potassium                                3.8 mmol/L
+  2018-07-30 : Sodium                                   142.6 mmol/L
+  2018-07-30 : Calcium                                  9.8 mg/dL
+  2018-07-30 : Creatinine                               1.5 mg/dL
+  2018-07-30 : Urea Nitrogen                            11.9 mg/dL
+  2018-07-30 : Glucose                                  78.1 mg/dL
+  2018-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 76.5 mmHg
+           - Systolic Blood Pressure                  114.3 mmHg
+  2018-07-30 : Body Mass Index                          44.7 kg/m2
+  2018-07-30 : Body Weight                              109.7 kg
+  2018-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-07-30 : Body Height                              156.7 cm
+  2017-07-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2017-07-24 : Tobacco smoking status NHIS              Former smoker 
+  2017-07-24 : Carbon Dioxide                           27.5 mmol/L
+  2017-07-24 : Chloride                                 106.4 mmol/L
+  2017-07-24 : Potassium                                4.0 mmol/L
+  2017-07-24 : Sodium                                   142.6 mmol/L
+  2017-07-24 : Calcium                                  9.3 mg/dL
+  2017-07-24 : Creatinine                               1.2 mg/dL
+  2017-07-24 : Urea Nitrogen                            18.5 mg/dL
+  2017-07-24 : Glucose                                  88.3 mg/dL
+  2017-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 78.1 mmHg
+           - Systolic Blood Pressure                  108.4 mmHg
+  2017-07-24 : Body Mass Index                          44.7 kg/m2
+  2017-07-24 : Body Weight                              109.7 kg
+  2017-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2017-07-24 : Body Height                              156.7 cm
+  2016-07-18 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-07-18 : Tobacco smoking status NHIS              Former smoker 
+  2016-07-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2016-07-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 414.8 fL
+  2016-07-18 : Platelets [#/volume] in Blood by Automated count 388.2 10*3/uL
+  2016-07-18 : Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+  2016-07-18 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2016-07-18 : MCH [Entitic mass] by Automated count    32.2 pg
+  2016-07-18 : MCV [Entitic volume] by Automated count  91.8 fL
+  2016-07-18 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  2016-07-18 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2016-07-18 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2016-07-18 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  2016-07-18 : High Density Lipoprotein Cholesterol     69.0 mg/dL
+  2016-07-18 : Low Density Lipoprotein Cholesterol      101.5 mg/dL
+  2016-07-18 : Triglycerides                            131.9 mg/dL
+  2016-07-18 : Total Cholesterol                        196.8 mg/dL
+  2016-07-18 : Carbon Dioxide                           22.1 mmol/L
+  2016-07-18 : Chloride                                 106.5 mmol/L
+  2016-07-18 : Potassium                                4.1 mmol/L
+  2016-07-18 : Sodium                                   143.6 mmol/L
+  2016-07-18 : Calcium                                  9.6 mg/dL
+  2016-07-18 : Creatinine                               1.6 mg/dL
+  2016-07-18 : Urea Nitrogen                            10.4 mg/dL
+  2016-07-18 : Glucose                                  81.1 mg/dL
+  2016-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 72.3 mmHg
+           - Systolic Blood Pressure                  113.6 mmHg
+  2016-07-18 : Body Mass Index                          44.7 kg/m2
+  2016-07-18 : Body Weight                              109.7 kg
+  2016-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2016-07-18 : Body Height                              156.7 cm
+  2015-07-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2015-07-13 : Tobacco smoking status NHIS              Former smoker 
+  2015-07-13 : Carbon Dioxide                           21.5 mmol/L
+  2015-07-13 : Chloride                                 103.6 mmol/L
+  2015-07-13 : Potassium                                5.0 mmol/L
+  2015-07-13 : Sodium                                   140.4 mmol/L
+  2015-07-13 : Calcium                                  9.8 mg/dL
+  2015-07-13 : Creatinine                               1.2 mg/dL
+  2015-07-13 : Urea Nitrogen                            9.1 mg/dL
+  2015-07-13 : Glucose                                  75.0 mg/dL
+  2015-07-13 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mmHg
+           - Systolic Blood Pressure                  126.2 mmHg
+  2015-07-13 : Body Mass Index                          44.7 kg/m2
+  2015-07-13 : Body Weight                              109.7 kg
+  2015-07-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2015-07-13 : Body Height                              156.7 cm
+  2014-07-07 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2014-07-07 : Tobacco smoking status NHIS              Former smoker 
+  2014-07-07 : Carbon Dioxide                           26.1 mmol/L
+  2014-07-07 : Chloride                                 104.3 mmol/L
+  2014-07-07 : Potassium                                4.4 mmol/L
+  2014-07-07 : Sodium                                   143.6 mmol/L
+  2014-07-07 : Calcium                                  8.7 mg/dL
+  2014-07-07 : Creatinine                               1.2 mg/dL
+  2014-07-07 : Urea Nitrogen                            15.6 mg/dL
+  2014-07-07 : Glucose                                  76.9 mg/dL
+  2014-07-07 : Blood Pressure
+           - Diastolic Blood Pressure                 72.6 mmHg
+           - Systolic Blood Pressure                  119.5 mmHg
+  2014-07-07 : Body Mass Index                          44.7 kg/m2
+  2014-07-07 : Body Weight                              109.7 kg
+  2014-07-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2014-07-07 : Body Height                              156.7 cm
+  2012-07-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2012-07-30 : Tobacco smoking status NHIS              Former smoker 
+  2012-07-30 : High Density Lipoprotein Cholesterol     61.9 mg/dL
+  2012-07-30 : Low Density Lipoprotein Cholesterol      106.0 mg/dL
+  2012-07-30 : Triglycerides                            115.2 mg/dL
+  2012-07-30 : Total Cholesterol                        190.9 mg/dL
+  2012-07-30 : Carbon Dioxide                           20.9 mmol/L
+  2012-07-30 : Chloride                                 108.8 mmol/L
+  2012-07-30 : Potassium                                5.1 mmol/L
+  2012-07-30 : Sodium                                   137.6 mmol/L
+  2012-07-30 : Calcium                                  8.7 mg/dL
+  2012-07-30 : Creatinine                               1.2 mg/dL
+  2012-07-30 : Urea Nitrogen                            20.0 mg/dL
+  2012-07-30 : Glucose                                  69.2 mg/dL
+  2012-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 88.1 mmHg
+           - Systolic Blood Pressure                  102.9 mmHg
+  2012-07-30 : Body Mass Index                          44.0 kg/m2
+  2012-07-30 : Body Weight                              108.1 kg
+  2012-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2012-07-30 : Body Height                              156.7 cm
+  2010-07-26 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2010-07-26 : Tobacco smoking status NHIS              Former smoker 
+  2010-07-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2010-07-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 346.3 fL
+  2010-07-26 : Platelets [#/volume] in Blood by Automated count 180.7 10*3/uL
+  2010-07-26 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2010-07-26 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2010-07-26 : MCH [Entitic mass] by Automated count    32.9 pg
+  2010-07-26 : MCV [Entitic volume] by Automated count  80.3 fL
+  2010-07-26 : Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+  2010-07-26 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2010-07-26 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2010-07-26 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2010-07-26 : Carbon Dioxide                           27.6 mmol/L
+  2010-07-26 : Chloride                                 101.0 mmol/L
+  2010-07-26 : Potassium                                4.0 mmol/L
+  2010-07-26 : Sodium                                   138.1 mmol/L
+  2010-07-26 : Calcium                                  9.9 mg/dL
+  2010-07-26 : Creatinine                               1.6 mg/dL
+  2010-07-26 : Urea Nitrogen                            16.1 mg/dL
+  2010-07-26 : Glucose                                  66.0 mg/dL
+  2010-07-26 : Blood Pressure
+           - Diastolic Blood Pressure                 84.8 mmHg
+           - Systolic Blood Pressure                  102.4 mmHg
+  2010-07-26 : Body Mass Index                          42.4 kg/m2
+  2010-07-26 : Body Weight                              104.1 kg
+  2010-07-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2010-07-26 : Body Height                              156.7 cm
+  2010-03-07 : Oral temperature                         38.0 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-07-24 : Documentation of current medications
+  2016-07-18 : Documentation of current medications
+  2015-07-13 : Documentation of current medications
+  2014-07-21 : Intramuscular injection
+  2014-04-21 : Intramuscular injection
+  2014-01-20 : Intramuscular injection
+  2013-10-21 : Intramuscular injection
+  2013-07-22 : Intramuscular injection
+  2013-04-22 : Intramuscular injection
+  2013-01-21 : Intramuscular injection
+  2012-10-22 : Intramuscular injection
+  2012-07-23 : Intramuscular injection
+  2012-04-23 : Intramuscular injection
+  2012-01-23 : Intramuscular injection
+  2011-10-24 : Intramuscular injection
+  2011-09-24 : Intramuscular injection
+  2011-07-25 : Intramuscular injection
+  2011-04-25 : Intramuscular injection
+  2011-01-24 : Intramuscular injection
+  2010-10-25 : Intramuscular injection
+  2010-09-29 : Insertion of subcutaneous contraceptive
+  2010-07-26 : Intramuscular injection
+  2010-04-26 : Intramuscular injection
+  2010-01-25 : Intramuscular injection
+  2009-10-26 : Intramuscular injection
+  2009-07-27 : Intramuscular injection
+  2009-04-27 : Intramuscular injection
+  2009-01-26 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-30 : Influenza, seasonal, injectable, preservative free
+  2017-07-24 : Influenza, seasonal, injectable, preservative free
+  2016-07-18 : Influenza, seasonal, injectable, preservative free
+  2015-07-13 : Td (adult) preservative free
+  2015-07-13 : Influenza, seasonal, injectable, preservative free
+  2015-07-13 : zoster
+  2014-07-07 : Influenza, seasonal, injectable, preservative free
+  2014-07-07 : zoster
+  2012-07-30 : Influenza, seasonal, injectable, preservative free
+  2010-07-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-07-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-07-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2016-07-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-07-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-07-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-07-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-04-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-01-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-10-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-09-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-07-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-04-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-01-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-10-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-09-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-07-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-07-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-04-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-01-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-10-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-09-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-07-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-04-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-01-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-10-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-09-29 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-07-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-07-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-04-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-03-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute viral pharyngitis (disorder)
+2010-01-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-10-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-10-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-07-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-04-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-04-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2009-01-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+1995-07-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+1992-07-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

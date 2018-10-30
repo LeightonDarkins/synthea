@@ -1,0 +1,196 @@
+Kenneth671 Hoppe518
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 42
+Birth Date:          1976-10-08
+Marital Status:      M
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-10-19[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  2018-08-29[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2015-06-17[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2014-09-29[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2013-03-08[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-08-29 - 2018-10-03 : Sprain of wrist
+  2016-10-08 -            : Pulmonary emphysema (disorder)
+  2015-07-01 - 2015-07-15 : Viral sinusitis (disorder)
+  2015-06-17 - 2015-06-24 : Acute bronchitis (disorder)
+  2014-09-29 -            : Osteoarthritis of knee
+  2014-07-18 -            : Body mass index 40+ - severely obese (finding)
+  2013-06-16 - 2013-06-24 : Acute viral pharyngitis (disorder)
+  2013-03-08 - 2013-03-17 : Streptococcal sore throat (disorder)
+  1994-06-17 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-08-29[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2016-10-08[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+  2015-06-17[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2014-09-29[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-10-19 : Lipid Panel
+           - Total Cholesterol                        173.3 mg/dL
+           - Triglycerides                            144.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.1 mg/dL
+           - High Density Lipoprotein Cholesterol     67.3 mg/dL
+  2016-10-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.1 %
+           - MCV [Entitic volume] by Automated count  88.1 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.8 fL
+           - Platelets [#/volume] in Blood by Automated count 374.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 427.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2014-07-18 : Lipid Panel
+           - Total Cholesterol                        174.5 mg/dL
+           - Triglycerides                            126.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      89.2 mg/dL
+           - High Density Lipoprotein Cholesterol     60.0 mg/dL
+  2011-07-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+           - MCV [Entitic volume] by Automated count  87.9 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 170.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 342.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2011-07-15 : Lipid Panel
+           - Total Cholesterol                        182.5 mg/dL
+           - Triglycerides                            137.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.7 mg/dL
+           - High Density Lipoprotein Cholesterol     77.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-19 : FEV1/FVC                                 51.6 %
+  2018-10-19 : Tobacco smoking status NHIS              Former smoker 
+  2018-10-19 : High Density Lipoprotein Cholesterol     67.3 mg/dL
+  2018-10-19 : Low Density Lipoprotein Cholesterol      77.1 mg/dL
+  2018-10-19 : Triglycerides                            144.3 mg/dL
+  2018-10-19 : Total Cholesterol                        173.3 mg/dL
+  2018-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 82.3 mmHg
+           - Systolic Blood Pressure                  112.6 mmHg
+  2018-10-19 : Body Mass Index                          42.8 kg/m2
+  2018-10-19 : Body Weight                              136.6 kg
+  2018-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2018-10-19 : Body Height                              178.5 cm
+  2016-10-08 : FEV1/FVC                                 67.5 %
+  2016-10-14 : Tobacco smoking status NHIS              Former smoker 
+  2016-10-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2016-10-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 427.8 fL
+  2016-10-14 : Platelets [#/volume] in Blood by Automated count 374.5 10*3/uL
+  2016-10-14 : Erythrocyte distribution width [Entitic volume] by Automated count 45.8 fL
+  2016-10-14 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2016-10-14 : MCH [Entitic mass] by Automated count    30.0 pg
+  2016-10-14 : MCV [Entitic volume] by Automated count  88.1 fL
+  2016-10-14 : Hematocrit [Volume Fraction] of Blood by Automated count 41.1 %
+  2016-10-14 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2016-10-14 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2016-10-14 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2016-10-14 : Blood Pressure
+           - Diastolic Blood Pressure                 70.1 mmHg
+           - Systolic Blood Pressure                  129.0 mmHg
+  2016-10-14 : Body Mass Index                          41.4 kg/m2
+  2016-10-14 : Body Weight                              132.0 kg
+  2016-10-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2016-10-14 : Body Height                              178.5 cm
+  2014-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2014-07-18 : Tobacco smoking status NHIS              Former smoker 
+  2014-07-18 : High Density Lipoprotein Cholesterol     60.0 mg/dL
+  2014-07-18 : Low Density Lipoprotein Cholesterol      89.2 mg/dL
+  2014-07-18 : Triglycerides                            126.7 mg/dL
+  2014-07-18 : Total Cholesterol                        174.5 mg/dL
+  2014-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 70.3 mmHg
+           - Systolic Blood Pressure                  104.6 mmHg
+  2014-07-18 : Body Mass Index                          40.4 kg/m2
+  2014-07-18 : Body Weight                              128.9 kg
+  2014-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2014-07-18 : Body Height                              178.5 cm
+  2013-06-16 : Oral temperature                         37.6 Cel
+  2013-03-08 : Oral temperature                         37.9 Cel
+  2011-07-15 : Tobacco smoking status NHIS              Former smoker 
+  2011-07-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2011-07-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 342.1 fL
+  2011-07-15 : Platelets [#/volume] in Blood by Automated count 170.6 10*3/uL
+  2011-07-15 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2011-07-15 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2011-07-15 : MCH [Entitic mass] by Automated count    29.8 pg
+  2011-07-15 : MCV [Entitic volume] by Automated count  87.9 fL
+  2011-07-15 : Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+  2011-07-15 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2011-07-15 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2011-07-15 : Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+  2011-07-15 : High Density Lipoprotein Cholesterol     77.3 mg/dL
+  2011-07-15 : Low Density Lipoprotein Cholesterol      77.7 mg/dL
+  2011-07-15 : Triglycerides                            137.0 mg/dL
+  2011-07-15 : Total Cholesterol                        182.5 mg/dL
+  2011-07-15 : Blood Pressure
+           - Diastolic Blood Pressure                 78.4 mmHg
+           - Systolic Blood Pressure                  117.6 mmHg
+  2011-07-15 : Body Mass Index                          38.6 kg/m2
+  2011-07-15 : Body Weight                              123.2 kg
+  2011-07-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2011-07-15 : Body Height                              178.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-19 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2016-10-08 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2016-10-14 : Documentation of current medications
+  2015-06-17 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2013-03-08 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2011-07-15 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-19 : Hep A, adult
+  2018-10-19 : Td (adult) preservative free
+  2018-10-19 : Influenza, seasonal, injectable, preservative free
+  2016-10-14 : Hep A, adult
+  2016-10-14 : Influenza, seasonal, injectable, preservative free
+  2014-07-18 : Influenza, seasonal, injectable, preservative free
+  2011-07-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-08-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-10-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-07-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2015-06-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2014-09-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Osteoarthritis of knee
+2014-07-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-06-16 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2013-03-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2011-07-15 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1994-06-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

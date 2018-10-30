@@ -1,0 +1,303 @@
+Robbin22 Kshlerin58
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 40
+Birth Date:          1978-07-29
+Marital Status:      M
+Outpatient Provider: MILFORD REGIONAL MEDICAL CENTER
+Primary Care Provider: 14 PROSPECT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-12-14[STOPPED] : Errin 28 Day Pack
+  2014-05-08[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2012-12-29[STOPPED] : 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe
+  2008-05-07[STOPPED] : Etonogestrel 68 MG Drug Implant
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-07-15 - 2018-07-23 : Acute viral pharyngitis (disorder)
+  2017-04-15 - 2017-06-17 : Normal pregnancy
+  2017-01-15 - 2017-02-05 : Viral sinusitis (disorder)
+  2014-05-08 -            : Chronic pain
+  2013-06-05 - 2013-06-26 : Viral sinusitis (disorder)
+  2012-10-20 - 2012-11-17 : Preeclampsia
+  2012-07-02 - 2012-07-12 : Acute viral pharyngitis (disorder)
+  2012-05-05 - 2012-11-17 : Normal pregnancy
+  2011-12-10 - 2012-01-07 : Normal pregnancy
+  2010-07-03 - 2010-07-17 : Normal pregnancy
+  2005-05-14 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-04-15[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2012-05-05[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2004-09-11[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-05-27 : Lipid Panel
+           - Total Cholesterol                        172.1 mg/dL
+           - Triglycerides                            145.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.8 mg/dL
+           - High Density Lipoprotein Cholesterol     72.2 mg/dL
+  2014-05-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+           - MCV [Entitic volume] by Automated count  87.1 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 302.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 376.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2014-05-24 : Lipid Panel
+           - Total Cholesterol                        191.7 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.9 mg/dL
+           - High Density Lipoprotein Cholesterol     73.8 mg/dL
+  2011-05-21 : Lipid Panel
+           - Total Cholesterol                        183.5 mg/dL
+           - Triglycerides                            148.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.4 mg/dL
+           - High Density Lipoprotein Cholesterol     79.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-15 : Oral temperature                         37.6 Cel
+  2018-07-21 : Tobacco smoking status NHIS              Former smoker 
+  2018-07-21 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  137.2 mmHg
+  2018-07-21 : Body Mass Index                          38.3 kg/m2
+  2018-07-21 : Body Weight                              96.0 kg
+  2018-07-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2018-07-21 : Body Height                              158.3 cm
+  2017-05-27 : Tobacco smoking status NHIS              Former smoker 
+  2017-05-27 : High Density Lipoprotein Cholesterol     72.2 mg/dL
+  2017-05-27 : Low Density Lipoprotein Cholesterol      70.8 mg/dL
+  2017-05-27 : Triglycerides                            145.5 mg/dL
+  2017-05-27 : Total Cholesterol                        172.1 mg/dL
+  2017-05-27 : Blood Pressure
+           - Diastolic Blood Pressure                 82.7 mmHg
+           - Systolic Blood Pressure                  107.6 mmHg
+  2017-05-27 : Body Mass Index                          37.7 kg/m2
+  2017-05-27 : Body Weight                              94.3 kg
+  2017-05-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2017-05-27 : Body Height                              158.3 cm
+  2014-05-24 : Tobacco smoking status NHIS              Former smoker 
+  2014-05-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2014-05-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 376.7 fL
+  2014-05-24 : Platelets [#/volume] in Blood by Automated count 302.7 10*3/uL
+  2014-05-24 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2014-05-24 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2014-05-24 : MCH [Entitic mass] by Automated count    27.2 pg
+  2014-05-24 : MCV [Entitic volume] by Automated count  87.1 fL
+  2014-05-24 : Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+  2014-05-24 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2014-05-24 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2014-05-24 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2014-05-24 : High Density Lipoprotein Cholesterol     73.8 mg/dL
+  2014-05-24 : Low Density Lipoprotein Cholesterol      94.9 mg/dL
+  2014-05-24 : Triglycerides                            115.1 mg/dL
+  2014-05-24 : Total Cholesterol                        191.7 mg/dL
+  2014-05-24 : Blood Pressure
+           - Diastolic Blood Pressure                 82.3 mmHg
+           - Systolic Blood Pressure                  131.8 mmHg
+  2014-05-24 : Body Mass Index                          35.5 kg/m2
+  2014-05-24 : Body Weight                              89.0 kg
+  2014-05-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2014-05-24 : Body Height                              158.3 cm
+  2014-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.6 {score}
+  2012-07-02 : Oral temperature                         37.1 Cel
+  2011-05-21 : Tobacco smoking status NHIS              Former smoker 
+  2011-05-21 : High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2011-05-21 : Low Density Lipoprotein Cholesterol      74.4 mg/dL
+  2011-05-21 : Triglycerides                            148.5 mg/dL
+  2011-05-21 : Total Cholesterol                        183.5 mg/dL
+  2011-05-21 : Blood Pressure
+           - Diastolic Blood Pressure                 70.3 mmHg
+           - Systolic Blood Pressure                  114.6 mmHg
+  2011-05-21 : Body Mass Index                          34.1 kg/m2
+  2011-05-21 : Body Weight                              85.3 kg
+  2011-05-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2011-05-21 : Body Height                              158.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-07-21 : Documentation of current medications
+  2017-06-17 : Depression screening for Normal pregnancy
+  2017-06-17 : Physical examination for Normal pregnancy
+  2017-05-27 : Documentation of current medications
+  2017-05-13 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-05-13 : Auscultation of the fetal heart for Normal pregnancy
+  2017-05-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-15 : Physical examination of mother for Normal pregnancy
+  2017-04-15 : Urine protein test for Normal pregnancy
+  2017-04-15 : Skin test for tuberculosis for Normal pregnancy
+  2017-04-15 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-04-15 : Rubella screening for Normal pregnancy
+  2017-04-15 : Hepatitis C antibody test for Normal pregnancy
+  2017-04-15 : Urine screening test for diabetes for Normal pregnancy
+  2017-04-15 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-04-15 : Urine culture for Normal pregnancy
+  2017-04-15 : Syphilis infection test for Normal pregnancy
+  2017-04-15 : Gonorrhea infection test for Normal pregnancy
+  2017-04-15 : Chlamydia antigen test for Normal pregnancy
+  2017-04-15 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-04-15 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-04-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-04-15 : Blood typing, RH typing for Normal pregnancy
+  2017-04-15 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-15 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-04-15 : Standard pregnancy test for Normal pregnancy
+  2016-12-24 : Intramuscular injection
+  2016-09-24 : Intramuscular injection
+  2016-06-25 : Intramuscular injection
+  2016-03-26 : Intramuscular injection
+  2015-12-26 : Intramuscular injection
+  2015-09-26 : Intramuscular injection
+  2015-06-27 : Intramuscular injection
+  2015-03-28 : Intramuscular injection
+  2014-12-27 : Intramuscular injection
+  2014-09-27 : Intramuscular injection
+  2014-06-28 : Intramuscular injection
+  2014-03-29 : Intramuscular injection
+  2013-12-28 : Intramuscular injection
+  2013-09-28 : Intramuscular injection
+  2013-06-29 : Intramuscular injection
+  2013-03-30 : Intramuscular injection
+  2012-12-29 : Intramuscular injection
+  2012-12-29 : Depression screening
+  2012-12-29 : Physical examination following birth
+  2012-11-17 : Premature birth of newborn for Normal pregnancy
+  2012-11-17 : Instrumental delivery for Normal pregnancy
+  2012-10-20 : Auscultation of the fetal heart for Normal pregnancy
+  2012-10-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-22 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-22 : Urine screening for glucose for Normal pregnancy
+  2012-09-22 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-09-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-08-25 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-28 : Auscultation of the fetal heart for Normal pregnancy
+  2012-07-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-30 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-30 : Alpha-fetoprotein test for Normal pregnancy
+  2012-06-30 : Fetal anatomy study for Normal pregnancy
+  2012-06-02 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-06-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-05 : Physical examination of mother for Normal pregnancy
+  2012-05-05 : Urine protein test for Normal pregnancy
+  2012-05-05 : Skin test for tuberculosis for Normal pregnancy
+  2012-05-05 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-05-05 : Rubella screening for Normal pregnancy
+  2012-05-05 : Hepatitis C antibody test for Normal pregnancy
+  2012-05-05 : Urine screening test for diabetes for Normal pregnancy
+  2012-05-05 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-05-05 : Urine culture for Normal pregnancy
+  2012-05-05 : Syphilis infection test for Normal pregnancy
+  2012-05-05 : Gonorrhea infection test for Normal pregnancy
+  2012-05-05 : Chlamydia antigen test for Normal pregnancy
+  2012-05-05 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-05-05 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-05-05 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-05-05 : Blood typing, RH typing for Normal pregnancy
+  2012-05-05 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-05 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-05-05 : Standard pregnancy test for Normal pregnancy
+  2012-01-07 : Depression screening for Normal pregnancy
+  2012-01-07 : Physical exam following abortion for Normal pregnancy
+  2012-01-07 : Pregnancy termination care for Normal pregnancy
+  2011-12-24 : Induced termination of pregnancy for Normal pregnancy
+  2011-12-24 : Counseling for termination of pregnancy for Normal pregnancy
+  2011-12-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-12-10 : Standard pregnancy test for Normal pregnancy
+  2010-07-17 : Depression screening for Normal pregnancy
+  2010-07-17 : Physical exam following abortion for Normal pregnancy
+  2010-07-17 : Pregnancy termination care for Normal pregnancy
+  2010-07-10 : Induced termination of pregnancy for Normal pregnancy
+  2010-07-10 : Counseling for termination of pregnancy for Normal pregnancy
+  2010-07-03 : Ultrasound scan for fetal viability for Normal pregnancy
+  2010-07-03 : Standard pregnancy test for Normal pregnancy
+  2010-05-01 : Removal of subcutaneous contraceptive
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-21 : Influenza, seasonal, injectable, preservative free
+  2017-05-27 : Influenza, seasonal, injectable, preservative free
+  2014-05-24 : Influenza, seasonal, injectable, preservative free
+  2011-05-21 : Td (adult) preservative free
+  2011-05-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-15 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2018-07-21 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2017-06-17 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Complication occuring during pregnancy
+2017-06-10 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2017-05-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2017-05-13 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2017-04-15 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2017-01-15 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2016-12-24 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2016-09-24 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2016-06-25 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2016-03-26 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2015-12-26 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2015-12-14 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2015-09-26 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2015-06-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2015-03-28 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2014-12-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2014-09-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2014-06-28 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2014-05-24 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2014-05-08 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Chronic pain
+2014-03-29 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2013-12-28 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2013-09-28 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2013-06-29 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2013-06-05 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2013-03-30 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2012-12-29 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2012-12-29 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2012-11-17 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2012-10-20 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2012-09-22 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2012-08-25 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2012-07-28 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2012-07-02 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2012-06-30 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2012-06-02 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2012-05-05 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2012-01-07 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2011-12-24 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2011-12-10 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2011-05-21 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2010-07-17 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2010-07-10 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2010-07-03 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2010-05-01 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2008-05-07 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2005-05-14 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2004-09-11 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

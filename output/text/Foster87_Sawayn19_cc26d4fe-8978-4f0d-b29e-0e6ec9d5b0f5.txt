@@ -1,0 +1,156 @@
+Foster87 Sawayn19
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 38
+Birth Date:          1980-06-02
+Marital Status:      M
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1999-12-20[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1998-12-14 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-01-08 : Lipid Panel
+           - Total Cholesterol                        171.1 mg/dL
+           - Triglycerides                            136.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      65.0 mg/dL
+           - High Density Lipoprotein Cholesterol     78.8 mg/dL
+  2015-01-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 409.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 485.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2015-01-05 : Lipid Panel
+           - Total Cholesterol                        194.3 mg/dL
+           - Triglycerides                            149.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.1 mg/dL
+           - High Density Lipoprotein Cholesterol     77.2 mg/dL
+  2012-01-02 : Lipid Panel
+           - Total Cholesterol                        192.5 mg/dL
+           - Triglycerides                            141.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.9 mg/dL
+           - High Density Lipoprotein Cholesterol     62.4 mg/dL
+  2008-12-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+           - MCV [Entitic volume] by Automated count  86.2 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 273.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 506.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-01-08 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-08 : Estimated Glomerular Filtration Rate     97.0 mL/min/{1.73_m2}
+  2018-01-08 : High Density Lipoprotein Cholesterol     78.8 mg/dL
+  2018-01-08 : Low Density Lipoprotein Cholesterol      65.0 mg/dL
+  2018-01-08 : Triglycerides                            136.4 mg/dL
+  2018-01-08 : Total Cholesterol                        171.1 mg/dL
+  2018-01-08 : Blood Pressure
+           - Diastolic Blood Pressure                 91.7 mmHg
+           - Systolic Blood Pressure                  196.8 mmHg
+  2018-01-08 : Body Mass Index                          27.3 kg/m2
+  2018-01-08 : Body Weight                              91.3 kg
+  2018-01-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2018-01-08 : Body Height                              182.9 cm
+  2015-01-05 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-05 : Estimated Glomerular Filtration Rate     89.8 mL/min/{1.73_m2}
+  2015-01-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2015-01-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 485.3 fL
+  2015-01-05 : Platelets [#/volume] in Blood by Automated count 409.5 10*3/uL
+  2015-01-05 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2015-01-05 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2015-01-05 : MCH [Entitic mass] by Automated count    32.0 pg
+  2015-01-05 : MCV [Entitic volume] by Automated count  90.7 fL
+  2015-01-05 : Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+  2015-01-05 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2015-01-05 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2015-01-05 : Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+  2015-01-05 : High Density Lipoprotein Cholesterol     77.2 mg/dL
+  2015-01-05 : Low Density Lipoprotein Cholesterol      87.1 mg/dL
+  2015-01-05 : Triglycerides                            149.9 mg/dL
+  2015-01-05 : Total Cholesterol                        194.3 mg/dL
+  2015-01-05 : Blood Pressure
+           - Diastolic Blood Pressure                 96.5 mmHg
+           - Systolic Blood Pressure                  153.0 mmHg
+  2015-01-05 : Body Mass Index                          26.0 kg/m2
+  2015-01-05 : Body Weight                              87.1 kg
+  2015-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2015-01-05 : Body Height                              182.9 cm
+  2012-01-02 : Tobacco smoking status NHIS              Never smoker 
+  2012-01-02 : Estimated Glomerular Filtration Rate     77.5 mL/min/{1.73_m2}
+  2012-01-02 : High Density Lipoprotein Cholesterol     62.4 mg/dL
+  2012-01-02 : Low Density Lipoprotein Cholesterol      101.9 mg/dL
+  2012-01-02 : Triglycerides                            141.4 mg/dL
+  2012-01-02 : Total Cholesterol                        192.5 mg/dL
+  2012-01-02 : Blood Pressure
+           - Diastolic Blood Pressure                 119.2 mmHg
+           - Systolic Blood Pressure                  143.5 mmHg
+  2012-01-02 : Body Mass Index                          24.7 kg/m2
+  2012-01-02 : Body Weight                              82.5 kg
+  2012-01-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-01-02 : Body Height                              182.9 cm
+  2008-12-29 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-29 : Estimated Glomerular Filtration Rate     143.9 mL/min/{1.73_m2}
+  2008-12-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2008-12-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 506.8 fL
+  2008-12-29 : Platelets [#/volume] in Blood by Automated count 273.9 10*3/uL
+  2008-12-29 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2008-12-29 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2008-12-29 : MCH [Entitic mass] by Automated count    30.3 pg
+  2008-12-29 : MCV [Entitic volume] by Automated count  86.2 fL
+  2008-12-29 : Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+  2008-12-29 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2008-12-29 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2008-12-29 : Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+  2008-12-29 : Blood Pressure
+           - Diastolic Blood Pressure                 102.8 mmHg
+           - Systolic Blood Pressure                  165.2 mmHg
+  2008-12-29 : Body Mass Index                          23.7 kg/m2
+  2008-12-29 : Body Weight                              79.3 kg
+  2008-12-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2008-12-29 : Body Height                              182.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2012-01-02 : Documentation of current medications
+  2008-12-29 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-08 : Influenza, seasonal, injectable, preservative free
+  2015-01-05 : Influenza, seasonal, injectable, preservative free
+  2012-01-02 : Td (adult) preservative free
+  2012-01-02 : Influenza, seasonal, injectable, preservative free
+  2008-12-29 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-01-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-01-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-12-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1999-12-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1998-12-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

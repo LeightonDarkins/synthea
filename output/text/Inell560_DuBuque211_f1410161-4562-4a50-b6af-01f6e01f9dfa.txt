@@ -1,0 +1,293 @@
+Inell560 DuBuque211
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 19
+Birth Date:          1999-02-26
+Marital Status:      S
+Outpatient Provider: NORWOOD HOSPITAL
+Primary Care Provider: 800 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-08-24[CURRENT] : Camila 28 Day Pack
+  2018-06-22[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  2018-04-08[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2017-06-16[STOPPED] : Hydrochlorothiazide 6.25 MG for Hypertension
+  2016-02-15[STOPPED] : Jolivette 28 Day Pack
+  2015-06-02[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2014-02-17[STOPPED] : Trinessa 28 Day Pack
+  2013-02-22[STOPPED] : Levora 0.15/30 28 Day Pack
+  2008-10-31[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-04-08 - 2018-04-29 : Sprain of ankle
+  2017-12-08 - 2018-07-13 : Normal pregnancy
+  2017-06-16 -            : Hypertension
+  2015-06-02 - 2015-06-23 : Sprain of ankle
+  2008-12-26 - 2009-03-06 : Sinusitis (disorder)
+  2008-10-31 - 2008-11-21 : Viral sinusitis (disorder)
+  2003-02-27 -            : History of appendectomy
+  2003-02-27 -            : Appendicitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-04-08[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2017-12-08[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-06-02[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-06-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+           - MCV [Entitic volume] by Automated count  81.6 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 405.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 199.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2010-05-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+           - MCV [Entitic volume] by Automated count  86.8 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+           - Platelets [#/volume] in Blood by Automated count 251.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 393.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-06-22 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-22 : Estimated Glomerular Filtration Rate     136.1 mL/min/{1.73_m2}
+  2018-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 106.8 mmHg
+           - Systolic Blood Pressure                  180.4 mmHg
+  2018-06-22 : Body Mass Index                          21.8 kg/m2
+  2018-06-22 : Body Weight                              57.7 kg
+  2018-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2018-06-22 : Body Height                              162.7 cm
+  2017-06-16 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-16 : Blood Pressure
+           - Diastolic Blood Pressure                 112.2 mmHg
+           - Systolic Blood Pressure                  141.2 mmHg
+  2017-06-16 : Body Mass Index                          21.4 kg/m2
+  2017-06-16 : Body Weight                              56.5 kg
+  2017-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2017-06-16 : Body Height                              162.6 cm
+  2016-06-10 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-10 : Blood Pressure
+           - Diastolic Blood Pressure                 86.2 mmHg
+           - Systolic Blood Pressure                  137.5 mmHg
+  2016-06-10 : Body Mass Index                          21.0 kg/m2
+  2016-06-10 : Body Weight                              55.5 kg
+  2016-06-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2016-06-10 : Body Height                              162.4 cm
+  2015-06-05 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2015-06-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 199.8 fL
+  2015-06-05 : Platelets [#/volume] in Blood by Automated count 405.0 10*3/uL
+  2015-06-05 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  2015-06-05 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2015-06-05 : MCH [Entitic mass] by Automated count    27.3 pg
+  2015-06-05 : MCV [Entitic volume] by Automated count  81.6 fL
+  2015-06-05 : Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+  2015-06-05 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2015-06-05 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2015-06-05 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2015-06-05 : Blood Pressure
+           - Diastolic Blood Pressure                 73.3 mmHg
+           - Systolic Blood Pressure                  128.7 mmHg
+  2015-06-05 : Body Mass Index                          20.7 kg/m2
+  2015-06-05 : Body Weight                              54.3 kg
+  2015-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2015-06-05 : Body Height                              162.1 cm
+  2014-05-30 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-30 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  124.0 mmHg
+  2014-05-30 : Body Mass Index                          20.1 kg/m2
+  2014-05-30 : Body Weight                              52.5 kg
+  2014-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2014-05-30 : Body Height                              161.5 cm
+  2013-05-24 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-24 : Blood Pressure
+           - Diastolic Blood Pressure                 82.8 mmHg
+           - Systolic Blood Pressure                  100.3 mmHg
+  2013-05-24 : Body Mass Index                          19.5 kg/m2
+  2013-05-24 : Body Weight                              50.0 kg
+  2013-05-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2013-05-24 : Body Height                              160.2 cm
+  2012-05-18 : Tobacco smoking status NHIS              Never smoker 
+  2012-05-18 : Blood Pressure
+           - Diastolic Blood Pressure                 81.6 mmHg
+           - Systolic Blood Pressure                  134.0 mmHg
+  2012-05-18 : Body Mass Index                          18.8 kg/m2
+  2012-05-18 : Body Weight                              46.7 kg
+  2012-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2012-05-18 : Body Height                              157.4 cm
+  2011-05-13 : Tobacco smoking status NHIS              Never smoker 
+  2011-05-13 : Blood Pressure
+           - Diastolic Blood Pressure                 76.5 mmHg
+           - Systolic Blood Pressure                  136.6 mmHg
+  2011-05-13 : Body Mass Index                          18.4 kg/m2
+  2011-05-13 : Body Weight                              42.6 kg
+  2011-05-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2011-05-13 : Body Height                              152.0 cm
+  2010-05-07 : Tobacco smoking status NHIS              Never smoker 
+  2010-05-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2010-05-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 393.8 fL
+  2010-05-07 : Platelets [#/volume] in Blood by Automated count 251.6 10*3/uL
+  2010-05-07 : Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+  2010-05-07 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2010-05-07 : MCH [Entitic mass] by Automated count    28.5 pg
+  2010-05-07 : MCV [Entitic volume] by Automated count  86.8 fL
+  2010-05-07 : Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+  2010-05-07 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2010-05-07 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2010-05-07 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2010-05-07 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mmHg
+           - Systolic Blood Pressure                  100.0 mmHg
+  2010-05-07 : Body Mass Index                          18.2 kg/m2
+  2010-05-07 : Body Weight                              38.2 kg
+  2010-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2010-05-07 : Body Height                              144.8 cm
+  2009-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2009-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 81.3 mmHg
+           - Systolic Blood Pressure                  132.2 mmHg
+  2009-05-01 : Body Mass Index                          17.5 kg/m2
+  2009-05-01 : Body Weight                              33.4 kg
+  2009-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2009-05-01 : Body Height                              138.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-24 : Depression screening
+  2018-08-24 : Physical examination following birth
+  2018-07-13 : Childbirth for Normal pregnancy
+  2018-07-13 : Episiotomy for Normal pregnancy
+  2018-07-06 : Auscultation of the fetal heart for Normal pregnancy
+  2018-07-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-06-22 : Auscultation of the fetal heart for Normal pregnancy
+  2018-06-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-06-22 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2018-05-25 : Auscultation of the fetal heart for Normal pregnancy
+  2018-05-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-27 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-27 : Urine screening for glucose for Normal pregnancy
+  2018-04-27 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2018-04-27 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-03-30 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-03-02 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-02 : Auscultation of the fetal heart for Normal pregnancy
+  2018-02-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-02 : Alpha-fetoprotein test for Normal pregnancy
+  2018-02-02 : Fetal anatomy study for Normal pregnancy
+  2018-01-05 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2018-01-05 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-08 : Physical examination of mother for Normal pregnancy
+  2017-12-08 : Urine protein test for Normal pregnancy
+  2017-12-08 : Skin test for tuberculosis for Normal pregnancy
+  2017-12-08 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-12-08 : Rubella screening for Normal pregnancy
+  2017-12-08 : Hepatitis C antibody test for Normal pregnancy
+  2017-12-08 : Urine screening test for diabetes for Normal pregnancy
+  2017-12-08 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-12-08 : Urine culture for Normal pregnancy
+  2017-12-08 : Syphilis infection test for Normal pregnancy
+  2017-12-08 : Gonorrhea infection test for Normal pregnancy
+  2017-12-08 : Chlamydia antigen test for Normal pregnancy
+  2017-12-08 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-12-08 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-12-08 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-12-08 : Blood typing, RH typing for Normal pregnancy
+  2017-12-08 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-08 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-12-08 : Standard pregnancy test for Normal pregnancy
+  2017-10-06 : Removal of intrauterine device
+  2017-06-16 : Documentation of current medications
+  2015-06-05 : Documentation of current medications
+  2015-02-14 : Insertion of intrauterine contraceptive device
+  2014-05-30 : Documentation of current medications
+  2012-05-18 : Documentation of current medications
+  2009-05-01 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-06-22 : Influenza, seasonal, injectable, preservative free
+  2017-06-16 : Influenza, seasonal, injectable, preservative free
+  2016-06-10 : Influenza, seasonal, injectable, preservative free
+  2015-06-05 : meningococcal MCV4P
+  2015-06-05 : Influenza, seasonal, injectable, preservative free
+  2014-05-30 : Influenza, seasonal, injectable, preservative free
+  2013-05-24 : Influenza, seasonal, injectable, preservative free
+  2012-05-18 : HPV, quadrivalent
+  2012-05-18 : Influenza, seasonal, injectable, preservative free
+  2011-05-13 : HPV, quadrivalent
+  2011-05-13 : Influenza, seasonal, injectable, preservative free
+  2010-05-07 : meningococcal MCV4P
+  2010-05-07 : HPV, quadrivalent
+  2010-05-07 : Influenza, seasonal, injectable, preservative free
+  2010-05-07 : Tdap
+  2009-05-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-24 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2018-08-24 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2018-07-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2018-07-06 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2018-06-22 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2018-06-22 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2018-05-25 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2018-04-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2018-04-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2018-03-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2018-03-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2018-02-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2018-01-05 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2017-12-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2017-10-06 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2017-06-16 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-06-10 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-02-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-06-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-06-05 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-02-14 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-02-12 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-05-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-02-17 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-05-24 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-02-22 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2012-05-18 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-05-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-05-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-05-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2008-12-26 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Sinusitis (disorder)
+2008-10-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2003-02-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Appendicitis
+2003-02-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Appendicitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

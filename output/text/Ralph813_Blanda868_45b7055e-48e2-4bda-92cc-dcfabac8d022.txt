@@ -1,0 +1,629 @@
+Ralph813 Blanda868
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 79
+Birth Date:          1939-09-11
+Marital Status:      M
+Outpatient Provider: BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+Primary Care Provider: 275 SANDWICH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-12-11[CURRENT] : Galantamine 4 MG Oral Tablet for Alzheimer's disease (disorder)
+  2015-11-20[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2010-01-18[CURRENT] : 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+  2010-01-18[CURRENT] : 1 ML DOCEtaxel 20 MG/ML Injection
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-12-11 -            : Alzheimer's disease (disorder)
+  2015-11-20 - 2015-11-27 : Acute bronchitis (disorder)
+  2010-01-18 -            : Carcinoma in situ of prostate (disorder)
+  2010-01-18 -            : Neoplasm of prostate
+  2004-12-09 -            : Chronic sinusitis (disorder)
+  1982-11-22 -            : History of cardiac arrest (situation)
+  1982-11-22 -            : Cardiac Arrest
+  1973-12-31 -            : Prediabetes
+  1967-12-25 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-12-11[CURRENT] : Demential management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Education about dementia
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  2015-11-20[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2010-01-18[CURRENT] : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1973-12-31[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-12-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    28.6 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 370.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 376.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2017-12-11 : Lipid Panel
+           - Total Cholesterol                        188.3 mg/dL
+           - Triglycerides                            136.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.5 mg/dL
+           - High Density Lipoprotein Cholesterol     79.5 mg/dL
+  2017-12-11 : Basic Metabolic Panel
+           - Glucose                                  71.5 mg/dL
+           - Urea Nitrogen                            12.6 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   138.9 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 106.0 mmol/L
+           - Carbon Dioxide                           23.2 mmol/L
+  2016-12-05 : Basic Metabolic Panel
+           - Glucose                                  69.9 mg/dL
+           - Urea Nitrogen                            16.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 103.9 mmol/L
+           - Carbon Dioxide                           21.0 mmol/L
+  2015-11-30 : Basic Metabolic Panel
+           - Glucose                                  67.8 mg/dL
+           - Urea Nitrogen                            8.2 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 110.1 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+  2015-02-16 : Basic Metabolic Panel
+           - Glucose                                  90.5 mg/dL
+           - Urea Nitrogen                            8.4 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   136.9 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 109.0 mmol/L
+           - Carbon Dioxide                           25.8 mmol/L
+  2014-02-10 : Lipid Panel
+           - Total Cholesterol                        160.1 mg/dL
+           - Triglycerides                            127.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      56.1 mg/dL
+           - High Density Lipoprotein Cholesterol     78.4 mg/dL
+  2014-02-10 : Basic Metabolic Panel
+           - Glucose                                  95.8 mg/dL
+           - Urea Nitrogen                            19.7 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   137.9 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 108.9 mmol/L
+           - Carbon Dioxide                           22.7 mmol/L
+  2013-02-04 : Basic Metabolic Panel
+           - Glucose                                  95.0 mg/dL
+           - Urea Nitrogen                            8.5 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   140.7 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 102.4 mmol/L
+           - Carbon Dioxide                           25.3 mmol/L
+  2012-01-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.1 %
+           - MCV [Entitic volume] by Automated count  94.8 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 288.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 432.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2012-01-30 : Basic Metabolic Panel
+           - Glucose                                  78.6 mg/dL
+           - Urea Nitrogen                            17.5 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   136.3 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 105.0 mmol/L
+           - Carbon Dioxide                           20.6 mmol/L
+  2011-01-24 : Lipid Panel
+           - Total Cholesterol                        197.5 mg/dL
+           - Triglycerides                            119.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      109.6 mg/dL
+           - High Density Lipoprotein Cholesterol     64.0 mg/dL
+  2011-01-24 : Basic Metabolic Panel
+           - Glucose                                  74.5 mg/dL
+           - Urea Nitrogen                            11.4 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   138.0 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 106.6 mmol/L
+           - Carbon Dioxide                           22.6 mmol/L
+  2010-04-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/​volume] in Blood by Automated count 1.4 10*3/uL
+           - Erythrocytes [#/​volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/​volume] in Blood       15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+           - MCV [Entitic volume] by Automated count  84.9 fL
+           - MCH [Entitic mass] by Automated count    32.4 pg
+           - MCHC [Mass/​volume] by Automated count   34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/​volume] in Blood by Automated count 250.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 378.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2010-04-18 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Foul smelling urine (finding) {nominal}
+           - Clarity of Urine                         Cloudy urine (finding) {nominal}
+           - Color of Urine                           Reddish color urine {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 4.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.4 pH
+           - Protein [Mass/volume] in Urine by Test strip 361.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-04-18 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  75.4 mg/dL
+           - Urea Nitrogen                            15.5 mg/dL
+           - Creatinine                               2.7 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   142.0 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 107.3 mmol/L
+           - Carbon Dioxide                           28.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 22.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 60.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 112.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.1 U/L
+  2010-01-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/​volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/​volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/​volume] in Blood       13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  92.6 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/​volume] by Automated count   35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/​volume] in Blood by Automated count 376.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 303.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2010-01-18 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Foul smelling urine (finding) {nominal}
+           - Clarity of Urine                         Cloudy urine (finding) {nominal}
+           - Color of Urine                           Reddish color urine {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 14.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.1 pH
+           - Protein [Mass/volume] in Urine by Test strip 361.0 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-01-18 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  69.9 mg/dL
+           - Urea Nitrogen                            8.7 mg/dL
+           - Creatinine                               2.5 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   136.1 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 105.8 mmol/L
+           - Carbon Dioxide                           27.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 14.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 60.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.6 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 129.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 38.1 U/L
+  2010-01-18 : Basic Metabolic Panel
+           - Glucose                                  89.7 mg/dL
+           - Urea Nitrogen                            10.8 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 105.9 mmol/L
+           - Carbon Dioxide                           28.4 mmol/L
+  2009-01-12 : Basic Metabolic Panel
+           - Glucose                                  91.7 mg/dL
+           - Urea Nitrogen                            19.5 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   136.2 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 102.8 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-12-11 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2017-12-11 : Total score [MMSE]                       24.4 (score)
+  2017-12-11 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2017-12-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 376.5 fL
+  2017-12-11 : Platelets [#/volume] in Blood by Automated count 370.0 10*3/uL
+  2017-12-11 : Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+  2017-12-11 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2017-12-11 : MCH [Entitic mass] by Automated count    28.6 pg
+  2017-12-11 : MCV [Entitic volume] by Automated count  90.7 fL
+  2017-12-11 : Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+  2017-12-11 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2017-12-11 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2017-12-11 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2017-12-11 : High Density Lipoprotein Cholesterol     79.5 mg/dL
+  2017-12-11 : Low Density Lipoprotein Cholesterol      81.5 mg/dL
+  2017-12-11 : Triglycerides                            136.5 mg/dL
+  2017-12-11 : Total Cholesterol                        188.3 mg/dL
+  2017-12-11 : Carbon Dioxide                           23.2 mmol/L
+  2017-12-11 : Chloride                                 106.0 mmol/L
+  2017-12-11 : Potassium                                4.1 mmol/L
+  2017-12-11 : Sodium                                   138.9 mmol/L
+  2017-12-11 : Calcium                                  9.6 mg/dL
+  2017-12-11 : Creatinine                               0.9 mg/dL
+  2017-12-11 : Urea Nitrogen                            12.6 mg/dL
+  2017-12-11 : Glucose                                  71.5 mg/dL
+  2017-12-11 : Blood Pressure
+           - Diastolic Blood Pressure                 83.3 mmHg
+           - Systolic Blood Pressure                  133.4 mmHg
+  2017-12-11 : Body Mass Index                          32.0 kg/m2
+  2017-12-11 : Body Weight                              99.4 kg
+  2017-12-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2017-12-11 : Body Height                              176.2 cm
+  2016-12-05 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2016-12-05 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-05 : Carbon Dioxide                           21.0 mmol/L
+  2016-12-05 : Chloride                                 103.9 mmol/L
+  2016-12-05 : Potassium                                4.1 mmol/L
+  2016-12-05 : Sodium                                   142.1 mmol/L
+  2016-12-05 : Calcium                                  8.6 mg/dL
+  2016-12-05 : Creatinine                               0.9 mg/dL
+  2016-12-05 : Urea Nitrogen                            16.9 mg/dL
+  2016-12-05 : Glucose                                  69.9 mg/dL
+  2016-12-05 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  126.6 mmHg
+  2016-12-05 : Body Mass Index                          32.6 kg/m2
+  2016-12-05 : Body Weight                              101.3 kg
+  2016-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-12-05 : Body Height                              176.2 cm
+  2015-11-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2015-11-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-11-30 : Carbon Dioxide                           27.0 mmol/L
+  2015-11-30 : Chloride                                 110.1 mmol/L
+  2015-11-30 : Potassium                                4.9 mmol/L
+  2015-11-30 : Sodium                                   140.4 mmol/L
+  2015-11-30 : Calcium                                  8.9 mg/dL
+  2015-11-30 : Creatinine                               0.9 mg/dL
+  2015-11-30 : Urea Nitrogen                            8.2 mg/dL
+  2015-11-30 : Glucose                                  67.8 mg/dL
+  2015-11-30 : Blood Pressure
+           - Diastolic Blood Pressure                 86.1 mmHg
+           - Systolic Blood Pressure                  124.7 mmHg
+  2015-11-30 : Body Mass Index                          33.1 kg/m2
+  2015-11-30 : Body Weight                              102.9 kg
+  2015-11-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2015-11-30 : Body Height                              176.2 cm
+  2015-02-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2015-02-16 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-16 : Carbon Dioxide                           25.8 mmol/L
+  2015-02-16 : Chloride                                 109.0 mmol/L
+  2015-02-16 : Potassium                                4.6 mmol/L
+  2015-02-16 : Sodium                                   136.9 mmol/L
+  2015-02-16 : Calcium                                  10.0 mg/dL
+  2015-02-16 : Creatinine                               0.9 mg/dL
+  2015-02-16 : Urea Nitrogen                            8.4 mg/dL
+  2015-02-16 : Glucose                                  90.5 mg/dL
+  2015-02-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.4 mmHg
+           - Systolic Blood Pressure                  100.2 mmHg
+  2015-02-16 : Body Mass Index                          33.6 kg/m2
+  2015-02-16 : Body Weight                              104.4 kg
+  2015-02-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2015-02-16 : Body Height                              176.2 cm
+  2014-02-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2014-02-10 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-10 : High Density Lipoprotein Cholesterol     78.4 mg/dL
+  2014-02-10 : Low Density Lipoprotein Cholesterol      56.1 mg/dL
+  2014-02-10 : Triglycerides                            127.9 mg/dL
+  2014-02-10 : Total Cholesterol                        160.1 mg/dL
+  2014-02-10 : Carbon Dioxide                           22.7 mmol/L
+  2014-02-10 : Chloride                                 108.9 mmol/L
+  2014-02-10 : Potassium                                4.4 mmol/L
+  2014-02-10 : Sodium                                   137.9 mmol/L
+  2014-02-10 : Calcium                                  9.0 mg/dL
+  2014-02-10 : Creatinine                               1.2 mg/dL
+  2014-02-10 : Urea Nitrogen                            19.7 mg/dL
+  2014-02-10 : Glucose                                  95.8 mg/dL
+  2014-02-10 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  120.0 mmHg
+  2014-02-10 : Body Mass Index                          34.2 kg/m2
+  2014-02-10 : Body Weight                              106.1 kg
+  2014-02-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2014-02-10 : Body Height                              176.2 cm
+  2013-02-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2013-02-04 : Tobacco smoking status NHIS              Never smoker 
+  2013-02-04 : Carbon Dioxide                           25.3 mmol/L
+  2013-02-04 : Chloride                                 102.4 mmol/L
+  2013-02-04 : Potassium                                3.9 mmol/L
+  2013-02-04 : Sodium                                   140.7 mmol/L
+  2013-02-04 : Calcium                                  9.9 mg/dL
+  2013-02-04 : Creatinine                               1.0 mg/dL
+  2013-02-04 : Urea Nitrogen                            8.5 mg/dL
+  2013-02-04 : Glucose                                  95.0 mg/dL
+  2013-02-04 : Blood Pressure
+           - Diastolic Blood Pressure                 79.6 mmHg
+           - Systolic Blood Pressure                  118.9 mmHg
+  2013-02-04 : Body Mass Index                          34.6 kg/m2
+  2013-02-04 : Body Weight                              107.4 kg
+  2013-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2013-02-04 : Body Height                              176.2 cm
+  2012-01-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2012-01-30 : Tobacco smoking status NHIS              Never smoker 
+  2012-01-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2012-01-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 432.8 fL
+  2012-01-30 : Platelets [#/volume] in Blood by Automated count 288.5 10*3/uL
+  2012-01-30 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2012-01-30 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2012-01-30 : MCH [Entitic mass] by Automated count    30.5 pg
+  2012-01-30 : MCV [Entitic volume] by Automated count  94.8 fL
+  2012-01-30 : Hematocrit [Volume Fraction] of Blood by Automated count 41.1 %
+  2012-01-30 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2012-01-30 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2012-01-30 : Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+  2012-01-30 : Carbon Dioxide                           20.6 mmol/L
+  2012-01-30 : Chloride                                 105.0 mmol/L
+  2012-01-30 : Potassium                                5.2 mmol/L
+  2012-01-30 : Sodium                                   136.3 mmol/L
+  2012-01-30 : Calcium                                  9.5 mg/dL
+  2012-01-30 : Creatinine                               1.0 mg/dL
+  2012-01-30 : Urea Nitrogen                            17.5 mg/dL
+  2012-01-30 : Glucose                                  78.6 mg/dL
+  2012-01-30 : Blood Pressure
+           - Diastolic Blood Pressure                 72.3 mmHg
+           - Systolic Blood Pressure                  122.4 mmHg
+  2012-01-30 : Body Mass Index                          35.0 kg/m2
+  2012-01-30 : Body Weight                              108.7 kg
+  2012-01-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-01-30 : Body Height                              176.2 cm
+  2011-01-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2011-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-24 : High Density Lipoprotein Cholesterol     64.0 mg/dL
+  2011-01-24 : Low Density Lipoprotein Cholesterol      109.6 mg/dL
+  2011-01-24 : Triglycerides                            119.3 mg/dL
+  2011-01-24 : Total Cholesterol                        197.5 mg/dL
+  2011-01-24 : Carbon Dioxide                           22.6 mmol/L
+  2011-01-24 : Chloride                                 106.6 mmol/L
+  2011-01-24 : Potassium                                4.2 mmol/L
+  2011-01-24 : Sodium                                   138.0 mmol/L
+  2011-01-24 : Calcium                                  8.7 mg/dL
+  2011-01-24 : Creatinine                               1.1 mg/dL
+  2011-01-24 : Urea Nitrogen                            11.4 mg/dL
+  2011-01-24 : Glucose                                  74.5 mg/dL
+  2011-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 86.8 mmHg
+           - Systolic Blood Pressure                  122.0 mmHg
+  2011-01-24 : Body Mass Index                          35.3 kg/m2
+  2011-01-24 : Body Weight                              109.7 kg
+  2011-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2011-01-24 : Body Height                              176.2 cm
+  2010-04-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2010-04-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 378.9 fL
+  2010-04-18 : Platelets [#/​volume] in Blood by Automated count 250.6 10*3/uL
+  2010-04-18 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2010-04-18 : MCHC [Mass/​volume] by Automated count   34.3 g/dL
+  2010-04-18 : MCH [Entitic mass] by Automated count    32.4 pg
+  2010-04-18 : MCV [Entitic volume] by Automated count  84.9 fL
+  2010-04-18 : Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+  2010-04-18 : Hemoglobin [Mass/​volume] in Blood       15.4 g/dL
+  2010-04-18 : Erythrocytes [#/​volume] in Blood by Automated count 4.0 10*6/uL
+  2010-04-18 : Leukocytes [#/​volume] in Blood by Automated count 1.4 10*3/uL
+  2010-04-18 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-04-18 : Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+  2010-04-18 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2010-04-18 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2010-04-18 : Protein [Mass/volume] in Urine by Test strip 361.3 mg/dL
+  2010-04-18 : pH of Urine by Test strip                6.4 pH
+  2010-04-18 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2010-04-18 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2010-04-18 : Ketones [Mass/volume] in Urine by Test strip 4.8 mg/dL
+  2010-04-18 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2010-04-18 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+  2010-04-18 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2010-04-18 : Glucose [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2010-04-18 : Color of Urine                           Reddish color urine {nominal}
+  2010-04-18 : Clarity of Urine                         Cloudy urine (finding) {nominal}
+  2010-04-18 : Odor of Urine                            Foul smelling urine (finding) {nominal}
+  2010-04-18 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2010-04-18 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.1 U/L
+  2010-04-18 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.3 U/L
+  2010-04-18 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 112.6 U/L
+  2010-04-18 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2010-04-18 : Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+  2010-04-18 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2010-04-18 : Protein [Mass/volume] in Serum or Plasma 60.8 g/dL
+  2010-04-18 : Glomerular filtration rate/1.73 sq M.predicted 22.3 mL/min
+  2010-04-18 : Carbon Dioxide                           28.6 mmol/L
+  2010-04-18 : Chloride                                 107.3 mmol/L
+  2010-04-18 : Potassium                                5.0 mmol/L
+  2010-04-18 : Sodium                                   142.0 mmol/L
+  2010-04-18 : Calcium                                  9.5 mg/dL
+  2010-04-18 : Creatinine                               2.7 mg/dL
+  2010-04-18 : Urea Nitrogen                            15.5 mg/dL
+  2010-04-18 : Glucose                                  75.4 mg/dL
+  2010-01-18 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2010-01-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2010-01-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 303.7 fL
+  2010-01-18 : Platelets [#/​volume] in Blood by Automated count 376.4 10*3/uL
+  2010-01-18 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2010-01-18 : MCHC [Mass/​volume] by Automated count   35.4 g/dL
+  2010-01-18 : MCH [Entitic mass] by Automated count    30.3 pg
+  2010-01-18 : MCV [Entitic volume] by Automated count  92.6 fL
+  2010-01-18 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2010-01-18 : Hemoglobin [Mass/​volume] in Blood       13.2 g/dL
+  2010-01-18 : Erythrocytes [#/​volume] in Blood by Automated count 4.3 10*6/uL
+  2010-01-18 : Leukocytes [#/​volume] in Blood by Automated count 4.7 10*3/uL
+  2010-01-18 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-01-18 : Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+  2010-01-18 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2010-01-18 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2010-01-18 : Protein [Mass/volume] in Urine by Test strip 361.0 mg/dL
+  2010-01-18 : pH of Urine by Test strip                6.1 pH
+  2010-01-18 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2010-01-18 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2010-01-18 : Ketones [Mass/volume] in Urine by Test strip 14.8 mg/dL
+  2010-01-18 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2010-01-18 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.3 mg/dL
+  2010-01-18 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2010-01-18 : Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+  2010-01-18 : Color of Urine                           Reddish color urine {nominal}
+  2010-01-18 : Clarity of Urine                         Cloudy urine (finding) {nominal}
+  2010-01-18 : Odor of Urine                            Foul smelling urine (finding) {nominal}
+  2010-01-18 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2010-01-18 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 38.1 U/L
+  2010-01-18 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.7 U/L
+  2010-01-18 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 129.1 U/L
+  2010-01-18 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+  2010-01-18 : Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+  2010-01-18 : Albumin [Mass/volume] in Serum or Plasma 3.6 g/dL
+  2010-01-18 : Protein [Mass/volume] in Serum or Plasma 60.2 g/dL
+  2010-01-18 : Glomerular filtration rate/1.73 sq M.predicted 14.2 mL/min
+  2010-01-18 : Carbon Dioxide                           27.1 mmol/L
+  2010-01-18 : Chloride                                 105.8 mmol/L
+  2010-01-18 : Potassium                                4.6 mmol/L
+  2010-01-18 : Sodium                                   136.1 mmol/L
+  2010-01-18 : Calcium                                  9.9 mg/dL
+  2010-01-18 : Creatinine                               2.5 mg/dL
+  2010-01-18 : Urea Nitrogen                            8.7 mg/dL
+  2010-01-18 : Glucose                                  69.9 mg/dL
+  2010-01-18 : US Guidance for biopsy of Prostate       Surgical biopsy result abnormal {nominal}
+  2010-01-18 : Prostate specific Ag [Mass/volume] in Serum or Plasma 5.8 ng/mL
+  2010-01-18 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  2010-01-18 : Tobacco smoking status NHIS              Never smoker 
+  2010-01-18 : Carbon Dioxide                           28.4 mmol/L
+  2010-01-18 : Chloride                                 105.9 mmol/L
+  2010-01-18 : Potassium                                5.1 mmol/L
+  2010-01-18 : Sodium                                   141.7 mmol/L
+  2010-01-18 : Calcium                                  9.4 mg/dL
+  2010-01-18 : Creatinine                               1.3 mg/dL
+  2010-01-18 : Urea Nitrogen                            10.8 mg/dL
+  2010-01-18 : Glucose                                  89.7 mg/dL
+  2010-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 85.6 mmHg
+           - Systolic Blood Pressure                  115.5 mmHg
+  2010-01-18 : Body Mass Index                          35.9 kg/m2
+  2010-01-18 : Body Weight                              111.5 kg
+  2010-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2010-01-18 : Body Height                              176.2 cm
+  2009-01-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2009-01-06 : Prostate specific Ag [Mass/volume] in Serum or Plasma 2.5 ng/mL
+  2009-01-06 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  2009-01-12 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-12 : Carbon Dioxide                           27.0 mmol/L
+  2009-01-12 : Chloride                                 102.8 mmol/L
+  2009-01-12 : Potassium                                3.7 mmol/L
+  2009-01-12 : Sodium                                   136.2 mmol/L
+  2009-01-12 : Calcium                                  8.6 mg/dL
+  2009-01-12 : Creatinine                               1.1 mg/dL
+  2009-01-12 : Urea Nitrogen                            19.5 mg/dL
+  2009-01-12 : Glucose                                  91.7 mg/dL
+  2009-01-12 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  111.4 mmHg
+  2009-01-12 : Body Mass Index                          36.4 kg/m2
+  2009-01-12 : Body Weight                              113.2 kg
+  2009-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2009-01-12 : Body Height                              176.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-12-05 : Documentation of current medications
+  2016-11-23 : Colonoscopy
+  2015-11-30 : Documentation of current medications
+  2015-11-20 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2015-02-16 : Documentation of current medications
+  2014-02-10 : Documentation of current medications
+  2013-02-04 : Documentation of current medications
+  2012-01-30 : Documentation of current medications
+  2011-11-25 : Colonoscopy
+  2010-01-18 : Prostatectomy for Neoplasm of prostate
+  2010-01-18 : Biopsy of prostate
+  2010-01-18 : Digital examination of rectum
+  2010-01-18 : Documentation of current medications
+  2009-01-06 : Digital examination of rectum
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-11 : Influenza, seasonal, injectable, preservative free
+  2016-12-05 : Influenza, seasonal, injectable, preservative free
+  2015-11-30 : Influenza, seasonal, injectable, preservative free
+  2015-02-16 : Influenza, seasonal, injectable, preservative free
+  2014-02-10 : Influenza, seasonal, injectable, preservative free
+  2013-02-04 : Influenza, seasonal, injectable, preservative free
+  2012-01-30 : Influenza, seasonal, injectable, preservative free
+  2011-01-24 : Td (adult) preservative free
+  2011-01-24 : Influenza, seasonal, injectable, preservative free
+  2010-01-18 : Influenza, seasonal, injectable, preservative free
+  2009-01-12 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-12-11 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2016-12-05 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2016-11-23 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2015-11-30 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2015-11-20 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Acute bronchitis (disorder)
+2015-02-16 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2014-02-10 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2013-02-04 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2012-01-30 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2011-11-25 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2011-01-24 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2010-04-18 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Neoplasm of prostate
+2010-01-18 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Neoplasm of prostate
+2010-01-18 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2010-01-18 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2009-01-12 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2004-12-09 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Sinusitis (disorder)
+1982-11-22 : Emergency Encounter
+1973-12-31 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1967-12-25 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

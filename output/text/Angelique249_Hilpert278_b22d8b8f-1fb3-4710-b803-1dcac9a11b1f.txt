@@ -1,0 +1,296 @@
+Angelique249 Hilpert278
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 10
+Birth Date:          2008-05-09
+Marital Status:      S
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2008-06-01 -            : Allergy to nut
+  2008-06-01 -            : Allergy to tree pollen
+  2008-06-01 -            : Allergy to grass pollen
+  2008-06-01 -            : Dander (animal) allergy
+  2008-06-01 -            : House dust mite allergy
+  2008-06-01 -            : Allergy to mould
+  2008-06-01 -            : Latex allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-01-22[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2014-09-19[STOPPED] : Hydrocortisone 10 MG/ML Topical Cream for Atopic dermatitis
+  2013-12-10[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2012-05-15[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-05-15[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-01-14[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2010-01-14[STOPPED] : Cefuroxime 250 MG Oral Tablet
+  2009-08-02[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2009-08-02[STOPPED] : Amoxicillin 250 MG Oral Capsule
+  2009-07-04[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2008-06-01[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2008-06-01[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-09-20 - 2018-09-27 : Viral sinusitis (disorder)
+  2017-01-22 - 2017-04-22 : Fracture of forearm
+  2013-12-10 - 2013-12-24 : Acute bronchitis (disorder)
+  2012-05-15 -            : Childhood asthma
+  2012-05-15 -            : Perennial allergic rhinitis with seasonal variation
+  2010-01-14 - 2010-04-16 : Otitis media
+  2009-08-02 - 2009-10-16 : Otitis media
+  2009-07-04 - 2009-07-14 : Streptococcal sore throat (disorder)
+  2008-05-16 -            : Atopic dermatitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-01-22[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2013-12-10[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2012-05-15[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  2008-06-01[CURRENT] : Self care
+                         Activity: Allergy education
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+  2008-05-16[CURRENT] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-04-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+           - MCV [Entitic volume] by Automated count  89.7 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 431.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 356.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-18 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-18 : Blood Pressure
+           - Diastolic Blood Pressure                 77.2 mmHg
+           - Systolic Blood Pressure                  110.6 mmHg
+  2018-05-18 : Body Mass Index                          16.6 kg/m2
+  2018-05-18 : Body Weight                              35.9 kg
+  2018-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2018-05-18 : Body Height                              147.3 cm
+  2017-05-12 : Tobacco smoking status NHIS              Never smoker 
+  2017-05-12 : Blood Pressure
+           - Diastolic Blood Pressure                 79.3 mmHg
+           - Systolic Blood Pressure                  100.4 mmHg
+  2017-05-12 : Body Mass Index                          15.7 kg/m2
+  2017-05-12 : Body Weight                              31.2 kg
+  2017-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2017-05-12 : Body Height                              141.1 cm
+  2016-05-06 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-06 : Blood Pressure
+           - Diastolic Blood Pressure                 79.1 mmHg
+           - Systolic Blood Pressure                  130.9 mmHg
+  2016-05-06 : Body Mass Index                          15.0 kg/m2
+  2016-05-06 : Body Weight                              27.4 kg
+  2016-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2016-05-06 : Body Height                              135.3 cm
+  2015-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  127.7 mmHg
+  2015-05-01 : Body Mass Index                          14.6 kg/m2
+  2015-05-01 : Body Weight                              24.2 kg
+  2015-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2015-05-01 : Body Height                              128.8 cm
+  2014-04-25 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2014-04-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 356.7 fL
+  2014-04-25 : Platelets [#/volume] in Blood by Automated count 431.4 10*3/uL
+  2014-04-25 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2014-04-25 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2014-04-25 : MCH [Entitic mass] by Automated count    28.0 pg
+  2014-04-25 : MCV [Entitic volume] by Automated count  89.7 fL
+  2014-04-25 : Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+  2014-04-25 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2014-04-25 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2014-04-25 : Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+  2014-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 88.8 mmHg
+           - Systolic Blood Pressure                  122.5 mmHg
+  2014-04-25 : Body Mass Index                          14.5 kg/m2
+  2014-04-25 : Body Weight                              21.4 kg
+  2014-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-04-25 : Body Height                              121.5 cm
+  2013-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 83.3 mmHg
+           - Systolic Blood Pressure                  115.8 mmHg
+  2013-04-19 : Body Mass Index                          14.6 kg/m2
+  2013-04-19 : Body Weight                              18.9 kg
+  2013-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2013-04-19 : Body Height                              113.8 cm
+  2012-04-13 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-13 : Blood Pressure
+           - Diastolic Blood Pressure                 73.2 mmHg
+           - Systolic Blood Pressure                  122.8 mmHg
+  2012-04-13 : Body Mass Index                          14.7 kg/m2
+  2012-04-13 : Body Weight                              16.4 kg
+  2012-04-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2012-04-13 : Body Height                              105.7 cm
+  2011-10-14 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-14 : Blood Pressure
+           - Diastolic Blood Pressure                 79.5 mmHg
+           - Systolic Blood Pressure                  130.1 mmHg
+  2011-10-14 : Body Mass Index                          14.7 kg/m2
+  2011-10-14 : Body Weight                              15.3 kg
+  2011-10-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2011-10-14 : Body Height                              102.0 cm
+  2011-04-15 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-15 : Blood Pressure
+           - Diastolic Blood Pressure                 70.6 mmHg
+           - Systolic Blood Pressure                  118.8 mmHg
+  2011-04-15 : Body Mass Index                          14.8 kg/m2
+  2011-04-15 : Body Weight                              14.3 kg
+  2011-04-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2011-04-15 : Body Height                              98.2 cm
+  2010-10-15 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-15 : Blood Pressure
+           - Diastolic Blood Pressure                 85.8 mmHg
+           - Systolic Blood Pressure                  138.6 mmHg
+  2010-10-15 : Body Mass Index                          15.2 kg/m2
+  2010-10-15 : Body Weight                              13.3 kg
+  2010-10-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2010-10-15 : Body Height                              93.7 cm
+  2010-04-16 : Tobacco smoking status NHIS              Never smoker 
+  2010-04-16 : Blood Pressure
+           - Diastolic Blood Pressure                 85.2 mmHg
+           - Systolic Blood Pressure                  128.2 mmHg
+  2010-04-16 : Body Weight                              12.5 kg
+  2010-04-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2010-04-16 : Body Height                              89.9 cm
+  2009-10-16 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-16 : Blood Pressure
+           - Diastolic Blood Pressure                 76.8 mmHg
+           - Systolic Blood Pressure                  110.8 mmHg
+  2009-10-16 : Body Weight                              11.4 kg
+  2009-10-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2009-10-16 : Body Height                              84.0 cm
+  2009-07-17 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-17 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  126.0 mmHg
+  2009-07-17 : Body Weight                              10.7 kg
+  2009-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2009-07-17 : Body Height                              80.6 cm
+  2009-07-04 : Oral temperature                         37.5 Cel
+  2009-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2009-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.1 mmHg
+           - Systolic Blood Pressure                  112.0 mmHg
+  2009-04-17 : Body Weight                              9.8 kg
+  2009-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2009-04-17 : Body Height                              76.9 cm
+  2009-01-16 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  108.3 mmHg
+  2009-01-16 : Body Weight                              8.7 kg
+  2009-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2009-01-16 : Body Height                              72.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-05-18 : Documentation of current medications
+  2017-05-12 : Documentation of current medications
+  2017-01-22 : Bone immobilization for Fracture of forearm
+  2017-01-22 : Upper arm X-ray
+  2015-05-01 : Documentation of current medications
+  2014-04-25 : Documentation of current medications
+  2012-05-15 : Asthma screening for Childhood asthma
+  2012-04-13 : Documentation of current medications
+  2011-10-14 : Documentation of current medications
+  2010-04-16 : Documentation of current medications
+  2009-07-04 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2009-04-17 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-18 : Influenza, seasonal, injectable, preservative free
+  2017-05-12 : Influenza, seasonal, injectable, preservative free
+  2016-05-06 : Influenza, seasonal, injectable, preservative free
+  2015-05-01 : Influenza, seasonal, injectable, preservative free
+  2013-12-20 : Influenza, seasonal, injectable, preservative free
+  2013-04-19 : MMR
+  2013-04-19 : DTaP
+  2013-04-19 : Influenza, seasonal, injectable, preservative free
+  2013-04-19 : IPV
+  2013-04-19 : varicella
+  2012-04-13 : Influenza, seasonal, injectable, preservative free
+  2011-10-14 : Pneumococcal conjugate PCV 13
+  2011-04-15 : Pneumococcal conjugate PCV 13
+  2011-04-15 : Influenza, seasonal, injectable, preservative free
+  2010-10-15 : Hep A, ped/adol, 2 dose
+  2010-10-15 : Pneumococcal conjugate PCV 13
+  2010-04-16 : Pneumococcal conjugate PCV 13
+  2010-04-16 : Influenza, seasonal, injectable, preservative free
+  2009-10-16 : DTaP
+  2009-07-17 : Hep A, ped/adol, 2 dose
+  2009-07-17 : MMR
+  2009-07-17 : varicella
+  2009-07-17 : Hib (PRP-OMP)
+  2009-01-16 : Hep B, adolescent or pediatric
+  2009-01-16 : DTaP
+  2009-01-16 : Influenza, seasonal, injectable, preservative free
+  2009-01-16 : IPV
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-28 (Dr. Zachery872 Hessel84) : Encounter at CHELSEA MGH HEALTH CENTER MEDICAL WALK IN
+2018-09-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2018-09-21 (Dr. Zachery872 Hessel84) : Encounter at CHELSEA MGH HEALTH CENTER MEDICAL WALK IN
+2018-06-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-05-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-05-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-04-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Fracture of forearm
+2017-04-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Childhood asthma
+2017-01-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-10-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Childhood asthma
+2016-10-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Childhood asthma
+2016-05-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-04-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Childhood asthma
+2015-05-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-09-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Atopic dermatitis
+2014-04-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-12-27 (Dr. Zachery872 Hessel84) : Encounter at CHELSEA MGH HEALTH CENTER MEDICAL WALK IN
+2013-12-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-12-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute bronchitis (disorder)
+2013-11-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Childhood asthma
+2013-04-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-05-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Childhood asthma
+2012-05-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Perennial allergic rhinitis with seasonal variation
+2012-04-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-10-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-10-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-04-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-01-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Otitis media
+2009-10-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-08-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Otitis media
+2009-07-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-07-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Streptococcal sore throat (disorder)
+2009-04-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-03-05 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-01-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2008-06-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2008-05-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Atopic dermatitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2017-01-22 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

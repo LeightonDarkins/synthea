@@ -1,0 +1,209 @@
+Orlando897 Leuschke194
+======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 13
+Birth Date:          2005-08-13
+Marital Status:      S
+Outpatient Provider: NOBLE HOSPITAL
+Primary Care Provider: 115 WEST SILVER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-04-02 - 2017-04-23 : Viral sinusitis (disorder)
+  2015-08-05 - 2015-08-12 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-08-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.9 %
+           - MCV [Entitic volume] by Automated count  86.8 fL
+           - MCH [Entitic mass] by Automated count    28.1 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 208.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 484.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2011-07-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+           - MCV [Entitic volume] by Automated count  91.9 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.0 fL
+           - Platelets [#/volume] in Blood by Automated count 213.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 176.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-08 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-08 : Blood Pressure
+           - Diastolic Blood Pressure                 74.5 mmHg
+           - Systolic Blood Pressure                  104.2 mmHg
+  2018-09-08 : Body Mass Index                          24.2 kg/m2
+  2018-09-08 : Body Weight                              60.7 kg
+  2018-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2018-09-08 : Body Height                              158.3 cm
+  2017-09-02 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-02 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mmHg
+           - Systolic Blood Pressure                  113.9 mmHg
+  2017-09-02 : Body Mass Index                          23.8 kg/m2
+  2017-09-02 : Body Weight                              54.3 kg
+  2017-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2017-09-02 : Body Height                              151.1 cm
+  2016-08-27 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2016-08-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 484.7 fL
+  2016-08-27 : Platelets [#/volume] in Blood by Automated count 208.1 10*3/uL
+  2016-08-27 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  2016-08-27 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2016-08-27 : MCH [Entitic mass] by Automated count    28.1 pg
+  2016-08-27 : MCV [Entitic volume] by Automated count  86.8 fL
+  2016-08-27 : Hematocrit [Volume Fraction] of Blood by Automated count 45.9 %
+  2016-08-27 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2016-08-27 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2016-08-27 : Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+  2016-08-27 : Blood Pressure
+           - Diastolic Blood Pressure                 83.4 mmHg
+           - Systolic Blood Pressure                  136.6 mmHg
+  2016-08-27 : Body Mass Index                          22.7 kg/m2
+  2016-08-27 : Body Weight                              48.0 kg
+  2016-08-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2016-08-27 : Body Height                              145.4 cm
+  2015-08-22 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-22 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  130.7 mmHg
+  2015-08-22 : Body Mass Index                          21.4 kg/m2
+  2015-08-22 : Body Weight                              42.2 kg
+  2015-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2015-08-22 : Body Height                              140.4 cm
+  2015-08-05 : Oral temperature                         37.8 Cel
+  2014-08-16 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-16 : Blood Pressure
+           - Diastolic Blood Pressure                 71.1 mmHg
+           - Systolic Blood Pressure                  125.7 mmHg
+  2014-08-16 : Body Mass Index                          20.2 kg/m2
+  2014-08-16 : Body Weight                              36.7 kg
+  2014-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2014-08-16 : Body Height                              134.7 cm
+  2013-08-10 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 72.4 mmHg
+           - Systolic Blood Pressure                  118.8 mmHg
+  2013-08-10 : Body Mass Index                          19.4 kg/m2
+  2013-08-10 : Body Weight                              32.3 kg
+  2013-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2013-08-10 : Body Height                              129.0 cm
+  2012-08-04 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-04 : Blood Pressure
+           - Diastolic Blood Pressure                 71.1 mmHg
+           - Systolic Blood Pressure                  110.8 mmHg
+  2012-08-04 : Body Mass Index                          18.9 kg/m2
+  2012-08-04 : Body Weight                              28.5 kg
+  2012-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2012-08-04 : Body Height                              122.8 cm
+  2011-07-30 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2011-07-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 176.8 fL
+  2011-07-30 : Platelets [#/volume] in Blood by Automated count 213.3 10*3/uL
+  2011-07-30 : Erythrocyte distribution width [Entitic volume] by Automated count 40.0 fL
+  2011-07-30 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2011-07-30 : MCH [Entitic mass] by Automated count    31.6 pg
+  2011-07-30 : MCV [Entitic volume] by Automated count  91.9 fL
+  2011-07-30 : Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+  2011-07-30 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2011-07-30 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2011-07-30 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2011-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 81.7 mmHg
+           - Systolic Blood Pressure                  111.0 mmHg
+  2011-07-30 : Body Mass Index                          18.6 kg/m2
+  2011-07-30 : Body Weight                              25.2 kg
+  2011-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2011-07-30 : Body Height                              116.3 cm
+  2010-07-24 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 86.4 mmHg
+           - Systolic Blood Pressure                  101.3 mmHg
+  2010-07-24 : Body Mass Index                          18.3 kg/m2
+  2010-07-24 : Body Weight                              22.0 kg
+  2010-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2010-07-24 : Body Height                              109.7 cm
+  2009-07-18 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 88.9 mmHg
+           - Systolic Blood Pressure                  110.3 mmHg
+  2009-07-18 : Body Mass Index                          18.0 kg/m2
+  2009-07-18 : Body Weight                              18.9 kg
+  2009-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2009-07-18 : Body Height                              102.4 cm
+  2009-01-17 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  102.1 mmHg
+  2009-01-17 : Body Mass Index                          18.0 kg/m2
+  2009-01-17 : Body Weight                              17.6 kg
+  2009-01-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2009-01-17 : Body Height                              98.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-08-27 : Documentation of current medications
+  2015-08-05 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2013-08-10 : Documentation of current medications
+  2012-08-04 : Documentation of current medications
+  2011-07-30 : Documentation of current medications
+  2009-07-18 : Documentation of current medications
+  2009-01-17 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-08 : HPV, quadrivalent
+  2018-09-08 : Influenza, seasonal, injectable, preservative free
+  2017-09-02 : HPV, quadrivalent
+  2017-09-02 : Influenza, seasonal, injectable, preservative free
+  2016-08-27 : meningococcal MCV4P
+  2016-08-27 : HPV, quadrivalent
+  2016-08-27 : Influenza, seasonal, injectable, preservative free
+  2016-08-27 : Tdap
+  2015-08-22 : Influenza, seasonal, injectable, preservative free
+  2014-08-16 : Influenza, seasonal, injectable, preservative free
+  2013-08-10 : Influenza, seasonal, injectable, preservative free
+  2012-08-04 : Influenza, seasonal, injectable, preservative free
+  2011-07-30 : Influenza, seasonal, injectable, preservative free
+  2010-07-24 : Pneumococcal conjugate PCV 13
+  2010-07-24 : MMR
+  2010-07-24 : DTaP
+  2010-07-24 : Influenza, seasonal, injectable, preservative free
+  2010-07-24 : IPV
+  2010-07-24 : varicella
+  2009-07-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-08 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2017-09-02 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2017-04-02 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-08-27 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2015-08-22 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2015-08-05 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2014-08-16 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2013-08-10 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2012-08-04 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2011-07-30 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2010-07-24 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2009-07-18 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2009-01-17 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,303 @@
+Perry780 Rolfson709
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1914-06-08
+Marital Status:      M
+Outpatient Provider: ANNA JAQUES HOSPITAL
+Primary Care Provider: 25 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1999-09-23[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  1995-05-22[CURRENT] : Tacrine 10 MG Oral Capsule for Alzheimer's disease (disorder)
+  1994-05-01[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  1981-06-08[CURRENT] : Verapamil Hydrochloride 40 MG
+  1978-01-09[CURRENT] : Warfarin Sodium 5 MG Oral Tablet
+  1978-01-09[CURRENT] : Digoxin 0.125 MG Oral Tablet
+  1961-05-27[STOPPED] : Naproxen sodium 220 MG Oral Tablet for Localized, primary osteoarthritis of the hand
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2001-11-16 -            : Pneumonia
+  1999-09-23 - 1999-10-14 : Viral sinusitis (disorder)
+  1995-12-31 - 1996-01-30 : Concussion with no loss of consciousness
+  1995-05-22 -            : Alzheimer's disease (disorder)
+  1994-05-01 - 1994-05-15 : Viral sinusitis (disorder)
+  1994-01-26 - 1994-02-09 : Laceration of hand
+  1978-01-09 -            : Atrial Fibrillation
+  1961-05-27 -            : Localized, primary osteoarthritis of the hand
+  1943-08-16 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1995-12-31[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  1995-05-22[CURRENT] : Demential management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Education about dementia
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  1994-01-26[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1961-05-27[CURRENT] : Musculoskeletal care
+                         Reason: Localized, primary osteoarthritis of the hand
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2001-12-03 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Pneumonia 
+  1999-06-14 : Lipid Panel
+           - Total Cholesterol                        168.9 mg/dL
+           - Triglycerides                            128.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      71.7 mg/dL
+           - High Density Lipoprotein Cholesterol     71.5 mg/dL
+  1998-06-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+           - MCV [Entitic volume] by Automated count  91.4 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 320.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 378.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  1996-05-27 : Lipid Panel
+           - Total Cholesterol                        165.5 mg/dL
+           - Triglycerides                            103.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      71.2 mg/dL
+           - High Density Lipoprotein Cholesterol     73.7 mg/dL
+  1992-08-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+           - MCV [Entitic volume] by Automated count  88.1 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 265.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 272.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  1992-08-10 : Lipid Panel
+           - Total Cholesterol                        177.3 mg/dL
+           - Triglycerides                            123.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.6 mg/dL
+           - High Density Lipoprotein Cholesterol     67.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2001-12-03 : Cause of Death [US Standard Certificate of Death] Pneumonia 
+  2001-10-15 : Tobacco smoking status NHIS              Former smoker 
+  2001-10-15 : Blood Pressure
+           - Diastolic Blood Pressure                 78.3 mmHg
+           - Systolic Blood Pressure                  132.0 mmHg
+  2001-10-15 : Body Mass Index                          25.1 kg/m2
+  2001-10-15 : Body Weight                              72.3 kg
+  2001-10-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2001-10-15 : Body Height                              169.9 cm
+  2001-05-20 : Total score [MMSE]                       4.8 (score)
+  2000-10-09 : Tobacco smoking status NHIS              Former smoker 
+  2000-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 70.1 mmHg
+           - Systolic Blood Pressure                  119.9 mmHg
+  2000-10-09 : Body Mass Index                          25.4 kg/m2
+  2000-10-09 : Body Weight                              73.3 kg
+  2000-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2000-10-09 : Body Height                              169.9 cm
+  1999-10-04 : Tobacco smoking status NHIS              Former smoker 
+  1999-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 73.3 mmHg
+           - Systolic Blood Pressure                  111.8 mmHg
+  1999-10-04 : Body Mass Index                          26.0 kg/m2
+  1999-10-04 : Body Weight                              75.0 kg
+  1999-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  1999-10-04 : Body Height                              169.9 cm
+  1999-06-14 : Tobacco smoking status NHIS              Former smoker 
+  1999-06-14 : High Density Lipoprotein Cholesterol     71.5 mg/dL
+  1999-06-14 : Low Density Lipoprotein Cholesterol      71.7 mg/dL
+  1999-06-14 : Triglycerides                            128.3 mg/dL
+  1999-06-14 : Total Cholesterol                        168.9 mg/dL
+  1999-06-14 : Blood Pressure
+           - Diastolic Blood Pressure                 81.5 mmHg
+           - Systolic Blood Pressure                  112.6 mmHg
+  1999-06-14 : Body Mass Index                          26.6 kg/m2
+  1999-06-14 : Body Weight                              76.6 kg
+  1999-06-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  1999-06-14 : Body Height                              169.9 cm
+  1998-06-08 : Tobacco smoking status NHIS              Former smoker 
+  1998-06-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  1998-06-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 378.5 fL
+  1998-06-08 : Platelets [#/volume] in Blood by Automated count 320.9 10*3/uL
+  1998-06-08 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  1998-06-08 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  1998-06-08 : MCH [Entitic mass] by Automated count    27.3 pg
+  1998-06-08 : MCV [Entitic volume] by Automated count  91.4 fL
+  1998-06-08 : Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+  1998-06-08 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  1998-06-08 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  1998-06-08 : Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+  1998-06-08 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  105.1 mmHg
+  1998-06-08 : Body Mass Index                          27.2 kg/m2
+  1998-06-08 : Body Weight                              78.5 kg
+  1998-06-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  1998-06-08 : Body Height                              169.9 cm
+  1998-05-06 : Total score [MMSE]                       11.2 (score)
+  1997-06-02 : Tobacco smoking status NHIS              Former smoker 
+  1997-06-02 : Blood Pressure
+           - Diastolic Blood Pressure                 84.2 mmHg
+           - Systolic Blood Pressure                  106.2 mmHg
+  1997-06-02 : Body Mass Index                          27.6 kg/m2
+  1997-06-02 : Body Weight                              79.5 kg
+  1997-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1997-06-02 : Body Height                              169.9 cm
+  1996-09-13 : Total score [MMSE]                       16.1 (score)
+  1996-05-27 : Tobacco smoking status NHIS              Former smoker 
+  1996-05-27 : High Density Lipoprotein Cholesterol     73.7 mg/dL
+  1996-05-27 : Low Density Lipoprotein Cholesterol      71.2 mg/dL
+  1996-05-27 : Triglycerides                            103.3 mg/dL
+  1996-05-27 : Total Cholesterol                        165.5 mg/dL
+  1996-05-27 : Blood Pressure
+           - Diastolic Blood Pressure                 88.7 mmHg
+           - Systolic Blood Pressure                  127.5 mmHg
+  1996-05-27 : Body Mass Index                          28.2 kg/m2
+  1996-05-27 : Body Weight                              81.5 kg
+  1996-05-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  1996-05-27 : Body Height                              169.9 cm
+  1995-05-22 : Total score [MMSE]                       21.5 (score)
+  1995-05-22 : Tobacco smoking status NHIS              Former smoker 
+  1995-05-22 : Blood Pressure
+           - Diastolic Blood Pressure                 81.1 mmHg
+           - Systolic Blood Pressure                  137.3 mmHg
+  1995-05-22 : Body Mass Index                          28.8 kg/m2
+  1995-05-22 : Body Weight                              83.1 kg
+  1995-05-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  1995-05-22 : Body Height                              169.9 cm
+  1994-05-16 : Tobacco smoking status NHIS              Former smoker 
+  1994-05-16 : Blood Pressure
+           - Diastolic Blood Pressure                 71.8 mmHg
+           - Systolic Blood Pressure                  120.9 mmHg
+  1994-05-16 : Body Mass Index                          29.4 kg/m2
+  1994-05-16 : Body Weight                              84.9 kg
+  1994-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  1994-05-16 : Body Height                              169.9 cm
+  1994-05-09 : Tobacco smoking status NHIS              Former smoker 
+  1994-05-09 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  110.8 mmHg
+  1994-05-09 : Body Mass Index                          29.4 kg/m2
+  1994-05-09 : Body Weight                              84.9 kg
+  1994-05-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  1994-05-09 : Body Height                              169.9 cm
+  1993-08-16 : Tobacco smoking status NHIS              Former smoker 
+  1993-08-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.3 mmHg
+           - Systolic Blood Pressure                  110.8 mmHg
+  1993-08-16 : Body Mass Index                          29.4 kg/m2
+  1993-08-16 : Body Weight                              84.9 kg
+  1993-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1993-08-16 : Body Height                              169.9 cm
+  1992-08-10 : Tobacco smoking status NHIS              Former smoker 
+  1992-08-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  1992-08-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 272.6 fL
+  1992-08-10 : Platelets [#/volume] in Blood by Automated count 265.9 10*3/uL
+  1992-08-10 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  1992-08-10 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  1992-08-10 : MCH [Entitic mass] by Automated count    27.6 pg
+  1992-08-10 : MCV [Entitic volume] by Automated count  88.1 fL
+  1992-08-10 : Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+  1992-08-10 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  1992-08-10 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  1992-08-10 : Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+  1992-08-10 : High Density Lipoprotein Cholesterol     67.0 mg/dL
+  1992-08-10 : Low Density Lipoprotein Cholesterol      85.6 mg/dL
+  1992-08-10 : Triglycerides                            123.5 mg/dL
+  1992-08-10 : Total Cholesterol                        177.3 mg/dL
+  1992-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  118.5 mmHg
+  1992-08-10 : Body Mass Index                          29.9 kg/m2
+  1992-08-10 : Body Weight                              86.4 kg
+  1992-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  1992-08-10 : Body Height                              169.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2001-10-15 : Catheter ablation of tissue of heart for Atrial Fibrillation
+  2000-10-09 : Catheter ablation of tissue of heart for Atrial Fibrillation
+  1999-10-04 : Documentation of current medications
+  1999-10-04 : Electrical cardioversion for Atrial Fibrillation
+  1999-09-27 : Electrical cardioversion for Atrial Fibrillation
+  1999-06-14 : Electrical cardioversion for Atrial Fibrillation
+  1998-06-08 : Electrical cardioversion for Atrial Fibrillation
+  1997-06-02 : Electrical cardioversion for Atrial Fibrillation
+  1996-05-27 : Documentation of current medications
+  1996-05-27 : Electrical cardioversion for Atrial Fibrillation
+  1995-05-22 : Documentation of current medications
+  1995-05-22 : Electrical cardioversion for Atrial Fibrillation
+  1994-06-01 : Colonoscopy
+  1994-05-16 : Documentation of current medications
+  1994-05-16 : Catheter ablation of tissue of heart for Atrial Fibrillation
+  1994-05-09 : Electrical cardioversion for Atrial Fibrillation
+  1994-05-02 : Electrical cardioversion for Atrial Fibrillation
+  1994-01-26 : Injection of tetanus antitoxin for Laceration of hand
+  1994-01-26 : Suture open wound for Laceration of hand
+  1993-08-16 : Documentation of current medications
+  1993-08-16 : Electrical cardioversion for Atrial Fibrillation
+  1992-08-10 : Catheter ablation of tissue of heart for Atrial Fibrillation
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2001-10-15 : Influenza, seasonal, injectable, preservative free
+  2000-10-09 : Influenza, seasonal, injectable, preservative free
+  1999-06-14 : Influenza, seasonal, injectable, preservative free
+  1998-06-08 : Influenza, seasonal, injectable, preservative free
+  1997-06-02 : Influenza, seasonal, injectable, preservative free
+  1996-05-27 : Td (adult) preservative free
+  1996-05-27 : Influenza, seasonal, injectable, preservative free
+  1995-05-22 : Influenza, seasonal, injectable, preservative free
+  1994-05-02 : Influenza, seasonal, injectable, preservative free
+  1993-08-16 : Influenza, seasonal, injectable, preservative free
+  1992-08-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2001-12-03 : Death Certification
+2001-11-16 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Pneumonia
+2001-10-15 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2001-05-20 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Alzheimer's disease (disorder)
+2000-10-09 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1999-10-04 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1999-09-23 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Viral sinusitis (disorder)
+1999-09-27 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+1999-06-14 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1998-06-08 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1998-05-06 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Alzheimer's disease (disorder)
+1997-06-02 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1996-09-13 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Alzheimer's disease (disorder)
+1996-05-27 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1996-01-30 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Concussion with no loss of consciousness
+1995-12-31 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1995-05-22 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1994-06-01 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1994-05-16 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1994-05-09 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1994-05-01 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Viral sinusitis (disorder)
+1994-05-02 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+1994-01-26 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1993-08-16 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1992-08-10 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1981-06-08 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1978-01-09 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1961-05-27 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Localized, primary osteoarthritis of the hand
+1943-08-16 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

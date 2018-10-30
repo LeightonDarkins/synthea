@@ -1,0 +1,248 @@
+Marx778 Hessel84
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 57
+Birth Date:          1961-06-07
+Marital Status:      S
+Outpatient Provider: NEWTON-WELLESLEY HOSPITAL
+Primary Care Provider: 2014 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-07-29[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  1980-07-02[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-07-29 - 2015-08-12 : Laceration of thigh
+  2014-08-23 - 2014-09-05 : Acute viral pharyngitis (disorder)
+  2014-07-15 - 2014-07-22 : Viral sinusitis (disorder)
+  2013-04-10 - 2013-06-09 : Concussion with loss of consciousness
+  2012-05-12 - 2012-05-19 : Viral sinusitis (disorder)
+  2010-06-23 -            : Body mass index 40+ - severely obese (finding)
+  1991-05-22 -            : Body mass index 30+ - obesity (finding)
+  1989-11-22 -            : Miscarriage in first trimester
+  1979-06-27 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-07-29[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2013-04-10[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.7 %
+           - MCV [Entitic volume] by Automated count  89.1 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 213.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 505.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2017-08-02 : Lipid Panel
+           - Total Cholesterol                        187.0 mg/dL
+           - Triglycerides                            132.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.8 mg/dL
+           - High Density Lipoprotein Cholesterol     63.7 mg/dL
+  2014-07-16 : Lipid Panel
+           - Total Cholesterol                        185.4 mg/dL
+           - Triglycerides                            128.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      98.5 mg/dL
+           - High Density Lipoprotein Cholesterol     61.2 mg/dL
+  2013-07-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.7 %
+           - MCV [Entitic volume] by Automated count  87.1 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 204.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 156.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2011-06-29 : Lipid Panel
+           - Total Cholesterol                        171.9 mg/dL
+           - Triglycerides                            102.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.4 mg/dL
+           - High Density Lipoprotein Cholesterol     63.9 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-08 : Tobacco smoking status NHIS              Former smoker 
+  2018-08-08 : Estimated Glomerular Filtration Rate     121.1 mL/min/{1.73_m2}
+  2018-08-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2018-08-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 505.3 fL
+  2018-08-08 : Platelets [#/volume] in Blood by Automated count 213.1 10*3/uL
+  2018-08-08 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2018-08-08 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2018-08-08 : MCH [Entitic mass] by Automated count    31.9 pg
+  2018-08-08 : MCV [Entitic volume] by Automated count  89.1 fL
+  2018-08-08 : Hematocrit [Volume Fraction] of Blood by Automated count 36.7 %
+  2018-08-08 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2018-08-08 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2018-08-08 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2018-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 111.8 mmHg
+           - Systolic Blood Pressure                  180.3 mmHg
+  2018-08-08 : Body Mass Index                          41.1 kg/m2
+  2018-08-08 : Body Weight                              105.0 kg
+  2018-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-08-08 : Body Height                              159.8 cm
+  2017-08-02 : Tobacco smoking status NHIS              Former smoker 
+  2017-08-02 : Estimated Glomerular Filtration Rate     158.3 mL/min/{1.73_m2}
+  2017-08-02 : High Density Lipoprotein Cholesterol     63.7 mg/dL
+  2017-08-02 : Low Density Lipoprotein Cholesterol      96.8 mg/dL
+  2017-08-02 : Triglycerides                            132.4 mg/dL
+  2017-08-02 : Total Cholesterol                        187.0 mg/dL
+  2017-08-02 : Blood Pressure
+           - Diastolic Blood Pressure                 112.7 mmHg
+           - Systolic Blood Pressure                  198.8 mmHg
+  2017-08-02 : Body Mass Index                          41.1 kg/m2
+  2017-08-02 : Body Weight                              105.0 kg
+  2017-08-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2017-08-02 : Body Height                              159.8 cm
+  2016-07-27 : Tobacco smoking status NHIS              Former smoker 
+  2016-07-27 : Estimated Glomerular Filtration Rate     94.2 mL/min/{1.73_m2}
+  2016-07-27 : Blood Pressure
+           - Diastolic Blood Pressure                 91.9 mmHg
+           - Systolic Blood Pressure                  153.4 mmHg
+  2016-07-27 : Body Mass Index                          41.1 kg/m2
+  2016-07-27 : Body Weight                              105.0 kg
+  2016-07-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2016-07-27 : Body Height                              159.8 cm
+  2015-07-22 : Tobacco smoking status NHIS              Former smoker 
+  2015-07-22 : Estimated Glomerular Filtration Rate     98.2 mL/min/{1.73_m2}
+  2015-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 91.9 mmHg
+           - Systolic Blood Pressure                  177.3 mmHg
+  2015-07-22 : Body Mass Index                          41.1 kg/m2
+  2015-07-22 : Body Weight                              105.0 kg
+  2015-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2015-07-22 : Body Height                              159.8 cm
+  2014-08-23 : Oral temperature                         37.5 Cel
+  2014-07-16 : Tobacco smoking status NHIS              Former smoker 
+  2014-07-16 : Estimated Glomerular Filtration Rate     98.2 mL/min/{1.73_m2}
+  2014-07-16 : High Density Lipoprotein Cholesterol     61.2 mg/dL
+  2014-07-16 : Low Density Lipoprotein Cholesterol      98.5 mg/dL
+  2014-07-16 : Triglycerides                            128.6 mg/dL
+  2014-07-16 : Total Cholesterol                        185.4 mg/dL
+  2014-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 114.3 mmHg
+           - Systolic Blood Pressure                  156.2 mmHg
+  2014-07-16 : Body Mass Index                          41.1 kg/m2
+  2014-07-16 : Body Weight                              105.0 kg
+  2014-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2014-07-16 : Body Height                              159.8 cm
+  2013-07-10 : Tobacco smoking status NHIS              Former smoker 
+  2013-07-10 : Estimated Glomerular Filtration Rate     149.3 mL/min/{1.73_m2}
+  2013-07-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2013-07-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 156.1 fL
+  2013-07-10 : Platelets [#/volume] in Blood by Automated count 204.3 10*3/uL
+  2013-07-10 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2013-07-10 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2013-07-10 : MCH [Entitic mass] by Automated count    28.2 pg
+  2013-07-10 : MCV [Entitic volume] by Automated count  87.1 fL
+  2013-07-10 : Hematocrit [Volume Fraction] of Blood by Automated count 48.7 %
+  2013-07-10 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2013-07-10 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2013-07-10 : Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+  2013-07-10 : Blood Pressure
+           - Diastolic Blood Pressure                 113.1 mmHg
+           - Systolic Blood Pressure                  145.6 mmHg
+  2013-07-10 : Body Mass Index                          41.1 kg/m2
+  2013-07-10 : Body Weight                              105.0 kg
+  2013-07-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2013-07-10 : Body Height                              159.8 cm
+  2012-07-04 : Tobacco smoking status NHIS              Former smoker 
+  2012-07-04 : Estimated Glomerular Filtration Rate     91.1 mL/min/{1.73_m2}
+  2012-07-04 : Blood Pressure
+           - Diastolic Blood Pressure                 99.3 mmHg
+           - Systolic Blood Pressure                  170.2 mmHg
+  2012-07-04 : Body Mass Index                          41.1 kg/m2
+  2012-07-04 : Body Weight                              105.0 kg
+  2012-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2012-07-04 : Body Height                              159.8 cm
+  2011-06-29 : Tobacco smoking status NHIS              Former smoker 
+  2011-06-29 : Estimated Glomerular Filtration Rate     59.7 mL/min/{1.73_m2}
+  2011-06-29 : High Density Lipoprotein Cholesterol     63.9 mg/dL
+  2011-06-29 : Low Density Lipoprotein Cholesterol      87.4 mg/dL
+  2011-06-29 : Triglycerides                            102.9 mg/dL
+  2011-06-29 : Total Cholesterol                        171.9 mg/dL
+  2011-06-29 : Blood Pressure
+           - Diastolic Blood Pressure                 99.2 mmHg
+           - Systolic Blood Pressure                  174.1 mmHg
+  2011-06-29 : Body Mass Index                          41.1 kg/m2
+  2011-06-29 : Body Weight                              105.0 kg
+  2011-06-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2011-06-29 : Body Height                              159.8 cm
+  2010-06-23 : Tobacco smoking status NHIS              Former smoker 
+  2010-06-23 : Estimated Glomerular Filtration Rate     122.5 mL/min/{1.73_m2}
+  2010-06-23 : Blood Pressure
+           - Diastolic Blood Pressure                 108.2 mmHg
+           - Systolic Blood Pressure                  141.2 mmHg
+  2010-06-23 : Body Mass Index                          41.1 kg/m2
+  2010-06-23 : Body Weight                              105.0 kg
+  2010-06-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2010-06-23 : Body Height                              159.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-08 : Documentation of current medications
+  2017-08-02 : Documentation of current medications
+  2016-06-06 : Colonoscopy
+  2015-07-29 : Suture open wound for Laceration of thigh
+  2015-07-22 : Documentation of current medications
+  2014-07-16 : Documentation of current medications
+  2012-07-04 : Documentation of current medications
+  2011-06-08 : Colonoscopy
+  2010-06-23 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-08 : Influenza, seasonal, injectable, preservative free
+  2017-08-02 : Influenza, seasonal, injectable, preservative free
+  2016-07-27 : Influenza, seasonal, injectable, preservative free
+  2015-07-22 : Influenza, seasonal, injectable, preservative free
+  2014-07-16 : Influenza, seasonal, injectable, preservative free
+  2013-07-10 : Influenza, seasonal, injectable, preservative free
+  2012-07-04 : Td (adult) preservative free
+  2012-07-04 : Influenza, seasonal, injectable, preservative free
+  2012-07-04 : zoster
+  2011-06-29 : Influenza, seasonal, injectable, preservative free
+  2011-06-29 : zoster
+  2010-06-23 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-08 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2017-08-02 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2016-07-27 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2016-06-06 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2015-07-29 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2015-07-22 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-08-23 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2014-07-15 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-07-16 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2013-07-10 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2013-06-09 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Concussion with loss of consciousness
+2013-04-10 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2012-07-04 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2012-05-12 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-06-29 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2011-06-08 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2010-06-23 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+1991-05-22 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+1989-11-22 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+1980-07-02 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+1979-06-27 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

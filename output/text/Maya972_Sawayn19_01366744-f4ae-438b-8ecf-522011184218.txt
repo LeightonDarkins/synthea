@@ -1,0 +1,293 @@
+Maya972 Sawayn19
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 24
+Birth Date:          1994-07-24
+Marital Status:      S
+Outpatient Provider: BERKSHIRE MEDICAL CENTER INC - 1
+Primary Care Provider: 725 NORTH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-10-15[STOPPED] : Errin 28 Day Pack
+  2015-07-07[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2014-07-12[STOPPED] : Errin 28 Day Pack
+  2012-09-16[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  2010-09-28[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2009-06-22[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2009-06-22[STOPPED] : Amoxicillin 500 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-08-20 - 2017-09-03 : Antepartum eclampsia
+  2017-02-05 - 2017-09-03 : Normal pregnancy
+  2016-09-25 -            : Body mass index 30+ - obesity (finding)
+  2012-09-16 -            : Hypertension
+  2011-11-13 - 2012-06-10 : Normal pregnancy
+  2010-10-21 - 2010-11-11 : Viral sinusitis (disorder)
+  2010-09-28 - 2010-10-19 : Laceration of hand
+  2009-06-22 - 2009-08-30 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-02-05[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2011-11-13[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2010-09-28[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.9 %
+           - MCV [Entitic volume] by Automated count  88.4 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 425.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 253.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2010-09-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+           - MCV [Entitic volume] by Automated count  91.6 fL
+           - MCH [Entitic mass] by Automated count    33.0 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+           - Platelets [#/volume] in Blood by Automated count 359.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 368.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-25 : Estimated Glomerular Filtration Rate     63.6 mL/min/{1.73_m2}
+  2016-09-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2016-09-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 253.6 fL
+  2016-09-25 : Platelets [#/volume] in Blood by Automated count 425.1 10*3/uL
+  2016-09-25 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  2016-09-25 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2016-09-25 : MCH [Entitic mass] by Automated count    27.3 pg
+  2016-09-25 : MCV [Entitic volume] by Automated count  88.4 fL
+  2016-09-25 : Hematocrit [Volume Fraction] of Blood by Automated count 49.9 %
+  2016-09-25 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2016-09-25 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2016-09-25 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2016-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 116.8 mmHg
+           - Systolic Blood Pressure                  142.3 mmHg
+  2016-09-25 : Body Mass Index                          30.3 kg/m2
+  2016-09-25 : Body Weight                              75.3 kg
+  2016-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2016-09-25 : Body Height                              157.7 cm
+  2013-09-22 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-22 : Estimated Glomerular Filtration Rate     88.3 mL/min/{1.73_m2}
+  2013-09-22 : Blood Pressure
+           - Diastolic Blood Pressure                 90.1 mmHg
+           - Systolic Blood Pressure                  180.4 mmHg
+  2013-09-22 : Body Mass Index                          28.3 kg/m2
+  2013-09-22 : Body Weight                              70.2 kg
+  2013-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2013-09-22 : Body Height                              157.6 cm
+  2012-09-16 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 91.9 mmHg
+           - Systolic Blood Pressure                  140.2 mmHg
+  2012-09-16 : Body Mass Index                          27.7 kg/m2
+  2012-09-16 : Body Weight                              68.8 kg
+  2012-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2012-09-16 : Body Height                              157.5 cm
+  2011-09-11 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 85.9 mmHg
+           - Systolic Blood Pressure                  138.6 mmHg
+  2011-09-11 : Body Mass Index                          27.3 kg/m2
+  2011-09-11 : Body Weight                              67.6 kg
+  2011-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2011-09-11 : Body Height                              157.3 cm
+  2010-09-05 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2010-09-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 368.1 fL
+  2010-09-05 : Platelets [#/volume] in Blood by Automated count 359.7 10*3/uL
+  2010-09-05 : Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+  2010-09-05 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2010-09-05 : MCH [Entitic mass] by Automated count    33.0 pg
+  2010-09-05 : MCV [Entitic volume] by Automated count  91.6 fL
+  2010-09-05 : Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+  2010-09-05 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2010-09-05 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2010-09-05 : Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+  2010-09-05 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  131.3 mmHg
+  2010-09-05 : Body Mass Index                          27.0 kg/m2
+  2010-09-05 : Body Weight                              66.5 kg
+  2010-09-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2010-09-05 : Body Height                              157.0 cm
+  2009-08-30 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-30 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  117.4 mmHg
+  2009-08-30 : Body Mass Index                          26.5 kg/m2
+  2009-08-30 : Body Weight                              64.6 kg
+  2009-08-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2009-08-30 : Body Height                              156.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-10-15 : Depression screening
+  2017-10-15 : Physical examination following birth
+  2017-09-03 : Childbirth for Normal pregnancy
+  2017-09-03 : Instrumental delivery for Normal pregnancy
+  2017-08-20 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-20 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-07-23 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-25 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-25 : Urine screening for glucose for Normal pregnancy
+  2017-06-25 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-06-25 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-05-28 : Auscultation of the fetal heart for Normal pregnancy
+  2017-05-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-02 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-02 : Alpha-fetoprotein test for Normal pregnancy
+  2017-04-02 : Fetal anatomy study for Normal pregnancy
+  2017-03-05 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-03-05 : Auscultation of the fetal heart for Normal pregnancy
+  2017-03-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-05 : Physical examination of mother for Normal pregnancy
+  2017-02-05 : Urine protein test for Normal pregnancy
+  2017-02-05 : Skin test for tuberculosis for Normal pregnancy
+  2017-02-05 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-02-05 : Rubella screening for Normal pregnancy
+  2017-02-05 : Hepatitis C antibody test for Normal pregnancy
+  2017-02-05 : Urine screening test for diabetes for Normal pregnancy
+  2017-02-05 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-02-05 : Urine culture for Normal pregnancy
+  2017-02-05 : Syphilis infection test for Normal pregnancy
+  2017-02-05 : Gonorrhea infection test for Normal pregnancy
+  2017-02-05 : Chlamydia antigen test for Normal pregnancy
+  2017-02-05 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-02-05 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-02-05 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-02-05 : Blood typing, RH typing for Normal pregnancy
+  2017-02-05 : Auscultation of the fetal heart for Normal pregnancy
+  2017-02-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-05 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-02-05 : Standard pregnancy test for Normal pregnancy
+  2016-12-04 : Removal of subcutaneous contraceptive
+  2015-07-07 : Insertion of subcutaneous contraceptive
+  2012-07-22 : Depression screening
+  2012-07-22 : Physical examination following birth
+  2012-06-10 : Childbirth for Normal pregnancy
+  2012-05-27 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-27 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-04-29 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-01 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-01 : Urine screening for glucose for Normal pregnancy
+  2012-04-01 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-04-01 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-03-04 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-02-05 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-08 : Auscultation of the fetal heart for Normal pregnancy
+  2012-01-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-08 : Alpha-fetoprotein test for Normal pregnancy
+  2012-01-08 : Fetal anatomy study for Normal pregnancy
+  2011-12-11 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-12-11 : Auscultation of the fetal heart for Normal pregnancy
+  2011-12-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-11-13 : Physical examination of mother for Normal pregnancy
+  2011-11-13 : Urine protein test for Normal pregnancy
+  2011-11-13 : Skin test for tuberculosis for Normal pregnancy
+  2011-11-13 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-11-13 : Rubella screening for Normal pregnancy
+  2011-11-13 : Hepatitis C antibody test for Normal pregnancy
+  2011-11-13 : Urine screening test for diabetes for Normal pregnancy
+  2011-11-13 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-11-13 : Urine culture for Normal pregnancy
+  2011-11-13 : Syphilis infection test for Normal pregnancy
+  2011-11-13 : Gonorrhea infection test for Normal pregnancy
+  2011-11-13 : Chlamydia antigen test for Normal pregnancy
+  2011-11-13 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-11-13 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-11-13 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-11-13 : Blood typing, RH typing for Normal pregnancy
+  2011-11-13 : Auscultation of the fetal heart for Normal pregnancy
+  2011-11-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-11-13 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-11-13 : Standard pregnancy test for Normal pregnancy
+  2010-09-28 : Suture open wound for Laceration of hand
+  2009-08-30 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-09-25 : meningococcal MCV4P
+  2016-09-25 : Hep B, adult
+  2016-09-25 : Td (adult) preservative free
+  2016-09-25 : Influenza, seasonal, injectable, preservative free
+  2013-09-22 : Influenza, seasonal, injectable, preservative free
+  2012-09-16 : Influenza, seasonal, injectable, preservative free
+  2011-09-11 : Influenza, seasonal, injectable, preservative free
+  2010-09-05 : meningococcal MCV4P
+  2010-09-05 : Influenza, seasonal, injectable, preservative free
+  2009-08-30 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-10-15 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2017-10-15 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2017-09-03 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2017-08-20 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2017-07-23 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2017-06-25 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2017-05-28 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2017-04-30 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2017-04-02 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2017-03-05 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2017-02-05 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2016-12-04 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2016-09-25 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2015-07-07 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2014-07-12 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2013-09-22 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2012-09-16 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2012-07-22 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2012-06-10 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2012-05-27 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2012-04-29 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2012-04-01 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2012-03-04 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2012-02-05 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2012-01-08 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2011-12-11 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2011-11-13 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2011-09-11 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2010-10-21 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Viral sinusitis (disorder)
+2010-09-28 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2010-09-05 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2009-08-30 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2009-06-22 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Otitis media
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,232 @@
+Ethan766 Wintheiser220
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 83
+Birth Date:          1935-04-23
+Marital Status:      S
+Outpatient Provider: LOWELL GENERAL HOSPITAL
+Primary Care Provider: 295 VARNUM AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-01-03[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-01-03 - 2018-01-24 : Sprain of ankle
+  2010-01-30 - 2010-02-20 : Viral sinusitis (disorder)
+  1975-10-07 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-01-03[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-10-30 : Lipid Panel
+           - Total Cholesterol                        173.7 mg/dL
+           - Triglycerides                            144.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.7 mg/dL
+           - High Density Lipoprotein Cholesterol     68.2 mg/dL
+  2017-10-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.6 %
+           - MCV [Entitic volume] by Automated count  81.4 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+           - Platelets [#/volume] in Blood by Automated count 233.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 280.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2015-10-13 : Lipid Panel
+           - Total Cholesterol                        199.4 mg/dL
+           - Triglycerides                            127.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      106.6 mg/dL
+           - High Density Lipoprotein Cholesterol     67.2 mg/dL
+  2012-09-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+           - MCV [Entitic volume] by Automated count  90.9 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 211.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 280.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2012-09-25 : Lipid Panel
+           - Total Cholesterol                        185.6 mg/dL
+           - Triglycerides                            115.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.1 mg/dL
+           - High Density Lipoprotein Cholesterol     77.4 mg/dL
+  2009-09-08 : Lipid Panel
+           - Total Cholesterol                        197.0 mg/dL
+           - Triglycerides                            102.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      111.7 mg/dL
+           - High Density Lipoprotein Cholesterol     64.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-30 : Tobacco smoking status NHIS              Former smoker 
+  2018-10-30 : High Density Lipoprotein Cholesterol     68.2 mg/dL
+  2018-10-30 : Low Density Lipoprotein Cholesterol      76.7 mg/dL
+  2018-10-30 : Triglycerides                            144.2 mg/dL
+  2018-10-30 : Total Cholesterol                        173.7 mg/dL
+  2018-10-30 : Blood Pressure
+           - Diastolic Blood Pressure                 76.9 mmHg
+           - Systolic Blood Pressure                  106.8 mmHg
+  2018-10-30 : Body Mass Index                          23.8 kg/m2
+  2018-10-30 : Body Weight                              73.3 kg
+  2018-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2018-10-30 : Body Height                              175.4 cm
+  2017-10-24 : Tobacco smoking status NHIS              Former smoker 
+  2017-10-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2017-10-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 280.2 fL
+  2017-10-24 : Platelets [#/volume] in Blood by Automated count 233.0 10*3/uL
+  2017-10-24 : Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+  2017-10-24 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2017-10-24 : MCH [Entitic mass] by Automated count    31.4 pg
+  2017-10-24 : MCV [Entitic volume] by Automated count  81.4 fL
+  2017-10-24 : Hematocrit [Volume Fraction] of Blood by Automated count 49.6 %
+  2017-10-24 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2017-10-24 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2017-10-24 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2017-10-24 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  134.5 mmHg
+  2017-10-24 : Body Mass Index                          24.3 kg/m2
+  2017-10-24 : Body Weight                              74.8 kg
+  2017-10-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2017-10-24 : Body Height                              175.4 cm
+  2016-10-18 : Tobacco smoking status NHIS              Former smoker 
+  2016-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  119.2 mmHg
+  2016-10-18 : Body Mass Index                          24.7 kg/m2
+  2016-10-18 : Body Weight                              76.1 kg
+  2016-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-10-18 : Body Height                              175.4 cm
+  2015-10-13 : Tobacco smoking status NHIS              Former smoker 
+  2015-10-13 : High Density Lipoprotein Cholesterol     67.2 mg/dL
+  2015-10-13 : Low Density Lipoprotein Cholesterol      106.6 mg/dL
+  2015-10-13 : Triglycerides                            127.9 mg/dL
+  2015-10-13 : Total Cholesterol                        199.4 mg/dL
+  2015-10-13 : Blood Pressure
+           - Diastolic Blood Pressure                 81.6 mmHg
+           - Systolic Blood Pressure                  114.0 mmHg
+  2015-10-13 : Body Mass Index                          25.4 kg/m2
+  2015-10-13 : Body Weight                              78.1 kg
+  2015-10-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2015-10-13 : Body Height                              175.4 cm
+  2014-10-07 : Tobacco smoking status NHIS              Former smoker 
+  2014-10-07 : Blood Pressure
+           - Diastolic Blood Pressure                 74.2 mmHg
+           - Systolic Blood Pressure                  133.9 mmHg
+  2014-10-07 : Body Mass Index                          25.7 kg/m2
+  2014-10-07 : Body Weight                              79.1 kg
+  2014-10-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2014-10-07 : Body Height                              175.4 cm
+  2013-10-01 : Tobacco smoking status NHIS              Former smoker 
+  2013-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 83.7 mmHg
+           - Systolic Blood Pressure                  116.8 mmHg
+  2013-10-01 : Body Mass Index                          26.1 kg/m2
+  2013-10-01 : Body Weight                              80.3 kg
+  2013-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2013-10-01 : Body Height                              175.4 cm
+  2012-09-25 : Tobacco smoking status NHIS              Former smoker 
+  2012-09-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2012-09-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 280.2 fL
+  2012-09-25 : Platelets [#/volume] in Blood by Automated count 211.6 10*3/uL
+  2012-09-25 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  2012-09-25 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2012-09-25 : MCH [Entitic mass] by Automated count    28.5 pg
+  2012-09-25 : MCV [Entitic volume] by Automated count  90.9 fL
+  2012-09-25 : Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+  2012-09-25 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2012-09-25 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2012-09-25 : Leukocytes [#/volume] in Blood by Automated count 7.5 10*3/uL
+  2012-09-25 : High Density Lipoprotein Cholesterol     77.4 mg/dL
+  2012-09-25 : Low Density Lipoprotein Cholesterol      85.1 mg/dL
+  2012-09-25 : Triglycerides                            115.8 mg/dL
+  2012-09-25 : Total Cholesterol                        185.6 mg/dL
+  2012-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 75.1 mmHg
+           - Systolic Blood Pressure                  111.6 mmHg
+  2012-09-25 : Body Mass Index                          26.7 kg/m2
+  2012-09-25 : Body Weight                              82.3 kg
+  2012-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2012-09-25 : Body Height                              175.4 cm
+  2011-09-20 : Tobacco smoking status NHIS              Former smoker 
+  2011-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 86.6 mmHg
+           - Systolic Blood Pressure                  112.5 mmHg
+  2011-09-20 : Body Mass Index                          27.1 kg/m2
+  2011-09-20 : Body Weight                              83.5 kg
+  2011-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2011-09-20 : Body Height                              175.4 cm
+  2010-09-14 : Tobacco smoking status NHIS              Former smoker 
+  2010-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 87.9 mmHg
+           - Systolic Blood Pressure                  112.9 mmHg
+  2010-09-14 : Body Mass Index                          27.5 kg/m2
+  2010-09-14 : Body Weight                              84.7 kg
+  2010-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2010-09-14 : Body Height                              175.4 cm
+  2009-09-08 : Tobacco smoking status NHIS              Former smoker 
+  2009-09-08 : High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2009-09-08 : Low Density Lipoprotein Cholesterol      111.7 mg/dL
+  2009-09-08 : Triglycerides                            102.7 mg/dL
+  2009-09-08 : Total Cholesterol                        197.0 mg/dL
+  2009-09-08 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  111.6 mmHg
+  2009-09-08 : Body Mass Index                          28.1 kg/m2
+  2009-09-08 : Body Weight                              86.4 kg
+  2009-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2009-09-08 : Body Height                              175.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-10-24 : Documentation of current medications
+  2015-04-16 : Colonoscopy
+  2011-09-20 : Documentation of current medications
+  2010-04-17 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-30 : Influenza, seasonal, injectable, preservative free
+  2017-10-24 : Influenza, seasonal, injectable, preservative free
+  2016-10-18 : Td (adult) preservative free
+  2016-10-18 : Influenza, seasonal, injectable, preservative free
+  2015-10-13 : Influenza, seasonal, injectable, preservative free
+  2014-10-07 : Influenza, seasonal, injectable, preservative free
+  2013-10-01 : Influenza, seasonal, injectable, preservative free
+  2012-09-25 : Influenza, seasonal, injectable, preservative free
+  2011-09-20 : Influenza, seasonal, injectable, preservative free
+  2010-09-14 : Influenza, seasonal, injectable, preservative free
+  2009-09-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-30 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2018-01-03 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2017-10-24 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2016-10-18 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2015-10-13 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2015-04-16 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2014-10-07 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2013-10-01 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2012-09-25 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2011-09-20 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2010-09-14 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2010-04-17 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2010-01-30 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2009-09-08 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+1975-10-07 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

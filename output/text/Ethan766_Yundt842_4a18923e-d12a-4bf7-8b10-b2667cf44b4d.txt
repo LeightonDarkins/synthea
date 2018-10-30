@@ -1,0 +1,213 @@
+Ethan766 Yundt842
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          1999-03-15
+Marital Status:      S
+Outpatient Provider: MILFORD REGIONAL MEDICAL CENTER
+Primary Care Provider: 14 PROSPECT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-12-06[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2017-05-08[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  2010-11-03[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2007-03-13[STOPPED] : Methylphenidate Hydrochloride 20 MG Oral Tablet for Child attention deficit disorder
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-12-06 - 2017-12-20 : Acute bronchitis (disorder)
+  2017-10-27 - 2017-11-03 : Viral sinusitis (disorder)
+  2017-05-08 -            : Hypertension
+  2010-11-03 - 2010-11-24 : Viral sinusitis (disorder)
+  2009-03-23 - 2009-04-06 : Viral sinusitis (disorder)
+  2007-03-13 - 2017-03-20 : Child attention deficit disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-12-06[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2007-03-13[STOPPED] : Overactivity/inattention behavior management
+                         Reason: Child attention deficit disorder
+                         Activity: Counseling
+                         Activity: Psychological assessment
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-04-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 317.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 318.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2010-03-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+           - MCV [Entitic volume] by Automated count  83.0 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 401.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 343.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-14 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-14 : Estimated Glomerular Filtration Rate     96.9 mL/min/{1.73_m2}
+  2018-05-14 : Blood Pressure
+           - Diastolic Blood Pressure                 112.9 mmHg
+           - Systolic Blood Pressure                  195.3 mmHg
+  2018-05-14 : Body Mass Index                          23.1 kg/m2
+  2018-05-14 : Body Weight                              73.2 kg
+  2018-05-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2018-05-14 : Body Height                              178.2 cm
+  2017-05-08 : Tobacco smoking status NHIS              Never smoker 
+  2017-05-08 : Blood Pressure
+           - Diastolic Blood Pressure                 98.1 mmHg
+           - Systolic Blood Pressure                  191.0 mmHg
+  2017-05-08 : Body Mass Index                          22.6 kg/m2
+  2017-05-08 : Body Weight                              71.3 kg
+  2017-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2017-05-08 : Body Height                              177.8 cm
+  2016-05-02 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-02 : Blood Pressure
+           - Diastolic Blood Pressure                 79.4 mmHg
+           - Systolic Blood Pressure                  109.9 mmHg
+  2016-05-02 : Body Mass Index                          21.9 kg/m2
+  2016-05-02 : Body Weight                              68.7 kg
+  2016-05-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2016-05-02 : Body Height                              177.0 cm
+  2015-04-27 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2015-04-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 318.2 fL
+  2015-04-27 : Platelets [#/volume] in Blood by Automated count 317.4 10*3/uL
+  2015-04-27 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2015-04-27 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2015-04-27 : MCH [Entitic mass] by Automated count    30.8 pg
+  2015-04-27 : MCV [Entitic volume] by Automated count  86.0 fL
+  2015-04-27 : Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+  2015-04-27 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2015-04-27 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2015-04-27 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2015-04-27 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  114.4 mmHg
+  2015-04-27 : Body Mass Index                          21.2 kg/m2
+  2015-04-27 : Body Weight                              65.1 kg
+  2015-04-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2015-04-27 : Body Height                              175.4 cm
+  2014-04-21 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-21 : Blood Pressure
+           - Diastolic Blood Pressure                 75.1 mmHg
+           - Systolic Blood Pressure                  122.9 mmHg
+  2014-04-21 : Body Mass Index                          20.3 kg/m2
+  2014-04-21 : Body Weight                              60.1 kg
+  2014-04-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2014-04-21 : Body Height                              171.8 cm
+  2013-04-15 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-15 : Blood Pressure
+           - Diastolic Blood Pressure                 76.1 mmHg
+           - Systolic Blood Pressure                  105.1 mmHg
+  2013-04-15 : Body Mass Index                          19.9 kg/m2
+  2013-04-15 : Body Weight                              54.6 kg
+  2013-04-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2013-04-15 : Body Height                              165.9 cm
+  2012-04-09 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-09 : Blood Pressure
+           - Diastolic Blood Pressure                 71.2 mmHg
+           - Systolic Blood Pressure                  113.1 mmHg
+  2012-04-09 : Body Mass Index                          19.6 kg/m2
+  2012-04-09 : Body Weight                              49.0 kg
+  2012-04-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2012-04-09 : Body Height                              158.1 cm
+  2011-04-04 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-04 : Blood Pressure
+           - Diastolic Blood Pressure                 79.4 mmHg
+           - Systolic Blood Pressure                  132.6 mmHg
+  2011-04-04 : Body Mass Index                          19.1 kg/m2
+  2011-04-04 : Body Weight                              43.5 kg
+  2011-04-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2011-04-04 : Body Height                              150.9 cm
+  2010-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2010-03-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 343.6 fL
+  2010-03-29 : Platelets [#/volume] in Blood by Automated count 401.1 10*3/uL
+  2010-03-29 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2010-03-29 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2010-03-29 : MCH [Entitic mass] by Automated count    32.3 pg
+  2010-03-29 : MCV [Entitic volume] by Automated count  83.0 fL
+  2010-03-29 : Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+  2010-03-29 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2010-03-29 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2010-03-29 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2010-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  128.2 mmHg
+  2010-03-29 : Body Mass Index                          18.2 kg/m2
+  2010-03-29 : Body Weight                              38.5 kg
+  2010-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2010-03-29 : Body Height                              145.3 cm
+  2009-03-23 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-23 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  126.2 mmHg
+  2009-03-23 : Body Mass Index                          17.3 kg/m2
+  2009-03-23 : Body Weight                              34.1 kg
+  2009-03-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2009-03-23 : Body Height                              140.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-05-02 : Documentation of current medications
+  2014-04-21 : Documentation of current medications
+  2013-04-15 : Documentation of current medications
+  2012-04-09 : Documentation of current medications
+  2010-03-29 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-14 : Influenza, seasonal, injectable, preservative free
+  2017-05-08 : Influenza, seasonal, injectable, preservative free
+  2016-05-02 : Influenza, seasonal, injectable, preservative free
+  2015-04-27 : meningococcal MCV4P
+  2015-04-27 : Influenza, seasonal, injectable, preservative free
+  2014-04-21 : Influenza, seasonal, injectable, preservative free
+  2013-04-15 : Influenza, seasonal, injectable, preservative free
+  2012-04-09 : HPV, quadrivalent
+  2012-04-09 : Influenza, seasonal, injectable, preservative free
+  2011-04-04 : HPV, quadrivalent
+  2011-04-04 : Influenza, seasonal, injectable, preservative free
+  2010-03-29 : meningococcal MCV4P
+  2010-03-29 : HPV, quadrivalent
+  2010-03-29 : Influenza, seasonal, injectable, preservative free
+  2010-03-29 : Tdap
+  2009-03-23 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-14 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2017-12-06 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2017-10-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2017-05-08 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2016-05-02 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2015-04-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2014-04-21 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2013-04-15 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2012-04-09 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2011-04-04 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2010-11-03 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2010-03-29 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2009-03-23 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2009-03-23 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2007-03-13 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Child attention deficit disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,264 @@
+Arlinda565 Leuschke194
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2000-03-16
+Marital Status:      S
+Outpatient Provider: NEWTON-WELLESLEY HOSPITAL
+Primary Care Provider: 2014 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-03-13[STOPPED] : Trinessa 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-08-10 - 2018-03-22 : Normal pregnancy
+  2010-04-23 - 2010-06-22 : Injury of tendon of the rotator cuff of shoulder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-08-10[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2010-04-23[STOPPED] : Physical therapy procedure
+                         Reason: Injury of tendon of the rotator cuff of shoulder
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-01-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.7 %
+           - MCV [Entitic volume] by Automated count  82.1 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+           - Platelets [#/volume] in Blood by Automated count 299.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 485.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2010-12-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.8 %
+           - MCV [Entitic volume] by Automated count  92.3 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.1 fL
+           - Platelets [#/volume] in Blood by Automated count 334.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 198.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  101.3 mmHg
+  2018-02-01 : Body Mass Index                          23.3 kg/m2
+  2018-02-01 : Body Weight                              65.9 kg
+  2018-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2018-02-01 : Body Height                              168.0 cm
+  2017-01-26 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 80.7 mmHg
+           - Systolic Blood Pressure                  128.5 mmHg
+  2017-01-26 : Body Mass Index                          23.0 kg/m2
+  2017-01-26 : Body Weight                              64.7 kg
+  2017-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-01-26 : Body Height                              167.7 cm
+  2016-01-21 : Tobacco smoking status NHIS              Never smoker 
+  2016-01-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2016-01-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 485.1 fL
+  2016-01-21 : Platelets [#/volume] in Blood by Automated count 299.1 10*3/uL
+  2016-01-21 : Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+  2016-01-21 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2016-01-21 : MCH [Entitic mass] by Automated count    29.7 pg
+  2016-01-21 : MCV [Entitic volume] by Automated count  82.1 fL
+  2016-01-21 : Hematocrit [Volume Fraction] of Blood by Automated count 38.7 %
+  2016-01-21 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  2016-01-21 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2016-01-21 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  2016-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mmHg
+           - Systolic Blood Pressure                  123.8 mmHg
+  2016-01-21 : Body Mass Index                          22.7 kg/m2
+  2016-01-21 : Body Weight                              63.4 kg
+  2016-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2016-01-21 : Body Height                              167.3 cm
+  2015-01-15 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 77.2 mmHg
+           - Systolic Blood Pressure                  104.0 mmHg
+  2015-01-15 : Body Mass Index                          22.2 kg/m2
+  2015-01-15 : Body Weight                              61.5 kg
+  2015-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-01-15 : Body Height                              166.5 cm
+  2014-01-09 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-09 : Blood Pressure
+           - Diastolic Blood Pressure                 87.9 mmHg
+           - Systolic Blood Pressure                  101.5 mmHg
+  2014-01-09 : Body Mass Index                          21.5 kg/m2
+  2014-01-09 : Body Weight                              58.4 kg
+  2014-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2014-01-09 : Body Height                              164.9 cm
+  2013-01-03 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-03 : Blood Pressure
+           - Diastolic Blood Pressure                 80.2 mmHg
+           - Systolic Blood Pressure                  128.2 mmHg
+  2013-01-03 : Body Mass Index                          20.8 kg/m2
+  2013-01-03 : Body Weight                              54.3 kg
+  2013-01-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2013-01-03 : Body Height                              161.4 cm
+  2011-12-29 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-29 : Blood Pressure
+           - Diastolic Blood Pressure                 87.3 mmHg
+           - Systolic Blood Pressure                  124.9 mmHg
+  2011-12-29 : Body Mass Index                          20.4 kg/m2
+  2011-12-29 : Body Weight                              49.2 kg
+  2011-12-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2011-12-29 : Body Height                              155.2 cm
+  2010-12-23 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2010-12-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 198.1 fL
+  2010-12-23 : Platelets [#/volume] in Blood by Automated count 334.4 10*3/uL
+  2010-12-23 : Erythrocyte distribution width [Entitic volume] by Automated count 40.1 fL
+  2010-12-23 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2010-12-23 : MCH [Entitic mass] by Automated count    30.1 pg
+  2010-12-23 : MCV [Entitic volume] by Automated count  92.3 fL
+  2010-12-23 : Hematocrit [Volume Fraction] of Blood by Automated count 40.8 %
+  2010-12-23 : Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+  2010-12-23 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2010-12-23 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2010-12-23 : Blood Pressure
+           - Diastolic Blood Pressure                 87.2 mmHg
+           - Systolic Blood Pressure                  129.2 mmHg
+  2010-12-23 : Body Mass Index                          20.0 kg/m2
+  2010-12-23 : Body Weight                              43.8 kg
+  2010-12-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2010-12-23 : Body Height                              148.0 cm
+  2009-12-17 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  114.5 mmHg
+  2009-12-17 : Body Mass Index                          19.0 kg/m2
+  2009-12-17 : Body Weight                              38.0 kg
+  2009-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2009-12-17 : Body Height                              141.5 cm
+  2008-12-11 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-11 : Blood Pressure
+           - Diastolic Blood Pressure                 70.4 mmHg
+           - Systolic Blood Pressure                  121.8 mmHg
+  2008-12-11 : Body Mass Index                          17.9 kg/m2
+  2008-12-11 : Body Weight                              33.2 kg
+  2008-12-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2008-12-11 : Body Height                              136.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-05-03 : Depression screening
+  2018-05-03 : Physical examination following birth
+  2018-03-22 : Childbirth for Normal pregnancy
+  2018-03-22 : Medical induction of labor for Normal pregnancy
+  2018-03-15 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-03-08 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-22 : Auscultation of the fetal heart for Normal pregnancy
+  2018-02-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-22 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2018-02-01 : Documentation of current medications
+  2018-01-25 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-28 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-28 : Urine screening for glucose for Normal pregnancy
+  2017-12-28 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-12-28 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-11-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-11-02 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-05 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-05 : Alpha-fetoprotein test for Normal pregnancy
+  2017-10-05 : Fetal anatomy study for Normal pregnancy
+  2017-09-07 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-09-07 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-10 : Physical examination of mother for Normal pregnancy
+  2017-08-10 : Urine protein test for Normal pregnancy
+  2017-08-10 : Skin test for tuberculosis for Normal pregnancy
+  2017-08-10 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-08-10 : Rubella screening for Normal pregnancy
+  2017-08-10 : Hepatitis C antibody test for Normal pregnancy
+  2017-08-10 : Urine screening test for diabetes for Normal pregnancy
+  2017-08-10 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-08-10 : Urine culture for Normal pregnancy
+  2017-08-10 : Syphilis infection test for Normal pregnancy
+  2017-08-10 : Gonorrhea infection test for Normal pregnancy
+  2017-08-10 : Chlamydia antigen test for Normal pregnancy
+  2017-08-10 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-08-10 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-08-10 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-08-10 : Blood typing, RH typing for Normal pregnancy
+  2017-08-10 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-08-10 : Standard pregnancy test for Normal pregnancy
+  2010-12-23 : Documentation of current medications
+  2009-12-17 : Documentation of current medications
+  2008-12-11 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-01 : Influenza, seasonal, injectable, preservative free
+  2017-01-26 : meningococcal MCV4P
+  2017-01-26 : Influenza, seasonal, injectable, preservative free
+  2016-01-21 : Influenza, seasonal, injectable, preservative free
+  2015-01-15 : Influenza, seasonal, injectable, preservative free
+  2014-01-09 : HPV, quadrivalent
+  2014-01-09 : Influenza, seasonal, injectable, preservative free
+  2013-01-03 : HPV, quadrivalent
+  2013-01-03 : Influenza, seasonal, injectable, preservative free
+  2011-12-29 : meningococcal MCV4P
+  2011-12-29 : HPV, quadrivalent
+  2011-12-29 : Influenza, seasonal, injectable, preservative free
+  2011-12-29 : Tdap
+  2010-12-23 : Influenza, seasonal, injectable, preservative free
+  2009-12-17 : Influenza, seasonal, injectable, preservative free
+  2008-12-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-03 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2018-03-22 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2018-03-15 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2018-03-08 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2018-02-22 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2018-02-01 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2018-01-25 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2017-12-28 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2017-11-30 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2017-11-02 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2017-10-05 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2017-09-07 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2017-08-10 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2017-01-26 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2016-01-21 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2015-01-15 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-03-13 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-01-09 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2013-01-03 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2011-12-29 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2010-12-23 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2010-06-22 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Injury of tendon of the rotator cuff of shoulder
+2010-04-23 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Injury of tendon of the rotator cuff of shoulder
+2009-12-17 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2008-12-11 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

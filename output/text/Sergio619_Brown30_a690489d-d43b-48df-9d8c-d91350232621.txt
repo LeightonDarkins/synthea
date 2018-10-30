@@ -1,0 +1,140 @@
+Sergio619 Brown30
+=================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1985-11-16
+Marital Status:      M
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-10-27[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2010-12-07[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2009-04-26[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2004-01-10[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-10-27 - 2015-11-10 : Sprain of wrist
+  2010-12-25 -            : Body mass index 30+ - obesity (finding)
+  2010-12-07 - 2010-12-21 : Acute bronchitis (disorder)
+  2009-04-26 - 2009-05-31 : Sprain of ankle
+  2008-11-10 -            : Anemia (disorder)
+  2008-08-10 - 2010-12-25 : Otitis media
+  2004-01-10 -            : Hypertension
+  1999-01-10 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-10-27[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2010-12-07[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2009-04-26[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-12-31 : Lipid Panel
+           - Total Cholesterol                        160.7 mg/dL
+           - Triglycerides                            109.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      65.0 mg/dL
+           - High Density Lipoprotein Cholesterol     73.9 mg/dL
+  2013-12-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.6 %
+           - MCV [Entitic volume] by Automated count  83.7 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 409.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 511.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2008-11-10 : Hemoglobin and Hematocrit panel - Blood
+           - Hemoglobin [Mass/volume] in Blood        10.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood    32.2 %
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-12-31 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-31 : Estimated Glomerular Filtration Rate     96.1 mL/min/{1.73_m2}
+  2016-12-31 : High Density Lipoprotein Cholesterol     73.9 mg/dL
+  2016-12-31 : Low Density Lipoprotein Cholesterol      65.0 mg/dL
+  2016-12-31 : Triglycerides                            109.1 mg/dL
+  2016-12-31 : Total Cholesterol                        160.7 mg/dL
+  2016-12-31 : Blood Pressure
+           - Diastolic Blood Pressure                 101.0 mmHg
+           - Systolic Blood Pressure                  185.5 mmHg
+  2016-12-31 : Body Mass Index                          33.1 kg/m2
+  2016-12-31 : Body Weight                              103.6 kg
+  2016-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2016-12-31 : Body Height                              177.1 cm
+  2013-12-28 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-28 : Estimated Glomerular Filtration Rate     99.5 mL/min/{1.73_m2}
+  2013-12-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2013-12-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 511.1 fL
+  2013-12-28 : Platelets [#/volume] in Blood by Automated count 409.1 10*3/uL
+  2013-12-28 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2013-12-28 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2013-12-28 : MCH [Entitic mass] by Automated count    27.6 pg
+  2013-12-28 : MCV [Entitic volume] by Automated count  83.7 fL
+  2013-12-28 : Hematocrit [Volume Fraction] of Blood by Automated count 47.6 %
+  2013-12-28 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2013-12-28 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2013-12-28 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2013-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 117.6 mmHg
+           - Systolic Blood Pressure                  140.8 mmHg
+  2013-12-28 : Body Mass Index                          31.9 kg/m2
+  2013-12-28 : Body Weight                              99.9 kg
+  2013-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2013-12-28 : Body Height                              177.1 cm
+  2010-12-25 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-25 : Estimated Glomerular Filtration Rate     117.5 mL/min/{1.73_m2}
+  2010-12-25 : Blood Pressure
+           - Diastolic Blood Pressure                 117.9 mmHg
+           - Systolic Blood Pressure                  154.6 mmHg
+  2010-12-25 : Body Mass Index                          30.4 kg/m2
+  2010-12-25 : Body Weight                              95.3 kg
+  2010-12-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2010-12-25 : Body Height                              177.1 cm
+  2008-11-10 : Hematocrit [Volume Fraction] of Blood    32.2 %
+  2008-11-10 : Hemoglobin [Mass/volume] in Blood        10.2 g/dL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2010-12-07 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2008-11-10 : Brief general examination (procedure)
+  2008-11-10 : Medication Reconciliation (procedure)
+  2008-11-10 : Review of systems (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-12-31 : Td (adult) preservative free
+  2016-12-31 : Influenza, seasonal, injectable, preservative free
+  2013-12-28 : Influenza, seasonal, injectable, preservative free
+  2010-12-25 : Influenza, seasonal, injectable, preservative free
+  2010-12-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2016-12-31 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-10-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-12-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-12-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-12-18 (Dr. Allegra202 Shanahan202) : Encounter at HANOVER FAMILY HEALTH AND URGENT CARE
+2010-12-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2009-04-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-11-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-08-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Otitis media
+2004-01-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1999-01-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

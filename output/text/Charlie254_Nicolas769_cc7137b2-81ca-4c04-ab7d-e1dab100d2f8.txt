@@ -1,0 +1,376 @@
+Charlie254 Nicolas769
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1944-04-29
+Marital Status:      M
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1994-04-16[STOPPED] : Captopril 25 MG Oral Tablet
+  1991-10-05[CURRENT] : Simvastatin 20 MG Oral Tablet
+  1989-09-30[STOPPED] : canagliflozin 100 MG Oral Tablet for Diabetes
+  1988-10-01[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  1988-09-14[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1984-11-10[CURRENT] : 3 ML liraglutide 6 MG/ML Pen Injector for Diabetes
+  1981-06-13[STOPPED] : 3 ML liraglutide 6 MG/ML Pen Injector for Diabetes
+  1981-06-13[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1966-05-28[CURRENT] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1994-04-16 -            : History of myocardial infarction (situation)
+  1994-04-16 -            : Myocardial Infarction
+  1992-01-06 - 1992-01-13 : Viral sinusitis (disorder)
+  1989-09-23 - 1989-10-05 : Acute viral pharyngitis (disorder)
+  1988-09-14 - 1988-09-28 : Acute bronchitis (disorder)
+  1986-11-15 -            : Pulmonary emphysema (disorder)
+  1981-06-13 -            : Coronary Heart Disease
+  1969-05-31 -            : Metabolic syndrome X (disorder)
+  1969-05-31 -            : Hypertriglyceridemia (disorder)
+  1969-05-31 -            : Hyperglycemia (disorder)
+  1966-05-28 -            : Diabetes
+  1960-05-07 -            : Body mass index 30+ - obesity (finding)
+  1957-02-21 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1988-09-14[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1986-11-15[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+  1966-05-28[CURRENT] : Diabetes self management plan
+                         Reason: Diabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  1994-04-23 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Myocardial Infarction 
+  1993-10-09 : Lipid Panel
+           - Total Cholesterol                        264.9 mg/dL
+           - Triglycerides                            522.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      143.0 mg/dL
+           - High Density Lipoprotein Cholesterol     17.3 mg/dL
+  1993-10-09 : Basic Metabolic Panel
+           - Glucose                                  164.0 mg/dL
+           - Urea Nitrogen                            17.6 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   139.2 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 101.8 mmol/L
+           - Carbon Dioxide                           27.8 mmol/L
+  1991-10-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.3 %
+           - MCV [Entitic volume] by Automated count  91.1 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 415.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 506.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  1991-10-05 : Lipid Panel
+           - Total Cholesterol                        280.0 mg/dL
+           - Triglycerides                            595.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      151.9 mg/dL
+           - High Density Lipoprotein Cholesterol     9.0 mg/dL
+  1991-10-05 : Basic Metabolic Panel
+           - Glucose                                  156.4 mg/dL
+           - Urea Nitrogen                            19.3 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   137.2 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           23.6 mmol/L
+  1989-09-30 : Lipid Panel
+           - Total Cholesterol                        276.9 mg/dL
+           - Triglycerides                            542.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      157.0 mg/dL
+           - High Density Lipoprotein Cholesterol     11.4 mg/dL
+  1989-09-30 : Basic Metabolic Panel
+           - Glucose                                  194.2 mg/dL
+           - Urea Nitrogen                            8.4 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 104.1 mmol/L
+           - Carbon Dioxide                           28.4 mmol/L
+  1988-10-01 : Lipid Panel
+           - Total Cholesterol                        261.1 mg/dL
+           - Triglycerides                            518.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      146.0 mg/dL
+           - High Density Lipoprotein Cholesterol     11.4 mg/dL
+  1988-10-01 : Basic Metabolic Panel
+           - Glucose                                  139.0 mg/dL
+           - Urea Nitrogen                            11.4 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   137.3 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 107.2 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+  1986-11-15 : Lipid Panel
+           - Total Cholesterol                        269.2 mg/dL
+           - Triglycerides                            549.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      143.3 mg/dL
+           - High Density Lipoprotein Cholesterol     16.0 mg/dL
+  1986-11-15 : Basic Metabolic Panel
+           - Glucose                                  197.7 mg/dL
+           - Urea Nitrogen                            14.2 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 104.1 mmol/L
+           - Carbon Dioxide                           27.9 mmol/L
+  1984-11-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.8 %
+           - MCV [Entitic volume] by Automated count  93.2 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 357.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 499.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  1984-11-10 : Lipid Panel
+           - Total Cholesterol                        253.5 mg/dL
+           - Triglycerides                            471.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      138.6 mg/dL
+           - High Density Lipoprotein Cholesterol     20.5 mg/dL
+  1984-11-10 : Basic Metabolic Panel
+           - Glucose                                  181.1 mg/dL
+           - Urea Nitrogen                            8.4 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   136.1 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 109.6 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1994-04-23 : Cause of Death [US Standard Certificate of Death] Myocardial Infarction 
+  1993-10-09 : FEV1/FVC                                 78.1 %
+  1993-10-09 : Hemoglobin A1c/Hemoglobin.total in Blood 10.0 %
+  1993-10-09 : Tobacco smoking status NHIS              Former smoker 
+  1993-10-09 : Estimated Glomerular Filtration Rate     85.4 mL/min/{1.73_m2}
+  1993-10-09 : Microalbumin Creatinine Ratio            14.3 mg/g
+  1993-10-09 : High Density Lipoprotein Cholesterol     17.3 mg/dL
+  1993-10-09 : Low Density Lipoprotein Cholesterol      143.0 mg/dL
+  1993-10-09 : Triglycerides                            522.9 mg/dL
+  1993-10-09 : Total Cholesterol                        264.9 mg/dL
+  1993-10-09 : Carbon Dioxide                           27.8 mmol/L
+  1993-10-09 : Chloride                                 101.8 mmol/L
+  1993-10-09 : Potassium                                4.5 mmol/L
+  1993-10-09 : Sodium                                   139.2 mmol/L
+  1993-10-09 : Calcium                                  9.8 mg/dL
+  1993-10-09 : Creatinine                               1.9 mg/dL
+  1993-10-09 : Urea Nitrogen                            17.6 mg/dL
+  1993-10-09 : Glucose                                  164.0 mg/dL
+  1993-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  121.1 mmHg
+  1993-10-09 : Body Mass Index                          49.7 kg/m2
+  1993-10-09 : Body Weight                              128.0 kg
+  1993-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  1993-10-09 : Body Height                              160.5 cm
+  1991-10-05 : FEV1/FVC                                 60.7 %
+  1991-10-05 : Hemoglobin A1c/Hemoglobin.total in Blood 9.5 %
+  1991-10-05 : Tobacco smoking status NHIS              Former smoker 
+  1991-10-05 : Estimated Glomerular Filtration Rate     107.0 mL/min/{1.73_m2}
+  1991-10-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  1991-10-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 506.7 fL
+  1991-10-05 : Platelets [#/volume] in Blood by Automated count 415.8 10*3/uL
+  1991-10-05 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  1991-10-05 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  1991-10-05 : MCH [Entitic mass] by Automated count    30.9 pg
+  1991-10-05 : MCV [Entitic volume] by Automated count  91.1 fL
+  1991-10-05 : Hematocrit [Volume Fraction] of Blood by Automated count 48.3 %
+  1991-10-05 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  1991-10-05 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  1991-10-05 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  1991-10-05 : Microalbumin Creatinine Ratio            1.5 mg/g
+  1991-10-05 : High Density Lipoprotein Cholesterol     9.0 mg/dL
+  1991-10-05 : Low Density Lipoprotein Cholesterol      151.9 mg/dL
+  1991-10-05 : Triglycerides                            595.4 mg/dL
+  1991-10-05 : Total Cholesterol                        280.0 mg/dL
+  1991-10-05 : Carbon Dioxide                           23.6 mmol/L
+  1991-10-05 : Chloride                                 107.0 mmol/L
+  1991-10-05 : Potassium                                5.1 mmol/L
+  1991-10-05 : Sodium                                   137.2 mmol/L
+  1991-10-05 : Calcium                                  9.6 mg/dL
+  1991-10-05 : Creatinine                               1.6 mg/dL
+  1991-10-05 : Urea Nitrogen                            19.3 mg/dL
+  1991-10-05 : Glucose                                  156.4 mg/dL
+  1991-10-05 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  128.2 mmHg
+  1991-10-05 : Body Mass Index                          48.3 kg/m2
+  1991-10-05 : Body Weight                              124.6 kg
+  1991-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  1991-10-05 : Body Height                              160.5 cm
+  1989-09-30 : FEV1/FVC                                 59.1 %
+  1989-09-30 : Hemoglobin A1c/Hemoglobin.total in Blood 9.8 %
+  1989-09-30 : Tobacco smoking status NHIS              Former smoker 
+  1989-09-30 : Estimated Glomerular Filtration Rate     122.0 mL/min/{1.73_m2}
+  1989-09-30 : Microalbumin Creatinine Ratio            0.6 mg/g
+  1989-09-30 : High Density Lipoprotein Cholesterol     11.4 mg/dL
+  1989-09-30 : Low Density Lipoprotein Cholesterol      157.0 mg/dL
+  1989-09-30 : Triglycerides                            542.3 mg/dL
+  1989-09-30 : Total Cholesterol                        276.9 mg/dL
+  1989-09-30 : Carbon Dioxide                           28.4 mmol/L
+  1989-09-30 : Chloride                                 104.1 mmol/L
+  1989-09-30 : Potassium                                4.6 mmol/L
+  1989-09-30 : Sodium                                   137.6 mmol/L
+  1989-09-30 : Calcium                                  10.0 mg/dL
+  1989-09-30 : Creatinine                               1.6 mg/dL
+  1989-09-30 : Urea Nitrogen                            8.4 mg/dL
+  1989-09-30 : Glucose                                  194.2 mg/dL
+  1989-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 82.4 mmHg
+           - Systolic Blood Pressure                  101.7 mmHg
+  1989-09-30 : Body Mass Index                          47.3 kg/m2
+  1989-09-30 : Body Weight                              121.8 kg
+  1989-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  1989-09-30 : Body Height                              160.5 cm
+  1989-09-23 : Oral temperature                         37.6 Cel
+  1988-10-01 : FEV1/FVC                                 55.2 %
+  1988-10-01 : Hemoglobin A1c/Hemoglobin.total in Blood 9.7 %
+  1988-10-01 : Tobacco smoking status NHIS              Former smoker 
+  1988-10-01 : Estimated Glomerular Filtration Rate     80.7 mL/min/{1.73_m2}
+  1988-10-01 : Microalbumin Creatinine Ratio            0.8 mg/g
+  1988-10-01 : High Density Lipoprotein Cholesterol     11.4 mg/dL
+  1988-10-01 : Low Density Lipoprotein Cholesterol      146.0 mg/dL
+  1988-10-01 : Triglycerides                            518.4 mg/dL
+  1988-10-01 : Total Cholesterol                        261.1 mg/dL
+  1988-10-01 : Carbon Dioxide                           20.3 mmol/L
+  1988-10-01 : Chloride                                 107.2 mmol/L
+  1988-10-01 : Potassium                                4.2 mmol/L
+  1988-10-01 : Sodium                                   137.3 mmol/L
+  1988-10-01 : Calcium                                  9.1 mg/dL
+  1988-10-01 : Creatinine                               2.0 mg/dL
+  1988-10-01 : Urea Nitrogen                            11.4 mg/dL
+  1988-10-01 : Glucose                                  139.0 mg/dL
+  1988-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 76.8 mmHg
+           - Systolic Blood Pressure                  110.7 mmHg
+  1988-10-01 : Body Mass Index                          46.6 kg/m2
+  1988-10-01 : Body Weight                              120.1 kg
+  1988-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  1988-10-01 : Body Height                              160.5 cm
+  1986-11-15 : FEV1/FVC                                 52.4 %
+  1986-11-15 : Hemoglobin A1c/Hemoglobin.total in Blood 9.4 %
+  1986-11-15 : Tobacco smoking status NHIS              Former smoker 
+  1986-11-15 : Estimated Glomerular Filtration Rate     84.9 mL/min/{1.73_m2}
+  1986-11-15 : Microalbumin Creatinine Ratio            3.7 mg/g
+  1986-11-15 : High Density Lipoprotein Cholesterol     16.0 mg/dL
+  1986-11-15 : Low Density Lipoprotein Cholesterol      143.3 mg/dL
+  1986-11-15 : Triglycerides                            549.9 mg/dL
+  1986-11-15 : Total Cholesterol                        269.2 mg/dL
+  1986-11-15 : Carbon Dioxide                           27.9 mmol/L
+  1986-11-15 : Chloride                                 104.1 mmol/L
+  1986-11-15 : Potassium                                4.1 mmol/L
+  1986-11-15 : Sodium                                   137.0 mmol/L
+  1986-11-15 : Calcium                                  9.2 mg/dL
+  1986-11-15 : Creatinine                               1.9 mg/dL
+  1986-11-15 : Urea Nitrogen                            14.2 mg/dL
+  1986-11-15 : Glucose                                  197.7 mg/dL
+  1986-11-15 : Blood Pressure
+           - Diastolic Blood Pressure                 74.5 mmHg
+           - Systolic Blood Pressure                  107.2 mmHg
+  1986-11-15 : Body Mass Index                          45.5 kg/m2
+  1986-11-15 : Body Weight                              117.2 kg
+  1986-11-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  1986-11-15 : Body Height                              160.5 cm
+  1984-11-10 : Hemoglobin A1c/Hemoglobin.total in Blood 9.5 %
+  1984-11-10 : Tobacco smoking status NHIS              Former smoker 
+  1984-11-10 : Estimated Glomerular Filtration Rate     95.0 mL/min/{1.73_m2}
+  1984-11-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  1984-11-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 499.9 fL
+  1984-11-10 : Platelets [#/volume] in Blood by Automated count 357.3 10*3/uL
+  1984-11-10 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  1984-11-10 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  1984-11-10 : MCH [Entitic mass] by Automated count    30.7 pg
+  1984-11-10 : MCV [Entitic volume] by Automated count  93.2 fL
+  1984-11-10 : Hematocrit [Volume Fraction] of Blood by Automated count 38.8 %
+  1984-11-10 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  1984-11-10 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  1984-11-10 : Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+  1984-11-10 : Microalbumin Creatinine Ratio            5.4 mg/g
+  1984-11-10 : High Density Lipoprotein Cholesterol     20.5 mg/dL
+  1984-11-10 : Low Density Lipoprotein Cholesterol      138.6 mg/dL
+  1984-11-10 : Triglycerides                            471.6 mg/dL
+  1984-11-10 : Total Cholesterol                        253.5 mg/dL
+  1984-11-10 : Carbon Dioxide                           21.7 mmol/L
+  1984-11-10 : Chloride                                 109.6 mmol/L
+  1984-11-10 : Potassium                                3.7 mmol/L
+  1984-11-10 : Sodium                                   136.1 mmol/L
+  1984-11-10 : Calcium                                  8.7 mg/dL
+  1984-11-10 : Creatinine                               1.7 mg/dL
+  1984-11-10 : Urea Nitrogen                            8.4 mg/dL
+  1984-11-10 : Glucose                                  181.1 mg/dL
+  1984-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 73.4 mmHg
+           - Systolic Blood Pressure                  125.7 mmHg
+  1984-11-10 : Body Mass Index                          44.1 kg/m2
+  1984-11-10 : Body Weight                              113.7 kg
+  1984-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  1984-11-10 : Body Height                              160.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1994-04-16 : Coronary artery bypass grafting for Myocardial Infarction
+  1994-04-16 : Percutaneous coronary intervention for Myocardial Infarction
+  1993-10-09 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  1991-10-05 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  1989-09-30 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  1988-10-01 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  1988-10-01 : Documentation of current medications
+  1986-11-15 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1993-10-09 : Influenza, seasonal, injectable, preservative free
+  1991-10-05 : Influenza, seasonal, injectable, preservative free
+  1989-09-30 : Influenza, seasonal, injectable, preservative free
+  1988-09-24 : Influenza, seasonal, injectable, preservative free
+  1986-11-15 : Influenza, seasonal, injectable, preservative free
+  1986-05-10 : Influenza, seasonal, injectable, preservative free
+  1984-11-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1994-04-23 : Death Certification
+1994-04-16 : Emergency Encounter
+1993-10-09 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1992-01-06 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+1991-10-05 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1989-09-30 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1989-09-23 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+1988-10-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1988-09-24 (Dr. Phillip440 McDermott739) : Encounter at WALK IN AND PRIMARY CARE
+1988-09-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute bronchitis (disorder)
+1986-11-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1986-05-10 (Dr. Phillip440 McDermott739) : Encounter at WALK IN AND PRIMARY CARE
+1984-11-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1981-06-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1969-05-31 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1966-05-28 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1960-05-07 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1957-02-21 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

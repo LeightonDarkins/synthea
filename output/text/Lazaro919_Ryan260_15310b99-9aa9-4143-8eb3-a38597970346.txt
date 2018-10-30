@@ -1,0 +1,189 @@
+Lazaro919 Ryan260
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 16
+Birth Date:          2002-10-17
+Marital Status:      S
+Outpatient Provider: BEVERLY HOSPITAL CORPORATION
+Primary Care Provider: 85 HERRICK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-12-20[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2011-09-01[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2010-04-19[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-12-20 - 2015-01-01 : Streptococcal sore throat (disorder)
+  2013-03-15 - 2013-03-27 : Acute viral pharyngitis (disorder)
+  2012-02-24 - 2012-03-02 : Viral sinusitis (disorder)
+  2011-09-01 - 2011-09-08 : Acute bronchitis (disorder)
+  2010-04-19 - 2010-04-26 : Streptococcal sore throat (disorder)
+  2009-08-11 - 2009-09-01 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-09-01[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-09-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.0 %
+           - MCV [Entitic volume] by Automated count  90.1 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 178.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 390.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-18 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 73.5 mmHg
+           - Systolic Blood Pressure                  124.9 mmHg
+  2018-10-18 : Body Mass Index                          18.1 kg/m2
+  2018-10-18 : Body Weight                              54.2 kg
+  2018-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2018-10-18 : Body Height                              172.8 cm
+  2017-10-12 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-12 : Blood Pressure
+           - Diastolic Blood Pressure                 70.4 mmHg
+           - Systolic Blood Pressure                  105.7 mmHg
+  2017-10-12 : Body Mass Index                          17.4 kg/m2
+  2017-10-12 : Body Weight                              49.6 kg
+  2017-10-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2017-10-12 : Body Height                              169.1 cm
+  2016-10-06 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-06 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mmHg
+           - Systolic Blood Pressure                  100.9 mmHg
+  2016-10-06 : Body Mass Index                          16.8 kg/m2
+  2016-10-06 : Body Weight                              44.7 kg
+  2016-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2016-10-06 : Body Height                              162.9 cm
+  2015-10-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 88.5 mmHg
+           - Systolic Blood Pressure                  105.9 mmHg
+  2015-10-01 : Body Mass Index                          16.5 kg/m2
+  2015-10-01 : Body Weight                              39.8 kg
+  2015-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2015-10-01 : Body Height                              155.1 cm
+  2014-12-20 : Oral temperature                         37.3 Cel
+  2014-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2014-09-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2014-09-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 390.0 fL
+  2014-09-25 : Platelets [#/volume] in Blood by Automated count 178.8 10*3/uL
+  2014-09-25 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2014-09-25 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2014-09-25 : MCH [Entitic mass] by Automated count    29.4 pg
+  2014-09-25 : MCV [Entitic volume] by Automated count  90.1 fL
+  2014-09-25 : Hematocrit [Volume Fraction] of Blood by Automated count 47.0 %
+  2014-09-25 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2014-09-25 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2014-09-25 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2014-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 84.1 mmHg
+           - Systolic Blood Pressure                  124.6 mmHg
+  2014-09-25 : Body Mass Index                          16.1 kg/m2
+  2014-09-25 : Body Weight                              35.4 kg
+  2014-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2014-09-25 : Body Height                              148.2 cm
+  2013-09-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-19 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mmHg
+           - Systolic Blood Pressure                  130.8 mmHg
+  2013-09-19 : Body Mass Index                          15.4 kg/m2
+  2013-09-19 : Body Weight                              31.3 kg
+  2013-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2013-09-19 : Body Height                              142.3 cm
+  2013-03-15 : Oral temperature                         37.3 Cel
+  2012-09-13 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-13 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  116.7 mmHg
+  2012-09-13 : Body Mass Index                          14.9 kg/m2
+  2012-09-13 : Body Weight                              28.1 kg
+  2012-09-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2012-09-13 : Body Height                              137.5 cm
+  2011-09-08 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-08 : Blood Pressure
+           - Diastolic Blood Pressure                 75.2 mmHg
+           - Systolic Blood Pressure                  131.5 mmHg
+  2011-09-08 : Body Mass Index                          14.5 kg/m2
+  2011-09-08 : Body Weight                              25.3 kg
+  2011-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-09-08 : Body Height                              132.3 cm
+  2010-10-14 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-14 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  131.4 mmHg
+  2010-10-14 : Body Mass Index                          14.3 kg/m2
+  2010-10-14 : Body Weight                              23.1 kg
+  2010-10-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2010-10-14 : Body Height                              127.2 cm
+  2010-04-19 : Oral temperature                         37.3 Cel
+  2009-10-08 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-08 : Blood Pressure
+           - Diastolic Blood Pressure                 85.8 mmHg
+           - Systolic Blood Pressure                  131.9 mmHg
+  2009-10-08 : Body Mass Index                          14.2 kg/m2
+  2009-10-08 : Body Weight                              20.9 kg
+  2009-10-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2009-10-08 : Body Height                              121.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-18 : Documentation of current medications
+  2017-10-12 : Documentation of current medications
+  2015-10-01 : Documentation of current medications
+  2012-09-13 : Documentation of current medications
+  2011-09-08 : Documentation of current medications
+  2010-10-14 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-18 : meningococcal MCV4P
+  2018-10-18 : Influenza, seasonal, injectable, preservative free
+  2017-10-12 : Influenza, seasonal, injectable, preservative free
+  2016-10-06 : HPV, quadrivalent
+  2016-10-06 : Influenza, seasonal, injectable, preservative free
+  2015-10-01 : HPV, quadrivalent
+  2015-10-01 : Influenza, seasonal, injectable, preservative free
+  2014-09-25 : meningococcal MCV4P
+  2014-09-25 : HPV, quadrivalent
+  2014-09-25 : Influenza, seasonal, injectable, preservative free
+  2014-09-25 : Tdap
+  2013-09-19 : Influenza, seasonal, injectable, preservative free
+  2012-09-13 : Influenza, seasonal, injectable, preservative free
+  2011-09-08 : Influenza, seasonal, injectable, preservative free
+  2010-10-14 : Influenza, seasonal, injectable, preservative free
+  2009-10-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-18 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-10-12 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2016-10-06 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2015-10-01 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-12-20 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Streptococcal sore throat (disorder)
+2014-09-25 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2013-09-19 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2013-03-15 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Acute viral pharyngitis (disorder)
+2012-09-13 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2012-02-24 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Viral sinusitis (disorder)
+2011-09-08 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2011-09-01 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Acute bronchitis (disorder)
+2010-10-14 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-04-19 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Streptococcal sore throat (disorder)
+2009-10-08 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2009-08-11 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,296 @@
+Coy949 Boyle917
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 7
+Birth Date:          2011-06-30
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-06-28[CURRENT] : atomoxetine 100 MG Oral Capsule for Child attention deficit disorder
+  2018-03-19[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2017-11-11[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Acute viral pharyngitis (disorder)
+  2016-09-02[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2013-06-19[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2012-09-22[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2012-09-22[STOPPED] : Amoxicillin 250 MG Oral Capsule
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-06-28 -            : Child attention deficit disorder
+  2018-03-19 - 2018-03-26 : Streptococcal sore throat (disorder)
+  2017-11-11 - 2017-11-18 : Acute viral pharyngitis (disorder)
+  2016-09-02 - 2016-09-09 : Acute bronchitis (disorder)
+  2014-09-19 - 2014-10-03 : Viral sinusitis (disorder)
+  2013-06-19 - 2013-07-17 : First degree burn
+  2012-09-22 - 2012-12-06 : Otitis media
+  2011-10-30 - 2011-11-09 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-06-28[CURRENT] : Overactivity/inattention behavior management
+                         Reason: Child attention deficit disorder
+                         Activity: Counseling
+                         Activity: Psychological assessment
+  2016-09-02[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2013-06-19[STOPPED] : Burn care
+                         Reason: First degree burn
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent sun exposure
+                         Activity: Behavior to prevent infection
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-06-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+           - MCV [Entitic volume] by Automated count  87.3 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 253.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 445.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2011-06-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+           - MCV [Entitic volume] by Automated count  85.9 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/volume] in Blood by Automated count 164.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 333.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-06-21 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 72.2 mmHg
+           - Systolic Blood Pressure                  128.7 mmHg
+  2018-06-21 : Body Mass Index                          16.5 kg/m2
+  2018-06-21 : Body Weight                              24.5 kg
+  2018-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2018-06-21 : Body Height                              122.0 cm
+  2018-03-19 : Oral temperature                         38.9 Cel
+  2017-11-11 : Oral temperature                         38.0 Cel
+  2017-06-15 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2017-06-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 445.4 fL
+  2017-06-15 : Platelets [#/volume] in Blood by Automated count 253.4 10*3/uL
+  2017-06-15 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2017-06-15 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2017-06-15 : MCH [Entitic mass] by Automated count    32.0 pg
+  2017-06-15 : MCV [Entitic volume] by Automated count  87.3 fL
+  2017-06-15 : Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+  2017-06-15 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2017-06-15 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2017-06-15 : Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+  2017-06-15 : Blood Pressure
+           - Diastolic Blood Pressure                 74.7 mmHg
+           - Systolic Blood Pressure                  104.5 mmHg
+  2017-06-15 : Body Mass Index                          16.4 kg/m2
+  2017-06-15 : Body Weight                              21.9 kg
+  2017-06-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2017-06-15 : Body Height                              115.6 cm
+  2016-06-09 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  112.0 mmHg
+  2016-06-09 : Body Mass Index                          16.3 kg/m2
+  2016-06-09 : Body Weight                              19.4 kg
+  2016-06-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2016-06-09 : Body Height                              109.0 cm
+  2015-06-04 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 88.1 mmHg
+           - Systolic Blood Pressure                  112.1 mmHg
+  2015-06-04 : Body Mass Index                          16.3 kg/m2
+  2015-06-04 : Body Weight                              16.8 kg
+  2015-06-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2015-06-04 : Body Height                              101.7 cm
+  2014-12-04 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-04 : Blood Pressure
+           - Diastolic Blood Pressure                 86.9 mmHg
+           - Systolic Blood Pressure                  108.9 mmHg
+  2014-12-04 : Body Mass Index                          16.4 kg/m2
+  2014-12-04 : Body Weight                              15.8 kg
+  2014-12-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2014-12-04 : Body Height                              98.1 cm
+  2014-06-05 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-05 : Blood Pressure
+           - Diastolic Blood Pressure                 78.7 mmHg
+           - Systolic Blood Pressure                  109.1 mmHg
+  2014-06-05 : Body Mass Index                          16.7 kg/m2
+  2014-06-05 : Body Weight                              14.8 kg
+  2014-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-06-05 : Body Height                              94.3 cm
+  2013-12-05 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-05 : Blood Pressure
+           - Diastolic Blood Pressure                 71.1 mmHg
+           - Systolic Blood Pressure                  135.3 mmHg
+  2013-12-05 : Body Mass Index                          17.1 kg/m2
+  2013-12-05 : Body Weight                              13.9 kg
+  2013-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2013-12-05 : Body Height                              90.2 cm
+  2013-06-06 : Tobacco smoking status NHIS              Never smoker 
+  2013-06-06 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mmHg
+           - Systolic Blood Pressure                  102.9 mmHg
+  2013-06-06 : Body Weight                              13.2 kg
+  2013-06-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2013-06-06 : Body Height                              87.1 cm
+  2012-12-06 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-06 : Blood Pressure
+           - Diastolic Blood Pressure                 84.8 mmHg
+           - Systolic Blood Pressure                  126.6 mmHg
+  2012-12-06 : Body Weight                              12.0 kg
+  2012-12-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2012-12-06 : Body Height                              80.7 cm
+  2012-09-06 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.6 mmHg
+           - Systolic Blood Pressure                  112.4 mmHg
+  2012-09-06 : Body Weight                              11.5 kg
+  2012-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2012-09-06 : Body Height                              78.6 cm
+  2012-06-07 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-07 : Blood Pressure
+           - Diastolic Blood Pressure                 79.6 mmHg
+           - Systolic Blood Pressure                  135.5 mmHg
+  2012-06-07 : Body Weight                              10.7 kg
+  2012-06-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2012-06-07 : Body Height                              75.2 cm
+  2012-03-08 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-08 : Blood Pressure
+           - Diastolic Blood Pressure                 74.5 mmHg
+           - Systolic Blood Pressure                  107.4 mmHg
+  2012-03-08 : Body Weight                              9.5 kg
+  2012-03-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2012-03-08 : Body Height                              71.2 cm
+  2011-12-08 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-08 : Blood Pressure
+           - Diastolic Blood Pressure                 76.1 mmHg
+           - Systolic Blood Pressure                  117.9 mmHg
+  2011-12-08 : Body Weight                              8.0 kg
+  2011-12-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2011-12-08 : Body Height                              66.3 cm
+  2011-10-30 : Oral temperature                         37.8 Cel
+  2011-10-06 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-06 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  105.4 mmHg
+  2011-10-06 : Body Weight                              6.0 kg
+  2011-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2011-10-06 : Body Height                              59.8 cm
+  2011-08-04 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-04 : Blood Pressure
+           - Diastolic Blood Pressure                 80.1 mmHg
+           - Systolic Blood Pressure                  139.0 mmHg
+  2011-08-04 : Body Weight                              4.3 kg
+  2011-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2011-08-04 : Body Height                              52.9 cm
+  2011-06-30 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2011-06-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 333.3 fL
+  2011-06-30 : Platelets [#/volume] in Blood by Automated count 164.1 10*3/uL
+  2011-06-30 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2011-06-30 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2011-06-30 : MCH [Entitic mass] by Automated count    31.9 pg
+  2011-06-30 : MCV [Entitic volume] by Automated count  85.9 fL
+  2011-06-30 : Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+  2011-06-30 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2011-06-30 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2011-06-30 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2011-06-30 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2011-06-30 : Body Weight                              4.3 kg
+  2011-06-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2011-06-30 : Body Height                              52.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-09-02 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2014-12-04 : Documentation of current medications
+  2014-06-05 : Documentation of current medications
+  2013-12-05 : Documentation of current medications
+  2013-06-06 : Documentation of current medications
+  2012-09-06 : Documentation of current medications
+  2012-06-07 : Documentation of current medications
+  2012-03-08 : Documentation of current medications
+  2011-12-08 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-06-21 : Influenza, seasonal, injectable, preservative free
+  2017-06-15 : Influenza, seasonal, injectable, preservative free
+  2016-06-09 : MMR
+  2016-06-09 : DTaP
+  2016-06-09 : Influenza, seasonal, injectable, preservative free
+  2016-06-09 : IPV
+  2016-06-09 : varicella
+  2015-06-04 : Influenza, seasonal, injectable, preservative free
+  2014-06-05 : Influenza, seasonal, injectable, preservative free
+  2013-12-05 : Hep A, ped/adol, 2 dose
+  2013-06-06 : Influenza, seasonal, injectable, preservative free
+  2012-12-06 : DTaP
+  2012-09-06 : Hep A, ped/adol, 2 dose
+  2012-09-06 : Pneumococcal conjugate PCV 13
+  2012-09-06 : MMR
+  2012-09-06 : varicella
+  2012-09-06 : Hib (PRP-OMP)
+  2012-03-08 : Hep B, adolescent or pediatric
+  2012-03-08 : Pneumococcal conjugate PCV 13
+  2012-03-08 : DTaP
+  2012-03-08 : Influenza, seasonal, injectable, preservative free
+  2012-03-08 : IPV
+  2011-12-08 : Pneumococcal conjugate PCV 13
+  2011-12-08 : DTaP
+  2011-12-08 : IPV
+  2011-12-08 : rotavirus, monovalent
+  2011-12-08 : Hib (PRP-OMP)
+  2011-10-06 : Pneumococcal conjugate PCV 13
+  2011-10-06 : DTaP
+  2011-10-06 : IPV
+  2011-10-06 : rotavirus, monovalent
+  2011-10-06 : Hib (PRP-OMP)
+  2011-08-04 : Hep B, adolescent or pediatric
+  2011-06-30 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-06-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Child attention deficit disorder
+2018-06-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-03-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2017-11-11 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2017-06-15 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-09-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2016-06-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-06-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-12-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-09-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-06-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-12-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-07-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for First degree burn
+2013-06-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-06-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-12-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-09-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Otitis media
+2012-09-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-06-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-03-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-12-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-10-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2011-10-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-08-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-06-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

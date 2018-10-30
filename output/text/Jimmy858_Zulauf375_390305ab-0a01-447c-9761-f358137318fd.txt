@@ -1,0 +1,391 @@
+Jimmy858 Zulauf375
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 18
+Birth Date:          2000-05-23
+Marital Status:      S
+Outpatient Provider: WINCHESTER HOSPITAL
+Primary Care Provider: 41 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2001-05-03 - 2018-01-19 : Allergy to wheat
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-05-29[CURRENT] : Hydrochlorothiazide 6.25 MG for Hypertension
+  2017-09-12[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2014-01-10[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2013-07-08[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2001-05-03[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2001-05-03[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-05-29 -            : Hypertension
+  2018-05-22 - 2018-06-05 : Viral sinusitis (disorder)
+  2017-09-12 - 2017-10-03 : Sprain of ankle
+  2014-01-10 - 2014-01-31 : Laceration of thigh
+  2013-07-08 - 2013-07-22 : Acute bronchitis (disorder)
+  2011-06-10 -            : Chronic sinusitis (disorder)
+  2011-05-13 - 2011-07-22 : Acute bacterial sinusitis (disorder)
+  2010-05-05 - 2010-05-17 : Acute viral pharyngitis (disorder)
+  2009-06-30 - 2009-07-14 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-09-12[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2014-01-10[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2013-07-08[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2013-05-28[STOPPED] : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy drugs Band 1
+  2001-04-18[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-07-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+           - MCV [Entitic volume] by Automated count  81.5 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 260.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 253.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2011-06-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+           - MCV [Entitic volume] by Automated count  81.0 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 200.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 396.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-29 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 84.2 mmHg
+           - Systolic Blood Pressure                  125.0 mmHg
+  2018-05-29 : Body Mass Index                          26.2 kg/m2
+  2018-05-29 : Body Weight                              72.8 kg
+  2018-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2018-05-29 : Body Height                              166.8 cm
+  2017-07-25 : Tobacco smoking status NHIS              Never smoker 
+  2017-07-25 : Blood Pressure
+           - Diastolic Blood Pressure                 83.8 mmHg
+           - Systolic Blood Pressure                  118.6 mmHg
+  2017-07-25 : Body Mass Index                          25.6 kg/m2
+  2017-07-25 : Body Weight                              70.5 kg
+  2017-07-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-07-25 : Body Height                              165.9 cm
+  2016-11-29 : Latex IgE Ab in Serum                    0.3 kU/L
+  2016-11-29 : Honey bee IgE Ab in Serum                0.3 kU/L
+  2016-11-29 : Cladosporium herbarum IgE Ab in Serum    0.2 kU/L
+  2016-11-29 : American house dust mite IgE Ab in Serum 0.0 kU/L
+  2016-11-29 : Cat dander IgE Ab in Serum               0.3 kU/L
+  2016-11-29 : Common Ragweed IgE Ab in Serum           0.1 kU/L
+  2016-11-29 : White oak IgE Ab in Serum                0.1 kU/L
+  2016-11-29 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2016-11-29 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2016-11-29 : Egg white IgE Ab in Serum                0.1 kU/L
+  2016-11-29 : Wheat IgE Ab in Serum                    10.1 kU/L
+  2016-11-29 : Shrimp IgE Ab in Serum                   0.2 kU/L
+  2016-11-29 : Codfish IgE Ab in Serum                  0.0 kU/L
+  2016-11-29 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2016-11-29 : Peanut IgE Ab in Serum                   0.3 kU/L
+  2016-07-19 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2016-07-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 253.1 fL
+  2016-07-19 : Platelets [#/volume] in Blood by Automated count 260.0 10*3/uL
+  2016-07-19 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2016-07-19 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2016-07-19 : MCH [Entitic mass] by Automated count    31.3 pg
+  2016-07-19 : MCV [Entitic volume] by Automated count  81.5 fL
+  2016-07-19 : Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+  2016-07-19 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2016-07-19 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2016-07-19 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2016-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 77.1 mmHg
+           - Systolic Blood Pressure                  112.7 mmHg
+  2016-07-19 : Body Mass Index                          24.9 kg/m2
+  2016-07-19 : Body Weight                              66.9 kg
+  2016-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2016-07-19 : Body Height                              163.9 cm
+  2015-07-14 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.7 mmHg
+           - Systolic Blood Pressure                  131.2 mmHg
+  2015-07-14 : Body Mass Index                          24.3 kg/m2
+  2015-07-14 : Body Weight                              62.2 kg
+  2015-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2015-07-14 : Body Height                              160.1 cm
+  2014-07-08 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-08 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mmHg
+           - Systolic Blood Pressure                  124.2 mmHg
+  2014-07-08 : Body Mass Index                          23.9 kg/m2
+  2014-07-08 : Body Weight                              56.8 kg
+  2014-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2014-07-08 : Body Height                              154.1 cm
+  2013-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 76.3 mmHg
+           - Systolic Blood Pressure                  131.7 mmHg
+  2013-07-02 : Body Mass Index                          23.6 kg/m2
+  2013-07-02 : Body Weight                              51.0 kg
+  2013-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2013-07-02 : Body Height                              146.9 cm
+  2013-05-28 : Latex IgE Ab in Serum                    0.1 kU/L
+  2013-05-28 : Honey bee IgE Ab in Serum                0.3 kU/L
+  2013-05-28 : Cladosporium herbarum IgE Ab in Serum    0.2 kU/L
+  2013-05-28 : American house dust mite IgE Ab in Serum 0.1 kU/L
+  2013-05-28 : Cat dander IgE Ab in Serum               0.1 kU/L
+  2013-05-28 : Common Ragweed IgE Ab in Serum           0.3 kU/L
+  2013-05-28 : White oak IgE Ab in Serum                0.1 kU/L
+  2013-05-28 : Cow milk IgE Ab in Serum                 0.2 kU/L
+  2013-05-28 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2013-05-28 : Egg white IgE Ab in Serum                0.2 kU/L
+  2013-05-28 : Wheat IgE Ab in Serum                    20.7 kU/L
+  2013-05-28 : Shrimp IgE Ab in Serum                   0.1 kU/L
+  2013-05-28 : Codfish IgE Ab in Serum                  0.1 kU/L
+  2013-05-28 : Walnut IgE Ab in Serum                   0.3 kU/L
+  2013-05-28 : Peanut IgE Ab in Serum                   0.0 kU/L
+  2012-06-26 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  134.5 mmHg
+  2012-06-26 : Body Mass Index                          22.9 kg/m2
+  2012-06-26 : Body Weight                              44.9 kg
+  2012-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2012-06-26 : Body Height                              139.9 cm
+  2011-06-21 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2011-06-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 396.8 fL
+  2011-06-21 : Platelets [#/volume] in Blood by Automated count 200.2 10*3/uL
+  2011-06-21 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2011-06-21 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2011-06-21 : MCH [Entitic mass] by Automated count    27.6 pg
+  2011-06-21 : MCV [Entitic volume] by Automated count  81.0 fL
+  2011-06-21 : Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+  2011-06-21 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2011-06-21 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2011-06-21 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2011-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 77.7 mmHg
+           - Systolic Blood Pressure                  120.5 mmHg
+  2011-06-21 : Body Mass Index                          21.8 kg/m2
+  2011-06-21 : Body Weight                              39.7 kg
+  2011-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2011-06-21 : Body Height                              134.8 cm
+  2010-08-24 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-24 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  103.4 mmHg
+  2010-08-24 : Body Mass Index                          20.8 kg/m2
+  2010-08-24 : Body Weight                              35.8 kg
+  2010-08-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-08-24 : Body Height                              131.2 cm
+  2010-05-05 : Oral temperature                         37.2 Cel
+  2009-08-18 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-18 : Blood Pressure
+           - Diastolic Blood Pressure                 72.8 mmHg
+           - Systolic Blood Pressure                  118.6 mmHg
+  2009-08-18 : Body Mass Index                          19.8 kg/m2
+  2009-08-18 : Body Weight                              31.8 kg
+  2009-08-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2009-08-18 : Body Height                              126.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-11-29 : Allergy screening test
+  2016-11-08 : Subcutaneous immunotherapy
+  2016-10-18 : Subcutaneous immunotherapy
+  2016-09-27 : Subcutaneous immunotherapy
+  2016-09-06 : Subcutaneous immunotherapy
+  2016-08-16 : Subcutaneous immunotherapy
+  2016-07-26 : Subcutaneous immunotherapy
+  2016-07-05 : Subcutaneous immunotherapy
+  2016-06-14 : Subcutaneous immunotherapy
+  2016-05-24 : Subcutaneous immunotherapy
+  2016-05-03 : Subcutaneous immunotherapy
+  2016-04-12 : Subcutaneous immunotherapy
+  2016-03-22 : Subcutaneous immunotherapy
+  2016-03-01 : Subcutaneous immunotherapy
+  2016-02-09 : Subcutaneous immunotherapy
+  2016-01-19 : Subcutaneous immunotherapy
+  2015-12-29 : Subcutaneous immunotherapy
+  2015-12-08 : Subcutaneous immunotherapy
+  2015-11-17 : Subcutaneous immunotherapy
+  2015-10-27 : Subcutaneous immunotherapy
+  2015-10-06 : Subcutaneous immunotherapy
+  2015-09-15 : Subcutaneous immunotherapy
+  2015-08-25 : Subcutaneous immunotherapy
+  2015-08-04 : Subcutaneous immunotherapy
+  2015-07-14 : Subcutaneous immunotherapy
+  2015-07-14 : Documentation of current medications
+  2015-06-23 : Subcutaneous immunotherapy
+  2015-06-02 : Subcutaneous immunotherapy
+  2015-05-12 : Subcutaneous immunotherapy
+  2015-04-21 : Subcutaneous immunotherapy
+  2015-03-31 : Subcutaneous immunotherapy
+  2015-03-10 : Subcutaneous immunotherapy
+  2015-02-17 : Subcutaneous immunotherapy
+  2015-01-27 : Subcutaneous immunotherapy
+  2015-01-06 : Subcutaneous immunotherapy
+  2014-12-16 : Subcutaneous immunotherapy
+  2014-11-25 : Subcutaneous immunotherapy
+  2014-11-04 : Subcutaneous immunotherapy
+  2014-10-14 : Subcutaneous immunotherapy
+  2014-09-23 : Subcutaneous immunotherapy
+  2014-09-02 : Subcutaneous immunotherapy
+  2014-08-12 : Subcutaneous immunotherapy
+  2014-07-22 : Subcutaneous immunotherapy
+  2014-07-08 : Documentation of current medications
+  2014-07-01 : Subcutaneous immunotherapy
+  2014-06-10 : Subcutaneous immunotherapy
+  2014-05-20 : Subcutaneous immunotherapy
+  2014-04-29 : Subcutaneous immunotherapy
+  2014-04-08 : Subcutaneous immunotherapy
+  2014-03-18 : Subcutaneous immunotherapy
+  2014-02-25 : Subcutaneous immunotherapy
+  2014-02-04 : Subcutaneous immunotherapy
+  2014-01-14 : Subcutaneous immunotherapy
+  2014-01-10 : Suture open wound for Laceration of thigh
+  2013-12-24 : Subcutaneous immunotherapy
+  2013-12-03 : Subcutaneous immunotherapy
+  2013-11-12 : Subcutaneous immunotherapy
+  2013-10-22 : Subcutaneous immunotherapy
+  2013-10-01 : Subcutaneous immunotherapy
+  2013-09-10 : Subcutaneous immunotherapy
+  2013-08-20 : Subcutaneous immunotherapy
+  2013-07-30 : Subcutaneous immunotherapy
+  2013-07-08 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2013-07-09 : Subcutaneous immunotherapy
+  2013-07-02 : Documentation of current medications
+  2013-06-18 : Subcutaneous immunotherapy
+  2013-05-28 : Allergy screening test
+  2012-06-26 : Documentation of current medications
+  2010-08-24 : Documentation of current medications
+  2010-05-05 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2009-08-18 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-29 : Influenza, seasonal, injectable, preservative free
+  2017-07-25 : Influenza, seasonal, injectable, preservative free
+  2016-07-19 : meningococcal MCV4P
+  2016-07-19 : Influenza, seasonal, injectable, preservative free
+  2015-07-14 : Influenza, seasonal, injectable, preservative free
+  2014-07-08 : Influenza, seasonal, injectable, preservative free
+  2013-07-02 : HPV, quadrivalent
+  2013-07-02 : Influenza, seasonal, injectable, preservative free
+  2012-06-26 : HPV, quadrivalent
+  2012-06-26 : Influenza, seasonal, injectable, preservative free
+  2011-06-21 : meningococcal MCV4P
+  2011-06-21 : HPV, quadrivalent
+  2011-06-21 : Influenza, seasonal, injectable, preservative free
+  2011-06-21 : Tdap
+  2010-08-24 : Influenza, seasonal, injectable, preservative free
+  2009-08-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-29 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2018-05-22 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Viral sinusitis (disorder)
+2017-09-12 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2017-07-25 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-11-29 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-11-08 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-10-18 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-09-27 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-09-06 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-08-16 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-07-26 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-07-19 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-07-05 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-06-14 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-05-24 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-05-03 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-04-12 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-03-22 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-03-01 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-02-09 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-01-19 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-12-29 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-12-08 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-11-17 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-10-27 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-10-06 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-09-15 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-08-25 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-08-04 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-07-14 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-07-14 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-06-23 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-06-02 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-05-12 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-04-21 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-03-31 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-03-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-02-17 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-01-27 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2015-01-06 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-12-16 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-11-25 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-11-04 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-10-14 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-09-23 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-09-02 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-08-12 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-07-22 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-07-08 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-07-01 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-06-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-05-20 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-04-29 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-04-08 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-03-18 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-02-25 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-02-04 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-01-14 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-01-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-12-24 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-12-03 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-11-12 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-10-22 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-10-01 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-09-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-08-20 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-07-30 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-07-08 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Acute bronchitis (disorder)
+2013-07-09 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-07-02 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-06-18 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2013-05-28 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2012-06-26 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2011-06-21 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2011-06-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2011-05-13 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2010-08-24 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2010-05-05 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2009-08-18 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2009-06-30 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Viral sinusitis (disorder)
+2001-05-03 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2001-04-18 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

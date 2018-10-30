@@ -1,0 +1,74 @@
+Tera136 Shields502
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 0
+Birth Date:          2018-08-20
+Marital Status:      S
+Outpatient Provider: MERCY MEDICAL CTR
+Primary Care Provider: 271 CAREW STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+           - MCV [Entitic volume] by Automated count  81.8 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+           - Platelets [#/volume] in Blood by Automated count 176.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 494.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-24 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-24 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  101.9 mmHg
+  2018-09-24 : Body Weight                              4.2 kg
+  2018-09-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2018-09-24 : Body Height                              54.9 cm
+  2018-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2018-08-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 494.3 fL
+  2018-08-20 : Platelets [#/volume] in Blood by Automated count 176.9 10*3/uL
+  2018-08-20 : Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+  2018-08-20 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2018-08-20 : MCH [Entitic mass] by Automated count    28.7 pg
+  2018-08-20 : MCV [Entitic volume] by Automated count  81.8 fL
+  2018-08-20 : Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+  2018-08-20 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2018-08-20 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2018-08-20 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  2018-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2018-08-20 : Body Weight                              4.2 kg
+  2018-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2018-08-20 : Body Height                              54.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-20 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-24 : Hep B, adolescent or pediatric
+  2018-08-20 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-24 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2018-08-20 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

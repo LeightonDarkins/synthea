@@ -1,0 +1,262 @@
+Arnulfo253 Mills423
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 64
+Birth Date:          1954-05-31
+Marital Status:      M
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-08-10[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2012-06-28[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1988-05-22[STOPPED] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of hip
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-12-19 - 2016-12-30 : Acute viral pharyngitis (disorder)
+  2015-08-05 - 2015-09-04 : Fracture of forearm
+  2014-08-10 - 2014-10-09 : Fracture of rib
+  2014-02-21 - 2014-03-14 : Viral sinusitis (disorder)
+  2012-06-28 - 2012-07-05 : Acute bronchitis (disorder)
+  2001-05-21 -            : History of appendectomy
+  2001-05-21 -            : Appendicitis
+  2001-03-12 -            : Body mass index 40+ - severely obese (finding)
+  1988-05-22 -            : Osteoarthritis of hip
+  1980-06-02 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-08-05[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2014-08-10[STOPPED] : Fracture care
+                         Reason: Fracture of rib
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2012-06-28[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-08-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.2 %
+           - MCV [Entitic volume] by Automated count  87.0 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 223.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 470.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2016-08-08 : Lipid Panel
+           - Total Cholesterol                        192.2 mg/dL
+           - Triglycerides                            114.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      95.6 mg/dL
+           - High Density Lipoprotein Cholesterol     73.7 mg/dL
+  2013-07-22 : Lipid Panel
+           - Total Cholesterol                        173.4 mg/dL
+           - Triglycerides                            141.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.4 mg/dL
+           - High Density Lipoprotein Cholesterol     67.7 mg/dL
+  2011-07-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.2 %
+           - MCV [Entitic volume] by Automated count  85.7 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+           - Platelets [#/volume] in Blood by Automated count 405.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 252.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2010-07-05 : Lipid Panel
+           - Total Cholesterol                        171.4 mg/dL
+           - Triglycerides                            101.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.0 mg/dL
+           - High Density Lipoprotein Cholesterol     65.1 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 86.8 mmHg
+           - Systolic Blood Pressure                  102.3 mmHg
+  2018-08-20 : Body Mass Index                          39.4 kg/m2
+  2018-08-20 : Body Weight                              116.0 kg
+  2018-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2018-08-20 : Body Height                              171.7 cm
+  2017-08-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 85.5 mmHg
+           - Systolic Blood Pressure                  138.4 mmHg
+  2017-08-14 : Body Mass Index                          39.7 kg/m2
+  2017-08-14 : Body Weight                              117.1 kg
+  2017-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2017-08-14 : Body Height                              171.7 cm
+  2016-12-19 : Oral temperature                         37.0 Cel
+  2016-08-08 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2016-08-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 470.9 fL
+  2016-08-08 : Platelets [#/volume] in Blood by Automated count 223.2 10*3/uL
+  2016-08-08 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2016-08-08 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2016-08-08 : MCH [Entitic mass] by Automated count    28.8 pg
+  2016-08-08 : MCV [Entitic volume] by Automated count  87.0 fL
+  2016-08-08 : Hematocrit [Volume Fraction] of Blood by Automated count 46.2 %
+  2016-08-08 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2016-08-08 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2016-08-08 : Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+  2016-08-08 : High Density Lipoprotein Cholesterol     73.7 mg/dL
+  2016-08-08 : Low Density Lipoprotein Cholesterol      95.6 mg/dL
+  2016-08-08 : Triglycerides                            114.9 mg/dL
+  2016-08-08 : Total Cholesterol                        192.2 mg/dL
+  2016-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 83.2 mmHg
+           - Systolic Blood Pressure                  112.7 mmHg
+  2016-08-08 : Body Mass Index                          40.3 kg/m2
+  2016-08-08 : Body Weight                              118.8 kg
+  2016-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2016-08-08 : Body Height                              171.7 cm
+  2015-08-05 : DXA [T-score] Bone density               0.5 {T-score}
+  2015-08-03 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 80.4 mmHg
+           - Systolic Blood Pressure                  107.6 mmHg
+  2015-08-03 : Body Mass Index                          40.8 kg/m2
+  2015-08-03 : Body Weight                              120.3 kg
+  2015-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2015-08-03 : Body Height                              171.7 cm
+  2014-08-10 : DXA [T-score] Bone density               0.4 {T-score}
+  2014-07-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 79.2 mmHg
+           - Systolic Blood Pressure                  101.2 mmHg
+  2014-07-28 : Body Mass Index                          41.5 kg/m2
+  2014-07-28 : Body Weight                              122.2 kg
+  2014-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2014-07-28 : Body Height                              171.7 cm
+  2013-07-22 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-22 : High Density Lipoprotein Cholesterol     67.7 mg/dL
+  2013-07-22 : Low Density Lipoprotein Cholesterol      77.4 mg/dL
+  2013-07-22 : Triglycerides                            141.7 mg/dL
+  2013-07-22 : Total Cholesterol                        173.4 mg/dL
+  2013-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  120.4 mmHg
+  2013-07-22 : Body Mass Index                          42.0 kg/m2
+  2013-07-22 : Body Weight                              123.8 kg
+  2013-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-07-22 : Body Height                              171.7 cm
+  2012-07-16 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 76.9 mmHg
+           - Systolic Blood Pressure                  133.6 mmHg
+  2012-07-16 : Body Mass Index                          42.0 kg/m2
+  2012-07-16 : Body Weight                              123.8 kg
+  2012-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-07-16 : Body Height                              171.7 cm
+  2011-07-11 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2011-07-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 252.1 fL
+  2011-07-11 : Platelets [#/volume] in Blood by Automated count 405.7 10*3/uL
+  2011-07-11 : Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+  2011-07-11 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2011-07-11 : MCH [Entitic mass] by Automated count    28.4 pg
+  2011-07-11 : MCV [Entitic volume] by Automated count  85.7 fL
+  2011-07-11 : Hematocrit [Volume Fraction] of Blood by Automated count 39.2 %
+  2011-07-11 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2011-07-11 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2011-07-11 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2011-07-11 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  117.0 mmHg
+  2011-07-11 : Body Mass Index                          42.0 kg/m2
+  2011-07-11 : Body Weight                              123.8 kg
+  2011-07-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2011-07-11 : Body Height                              171.7 cm
+  2010-07-05 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-05 : High Density Lipoprotein Cholesterol     65.1 mg/dL
+  2010-07-05 : Low Density Lipoprotein Cholesterol      86.0 mg/dL
+  2010-07-05 : Triglycerides                            101.7 mg/dL
+  2010-07-05 : Total Cholesterol                        171.4 mg/dL
+  2010-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  110.4 mmHg
+  2010-07-05 : Body Mass Index                          42.0 kg/m2
+  2010-07-05 : Body Weight                              123.8 kg
+  2010-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2010-07-05 : Body Height                              171.7 cm
+  2009-06-29 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-29 : Blood Pressure
+           - Diastolic Blood Pressure                 71.4 mmHg
+           - Systolic Blood Pressure                  102.4 mmHg
+  2009-06-29 : Body Mass Index                          42.0 kg/m2
+  2009-06-29 : Body Weight                              123.8 kg
+  2009-06-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2009-06-29 : Body Height                              171.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-20 : Documentation of current medications
+  2017-08-14 : Documentation of current medications
+  2015-08-05 : Bone density scan (procedure) for Fracture of forearm
+  2015-08-05 : Bone immobilization for Fracture of forearm
+  2015-08-05 : Upper arm X-ray
+  2014-08-10 : Bone density scan (procedure) for Fracture of rib
+  2014-08-10 : Bone immobilization for Fracture of rib
+  2014-08-10 : Chest X-ray
+  2013-07-22 : Documentation of current medications
+  2012-07-16 : Documentation of current medications
+  2012-06-28 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2010-07-05 : Documentation of current medications
+  2009-06-29 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-20 : Influenza, seasonal, injectable, preservative free
+  2017-08-14 : Influenza, seasonal, injectable, preservative free
+  2016-08-08 : Influenza, seasonal, injectable, preservative free
+  2015-08-03 : Td (adult) preservative free
+  2015-08-03 : Influenza, seasonal, injectable, preservative free
+  2014-07-28 : Influenza, seasonal, injectable, preservative free
+  2013-07-22 : Influenza, seasonal, injectable, preservative free
+  2012-07-09 : Influenza, seasonal, injectable, preservative free
+  2011-07-11 : Influenza, seasonal, injectable, preservative free
+  2010-07-05 : Influenza, seasonal, injectable, preservative free
+  2009-06-29 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-20 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-08-14 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2016-12-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute viral pharyngitis (disorder)
+2016-08-08 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2015-09-04 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Fracture of forearm
+2015-08-05 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+2015-08-03 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2014-10-09 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Fracture of rib
+2014-08-10 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+2014-07-28 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2014-02-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+2013-07-22 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-07-16 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-07-09 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+2012-06-28 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute bronchitis (disorder)
+2011-07-11 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2010-07-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-06-29 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2001-05-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Appendicitis
+2001-05-21 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL - : Encounter for Appendicitis
+2001-03-12 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1988-05-22 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Osteoarthritis of hip
+1980-06-02 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2015-08-05 : Digital Radiography, Arm
+  2014-08-10 : Digital Radiography, Chest
+--------------------------------------------------------------------------------

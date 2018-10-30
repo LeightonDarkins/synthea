@@ -1,0 +1,318 @@
+Damien170 Purdy2
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 64
+Birth Date:          1954-06-05
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2012-07-05[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2011-06-29[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Cystitis
+  2011-06-29[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Cystitis
+  1972-07-29[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-09-07 - 2015-09-19 : Acute viral pharyngitis (disorder)
+  2012-07-05 - 2012-08-09 : Whiplash injury to neck
+  2011-06-05 - 2011-07-06 : Cystitis
+  2009-06-13 - 2010-09-06 : Primary malignant neoplasm of colon
+  2009-06-04 -            : Polyp of colon
+  2005-03-24 -            : Drug overdose
+  1992-11-07 -            : Body mass index 30+ - obesity (finding)
+  1992-11-04 -            : Impacted molars
+  1990-05-13 -            : Chronic intractable migraine without aura
+  1990-02-05 -            : Chronic pain
+  1983-11-23 -            : Chronic sinusitis (disorder)
+  1972-07-29 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-07-05[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+  2011-06-29[STOPPED] : Urinary tract infection care
+                         Reason: Cystitis
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2009-06-13[STOPPED] : Cancer care plan
+                         Reason: Primary malignant neoplasm of colon
+                         Activity: Healthy diet
+                         Activity: Colonoscopy planned
+                         Activity: Cancer education
+  2005-03-24[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+           - Platelets [#/volume] in Blood by Automated count 414.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 474.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2016-09-24 : Lipid Panel
+           - Total Cholesterol                        186.3 mg/dL
+           - Triglycerides                            123.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.5 mg/dL
+           - High Density Lipoprotein Cholesterol     62.0 mg/dL
+  2013-07-27 : Lipid Panel
+           - Total Cholesterol                        183.8 mg/dL
+           - Triglycerides                            126.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.6 mg/dL
+           - High Density Lipoprotein Cholesterol     60.9 mg/dL
+  2011-07-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.2 %
+           - MCV [Entitic volume] by Automated count  93.9 fL
+           - MCH [Entitic mass] by Automated count    29.1 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 447.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 178.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2010-07-10 : Lipid Panel
+           - Total Cholesterol                        160.9 mg/dL
+           - Triglycerides                            135.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.1 mg/dL
+           - High Density Lipoprotein Cholesterol     65.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-06 : Tobacco smoking status NHIS              Former smoker 
+  2018-10-06 : Estimated Glomerular Filtration Rate     126.0 mL/min/{1.73_m2}
+  2018-10-06 : Blood Pressure
+           - Diastolic Blood Pressure                 92.8 mmHg
+           - Systolic Blood Pressure                  159.9 mmHg
+  2018-10-06 : Body Mass Index                          34.8 kg/m2
+  2018-10-06 : Body Weight                              97.7 kg
+  2018-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-10-06 : Body Height                              167.6 cm
+  2018-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.8 {score}
+  2017-09-30 : Tobacco smoking status NHIS              Former smoker 
+  2017-09-30 : Estimated Glomerular Filtration Rate     154.4 mL/min/{1.73_m2}
+  2017-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 103.9 mmHg
+           - Systolic Blood Pressure                  162.5 mmHg
+  2017-09-30 : Body Mass Index                          35.3 kg/m2
+  2017-09-30 : Body Weight                              99.1 kg
+  2017-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-09-30 : Body Height                              167.6 cm
+  2016-09-24 : Tobacco smoking status NHIS              Former smoker 
+  2016-09-24 : Estimated Glomerular Filtration Rate     113.7 mL/min/{1.73_m2}
+  2016-09-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2016-09-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 474.5 fL
+  2016-09-24 : Platelets [#/volume] in Blood by Automated count 414.9 10*3/uL
+  2016-09-24 : Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+  2016-09-24 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2016-09-24 : MCH [Entitic mass] by Automated count    32.2 pg
+  2016-09-24 : MCV [Entitic volume] by Automated count  90.7 fL
+  2016-09-24 : Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+  2016-09-24 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2016-09-24 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2016-09-24 : Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+  2016-09-24 : High Density Lipoprotein Cholesterol     62.0 mg/dL
+  2016-09-24 : Low Density Lipoprotein Cholesterol      99.5 mg/dL
+  2016-09-24 : Triglycerides                            123.6 mg/dL
+  2016-09-24 : Total Cholesterol                        186.3 mg/dL
+  2016-09-24 : Blood Pressure
+           - Diastolic Blood Pressure                 93.9 mmHg
+           - Systolic Blood Pressure                  171.3 mmHg
+  2016-09-24 : Body Mass Index                          35.9 kg/m2
+  2016-09-24 : Body Weight                              100.8 kg
+  2016-09-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2016-09-24 : Body Height                              167.6 cm
+  2015-09-19 : Tobacco smoking status NHIS              Former smoker 
+  2015-09-19 : Estimated Glomerular Filtration Rate     136.4 mL/min/{1.73_m2}
+  2015-09-19 : Blood Pressure
+           - Diastolic Blood Pressure                 91.8 mmHg
+           - Systolic Blood Pressure                  181.3 mmHg
+  2015-09-19 : Body Mass Index                          36.3 kg/m2
+  2015-09-19 : Body Weight                              102.0 kg
+  2015-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2015-09-19 : Body Height                              167.6 cm
+  2015-09-07 : Oral temperature                         37.8 Cel
+  2015-08-08 : Tobacco smoking status NHIS              Former smoker 
+  2015-08-08 : Estimated Glomerular Filtration Rate     151.4 mL/min/{1.73_m2}
+  2015-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 115.2 mmHg
+           - Systolic Blood Pressure                  164.1 mmHg
+  2015-08-08 : Body Mass Index                          36.3 kg/m2
+  2015-08-08 : Body Weight                              102.0 kg
+  2015-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2015-08-08 : Body Height                              167.6 cm
+  2014-08-02 : Tobacco smoking status NHIS              Former smoker 
+  2014-08-02 : Estimated Glomerular Filtration Rate     138.7 mL/min/{1.73_m2}
+  2014-08-02 : Blood Pressure
+           - Diastolic Blood Pressure                 110.1 mmHg
+           - Systolic Blood Pressure                  196.4 mmHg
+  2014-08-02 : Body Mass Index                          36.8 kg/m2
+  2014-08-02 : Body Weight                              103.4 kg
+  2014-08-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-08-02 : Body Height                              167.6 cm
+  2013-10-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2013-07-27 : Tobacco smoking status NHIS              Former smoker 
+  2013-07-27 : Estimated Glomerular Filtration Rate     152.6 mL/min/{1.73_m2}
+  2013-07-27 : High Density Lipoprotein Cholesterol     60.9 mg/dL
+  2013-07-27 : Low Density Lipoprotein Cholesterol      97.6 mg/dL
+  2013-07-27 : Triglycerides                            126.3 mg/dL
+  2013-07-27 : Total Cholesterol                        183.8 mg/dL
+  2013-07-27 : Blood Pressure
+           - Diastolic Blood Pressure                 90.2 mmHg
+           - Systolic Blood Pressure                  190.3 mmHg
+  2013-07-27 : Body Mass Index                          37.4 kg/m2
+  2013-07-27 : Body Weight                              105.1 kg
+  2013-07-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2013-07-27 : Body Height                              167.6 cm
+  2012-07-21 : Tobacco smoking status NHIS              Former smoker 
+  2012-07-21 : Estimated Glomerular Filtration Rate     119.8 mL/min/{1.73_m2}
+  2012-07-21 : Blood Pressure
+           - Diastolic Blood Pressure                 104.0 mmHg
+           - Systolic Blood Pressure                  181.9 mmHg
+  2012-07-21 : Body Mass Index                          37.4 kg/m2
+  2012-07-21 : Body Weight                              105.1 kg
+  2012-07-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2012-07-21 : Body Height                              167.6 cm
+  2011-07-16 : Tobacco smoking status NHIS              Former smoker 
+  2011-07-16 : Estimated Glomerular Filtration Rate     140.1 mL/min/{1.73_m2}
+  2011-07-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2011-07-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 178.0 fL
+  2011-07-16 : Platelets [#/volume] in Blood by Automated count 447.8 10*3/uL
+  2011-07-16 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2011-07-16 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2011-07-16 : MCH [Entitic mass] by Automated count    29.1 pg
+  2011-07-16 : MCV [Entitic volume] by Automated count  93.9 fL
+  2011-07-16 : Hematocrit [Volume Fraction] of Blood by Automated count 35.2 %
+  2011-07-16 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2011-07-16 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2011-07-16 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2011-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 92.9 mmHg
+           - Systolic Blood Pressure                  196.4 mmHg
+  2011-07-16 : Body Mass Index                          37.4 kg/m2
+  2011-07-16 : Body Weight                              105.1 kg
+  2011-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2011-07-16 : Body Height                              167.6 cm
+  2010-07-10 : Tobacco smoking status NHIS              Former smoker 
+  2010-07-10 : Estimated Glomerular Filtration Rate     106.2 mL/min/{1.73_m2}
+  2010-07-10 : High Density Lipoprotein Cholesterol     65.7 mg/dL
+  2010-07-10 : Low Density Lipoprotein Cholesterol      68.1 mg/dL
+  2010-07-10 : Triglycerides                            135.7 mg/dL
+  2010-07-10 : Total Cholesterol                        160.9 mg/dL
+  2010-07-10 : Blood Pressure
+           - Diastolic Blood Pressure                 93.6 mmHg
+           - Systolic Blood Pressure                  156.8 mmHg
+  2010-07-10 : Body Mass Index                          37.4 kg/m2
+  2010-07-10 : Body Weight                              105.1 kg
+  2010-07-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2010-07-10 : Body Height                              167.6 cm
+  2009-10-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.6 {score}
+  2009-07-04 : Tobacco smoking status NHIS              Former smoker 
+  2009-07-04 : Estimated Glomerular Filtration Rate     86.6 mL/min/{1.73_m2}
+  2009-07-04 : Blood Pressure
+           - Diastolic Blood Pressure                 97.0 mmHg
+           - Systolic Blood Pressure                  141.9 mmHg
+  2009-07-04 : Body Mass Index                          37.4 kg/m2
+  2009-07-04 : Body Weight                              105.1 kg
+  2009-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2009-07-04 : Body Height                              167.6 cm
+  2009-06-04 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 189.5 ng/mL
+  2009-06-04 : Polyp size greatest dimension by CAP cancer protocols 11.4 mm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-06 : Documentation of current medications
+  2016-09-24 : Documentation of current medications
+  2014-08-02 : Documentation of current medications
+  2013-07-27 : Documentation of current medications
+  2011-07-16 : Documentation of current medications
+  2010-07-10 : Documentation of current medications
+  2009-06-04 : Biopsy of colon for Polyp of colon
+  2009-06-04 : Rectal polypectomy for Polyp of colon
+  2009-06-04 : Fecal occult blood test for Polyp of colon
+  2009-06-04 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-06 : Influenza, seasonal, injectable, preservative free
+  2017-09-30 : Influenza, seasonal, injectable, preservative free
+  2016-09-24 : Influenza, seasonal, injectable, preservative free
+  2015-08-08 : Td (adult) preservative free
+  2015-08-08 : Influenza, seasonal, injectable, preservative free
+  2014-08-02 : Influenza, seasonal, injectable, preservative free
+  2013-07-27 : Influenza, seasonal, injectable, preservative free
+  2012-07-21 : Influenza, seasonal, injectable, preservative free
+  2011-07-16 : Influenza, seasonal, injectable, preservative free
+  2010-07-10 : Influenza, seasonal, injectable, preservative free
+  2009-07-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-09-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-09-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-10-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-09-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-09-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-08-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-07-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-06-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-09-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-09-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2015-08-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-07-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-06-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-05-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-03-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-02-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-10-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-09-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-08-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-07-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-08-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-10-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-07-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-05-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Drug overdose
+2013-04-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-10-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-09-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-08-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-07-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-07-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-07-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-07-16 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-06-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Cystitis
+2011-04-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-03-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-03-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Drug overdose
+2010-09-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Primary malignant neoplasm of colon
+2010-07-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-10-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-07-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-06-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-06-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Primary malignant neoplasm of colon
+2009-06-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Polyp of colon
+2009-06-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-05-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-04-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2005-03-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Drug overdose
+1992-11-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Impacted molars
+1990-05-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Chronic intractable migraine without aura
+1990-02-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Chronic pain
+1983-11-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+1972-07-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

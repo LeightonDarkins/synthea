@@ -1,0 +1,352 @@
+Argentina169 Deckow585
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 55
+Birth Date:          1963-08-30
+Marital Status:      M
+Outpatient Provider: MARLBOROUGH HOSPITAL
+Primary Care Provider: 157 UNION STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2011-08-16[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-09-11 -            : Prediabetes
+  2011-08-16 - 2011-09-20 : Sprain of wrist
+  2005-09-02 -            : Body mass index 40+ - severely obese (finding)
+  1996-07-05 -            : Tubal pregnancy
+  1991-08-16 -            : Body mass index 30+ - obesity (finding)
+  1989-08-18 -            : Miscarriage in first trimester
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-09-11[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2011-08-16[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-09-28 : Lipid Panel
+           - Total Cholesterol                        165.0 mg/dL
+           - Triglycerides                            125.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.0 mg/dL
+           - High Density Lipoprotein Cholesterol     67.9 mg/dL
+  2018-09-28 : Basic Metabolic Panel
+           - Glucose                                  74.8 mg/dL
+           - Urea Nitrogen                            17.0 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   136.0 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 105.3 mmol/L
+           - Carbon Dioxide                           28.0 mmol/L
+  2017-09-22 : Basic Metabolic Panel
+           - Glucose                                  89.2 mg/dL
+           - Urea Nitrogen                            16.4 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   142.7 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 110.3 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+  2016-09-16 : Basic Metabolic Panel
+           - Glucose                                  85.1 mg/dL
+           - Urea Nitrogen                            11.1 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   141.3 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 106.3 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+  2015-09-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+           - MCV [Entitic volume] by Automated count  90.6 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 214.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 270.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2015-09-11 : Lipid Panel
+           - Total Cholesterol                        161.8 mg/dL
+           - Triglycerides                            149.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      60.0 mg/dL
+           - High Density Lipoprotein Cholesterol     72.0 mg/dL
+  2011-09-16 : Lipid Panel
+           - Total Cholesterol                        183.7 mg/dL
+           - Triglycerides                            137.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.7 mg/dL
+           - High Density Lipoprotein Cholesterol     70.4 mg/dL
+  2009-09-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 326.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 259.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-28 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2018-09-28 : Tobacco smoking status NHIS              Former smoker 
+  2018-09-28 : High Density Lipoprotein Cholesterol     67.9 mg/dL
+  2018-09-28 : Low Density Lipoprotein Cholesterol      72.0 mg/dL
+  2018-09-28 : Triglycerides                            125.0 mg/dL
+  2018-09-28 : Total Cholesterol                        165.0 mg/dL
+  2018-09-28 : Carbon Dioxide                           28.0 mmol/L
+  2018-09-28 : Chloride                                 105.3 mmol/L
+  2018-09-28 : Potassium                                4.3 mmol/L
+  2018-09-28 : Sodium                                   136.0 mmol/L
+  2018-09-28 : Calcium                                  9.4 mg/dL
+  2018-09-28 : Creatinine                               1.0 mg/dL
+  2018-09-28 : Urea Nitrogen                            17.0 mg/dL
+  2018-09-28 : Glucose                                  74.8 mg/dL
+  2018-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 70.9 mmHg
+           - Systolic Blood Pressure                  118.1 mmHg
+  2018-09-28 : Body Mass Index                          45.4 kg/m2
+  2018-09-28 : Body Weight                              103.4 kg
+  2018-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2018-09-28 : Body Height                              151.0 cm
+  2017-09-22 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2017-09-22 : Tobacco smoking status NHIS              Former smoker 
+  2017-09-22 : Carbon Dioxide                           27.0 mmol/L
+  2017-09-22 : Chloride                                 110.3 mmol/L
+  2017-09-22 : Potassium                                4.0 mmol/L
+  2017-09-22 : Sodium                                   142.7 mmol/L
+  2017-09-22 : Calcium                                  8.9 mg/dL
+  2017-09-22 : Creatinine                               1.0 mg/dL
+  2017-09-22 : Urea Nitrogen                            16.4 mg/dL
+  2017-09-22 : Glucose                                  89.2 mg/dL
+  2017-09-22 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  130.5 mmHg
+  2017-09-22 : Body Mass Index                          45.4 kg/m2
+  2017-09-22 : Body Weight                              103.4 kg
+  2017-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2017-09-22 : Body Height                              151.0 cm
+  2016-09-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2016-09-16 : Tobacco smoking status NHIS              Former smoker 
+  2016-09-16 : Carbon Dioxide                           26.4 mmol/L
+  2016-09-16 : Chloride                                 106.3 mmol/L
+  2016-09-16 : Potassium                                4.7 mmol/L
+  2016-09-16 : Sodium                                   141.3 mmol/L
+  2016-09-16 : Calcium                                  8.7 mg/dL
+  2016-09-16 : Creatinine                               1.5 mg/dL
+  2016-09-16 : Urea Nitrogen                            11.1 mg/dL
+  2016-09-16 : Glucose                                  85.1 mg/dL
+  2016-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  134.1 mmHg
+  2016-09-16 : Body Mass Index                          45.4 kg/m2
+  2016-09-16 : Body Weight                              103.4 kg
+  2016-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2016-09-16 : Body Height                              151.0 cm
+  2015-09-11 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2015-09-11 : Tobacco smoking status NHIS              Former smoker 
+  2015-09-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2015-09-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 270.0 fL
+  2015-09-11 : Platelets [#/volume] in Blood by Automated count 214.7 10*3/uL
+  2015-09-11 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2015-09-11 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2015-09-11 : MCH [Entitic mass] by Automated count    31.6 pg
+  2015-09-11 : MCV [Entitic volume] by Automated count  90.6 fL
+  2015-09-11 : Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+  2015-09-11 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2015-09-11 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2015-09-11 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2015-09-11 : High Density Lipoprotein Cholesterol     72.0 mg/dL
+  2015-09-11 : Low Density Lipoprotein Cholesterol      60.0 mg/dL
+  2015-09-11 : Triglycerides                            149.5 mg/dL
+  2015-09-11 : Total Cholesterol                        161.8 mg/dL
+  2015-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 79.3 mmHg
+           - Systolic Blood Pressure                  120.5 mmHg
+  2015-09-11 : Body Mass Index                          45.4 kg/m2
+  2015-09-11 : Body Weight                              103.4 kg
+  2015-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2015-09-11 : Body Height                              151.0 cm
+  2014-09-05 : Tobacco smoking status NHIS              Former smoker 
+  2014-09-05 : Blood Pressure
+           - Diastolic Blood Pressure                 76.1 mmHg
+           - Systolic Blood Pressure                  114.4 mmHg
+  2014-09-05 : Body Mass Index                          45.4 kg/m2
+  2014-09-05 : Body Weight                              103.4 kg
+  2014-09-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2014-09-05 : Body Height                              151.0 cm
+  2013-08-30 : Tobacco smoking status NHIS              Former smoker 
+  2013-08-30 : Blood Pressure
+           - Diastolic Blood Pressure                 77.3 mmHg
+           - Systolic Blood Pressure                  116.2 mmHg
+  2013-08-30 : Body Mass Index                          45.4 kg/m2
+  2013-08-30 : Body Weight                              103.4 kg
+  2013-08-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2013-08-30 : Body Height                              151.0 cm
+  2011-09-16 : Tobacco smoking status NHIS              Former smoker 
+  2011-09-16 : High Density Lipoprotein Cholesterol     70.4 mg/dL
+  2011-09-16 : Low Density Lipoprotein Cholesterol      85.7 mg/dL
+  2011-09-16 : Triglycerides                            137.7 mg/dL
+  2011-09-16 : Total Cholesterol                        183.7 mg/dL
+  2011-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 74.8 mmHg
+           - Systolic Blood Pressure                  122.6 mmHg
+  2011-09-16 : Body Mass Index                          44.6 kg/m2
+  2011-09-16 : Body Weight                              101.7 kg
+  2011-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2011-09-16 : Body Height                              151.0 cm
+  2009-09-11 : Tobacco smoking status NHIS              Former smoker 
+  2009-09-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2009-09-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 259.3 fL
+  2009-09-11 : Platelets [#/volume] in Blood by Automated count 326.0 10*3/uL
+  2009-09-11 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2009-09-11 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2009-09-11 : MCH [Entitic mass] by Automated count    29.7 pg
+  2009-09-11 : MCV [Entitic volume] by Automated count  86.0 fL
+  2009-09-11 : Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+  2009-09-11 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2009-09-11 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2009-09-11 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2009-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 72.1 mmHg
+           - Systolic Blood Pressure                  123.4 mmHg
+  2009-09-11 : Body Mass Index                          43.2 kg/m2
+  2009-09-11 : Body Weight                              98.4 kg
+  2009-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2009-09-11 : Body Height                              151.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-28 : Documentation of current medications
+  2018-09-07 : Intramuscular injection
+  2018-08-29 : Colonoscopy
+  2018-06-08 : Intramuscular injection
+  2018-03-09 : Intramuscular injection
+  2017-12-08 : Intramuscular injection
+  2017-09-22 : Documentation of current medications
+  2017-09-08 : Intramuscular injection
+  2017-06-09 : Intramuscular injection
+  2017-03-10 : Intramuscular injection
+  2016-12-09 : Intramuscular injection
+  2016-09-09 : Intramuscular injection
+  2016-06-10 : Intramuscular injection
+  2016-03-11 : Intramuscular injection
+  2015-12-11 : Intramuscular injection
+  2015-09-11 : Intramuscular injection
+  2015-09-11 : Documentation of current medications
+  2015-06-12 : Intramuscular injection
+  2015-03-13 : Intramuscular injection
+  2014-12-12 : Intramuscular injection
+  2014-09-12 : Intramuscular injection
+  2014-06-13 : Intramuscular injection
+  2014-03-14 : Intramuscular injection
+  2013-12-13 : Intramuscular injection
+  2013-09-13 : Intramuscular injection
+  2013-08-30 : Documentation of current medications
+  2013-08-30 : Colonoscopy
+  2013-06-14 : Intramuscular injection
+  2013-03-15 : Intramuscular injection
+  2012-12-14 : Intramuscular injection
+  2012-09-14 : Intramuscular injection
+  2012-06-15 : Intramuscular injection
+  2012-03-16 : Intramuscular injection
+  2011-12-16 : Intramuscular injection
+  2011-09-16 : Intramuscular injection
+  2011-09-16 : Documentation of current medications
+  2011-06-17 : Intramuscular injection
+  2011-03-18 : Intramuscular injection
+  2010-12-17 : Intramuscular injection
+  2010-09-17 : Intramuscular injection
+  2010-06-18 : Intramuscular injection
+  2010-03-19 : Intramuscular injection
+  2009-12-18 : Intramuscular injection
+  2009-09-18 : Intramuscular injection
+  2009-06-19 : Intramuscular injection
+  2009-03-20 : Intramuscular injection
+  2008-12-19 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-28 : Influenza, seasonal, injectable, preservative free
+  2017-09-22 : Influenza, seasonal, injectable, preservative free
+  2016-09-16 : Influenza, seasonal, injectable, preservative free
+  2015-09-11 : Influenza, seasonal, injectable, preservative free
+  2014-09-05 : Td (adult) preservative free
+  2014-09-05 : Influenza, seasonal, injectable, preservative free
+  2014-09-05 : zoster
+  2013-08-30 : Influenza, seasonal, injectable, preservative free
+  2013-08-30 : zoster
+  2011-09-16 : Influenza, seasonal, injectable, preservative free
+  2009-09-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-28 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2018-09-07 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2018-08-29 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2018-06-08 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2018-03-09 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2017-12-08 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2017-09-22 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2017-09-08 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2017-06-09 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2017-03-10 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2016-12-09 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2016-09-16 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2016-09-09 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2016-06-10 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2016-03-11 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2015-12-11 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2015-09-11 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2015-09-11 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2015-06-12 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2015-03-13 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2014-12-12 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2014-09-12 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2014-09-05 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2014-06-13 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2014-03-14 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2013-12-13 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2013-09-13 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2013-08-30 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2013-08-30 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2013-06-14 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2013-03-15 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2012-12-14 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2012-09-14 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2012-06-15 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2012-03-16 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2011-12-16 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2011-09-16 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2011-09-16 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2011-08-16 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2011-06-17 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2011-03-18 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2010-12-17 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2010-09-17 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2010-06-18 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2010-03-19 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2009-12-18 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2009-09-18 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2009-09-11 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2009-06-19 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2009-03-20 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2008-12-19 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2005-09-02 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+1996-07-05 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL : Encounter for Normal pregnancy
+1991-08-16 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+1989-08-18 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL : Encounter for Normal pregnancy
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

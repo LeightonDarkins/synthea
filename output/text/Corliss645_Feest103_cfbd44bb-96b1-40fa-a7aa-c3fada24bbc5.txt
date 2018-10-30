@@ -1,0 +1,359 @@
+Corliss645 Feest103
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1991-12-12
+Marital Status:      S
+Outpatient Provider: STURDY MEMORIAL HOSPITAL
+Primary Care Provider: 211 PARK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-03-30[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2015-04-08[STOPPED] : Errin 28 Day Pack
+  2014-04-13[STOPPED] : Natazia 28 Day Pack
+  2010-11-12[STOPPED] : Levora 0.15/30 28 Day Pack
+  2009-11-17[STOPPED] : Camila 28 Day Pack
+  2008-11-22[STOPPED] : Seasonique 91 Day Pack
+  2007-11-28[STOPPED] : Ortho Tri-Cyclen 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-02-22 - 2018-10-04 : Normal pregnancy
+  2017-11-18 - 2017-11-25 : Acute viral pharyngitis (disorder)
+  2017-03-30 - 2017-04-13 : Laceration of thigh
+  2016-04-14 - 2016-11-17 : Normal pregnancy
+  2012-08-02 - 2013-03-07 : Normal pregnancy
+  2011-01-07 - 2011-01-21 : Viral sinusitis (disorder)
+  2010-04-20 - 2010-04-27 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-02-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2017-03-30[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2016-04-14[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2012-08-02[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-01-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.5 %
+           - MCV [Entitic volume] by Automated count  88.2 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 417.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 509.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2008-11-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.7 %
+           - MCV [Entitic volume] by Automated count  87.2 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+           - Platelets [#/volume] in Blood by Automated count 324.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 272.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-11-18 : Oral temperature                         37.9 Cel
+  2017-01-19 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 74.7 mmHg
+           - Systolic Blood Pressure                  117.2 mmHg
+  2017-01-19 : Body Mass Index                          24.6 kg/m2
+  2017-01-19 : Body Weight                              66.8 kg
+  2017-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2017-01-19 : Body Height                              164.6 cm
+  2014-01-16 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2014-01-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 509.9 fL
+  2014-01-16 : Platelets [#/volume] in Blood by Automated count 417.3 10*3/uL
+  2014-01-16 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  2014-01-16 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2014-01-16 : MCH [Entitic mass] by Automated count    30.3 pg
+  2014-01-16 : MCV [Entitic volume] by Automated count  88.2 fL
+  2014-01-16 : Hematocrit [Volume Fraction] of Blood by Automated count 36.5 %
+  2014-01-16 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2014-01-16 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2014-01-16 : Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+  2014-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.6 mmHg
+           - Systolic Blood Pressure                  135.4 mmHg
+  2014-01-16 : Body Mass Index                          23.0 kg/m2
+  2014-01-16 : Body Weight                              62.3 kg
+  2014-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2014-01-16 : Body Height                              164.6 cm
+  2011-01-13 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-13 : Blood Pressure
+           - Diastolic Blood Pressure                 84.7 mmHg
+           - Systolic Blood Pressure                  111.6 mmHg
+  2011-01-13 : Body Mass Index                          21.2 kg/m2
+  2011-01-13 : Body Weight                              57.5 kg
+  2011-01-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2011-01-13 : Body Height                              164.6 cm
+  2010-12-09 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-09 : Blood Pressure
+           - Diastolic Blood Pressure                 72.7 mmHg
+           - Systolic Blood Pressure                  135.8 mmHg
+  2010-12-09 : Body Mass Index                          21.2 kg/m2
+  2010-12-09 : Body Weight                              57.4 kg
+  2010-12-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-12-09 : Body Height                              164.5 cm
+  2010-04-20 : Oral temperature                         37.4 Cel
+  2009-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 80.2 mmHg
+           - Systolic Blood Pressure                  124.8 mmHg
+  2009-12-03 : Body Mass Index                          20.8 kg/m2
+  2009-12-03 : Body Weight                              56.3 kg
+  2009-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2009-12-03 : Body Height                              164.4 cm
+  2008-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2008-11-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2008-11-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 272.9 fL
+  2008-11-27 : Platelets [#/volume] in Blood by Automated count 324.7 10*3/uL
+  2008-11-27 : Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+  2008-11-27 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2008-11-27 : MCH [Entitic mass] by Automated count    30.6 pg
+  2008-11-27 : MCV [Entitic volume] by Automated count  87.2 fL
+  2008-11-27 : Hematocrit [Volume Fraction] of Blood by Automated count 49.7 %
+  2008-11-27 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2008-11-27 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2008-11-27 : Leukocytes [#/volume] in Blood by Automated count 6.3 10*3/uL
+  2008-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 70.3 mmHg
+           - Systolic Blood Pressure                  121.5 mmHg
+  2008-11-27 : Body Mass Index                          20.5 kg/m2
+  2008-11-27 : Body Weight                              55.2 kg
+  2008-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2008-11-27 : Body Height                              164.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-04 : Childbirth for Normal pregnancy
+  2018-09-27 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-20 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-06 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-06 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2018-08-09 : Auscultation of the fetal heart for Normal pregnancy
+  2018-08-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-07-12 : Auscultation of the fetal heart for Normal pregnancy
+  2018-07-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-07-12 : Urine screening for glucose for Normal pregnancy
+  2018-07-12 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2018-07-12 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-06-14 : Auscultation of the fetal heart for Normal pregnancy
+  2018-06-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-05-17 : Auscultation of the fetal heart for Normal pregnancy
+  2018-05-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-19 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-19 : Alpha-fetoprotein test for Normal pregnancy
+  2018-04-19 : Fetal anatomy study for Normal pregnancy
+  2018-03-22 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2018-03-22 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-22 : Physical examination of mother for Normal pregnancy
+  2018-02-22 : Urine protein test for Normal pregnancy
+  2018-02-22 : Skin test for tuberculosis for Normal pregnancy
+  2018-02-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2018-02-22 : Rubella screening for Normal pregnancy
+  2018-02-22 : Hepatitis C antibody test for Normal pregnancy
+  2018-02-22 : Urine screening test for diabetes for Normal pregnancy
+  2018-02-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2018-02-22 : Urine culture for Normal pregnancy
+  2018-02-22 : Syphilis infection test for Normal pregnancy
+  2018-02-22 : Gonorrhea infection test for Normal pregnancy
+  2018-02-22 : Chlamydia antigen test for Normal pregnancy
+  2018-02-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2018-02-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2018-02-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-02-22 : Blood typing, RH typing for Normal pregnancy
+  2018-02-22 : Auscultation of the fetal heart for Normal pregnancy
+  2018-02-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-02-22 : Standard pregnancy test for Normal pregnancy
+  2017-03-30 : Suture open wound for Laceration of thigh
+  2016-12-29 : Depression screening
+  2016-12-29 : Physical examination following birth
+  2016-11-17 : Cesarean section for Normal pregnancy
+  2016-11-17 : Episiotomy for Normal pregnancy
+  2016-11-10 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-10-27 : Auscultation of the fetal heart for Normal pregnancy
+  2016-10-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-10-27 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-09-29 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-01 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-01 : Urine screening for glucose for Normal pregnancy
+  2016-09-01 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-09-01 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-08-04 : Auscultation of the fetal heart for Normal pregnancy
+  2016-08-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-07-07 : Auscultation of the fetal heart for Normal pregnancy
+  2016-07-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-09 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-09 : Alpha-fetoprotein test for Normal pregnancy
+  2016-06-09 : Fetal anatomy study for Normal pregnancy
+  2016-05-12 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-05-12 : Auscultation of the fetal heart for Normal pregnancy
+  2016-05-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-14 : Physical examination of mother for Normal pregnancy
+  2016-04-14 : Urine protein test for Normal pregnancy
+  2016-04-14 : Skin test for tuberculosis for Normal pregnancy
+  2016-04-14 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-04-14 : Rubella screening for Normal pregnancy
+  2016-04-14 : Hepatitis C antibody test for Normal pregnancy
+  2016-04-14 : Urine screening test for diabetes for Normal pregnancy
+  2016-04-14 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-04-14 : Urine culture for Normal pregnancy
+  2016-04-14 : Syphilis infection test for Normal pregnancy
+  2016-04-14 : Gonorrhea infection test for Normal pregnancy
+  2016-04-14 : Chlamydia antigen test for Normal pregnancy
+  2016-04-14 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-04-14 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-04-14 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-04-14 : Blood typing, RH typing for Normal pregnancy
+  2016-04-14 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-14 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-04-14 : Standard pregnancy test for Normal pregnancy
+  2013-04-18 : Depression screening
+  2013-04-18 : Physical examination following birth
+  2013-03-07 : Childbirth for Normal pregnancy
+  2013-02-28 : Auscultation of the fetal heart for Normal pregnancy
+  2013-02-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-02-14 : Auscultation of the fetal heart for Normal pregnancy
+  2013-02-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-02-14 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2013-01-17 : Auscultation of the fetal heart for Normal pregnancy
+  2013-01-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-20 : Auscultation of the fetal heart for Normal pregnancy
+  2012-12-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-20 : Urine screening for glucose for Normal pregnancy
+  2012-12-20 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-12-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-11-22 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-25 : Auscultation of the fetal heart for Normal pregnancy
+  2012-10-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-27 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-27 : Alpha-fetoprotein test for Normal pregnancy
+  2012-09-27 : Fetal anatomy study for Normal pregnancy
+  2012-08-30 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-08-30 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-08-02 : Physical examination of mother for Normal pregnancy
+  2012-08-02 : Urine protein test for Normal pregnancy
+  2012-08-02 : Skin test for tuberculosis for Normal pregnancy
+  2012-08-02 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-08-02 : Rubella screening for Normal pregnancy
+  2012-08-02 : Hepatitis C antibody test for Normal pregnancy
+  2012-08-02 : Urine screening test for diabetes for Normal pregnancy
+  2012-08-02 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-08-02 : Urine culture for Normal pregnancy
+  2012-08-02 : Syphilis infection test for Normal pregnancy
+  2012-08-02 : Gonorrhea infection test for Normal pregnancy
+  2012-08-02 : Chlamydia antigen test for Normal pregnancy
+  2012-08-02 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-08-02 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-08-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-08-02 : Blood typing, RH typing for Normal pregnancy
+  2012-08-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-08-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-08-02 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-01-19 : Influenza, seasonal, injectable, preservative free
+  2014-01-16 : meningococcal MCV4P
+  2014-01-16 : Hep B, adult
+  2014-01-16 : Td (adult) preservative free
+  2014-01-16 : Influenza, seasonal, injectable, preservative free
+  2010-12-09 : Influenza, seasonal, injectable, preservative free
+  2009-12-03 : Influenza, seasonal, injectable, preservative free
+  2008-11-27 : meningococcal MCV4P
+  2008-11-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-04 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-09-27 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-09-20 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-09-06 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-08-09 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-07-12 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-06-14 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-05-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-04-19 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-03-22 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-02-22 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-11-18 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2017-03-30 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2017-01-19 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2016-12-29 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2016-11-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-11-10 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-10-27 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-09-29 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-09-01 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-08-04 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-07-07 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-06-09 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-05-12 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-04-14 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2015-04-08 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2014-04-13 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2014-01-16 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2013-04-18 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2013-03-07 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2013-02-28 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2013-02-14 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2013-01-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2012-12-20 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2012-11-22 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2012-10-25 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2012-09-27 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2012-08-30 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2012-08-02 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2011-01-07 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-01-13 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2010-12-09 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2010-11-12 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2010-04-20 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2009-12-03 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2009-11-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2008-11-22 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2008-11-27 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2007-11-28 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

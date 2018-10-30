@@ -1,0 +1,385 @@
+Nadine465 Satterfield305
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 23
+Birth Date:          1995-09-19
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1995-10-13 -            : Allergy to nut
+  1995-10-13 -            : Allergy to fish
+  1995-10-13 - 2012-03-27 : Allergy to tree pollen
+  1995-10-13 -            : Allergy to grass pollen
+  1995-10-13 - 2012-03-27 : Dander (animal) allergy
+  1995-10-13 - 2012-03-27 : House dust mite allergy
+  1995-10-13 - 2012-03-27 : Allergy to mould
+  1995-10-13 -            : Allergy to bee venom
+  1995-10-13 - 2013-01-20 : Latex allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-08-04[STOPPED] : Seasonique 91 Day Pack
+  2015-07-02[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2014-08-20[STOPPED] : Seasonique 91 Day Pack
+  2013-08-25[STOPPED] : Yaz 28 Day Pack
+  2012-08-30[STOPPED] : Camila 28 Day Pack
+  2011-06-06[STOPPED] : Hydrocortisone 10 MG/ML Topical Cream for Atopic dermatitis
+  2009-07-19[STOPPED] : Hydrocortisone 10 MG/ML Topical Cream for Atopic dermatitis
+  1995-10-13[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1995-10-13[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-01-23 - 2018-02-13 : Normal pregnancy
+  2017-02-05 - 2017-02-12 : Viral sinusitis (disorder)
+  2015-07-02 - 2015-07-14 : Streptococcal sore throat (disorder)
+  2013-01-02 - 2013-01-11 : Acute viral pharyngitis (disorder)
+  2011-12-13 - 2011-12-27 : Viral sinusitis (disorder)
+  2011-08-19 - 2011-09-09 : Viral sinusitis (disorder)
+  2010-12-26 - 2011-01-16 : Viral sinusitis (disorder)
+  1999-09-25 -            : Seasonal allergic rhinitis
+  1995-09-26 - 2013-06-16 : Atopic dermatitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2008-09-23[STOPPED] : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy drugs Band 1
+  1995-10-13[CURRENT] : Self care
+                         Activity: Allergy education
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+  1995-09-26[STOPPED] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-02-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.9 %
+           - MCV [Entitic volume] by Automated count  87.2 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 429.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 204.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2011-12-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+           - MCV [Entitic volume] by Automated count  94.8 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+           - Platelets [#/volume] in Blood by Automated count 304.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 236.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-02-07 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2017-02-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 204.8 fL
+  2017-02-07 : Platelets [#/volume] in Blood by Automated count 429.7 10*3/uL
+  2017-02-07 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2017-02-07 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2017-02-07 : MCH [Entitic mass] by Automated count    29.2 pg
+  2017-02-07 : MCV [Entitic volume] by Automated count  87.2 fL
+  2017-02-07 : Hematocrit [Volume Fraction] of Blood by Automated count 36.9 %
+  2017-02-07 : Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+  2017-02-07 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2017-02-07 : Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+  2017-02-07 : Blood Pressure
+           - Diastolic Blood Pressure                 75.9 mmHg
+           - Systolic Blood Pressure                  123.0 mmHg
+  2017-02-07 : Body Mass Index                          21.8 kg/m2
+  2017-02-07 : Body Weight                              61.0 kg
+  2017-02-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2017-02-07 : Body Height                              167.1 cm
+  2015-07-02 : Oral temperature                         37.6 Cel
+  2015-01-27 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 71.2 mmHg
+           - Systolic Blood Pressure                  116.7 mmHg
+  2015-01-27 : Body Mass Index                          20.5 kg/m2
+  2015-01-27 : Body Weight                              57.3 kg
+  2015-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2015-01-27 : Body Height                              167.1 cm
+  2014-01-21 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 82.3 mmHg
+           - Systolic Blood Pressure                  131.5 mmHg
+  2014-01-21 : Body Mass Index                          20.1 kg/m2
+  2014-01-21 : Body Weight                              56.1 kg
+  2014-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2014-01-21 : Body Height                              166.9 cm
+  2013-01-15 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mmHg
+           - Systolic Blood Pressure                  106.6 mmHg
+  2013-01-15 : Body Mass Index                          19.8 kg/m2
+  2013-01-15 : Body Weight                              55.0 kg
+  2013-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2013-01-15 : Body Height                              166.8 cm
+  2013-01-02 : Oral temperature                         38.0 Cel
+  2013-01-01 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.9 mmHg
+           - Systolic Blood Pressure                  125.5 mmHg
+  2013-01-01 : Body Mass Index                          19.8 kg/m2
+  2013-01-01 : Body Weight                              55.0 kg
+  2013-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2013-01-01 : Body Height                              166.8 cm
+  2012-03-27 : Latex IgE Ab in Serum                    6.6 kU/L
+  2012-03-27 : Honey bee IgE Ab in Serum                22.4 kU/L
+  2012-03-27 : Cladosporium herbarum IgE Ab in Serum    0.3 kU/L
+  2012-03-27 : American house dust mite IgE Ab in Serum 0.0 kU/L
+  2012-03-27 : Cat dander IgE Ab in Serum               0.2 kU/L
+  2012-03-27 : Common Ragweed IgE Ab in Serum           52.0 kU/L
+  2012-03-27 : White oak IgE Ab in Serum                0.1 kU/L
+  2012-03-27 : Cow milk IgE Ab in Serum                 0.1 kU/L
+  2012-03-27 : Soybean IgE Ab in Serum                  0.3 kU/L
+  2012-03-27 : Egg white IgE Ab in Serum                0.3 kU/L
+  2012-03-27 : Wheat IgE Ab in Serum                    0.1 kU/L
+  2012-03-27 : Shrimp IgE Ab in Serum                   0.2 kU/L
+  2012-03-27 : Codfish IgE Ab in Serum                  9.6 kU/L
+  2012-03-27 : Walnut IgE Ab in Serum                   28.6 kU/L
+  2012-03-27 : Peanut IgE Ab in Serum                   0.1 kU/L
+  2011-12-27 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2011-12-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 236.3 fL
+  2011-12-27 : Platelets [#/volume] in Blood by Automated count 304.0 10*3/uL
+  2011-12-27 : Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+  2011-12-27 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2011-12-27 : MCH [Entitic mass] by Automated count    32.5 pg
+  2011-12-27 : MCV [Entitic volume] by Automated count  94.8 fL
+  2011-12-27 : Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+  2011-12-27 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2011-12-27 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2011-12-27 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2011-12-27 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  131.1 mmHg
+  2011-12-27 : Body Mass Index                          19.4 kg/m2
+  2011-12-27 : Body Weight                              53.9 kg
+  2011-12-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2011-12-27 : Body Height                              166.4 cm
+  2011-08-23 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-23 : Blood Pressure
+           - Diastolic Blood Pressure                 83.2 mmHg
+           - Systolic Blood Pressure                  117.2 mmHg
+  2011-08-23 : Body Mass Index                          19.3 kg/m2
+  2011-08-23 : Body Weight                              53.3 kg
+  2011-08-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2011-08-23 : Body Height                              166.3 cm
+  2010-12-28 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 75.1 mmHg
+           - Systolic Blood Pressure                  116.7 mmHg
+  2010-12-28 : Body Mass Index                          19.0 kg/m2
+  2010-12-28 : Body Weight                              52.2 kg
+  2010-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-12-28 : Body Height                              165.9 cm
+  2010-10-26 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-26 : Blood Pressure
+           - Diastolic Blood Pressure                 77.2 mmHg
+           - Systolic Blood Pressure                  130.9 mmHg
+  2010-10-26 : Body Mass Index                          18.9 kg/m2
+  2010-10-26 : Body Weight                              51.9 kg
+  2010-10-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2010-10-26 : Body Height                              165.8 cm
+  2009-10-20 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-20 : Blood Pressure
+           - Diastolic Blood Pressure                 82.8 mmHg
+           - Systolic Blood Pressure                  116.5 mmHg
+  2009-10-20 : Body Mass Index                          18.2 kg/m2
+  2009-10-20 : Body Weight                              49.1 kg
+  2009-10-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2009-10-20 : Body Height                              164.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-02-13 : Depression screening for Normal pregnancy
+  2018-02-13 : Physical exam following abortion for Normal pregnancy
+  2018-02-13 : Pregnancy termination care for Normal pregnancy
+  2018-02-06 : Induced termination of pregnancy for Normal pregnancy
+  2018-02-06 : Counseling for termination of pregnancy for Normal pregnancy
+  2018-01-23 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-01-23 : Standard pregnancy test for Normal pregnancy
+  2015-07-02 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2012-03-27 : Allergy screening test
+  2012-03-06 : Subcutaneous immunotherapy
+  2012-02-14 : Subcutaneous immunotherapy
+  2012-01-24 : Subcutaneous immunotherapy
+  2012-01-03 : Subcutaneous immunotherapy
+  2011-12-13 : Subcutaneous immunotherapy
+  2011-11-22 : Subcutaneous immunotherapy
+  2011-11-01 : Subcutaneous immunotherapy
+  2011-10-11 : Subcutaneous immunotherapy
+  2011-09-20 : Subcutaneous immunotherapy
+  2011-08-30 : Subcutaneous immunotherapy
+  2011-08-09 : Subcutaneous immunotherapy
+  2011-07-19 : Subcutaneous immunotherapy
+  2011-06-28 : Subcutaneous immunotherapy
+  2011-06-07 : Subcutaneous immunotherapy
+  2011-05-17 : Subcutaneous immunotherapy
+  2011-04-26 : Subcutaneous immunotherapy
+  2011-04-05 : Subcutaneous immunotherapy
+  2011-03-15 : Subcutaneous immunotherapy
+  2011-02-22 : Subcutaneous immunotherapy
+  2011-02-01 : Subcutaneous immunotherapy
+  2011-01-11 : Subcutaneous immunotherapy
+  2010-12-21 : Subcutaneous immunotherapy
+  2010-11-30 : Subcutaneous immunotherapy
+  2010-11-09 : Subcutaneous immunotherapy
+  2010-10-26 : Documentation of current medications
+  2010-10-19 : Subcutaneous immunotherapy
+  2010-09-28 : Subcutaneous immunotherapy
+  2010-09-07 : Subcutaneous immunotherapy
+  2010-08-17 : Subcutaneous immunotherapy
+  2010-07-27 : Subcutaneous immunotherapy
+  2010-07-06 : Subcutaneous immunotherapy
+  2010-06-15 : Subcutaneous immunotherapy
+  2010-05-25 : Subcutaneous immunotherapy
+  2010-05-04 : Subcutaneous immunotherapy
+  2010-04-13 : Subcutaneous immunotherapy
+  2010-03-23 : Subcutaneous immunotherapy
+  2010-03-02 : Subcutaneous immunotherapy
+  2010-02-09 : Subcutaneous immunotherapy
+  2010-01-19 : Subcutaneous immunotherapy
+  2009-12-29 : Subcutaneous immunotherapy
+  2009-12-08 : Subcutaneous immunotherapy
+  2009-11-17 : Subcutaneous immunotherapy
+  2009-10-27 : Subcutaneous immunotherapy
+  2009-10-20 : Documentation of current medications
+  2009-10-06 : Subcutaneous immunotherapy
+  2009-09-15 : Subcutaneous immunotherapy
+  2009-08-25 : Subcutaneous immunotherapy
+  2009-08-04 : Subcutaneous immunotherapy
+  2009-07-14 : Subcutaneous immunotherapy
+  2009-06-23 : Subcutaneous immunotherapy
+  2009-06-02 : Subcutaneous immunotherapy
+  2009-05-12 : Subcutaneous immunotherapy
+  2009-04-21 : Subcutaneous immunotherapy
+  2009-03-31 : Subcutaneous immunotherapy
+  2009-03-10 : Subcutaneous immunotherapy
+  2009-02-17 : Subcutaneous immunotherapy
+  2009-01-27 : Subcutaneous immunotherapy
+  2009-01-06 : Subcutaneous immunotherapy
+  2008-12-16 : Subcutaneous immunotherapy
+  2008-11-25 : Subcutaneous immunotherapy
+  2008-11-04 : Subcutaneous immunotherapy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-02-07 : meningococcal MCV4P
+  2017-02-07 : Hep B, adult
+  2017-02-07 : Td (adult) preservative free
+  2017-02-07 : Influenza, seasonal, injectable, preservative free
+  2015-07-07 : Influenza, seasonal, injectable, preservative free
+  2015-01-27 : Influenza, seasonal, injectable, preservative free
+  2014-01-21 : Influenza, seasonal, injectable, preservative free
+  2013-01-01 : Influenza, seasonal, injectable, preservative free
+  2011-12-20 : meningococcal MCV4P
+  2011-08-23 : Influenza, seasonal, injectable, preservative free
+  2010-10-26 : Influenza, seasonal, injectable, preservative free
+  2009-10-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-02-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2018-02-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2018-01-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2017-08-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-02-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2017-02-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-07-14 (Dr. Aileen250 Johnston597) : Encounter at CONCENTRA URGENT CARE - EAST BOSTON
+2015-07-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2015-07-07 (Dr. Aileen250 Johnston597) : Encounter at CONCENTRA URGENT CARE - EAST BOSTON
+2015-01-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-08-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-01-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-08-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-01-15 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-01-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2013-01-08 (Dr. Aileen250 Johnston597) : Encounter at CONCENTRA URGENT CARE - EAST BOSTON
+2013-01-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-08-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-03-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-03-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-02-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-01-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-01-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-12-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-12-20 (Dr. Aileen250 Johnston597) : Encounter at CONCENTRA URGENT CARE - EAST BOSTON
+2011-12-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-12-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-11-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-11-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-10-11 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-09-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-08-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-08-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-08-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-08-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-07-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-06-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-06-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Atopic dermatitis
+2011-06-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-05-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-04-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-04-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-03-15 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-02-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-02-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-01-11 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-12-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2010-12-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-12-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-11-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-11-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-10-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-10-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-09-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-09-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-08-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-07-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-07-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-06-15 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-05-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-05-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-04-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-03-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-03-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-02-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-01-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-12-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-12-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-11-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-10-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-10-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-10-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-09-15 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-08-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-08-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-07-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Atopic dermatitis
+2009-07-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-06-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-06-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-05-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-04-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-03-31 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-03-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-02-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-01-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-01-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-12-16 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-11-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-11-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-09-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1999-09-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Seasonal allergic rhinitis
+1995-10-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1995-09-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Atopic dermatitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

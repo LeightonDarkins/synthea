@@ -1,0 +1,182 @@
+Eva64 Godoy454
+==============
+Race:                Other
+Ethnicity:           South American
+Gender:              F
+Age:                 56
+Birth Date:          1961-11-03
+Marital Status:      S
+Outpatient Provider: MARLBOROUGH HOSPITAL
+Primary Care Provider: 157 UNION STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1963-03-14 -            : Shellfish allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-11-13 - 2015-12-04 : Viral sinusitis (disorder)
+  2009-11-27 -            : Body mass index 30+ - obesity (finding)
+  1994-11-11 -            : Miscarriage in first trimester
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1963-02-26[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-12-08 : Lipid Panel
+           - Total Cholesterol                        183.0 mg/dL
+           - Triglycerides                            127.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.9 mg/dL
+           - High Density Lipoprotein Cholesterol     62.5 mg/dL
+  2014-11-21 : Lipid Panel
+           - Total Cholesterol                        163.2 mg/dL
+           - Triglycerides                            115.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.2 mg/dL
+           - High Density Lipoprotein Cholesterol     62.8 mg/dL
+  2013-11-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.2 %
+           - MCV [Entitic volume] by Automated count  84.6 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+           - Platelets [#/volume] in Blood by Automated count 194.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 404.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2011-11-04 : Lipid Panel
+           - Total Cholesterol                        199.6 mg/dL
+           - Triglycerides                            127.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      98.1 mg/dL
+           - High Density Lipoprotein Cholesterol     76.1 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-12-08 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-08 : High Density Lipoprotein Cholesterol     62.5 mg/dL
+  2017-12-08 : Low Density Lipoprotein Cholesterol      94.9 mg/dL
+  2017-12-08 : Triglycerides                            127.9 mg/dL
+  2017-12-08 : Total Cholesterol                        183.0 mg/dL
+  2017-12-08 : Blood Pressure
+           - Diastolic Blood Pressure                 76.1 mmHg
+           - Systolic Blood Pressure                  133.5 mmHg
+  2017-12-08 : Body Mass Index                          31.3 kg/m2
+  2017-12-08 : Body Weight                              93.7 kg
+  2017-12-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2017-12-08 : Body Height                              173.0 cm
+  2016-12-02 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-02 : Blood Pressure
+           - Diastolic Blood Pressure                 73.6 mmHg
+           - Systolic Blood Pressure                  127.2 mmHg
+  2016-12-02 : Body Mass Index                          31.3 kg/m2
+  2016-12-02 : Body Weight                              93.7 kg
+  2016-12-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2016-12-02 : Body Height                              173.0 cm
+  2015-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2015-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mmHg
+           - Systolic Blood Pressure                  116.1 mmHg
+  2015-11-27 : Body Mass Index                          31.3 kg/m2
+  2015-11-27 : Body Weight                              93.7 kg
+  2015-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2015-11-27 : Body Height                              173.0 cm
+  2014-11-21 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-21 : High Density Lipoprotein Cholesterol     62.8 mg/dL
+  2014-11-21 : Low Density Lipoprotein Cholesterol      77.2 mg/dL
+  2014-11-21 : Triglycerides                            115.4 mg/dL
+  2014-11-21 : Total Cholesterol                        163.2 mg/dL
+  2014-11-21 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  108.8 mmHg
+  2014-11-21 : Body Mass Index                          31.3 kg/m2
+  2014-11-21 : Body Weight                              93.7 kg
+  2014-11-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2014-11-21 : Body Height                              173.0 cm
+  2013-11-15 : Tobacco smoking status NHIS              Never smoker 
+  2013-11-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2013-11-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 404.9 fL
+  2013-11-15 : Platelets [#/volume] in Blood by Automated count 194.3 10*3/uL
+  2013-11-15 : Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+  2013-11-15 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2013-11-15 : MCH [Entitic mass] by Automated count    28.4 pg
+  2013-11-15 : MCV [Entitic volume] by Automated count  84.6 fL
+  2013-11-15 : Hematocrit [Volume Fraction] of Blood by Automated count 37.2 %
+  2013-11-15 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2013-11-15 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2013-11-15 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2013-11-15 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  116.1 mmHg
+  2013-11-15 : Body Mass Index                          31.3 kg/m2
+  2013-11-15 : Body Weight                              93.7 kg
+  2013-11-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2013-11-15 : Body Height                              173.0 cm
+  2012-11-09 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-09 : Blood Pressure
+           - Diastolic Blood Pressure                 80.1 mmHg
+           - Systolic Blood Pressure                  114.6 mmHg
+  2012-11-09 : Body Mass Index                          31.3 kg/m2
+  2012-11-09 : Body Weight                              93.7 kg
+  2012-11-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2012-11-09 : Body Height                              173.0 cm
+  2011-11-04 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-04 : High Density Lipoprotein Cholesterol     76.1 mg/dL
+  2011-11-04 : Low Density Lipoprotein Cholesterol      98.1 mg/dL
+  2011-11-04 : Triglycerides                            127.1 mg/dL
+  2011-11-04 : Total Cholesterol                        199.6 mg/dL
+  2011-11-04 : Blood Pressure
+           - Diastolic Blood Pressure                 84.1 mmHg
+           - Systolic Blood Pressure                  102.5 mmHg
+  2011-11-04 : Body Mass Index                          31.3 kg/m2
+  2011-11-04 : Body Weight                              93.7 kg
+  2011-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2011-11-04 : Body Height                              173.0 cm
+  2009-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2009-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 84.9 mmHg
+           - Systolic Blood Pressure                  108.7 mmHg
+  2009-11-27 : Body Mass Index                          30.7 kg/m2
+  2009-11-27 : Body Weight                              91.9 kg
+  2009-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2009-11-27 : Body Height                              173.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-12-08 : Documentation of current medications
+  2016-11-02 : Colonoscopy
+  2011-11-04 : Documentation of current medications
+  2011-11-04 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-08 : Influenza, seasonal, injectable, preservative free
+  2016-12-02 : Influenza, seasonal, injectable, preservative free
+  2015-11-27 : Influenza, seasonal, injectable, preservative free
+  2014-11-21 : Influenza, seasonal, injectable, preservative free
+  2013-11-15 : Influenza, seasonal, injectable, preservative free
+  2012-11-09 : Td (adult) preservative free
+  2012-11-09 : Influenza, seasonal, injectable, preservative free
+  2012-11-09 : zoster
+  2011-11-04 : Influenza, seasonal, injectable, preservative free
+  2011-11-04 : zoster
+  2009-11-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-12-08 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2016-12-02 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2016-11-02 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2015-11-27 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2015-11-13 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-11-21 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2013-11-15 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2012-11-09 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2011-11-04 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2011-11-04 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+2009-11-27 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+1994-11-11 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL : Encounter for Normal pregnancy
+1963-03-14 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+1963-02-26 (Dr. Gilberto712 Regalado83) : Encounter at MARLBOROUGH HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

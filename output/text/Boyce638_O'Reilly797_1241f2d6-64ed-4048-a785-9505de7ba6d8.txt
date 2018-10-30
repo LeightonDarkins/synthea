@@ -1,0 +1,223 @@
+Boyce638 O'Reilly797
+=========='=========
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 10
+Birth Date:          2008-01-25
+Marital Status:      S
+Outpatient Provider: FALMOUTH HOSPITAL
+Primary Care Provider: 67 & 100 TER HEUN DRIVE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-08-10[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2013-08-26[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2013-08-26[STOPPED] : Amoxicillin 250 MG Oral Capsule
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-08-10 - 2016-11-08 : Fracture subluxation of wrist
+  2013-08-26 - 2014-01-10 : Otitis media
+  2012-04-12 - 2012-04-19 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-08-10[STOPPED] : Fracture care
+                         Reason: Fracture subluxation of wrist
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-01-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+           - MCV [Entitic volume] by Automated count  87.6 fL
+           - MCH [Entitic mass] by Automated count    32.7 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+           - Platelets [#/volume] in Blood by Automated count 312.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 457.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-02 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-02 : Blood Pressure
+           - Diastolic Blood Pressure                 84.4 mmHg
+           - Systolic Blood Pressure                  105.7 mmHg
+  2018-02-02 : Body Mass Index                          19.7 kg/m2
+  2018-02-02 : Body Weight                              38.2 kg
+  2018-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2018-02-02 : Body Height                              139.4 cm
+  2017-01-27 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 71.9 mmHg
+           - Systolic Blood Pressure                  100.3 mmHg
+  2017-01-27 : Body Mass Index                          18.7 kg/m2
+  2017-01-27 : Body Weight                              33.5 kg
+  2017-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2017-01-27 : Body Height                              133.8 cm
+  2016-01-22 : Tobacco smoking status NHIS              Never smoker 
+  2016-01-22 : Blood Pressure
+           - Diastolic Blood Pressure                 88.6 mmHg
+           - Systolic Blood Pressure                  126.5 mmHg
+  2016-01-22 : Body Mass Index                          18.1 kg/m2
+  2016-01-22 : Body Weight                              29.7 kg
+  2016-01-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2016-01-22 : Body Height                              128.1 cm
+  2015-01-16 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 75.1 mmHg
+           - Systolic Blood Pressure                  112.2 mmHg
+  2015-01-16 : Body Mass Index                          17.8 kg/m2
+  2015-01-16 : Body Weight                              26.4 kg
+  2015-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-01-16 : Body Height                              122.0 cm
+  2014-01-10 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2014-01-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 457.8 fL
+  2014-01-10 : Platelets [#/volume] in Blood by Automated count 312.1 10*3/uL
+  2014-01-10 : Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+  2014-01-10 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2014-01-10 : MCH [Entitic mass] by Automated count    32.7 pg
+  2014-01-10 : MCV [Entitic volume] by Automated count  87.6 fL
+  2014-01-10 : Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+  2014-01-10 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2014-01-10 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2014-01-10 : Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+  2014-01-10 : Blood Pressure
+           - Diastolic Blood Pressure                 74.4 mmHg
+           - Systolic Blood Pressure                  124.4 mmHg
+  2014-01-10 : Body Mass Index                          17.6 kg/m2
+  2014-01-10 : Body Weight                              23.5 kg
+  2014-01-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2014-01-10 : Body Height                              115.5 cm
+  2013-01-04 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-04 : Blood Pressure
+           - Diastolic Blood Pressure                 76.2 mmHg
+           - Systolic Blood Pressure                  104.2 mmHg
+  2013-01-04 : Body Mass Index                          17.4 kg/m2
+  2013-01-04 : Body Weight                              20.7 kg
+  2013-01-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2013-01-04 : Body Height                              109.0 cm
+  2011-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  135.5 mmHg
+  2011-12-30 : Body Mass Index                          17.2 kg/m2
+  2011-12-30 : Body Weight                              17.8 kg
+  2011-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2011-12-30 : Body Height                              101.7 cm
+  2011-07-01 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.4 mmHg
+           - Systolic Blood Pressure                  109.4 mmHg
+  2011-07-01 : Body Mass Index                          17.3 kg/m2
+  2011-07-01 : Body Weight                              16.7 kg
+  2011-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2011-07-01 : Body Height                              98.1 cm
+  2010-12-31 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-31 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mmHg
+           - Systolic Blood Pressure                  138.6 mmHg
+  2010-12-31 : Body Mass Index                          17.5 kg/m2
+  2010-12-31 : Body Weight                              15.6 kg
+  2010-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2010-12-31 : Body Height                              94.3 cm
+  2010-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  103.1 mmHg
+  2010-07-02 : Body Mass Index                          17.9 kg/m2
+  2010-07-02 : Body Weight                              14.8 kg
+  2010-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2010-07-02 : Body Height                              90.9 cm
+  2010-01-01 : Tobacco smoking status NHIS              Never smoker 
+  2010-01-01 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  133.1 mmHg
+  2010-01-01 : Body Weight                              13.9 kg
+  2010-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2010-01-01 : Body Height                              87.1 cm
+  2009-07-03 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-03 : Blood Pressure
+           - Diastolic Blood Pressure                 77.4 mmHg
+           - Systolic Blood Pressure                  110.6 mmHg
+  2009-07-03 : Body Weight                              12.8 kg
+  2009-07-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2009-07-03 : Body Height                              81.7 cm
+  2009-04-03 : Tobacco smoking status NHIS              Never smoker 
+  2009-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 84.8 mmHg
+           - Systolic Blood Pressure                  125.7 mmHg
+  2009-04-03 : Body Weight                              12.1 kg
+  2009-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2009-04-03 : Body Height                              78.6 cm
+  2009-01-02 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-02 : Blood Pressure
+           - Diastolic Blood Pressure                 86.3 mmHg
+           - Systolic Blood Pressure                  125.8 mmHg
+  2009-01-02 : Body Weight                              11.2 kg
+  2009-01-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2009-01-02 : Body Height                              75.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-02-02 : Documentation of current medications
+  2017-01-27 : Documentation of current medications
+  2016-08-10 : Bone immobilization for Fracture subluxation of wrist
+  2016-08-10 : X-ray or wrist
+  2015-01-16 : Documentation of current medications
+  2014-01-10 : Documentation of current medications
+  2011-12-30 : Documentation of current medications
+  2010-07-02 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-02 : Influenza, seasonal, injectable, preservative free
+  2017-01-27 : Influenza, seasonal, injectable, preservative free
+  2016-01-22 : Influenza, seasonal, injectable, preservative free
+  2015-01-16 : Influenza, seasonal, injectable, preservative free
+  2014-01-10 : Influenza, seasonal, injectable, preservative free
+  2013-01-04 : MMR
+  2013-01-04 : DTaP
+  2013-01-04 : Influenza, seasonal, injectable, preservative free
+  2013-01-04 : IPV
+  2013-01-04 : varicella
+  2011-12-30 : Influenza, seasonal, injectable, preservative free
+  2011-07-01 : Pneumococcal conjugate PCV 13
+  2010-12-31 : Pneumococcal conjugate PCV 13
+  2010-12-31 : Influenza, seasonal, injectable, preservative free
+  2010-07-02 : Hep A, ped/adol, 2 dose
+  2010-07-02 : Pneumococcal conjugate PCV 13
+  2010-01-01 : Pneumococcal conjugate PCV 13
+  2010-01-01 : Influenza, seasonal, injectable, preservative free
+  2009-07-03 : DTaP
+  2009-04-03 : Hep A, ped/adol, 2 dose
+  2009-04-03 : MMR
+  2009-04-03 : varicella
+  2009-04-03 : Hib (PRP-OMP)
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-02-02 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2017-01-27 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2016-11-08 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL : Encounter for Fracture subluxation of wrist
+2016-08-10 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2016-01-22 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2015-01-16 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2014-01-10 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2013-08-26 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL : Encounter for Otitis media
+2013-01-04 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2012-04-12 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-12-30 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2011-07-01 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2010-12-31 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2010-07-02 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2010-01-01 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2009-07-03 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2009-04-03 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+2009-01-02 (Dr. Hobert364 Johns824) : Encounter at FALMOUTH HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2016-08-10 : Digital Radiography, Wrist
+--------------------------------------------------------------------------------

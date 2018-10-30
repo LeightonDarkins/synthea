@@ -1,0 +1,283 @@
+Bryce11 Kuhn96
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 73
+Birth Date:          1945-10-23
+Marital Status:      M
+Outpatient Provider: NOBLE HOSPITAL
+Primary Care Provider: 115 WEST SILVER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-01-20[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2014-03-20[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2003-12-09[CURRENT] : Warfarin Sodium 5 MG Oral Tablet
+  2003-12-09[CURRENT] : Digoxin 0.125 MG Oral Tablet
+  2003-12-09[CURRENT] : Verapamil Hydrochloride 40 MG
+  1994-10-11[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-01-20 - 2018-04-20 : Fracture of rib
+  2014-03-20 - 2014-04-03 : Acute bronchitis (disorder)
+  2010-10-20 - 2011-11-14 : Polyp of colon
+  2003-12-09 -            : Atrial Fibrillation
+  1994-10-11 -            : Osteoarthritis of knee
+  1988-03-29 -            : Body mass index 30+ - obesity (finding)
+  1983-06-16 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-01-20[STOPPED] : Fracture care
+                         Reason: Fracture of rib
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2014-03-20[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1994-10-11[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-05-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+           - MCV [Entitic volume] by Automated count  93.9 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 182.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 282.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2016-04-19 : Lipid Panel
+           - Total Cholesterol                        177.0 mg/dL
+           - Triglycerides                            128.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.4 mg/dL
+           - High Density Lipoprotein Cholesterol     63.1 mg/dL
+  2013-01-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+           - MCV [Entitic volume] by Automated count  90.5 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 213.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 244.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2013-01-29 : Lipid Panel
+           - Total Cholesterol                        199.2 mg/dL
+           - Triglycerides                            100.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.0 mg/dL
+           - High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2010-01-12 : Lipid Panel
+           - Total Cholesterol                        166.6 mg/dL
+           - Triglycerides                            149.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      63.5 mg/dL
+           - High Density Lipoprotein Cholesterol     73.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2018-05-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 282.6 fL
+  2018-05-01 : Platelets [#/volume] in Blood by Automated count 182.9 10*3/uL
+  2018-05-01 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  2018-05-01 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2018-05-01 : MCH [Entitic mass] by Automated count    31.9 pg
+  2018-05-01 : MCV [Entitic volume] by Automated count  93.9 fL
+  2018-05-01 : Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+  2018-05-01 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2018-05-01 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2018-05-01 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2018-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  110.2 mmHg
+  2018-05-01 : Body Mass Index                          28.0 kg/m2
+  2018-05-01 : Body Weight                              91.5 kg
+  2018-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2018-05-01 : Body Height                              180.8 cm
+  2018-01-20 : DXA [T-score] Bone density               -0.4 {T-score}
+  2017-04-25 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 75.2 mmHg
+           - Systolic Blood Pressure                  104.8 mmHg
+  2017-04-25 : Body Mass Index                          28.5 kg/m2
+  2017-04-25 : Body Weight                              93.1 kg
+  2017-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2017-04-25 : Body Height                              180.8 cm
+  2016-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-19 : High Density Lipoprotein Cholesterol     63.1 mg/dL
+  2016-04-19 : Low Density Lipoprotein Cholesterol      88.4 mg/dL
+  2016-04-19 : Triglycerides                            128.0 mg/dL
+  2016-04-19 : Total Cholesterol                        177.0 mg/dL
+  2016-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mmHg
+           - Systolic Blood Pressure                  111.4 mmHg
+  2016-04-19 : Body Mass Index                          28.8 kg/m2
+  2016-04-19 : Body Weight                              94.1 kg
+  2016-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2016-04-19 : Body Height                              180.8 cm
+  2015-04-14 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 76.1 mmHg
+           - Systolic Blood Pressure                  126.5 mmHg
+  2015-04-14 : Body Mass Index                          29.4 kg/m2
+  2015-04-14 : Body Weight                              96.1 kg
+  2015-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2015-04-14 : Body Height                              180.8 cm
+  2014-04-08 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-08 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  137.2 mmHg
+  2014-04-08 : Body Mass Index                          29.7 kg/m2
+  2014-04-08 : Body Weight                              97.1 kg
+  2014-04-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-04-08 : Body Height                              180.8 cm
+  2014-02-04 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-04 : Blood Pressure
+           - Diastolic Blood Pressure                 77.1 mmHg
+           - Systolic Blood Pressure                  134.1 mmHg
+  2014-02-04 : Body Mass Index                          29.7 kg/m2
+  2014-02-04 : Body Weight                              97.1 kg
+  2014-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2014-02-04 : Body Height                              180.8 cm
+  2013-01-29 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2013-01-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 244.0 fL
+  2013-01-29 : Platelets [#/volume] in Blood by Automated count 213.6 10*3/uL
+  2013-01-29 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2013-01-29 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2013-01-29 : MCH [Entitic mass] by Automated count    28.0 pg
+  2013-01-29 : MCV [Entitic volume] by Automated count  90.5 fL
+  2013-01-29 : Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+  2013-01-29 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2013-01-29 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2013-01-29 : Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+  2013-01-29 : High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2013-01-29 : Low Density Lipoprotein Cholesterol      101.0 mg/dL
+  2013-01-29 : Triglycerides                            100.1 mg/dL
+  2013-01-29 : Total Cholesterol                        199.2 mg/dL
+  2013-01-29 : Blood Pressure
+           - Diastolic Blood Pressure                 71.8 mmHg
+           - Systolic Blood Pressure                  116.6 mmHg
+  2013-01-29 : Body Mass Index                          30.1 kg/m2
+  2013-01-29 : Body Weight                              98.5 kg
+  2013-01-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2013-01-29 : Body Height                              180.8 cm
+  2012-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2012-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 76.2 mmHg
+           - Systolic Blood Pressure                  116.2 mmHg
+  2012-01-24 : Body Mass Index                          30.5 kg/m2
+  2012-01-24 : Body Weight                              99.8 kg
+  2012-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-01-24 : Body Height                              180.8 cm
+  2011-01-18 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 83.9 mmHg
+           - Systolic Blood Pressure                  118.9 mmHg
+  2011-01-18 : Body Mass Index                          31.1 kg/m2
+  2011-01-18 : Body Weight                              101.7 kg
+  2011-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2011-01-18 : Body Height                              180.8 cm
+  2010-10-20 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 15.4 ng/mL
+  2010-10-20 : Polyp size greatest dimension by CAP cancer protocols 2.5 mm
+  2010-01-12 : Tobacco smoking status NHIS              Never smoker 
+  2010-01-12 : High Density Lipoprotein Cholesterol     73.2 mg/dL
+  2010-01-12 : Low Density Lipoprotein Cholesterol      63.5 mg/dL
+  2010-01-12 : Triglycerides                            149.4 mg/dL
+  2010-01-12 : Total Cholesterol                        166.6 mg/dL
+  2010-01-12 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  116.3 mmHg
+  2010-01-12 : Body Mass Index                          31.5 kg/m2
+  2010-01-12 : Body Weight                              103.0 kg
+  2010-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-01-12 : Body Height                              180.8 cm
+  2009-01-06 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-06 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  134.9 mmHg
+  2009-01-06 : Body Mass Index                          31.9 kg/m2
+  2009-01-06 : Body Weight                              104.2 kg
+  2009-01-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2009-01-06 : Body Height                              180.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-05-01 : Documentation of current medications
+  2018-05-01 : Electrical cardioversion for Atrial Fibrillation
+  2018-01-20 : Bone density scan (procedure) for Fracture of rib
+  2018-01-20 : Bone immobilization for Fracture of rib
+  2018-01-20 : Chest X-ray
+  2017-04-25 : Catheter ablation of tissue of heart for Atrial Fibrillation
+  2016-11-12 : Colonoscopy
+  2016-04-19 : Electrical cardioversion for Atrial Fibrillation
+  2015-04-14 : Documentation of current medications
+  2015-04-14 : Electrical cardioversion for Atrial Fibrillation
+  2014-04-08 : Documentation of current medications
+  2014-04-08 : Electrical cardioversion for Atrial Fibrillation
+  2014-04-01 : Electrical cardioversion for Atrial Fibrillation
+  2014-02-04 : Electrical cardioversion for Atrial Fibrillation
+  2013-01-29 : Electrical cardioversion for Atrial Fibrillation
+  2012-01-24 : Electrical cardioversion for Atrial Fibrillation
+  2011-11-14 : Colonoscopy
+  2011-01-18 : Documentation of current medications
+  2011-01-18 : Electrical cardioversion for Atrial Fibrillation
+  2010-10-20 : Rectal polypectomy for Polyp of colon
+  2010-10-20 : Fecal occult blood test for Polyp of colon
+  2010-10-20 : Colonoscopy
+  2010-01-12 : Documentation of current medications
+  2010-01-12 : Electrical cardioversion for Atrial Fibrillation
+  2009-01-06 : Documentation of current medications
+  2009-01-06 : Electrical cardioversion for Atrial Fibrillation
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-01 : Influenza, seasonal, injectable, preservative free
+  2017-04-25 : Td (adult) preservative free
+  2017-04-25 : Influenza, seasonal, injectable, preservative free
+  2016-04-19 : Influenza, seasonal, injectable, preservative free
+  2015-04-14 : Influenza, seasonal, injectable, preservative free
+  2014-02-04 : Influenza, seasonal, injectable, preservative free
+  2013-01-29 : Influenza, seasonal, injectable, preservative free
+  2012-01-24 : pneumococcal polysaccharide vaccine, 23 valent
+  2012-01-24 : Influenza, seasonal, injectable, preservative free
+  2011-01-18 : Pneumococcal conjugate PCV 13
+  2011-01-18 : Influenza, seasonal, injectable, preservative free
+  2010-01-12 : Influenza, seasonal, injectable, preservative free
+  2009-01-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-01 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2018-04-20 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL : Encounter for Fracture of rib
+2018-01-20 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2017-04-25 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2016-11-12 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2016-04-19 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2015-04-14 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2014-04-08 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2014-04-01 (Dr. Jaye603 Lang846) : Encounter at RIVER BEND MEDICAL GROUP - CHICOPEE OFFICE - URGENT CARE
+2014-03-20 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL : Encounter for Acute bronchitis (disorder)
+2014-02-04 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2013-01-29 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2012-01-24 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2011-11-14 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2011-01-18 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2010-10-20 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2010-01-12 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2009-01-06 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+2003-12-09 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+1994-10-11 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL : Encounter for Osteoarthritis of knee
+1988-03-29 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL
+1983-06-16 (Dr. Wilson960 Feil794) : Encounter at NOBLE HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2018-01-20 : Digital Radiography, Chest
+--------------------------------------------------------------------------------

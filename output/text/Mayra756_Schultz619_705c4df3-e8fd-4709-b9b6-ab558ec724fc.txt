@@ -1,0 +1,189 @@
+Mayra756 Schultz619
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1938-04-12
+Marital Status:      S
+Outpatient Provider: METROWEST MEDICAL CENTER
+Primary Care Provider: 115 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1974-08-25[STOPPED] : Aspirin 81 MG Oral Tablet
+  1969-06-10[STOPPED] : Mestranol / Norethynodrel [Enovid]
+  1950-12-10[CURRENT] : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+  1943-03-23[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1980-03-18 -            : History of myocardial infarction (situation)
+  1980-03-18 -            : Myocardial Infarction
+  1980-02-16 - 1980-03-08 : Viral sinusitis (disorder)
+  1976-05-11 -            : Body mass index 30+ - obesity (finding)
+  1974-08-25 - 1974-09-08 : Sprain of ankle
+  1971-12-15 - 1971-12-22 : Viral sinusitis (disorder)
+  1964-04-15 -            : Chronic sinusitis (disorder)
+  1943-03-23 -            : Coronary Heart Disease
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1974-08-25[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1973-06-08[STOPPED] : Surgery care management
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+--------------------------------------------------------------------------------
+REPORTS:
+  1980-03-25 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Myocardial Infarction 
+  1978-05-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+           - MCV [Entitic volume] by Automated count  86.1 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+           - Platelets [#/volume] in Blood by Automated count 178.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 419.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  1976-05-11 : Lipid Panel
+           - Total Cholesterol                        191.7 mg/dL
+           - Triglycerides                            146.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.9 mg/dL
+           - High Density Lipoprotein Cholesterol     70.5 mg/dL
+  1973-05-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+           - MCV [Entitic volume] by Automated count  85.8 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 425.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 178.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  1973-05-08 : Lipid Panel
+           - Total Cholesterol                        188.1 mg/dL
+           - Triglycerides                            141.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.4 mg/dL
+           - High Density Lipoprotein Cholesterol     65.4 mg/dL
+  1970-05-05 : Lipid Panel
+           - Total Cholesterol                        160.8 mg/dL
+           - Triglycerides                            109.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      69.1 mg/dL
+           - High Density Lipoprotein Cholesterol     69.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1980-03-25 : Cause of Death [US Standard Certificate of Death] Myocardial Infarction 
+  1978-05-16 : Tobacco smoking status NHIS              Former smoker 
+  1978-05-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  1978-05-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 419.4 fL
+  1978-05-16 : Platelets [#/volume] in Blood by Automated count 178.1 10*3/uL
+  1978-05-16 : Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+  1978-05-16 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  1978-05-16 : MCH [Entitic mass] by Automated count    27.5 pg
+  1978-05-16 : MCV [Entitic volume] by Automated count  86.1 fL
+  1978-05-16 : Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+  1978-05-16 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  1978-05-16 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  1978-05-16 : Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+  1978-05-16 : Blood Pressure
+           - Diastolic Blood Pressure                 83.4 mmHg
+           - Systolic Blood Pressure                  116.0 mmHg
+  1978-05-16 : Body Mass Index                          32.2 kg/m2
+  1978-05-16 : Body Weight                              86.1 kg
+  1978-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  1978-05-16 : Body Height                              163.4 cm
+  1976-05-11 : Tobacco smoking status NHIS              Former smoker 
+  1976-05-11 : High Density Lipoprotein Cholesterol     70.5 mg/dL
+  1976-05-11 : Low Density Lipoprotein Cholesterol      91.9 mg/dL
+  1976-05-11 : Triglycerides                            146.5 mg/dL
+  1976-05-11 : Total Cholesterol                        191.7 mg/dL
+  1976-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 83.5 mmHg
+           - Systolic Blood Pressure                  122.9 mmHg
+  1976-05-11 : Body Mass Index                          31.3 kg/m2
+  1976-05-11 : Body Weight                              83.5 kg
+  1976-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  1976-05-11 : Body Height                              163.4 cm
+  1973-05-08 : Tobacco smoking status NHIS              Former smoker 
+  1973-05-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  1973-05-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 178.5 fL
+  1973-05-08 : Platelets [#/volume] in Blood by Automated count 425.9 10*3/uL
+  1973-05-08 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  1973-05-08 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  1973-05-08 : MCH [Entitic mass] by Automated count    31.3 pg
+  1973-05-08 : MCV [Entitic volume] by Automated count  85.8 fL
+  1973-05-08 : Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+  1973-05-08 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  1973-05-08 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  1973-05-08 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  1973-05-08 : High Density Lipoprotein Cholesterol     65.4 mg/dL
+  1973-05-08 : Low Density Lipoprotein Cholesterol      94.4 mg/dL
+  1973-05-08 : Triglycerides                            141.9 mg/dL
+  1973-05-08 : Total Cholesterol                        188.1 mg/dL
+  1973-05-08 : Blood Pressure
+           - Diastolic Blood Pressure                 70.4 mmHg
+           - Systolic Blood Pressure                  124.9 mmHg
+  1973-05-08 : Body Mass Index                          29.3 kg/m2
+  1973-05-08 : Body Weight                              78.3 kg
+  1973-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  1973-05-08 : Body Height                              163.4 cm
+  1970-05-05 : Tobacco smoking status NHIS              Former smoker 
+  1970-05-05 : High Density Lipoprotein Cholesterol     69.8 mg/dL
+  1970-05-05 : Low Density Lipoprotein Cholesterol      69.1 mg/dL
+  1970-05-05 : Triglycerides                            109.6 mg/dL
+  1970-05-05 : Total Cholesterol                        160.8 mg/dL
+  1970-05-05 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  133.1 mmHg
+  1970-05-05 : Body Mass Index                          27.8 kg/m2
+  1970-05-05 : Body Weight                              74.4 kg
+  1970-05-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  1970-05-05 : Body Height                              163.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1980-03-18 : Coronary artery bypass grafting for Myocardial Infarction
+  1980-03-18 : Percutaneous coronary intervention for Myocardial Infarction
+  1978-05-16 : Documentation of current medications
+  1977-05-31 : Replacement of contraceptive intrauterine device
+  1973-06-08 : Bilateral tubal ligation
+  1973-05-08 : Documentation of current medications
+  1972-05-29 : Insertion of intrauterine contraceptive device
+  1970-05-05 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1978-05-16 : Influenza, seasonal, injectable, preservative free
+  1976-05-11 : Influenza, seasonal, injectable, preservative free
+  1973-05-08 : Influenza, seasonal, injectable, preservative free
+  1970-05-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1980-03-25 : Death Certification
+1980-03-18 : Emergency Encounter
+1980-02-16 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+1978-05-16 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1977-05-31 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1976-05-11 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1974-08-25 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1973-06-08 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1973-05-25 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1973-05-08 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1972-05-29 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1972-05-25 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1971-12-15 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+1970-05-05 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1969-06-10 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1964-04-15 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Sinusitis (disorder)
+1950-12-10 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1943-03-23 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

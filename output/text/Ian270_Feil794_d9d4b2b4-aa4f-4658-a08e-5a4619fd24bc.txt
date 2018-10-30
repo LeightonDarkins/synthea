@@ -1,0 +1,186 @@
+Ian270 Feil794
+==============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1995-09-26
+Marital Status:      S
+Outpatient Provider: BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+Primary Care Provider: 40 WRIGHT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2011-08-03[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2011-07-25[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2011-01-06[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-06-19 - 2017-07-03 : Viral sinusitis (disorder)
+  2015-08-03 - 2015-08-24 : Viral sinusitis (disorder)
+  2013-11-15 - 2013-12-06 : Viral sinusitis (disorder)
+  2013-06-25 - 2013-07-07 : Acute viral pharyngitis (disorder)
+  2011-08-03 - 2011-11-08 : Otitis media
+  2011-07-25 - 2011-10-23 : Fracture subluxation of wrist
+  2011-01-06 - 2011-01-13 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-07-25[STOPPED] : Fracture care
+                         Reason: Fracture subluxation of wrist
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2011-01-06[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-11-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+           - MCV [Entitic volume] by Automated count  91.3 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 256.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 456.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2011-11-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+           - MCV [Entitic volume] by Automated count  91.7 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 447.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 247.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-11-28 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2017-11-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 456.8 fL
+  2017-11-28 : Platelets [#/volume] in Blood by Automated count 256.6 10*3/uL
+  2017-11-28 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2017-11-28 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2017-11-28 : MCH [Entitic mass] by Automated count    29.8 pg
+  2017-11-28 : MCV [Entitic volume] by Automated count  91.3 fL
+  2017-11-28 : Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+  2017-11-28 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2017-11-28 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2017-11-28 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2017-11-28 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  138.7 mmHg
+  2017-11-28 : Body Mass Index                          24.7 kg/m2
+  2017-11-28 : Body Weight                              74.6 kg
+  2017-11-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2017-11-28 : Body Height                              173.7 cm
+  2014-11-25 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-25 : Blood Pressure
+           - Diastolic Blood Pressure                 83.5 mmHg
+           - Systolic Blood Pressure                  108.0 mmHg
+  2014-11-25 : Body Mass Index                          22.6 kg/m2
+  2014-11-25 : Body Weight                              68.2 kg
+  2014-11-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2014-11-25 : Body Height                              173.5 cm
+  2013-11-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-11-19 : Blood Pressure
+           - Diastolic Blood Pressure                 82.3 mmHg
+           - Systolic Blood Pressure                  113.5 mmHg
+  2013-11-19 : Body Mass Index                          22.1 kg/m2
+  2013-11-19 : Body Weight                              66.3 kg
+  2013-11-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2013-11-19 : Body Height                              173.1 cm
+  2013-06-25 : Oral temperature                         37.3 Cel
+  2012-11-13 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-13 : Blood Pressure
+           - Diastolic Blood Pressure                 74.9 mmHg
+           - Systolic Blood Pressure                  117.3 mmHg
+  2012-11-13 : Body Mass Index                          21.5 kg/m2
+  2012-11-13 : Body Weight                              63.8 kg
+  2012-11-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2012-11-13 : Body Height                              172.3 cm
+  2011-11-08 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2011-11-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 247.0 fL
+  2011-11-08 : Platelets [#/volume] in Blood by Automated count 447.2 10*3/uL
+  2011-11-08 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2011-11-08 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2011-11-08 : MCH [Entitic mass] by Automated count    30.8 pg
+  2011-11-08 : MCV [Entitic volume] by Automated count  91.7 fL
+  2011-11-08 : Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+  2011-11-08 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2011-11-08 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2011-11-08 : Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+  2011-11-08 : Blood Pressure
+           - Diastolic Blood Pressure                 84.3 mmHg
+           - Systolic Blood Pressure                  107.0 mmHg
+  2011-11-08 : Body Mass Index                          20.7 kg/m2
+  2011-11-08 : Body Weight                              60.3 kg
+  2011-11-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2011-11-08 : Body Height                              170.5 cm
+  2010-11-02 : Tobacco smoking status NHIS              Never smoker 
+  2010-11-02 : Blood Pressure
+           - Diastolic Blood Pressure                 83.9 mmHg
+           - Systolic Blood Pressure                  101.3 mmHg
+  2010-11-02 : Body Mass Index                          20.0 kg/m2
+  2010-11-02 : Body Weight                              55.8 kg
+  2010-11-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2010-11-02 : Body Height                              167.1 cm
+  2009-10-27 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-27 : Blood Pressure
+           - Diastolic Blood Pressure                 82.4 mmHg
+           - Systolic Blood Pressure                  115.9 mmHg
+  2009-10-27 : Body Mass Index                          19.5 kg/m2
+  2009-10-27 : Body Weight                              50.2 kg
+  2009-10-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2009-10-27 : Body Height                              160.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-11-25 : Documentation of current medications
+  2011-07-25 : Bone immobilization for Fracture subluxation of wrist
+  2011-07-25 : X-ray or wrist
+  2011-01-06 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2009-10-27 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-11-28 : meningococcal MCV4P
+  2017-11-28 : Hep B, adult
+  2017-11-28 : Td (adult) preservative free
+  2017-11-28 : Influenza, seasonal, injectable, preservative free
+  2014-11-25 : Influenza, seasonal, injectable, preservative free
+  2013-11-19 : Influenza, seasonal, injectable, preservative free
+  2012-11-13 : Influenza, seasonal, injectable, preservative free
+  2011-11-08 : meningococcal MCV4P
+  2011-11-08 : Influenza, seasonal, injectable, preservative free
+  2010-11-02 : Influenza, seasonal, injectable, preservative free
+  2009-10-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-11-28 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-06-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Viral sinusitis (disorder)
+2015-08-03 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Viral sinusitis (disorder)
+2014-11-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2013-11-15 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Viral sinusitis (disorder)
+2013-11-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2013-06-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Acute viral pharyngitis (disorder)
+2012-11-13 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-11-08 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-10-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Fracture subluxation of wrist
+2011-08-03 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Otitis media
+2011-07-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-01-18 (Dr. Marchelle563 Fadel536) : Encounter at CONCENTRA URGENT CARE - SPRINGFIELD
+2011-01-06 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Acute bronchitis (disorder)
+2010-11-02 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2009-10-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2011-07-25 : Digital Radiography, Wrist
+--------------------------------------------------------------------------------

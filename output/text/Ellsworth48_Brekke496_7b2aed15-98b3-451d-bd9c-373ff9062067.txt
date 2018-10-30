@@ -1,0 +1,139 @@
+Ellsworth48 Brekke496
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 35
+Birth Date:          1983-01-23
+Marital Status:      M
+Outpatient Provider: NORTH SHORE MEDICAL CENTER -
+Primary Care Provider: 81 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2001-06-03[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-05-22 - 2014-06-05 : Viral sinusitis (disorder)
+  2001-06-03 -            : Hypertension
+  1993-03-03 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-06-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+           - MCV [Entitic volume] by Automated count  93.5 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+           - Platelets [#/volume] in Blood by Automated count 154.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 208.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2017-06-25 : Lipid Panel
+           - Total Cholesterol                        191.3 mg/dL
+           - Triglycerides                            130.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.0 mg/dL
+           - High Density Lipoprotein Cholesterol     71.3 mg/dL
+  2014-06-22 : Lipid Panel
+           - Total Cholesterol                        189.8 mg/dL
+           - Triglycerides                            114.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.5 mg/dL
+           - High Density Lipoprotein Cholesterol     67.4 mg/dL
+  2011-06-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.2 %
+           - MCV [Entitic volume] by Automated count  92.4 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 284.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 265.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-06-25 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-25 : Estimated Glomerular Filtration Rate     95.9 mL/min/{1.73_m2}
+  2017-06-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2017-06-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 208.3 fL
+  2017-06-25 : Platelets [#/volume] in Blood by Automated count 154.1 10*3/uL
+  2017-06-25 : Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+  2017-06-25 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2017-06-25 : MCH [Entitic mass] by Automated count    30.2 pg
+  2017-06-25 : MCV [Entitic volume] by Automated count  93.5 fL
+  2017-06-25 : Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+  2017-06-25 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2017-06-25 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2017-06-25 : Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+  2017-06-25 : High Density Lipoprotein Cholesterol     71.3 mg/dL
+  2017-06-25 : Low Density Lipoprotein Cholesterol      94.0 mg/dL
+  2017-06-25 : Triglycerides                            130.0 mg/dL
+  2017-06-25 : Total Cholesterol                        191.3 mg/dL
+  2017-06-25 : Blood Pressure
+           - Diastolic Blood Pressure                 92.0 mmHg
+           - Systolic Blood Pressure                  195.1 mmHg
+  2017-06-25 : Body Mass Index                          27.0 kg/m2
+  2017-06-25 : Body Weight                              84.8 kg
+  2017-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-06-25 : Body Height                              177.2 cm
+  2014-06-22 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-22 : Estimated Glomerular Filtration Rate     139.5 mL/min/{1.73_m2}
+  2014-06-22 : High Density Lipoprotein Cholesterol     67.4 mg/dL
+  2014-06-22 : Low Density Lipoprotein Cholesterol      99.5 mg/dL
+  2014-06-22 : Triglycerides                            114.8 mg/dL
+  2014-06-22 : Total Cholesterol                        189.8 mg/dL
+  2014-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 100.5 mmHg
+           - Systolic Blood Pressure                  142.1 mmHg
+  2014-06-22 : Body Mass Index                          25.7 kg/m2
+  2014-06-22 : Body Weight                              80.7 kg
+  2014-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2014-06-22 : Body Height                              177.2 cm
+  2011-06-19 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-19 : Estimated Glomerular Filtration Rate     85.5 mL/min/{1.73_m2}
+  2011-06-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2011-06-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 265.6 fL
+  2011-06-19 : Platelets [#/volume] in Blood by Automated count 284.0 10*3/uL
+  2011-06-19 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2011-06-19 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2011-06-19 : MCH [Entitic mass] by Automated count    28.2 pg
+  2011-06-19 : MCV [Entitic volume] by Automated count  92.4 fL
+  2011-06-19 : Hematocrit [Volume Fraction] of Blood by Automated count 38.2 %
+  2011-06-19 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2011-06-19 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2011-06-19 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2011-06-19 : Blood Pressure
+           - Diastolic Blood Pressure                 118.7 mmHg
+           - Systolic Blood Pressure                  168.9 mmHg
+  2011-06-19 : Body Mass Index                          24.3 kg/m2
+  2011-06-19 : Body Weight                              76.2 kg
+  2011-06-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2011-06-19 : Body Height                              177.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-06-25 : Documentation of current medications
+  2011-06-19 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-06-25 : Influenza, seasonal, injectable, preservative free
+  2014-06-22 : Td (adult) preservative free
+  2014-06-22 : Influenza, seasonal, injectable, preservative free
+  2011-06-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-06-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-06-22 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-05-22 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2011-06-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2001-06-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1993-03-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

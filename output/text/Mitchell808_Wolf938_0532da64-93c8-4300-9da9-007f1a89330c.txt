@@ -1,0 +1,272 @@
+Mitchell808 Wolf938
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1935-07-27
+Marital Status:      M
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1953-09-19[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1999-02-08 - 1999-02-19 : Acute viral pharyngitis (disorder)
+  1998-07-20 - 1998-08-10 : Viral sinusitis (disorder)
+  1997-06-25 - 1997-07-16 : Viral sinusitis (disorder)
+  1992-08-08 - 1992-10-07 : Concussion with no loss of consciousness
+  1988-08-13 -            : Familial Alzheimer's disease of early onset (disorder)
+  1967-01-28 -            : Body mass index 30+ - obesity (finding)
+  1953-09-19 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1992-08-08[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  1988-08-13[CURRENT] : Demential management
+                         Reason: Familial Alzheimer's disease of early onset (disorder)
+                         Activity: Education about dementia
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+--------------------------------------------------------------------------------
+REPORTS:
+  2000-02-19 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Familial Alzheimer's disease of early onset (disorder) 
+  1998-07-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+           - MCV [Entitic volume] by Automated count  90.8 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+           - Platelets [#/volume] in Blood by Automated count 265.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 217.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  1998-07-18 : Lipid Panel
+           - Total Cholesterol                        169.9 mg/dL
+           - Triglycerides                            122.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.7 mg/dL
+           - High Density Lipoprotein Cholesterol     74.6 mg/dL
+  1995-02-11 : Lipid Panel
+           - Total Cholesterol                        163.2 mg/dL
+           - Triglycerides                            109.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      67.3 mg/dL
+           - High Density Lipoprotein Cholesterol     74.0 mg/dL
+  1993-01-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.9 %
+           - MCV [Entitic volume] by Automated count  81.9 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 364.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 452.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  1992-01-25 : Lipid Panel
+           - Total Cholesterol                        164.0 mg/dL
+           - Triglycerides                            101.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.3 mg/dL
+           - High Density Lipoprotein Cholesterol     71.5 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2000-02-19 : Cause of Death [US Standard Certificate of Death] Familial Alzheimer's disease of early onset (disorder) 
+  1999-07-18 : Prostate specific Ag [Mass/volume] in Serum or Plasma 3.5 ng/mL
+  1999-07-18 : Physical findings of Prostate            Normal size prostate {nominal}
+  1999-07-24 : Tobacco smoking status NHIS              Never smoker 
+  1999-07-24 : Estimated Glomerular Filtration Rate     93.1 mL/min/{1.73_m2}
+  1999-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 114.6 mmHg
+           - Systolic Blood Pressure                  177.5 mmHg
+  1999-07-24 : Body Mass Index                          36.9 kg/m2
+  1999-07-24 : Body Weight                              124.7 kg
+  1999-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  1999-07-24 : Body Height                              183.8 cm
+  1999-02-08 : Oral temperature                         37.2 Cel
+  1998-07-18 : Prostate specific Ag [Mass/volume] in Serum or Plasma 3.9 ng/mL
+  1998-07-18 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1998-07-18 : Tobacco smoking status NHIS              Never smoker 
+  1998-07-18 : Estimated Glomerular Filtration Rate     153.9 mL/min/{1.73_m2}
+  1998-07-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  1998-07-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 217.2 fL
+  1998-07-18 : Platelets [#/volume] in Blood by Automated count 265.8 10*3/uL
+  1998-07-18 : Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+  1998-07-18 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  1998-07-18 : MCH [Entitic mass] by Automated count    27.8 pg
+  1998-07-18 : MCV [Entitic volume] by Automated count  90.8 fL
+  1998-07-18 : Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+  1998-07-18 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  1998-07-18 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  1998-07-18 : Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+  1998-07-18 : High Density Lipoprotein Cholesterol     74.6 mg/dL
+  1998-07-18 : Low Density Lipoprotein Cholesterol      70.7 mg/dL
+  1998-07-18 : Triglycerides                            122.6 mg/dL
+  1998-07-18 : Total Cholesterol                        169.9 mg/dL
+  1998-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 96.9 mmHg
+           - Systolic Blood Pressure                  190.4 mmHg
+  1998-07-18 : Body Mass Index                          37.4 kg/m2
+  1998-07-18 : Body Weight                              126.3 kg
+  1998-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  1998-07-18 : Body Height                              183.8 cm
+  1997-07-19 : Tobacco smoking status NHIS              Never smoker 
+  1997-07-19 : Estimated Glomerular Filtration Rate     141.8 mL/min/{1.73_m2}
+  1997-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 117.9 mmHg
+           - Systolic Blood Pressure                  197.6 mmHg
+  1997-07-19 : Body Mass Index                          38.0 kg/m2
+  1997-07-19 : Body Weight                              128.2 kg
+  1997-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  1997-07-19 : Body Height                              183.8 cm
+  1997-02-16 : Prostate specific Ag [Mass/volume] in Serum or Plasma 1.0 ng/mL
+  1997-02-16 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1997-02-22 : Tobacco smoking status NHIS              Never smoker 
+  1997-02-22 : Estimated Glomerular Filtration Rate     95.4 mL/min/{1.73_m2}
+  1997-02-22 : Blood Pressure
+           - Diastolic Blood Pressure                 119.0 mmHg
+           - Systolic Blood Pressure                  142.4 mmHg
+  1997-02-22 : Body Mass Index                          38.0 kg/m2
+  1997-02-22 : Body Weight                              128.2 kg
+  1997-02-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  1997-02-22 : Body Height                              183.8 cm
+  1996-02-17 : Prostate specific Ag [Mass/volume] in Serum or Plasma 3.8 ng/mL
+  1996-02-17 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1996-02-17 : Tobacco smoking status NHIS              Never smoker 
+  1996-02-17 : Estimated Glomerular Filtration Rate     139.3 mL/min/{1.73_m2}
+  1996-02-17 : Blood Pressure
+           - Diastolic Blood Pressure                 92.6 mmHg
+           - Systolic Blood Pressure                  175.0 mmHg
+  1996-02-17 : Body Mass Index                          38.3 kg/m2
+  1996-02-17 : Body Weight                              129.4 kg
+  1996-02-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  1996-02-17 : Body Height                              183.8 cm
+  1995-02-11 : Tobacco smoking status NHIS              Never smoker 
+  1995-02-11 : Estimated Glomerular Filtration Rate     154.9 mL/min/{1.73_m2}
+  1995-02-11 : High Density Lipoprotein Cholesterol     74.0 mg/dL
+  1995-02-11 : Low Density Lipoprotein Cholesterol      67.3 mg/dL
+  1995-02-11 : Triglycerides                            109.5 mg/dL
+  1995-02-11 : Total Cholesterol                        163.2 mg/dL
+  1995-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 95.4 mmHg
+           - Systolic Blood Pressure                  189.1 mmHg
+  1995-02-11 : Body Mass Index                          38.7 kg/m2
+  1995-02-11 : Body Weight                              130.6 kg
+  1995-02-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  1995-02-11 : Body Height                              183.8 cm
+  1994-07-13 : Total score [MMSE]                       4.2 (score)
+  1994-02-05 : Tobacco smoking status NHIS              Never smoker 
+  1994-02-05 : Estimated Glomerular Filtration Rate     134.7 mL/min/{1.73_m2}
+  1994-02-05 : Blood Pressure
+           - Diastolic Blood Pressure                 92.0 mmHg
+           - Systolic Blood Pressure                  188.8 mmHg
+  1994-02-05 : Body Mass Index                          38.7 kg/m2
+  1994-02-05 : Body Weight                              130.6 kg
+  1994-02-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  1994-02-05 : Body Height                              183.8 cm
+  1993-01-30 : Tobacco smoking status NHIS              Never smoker 
+  1993-01-30 : Estimated Glomerular Filtration Rate     118.1 mL/min/{1.73_m2}
+  1993-01-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  1993-01-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 452.7 fL
+  1993-01-30 : Platelets [#/volume] in Blood by Automated count 364.5 10*3/uL
+  1993-01-30 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  1993-01-30 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  1993-01-30 : MCH [Entitic mass] by Automated count    30.0 pg
+  1993-01-30 : MCV [Entitic volume] by Automated count  81.9 fL
+  1993-01-30 : Hematocrit [Volume Fraction] of Blood by Automated count 49.9 %
+  1993-01-30 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  1993-01-30 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  1993-01-30 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  1993-01-30 : Blood Pressure
+           - Diastolic Blood Pressure                 112.6 mmHg
+           - Systolic Blood Pressure                  197.7 mmHg
+  1993-01-30 : Body Mass Index                          38.7 kg/m2
+  1993-01-30 : Body Weight                              130.6 kg
+  1993-01-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  1993-01-30 : Body Height                              183.8 cm
+  1992-02-24 : Total score [MMSE]                       8.3 (score)
+  1992-01-25 : Tobacco smoking status NHIS              Never smoker 
+  1992-01-25 : Estimated Glomerular Filtration Rate     97.4 mL/min/{1.73_m2}
+  1992-01-25 : High Density Lipoprotein Cholesterol     71.5 mg/dL
+  1992-01-25 : Low Density Lipoprotein Cholesterol      72.3 mg/dL
+  1992-01-25 : Triglycerides                            101.0 mg/dL
+  1992-01-25 : Total Cholesterol                        164.0 mg/dL
+  1992-01-25 : Blood Pressure
+           - Diastolic Blood Pressure                 112.5 mmHg
+           - Systolic Blood Pressure                  170.6 mmHg
+  1992-01-25 : Body Mass Index                          38.7 kg/m2
+  1992-01-25 : Body Weight                              130.6 kg
+  1992-01-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  1992-01-25 : Body Height                              183.8 cm
+  1991-01-19 : Tobacco smoking status NHIS              Never smoker 
+  1991-01-19 : Estimated Glomerular Filtration Rate     123.3 mL/min/{1.73_m2}
+  1991-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 115.3 mmHg
+           - Systolic Blood Pressure                  165.0 mmHg
+  1991-01-19 : Body Mass Index                          38.7 kg/m2
+  1991-01-19 : Body Weight                              130.6 kg
+  1991-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1991-01-19 : Body Height                              183.8 cm
+  1990-12-01 : Total score [MMSE]                       17.2 (score)
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1999-07-18 : Digital examination of rectum
+  1999-07-24 : Documentation of current medications
+  1998-07-18 : Digital examination of rectum
+  1997-02-16 : Digital examination of rectum
+  1996-02-17 : Digital examination of rectum
+  1996-02-17 : Documentation of current medications
+  1995-02-11 : Documentation of current medications
+  1991-01-19 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1999-02-13 : Influenza, seasonal, injectable, preservative free
+  1998-07-18 : Influenza, seasonal, injectable, preservative free
+  1997-02-22 : Td (adult) preservative free
+  1997-02-22 : Influenza, seasonal, injectable, preservative free
+  1996-02-17 : Influenza, seasonal, injectable, preservative free
+  1995-02-11 : Influenza, seasonal, injectable, preservative free
+  1994-02-05 : Influenza, seasonal, injectable, preservative free
+  1993-01-30 : Influenza, seasonal, injectable, preservative free
+  1992-01-25 : Influenza, seasonal, injectable, preservative free
+  1991-01-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2000-02-19 : Death Certification
+1999-07-24 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1999-02-20 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+1999-02-08 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute viral pharyngitis (disorder)
+1999-02-13 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+1998-07-20 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+1998-07-18 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1997-07-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1997-07-12 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+1997-07-05 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+1997-06-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+1997-06-28 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+1997-02-22 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1996-02-17 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1995-02-11 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1994-07-13 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Familial Alzheimer's disease of early onset (disorder)
+1994-02-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1993-01-30 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1992-10-07 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Concussion with no loss of consciousness
+1992-08-08 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+1992-02-24 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Familial Alzheimer's disease of early onset (disorder)
+1992-01-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1991-01-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1990-12-01 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Familial Alzheimer's disease of early onset (disorder)
+1988-08-13 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1967-01-28 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1953-09-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

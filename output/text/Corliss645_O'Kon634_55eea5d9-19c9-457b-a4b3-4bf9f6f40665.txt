@@ -1,0 +1,285 @@
+Corliss645 O'Kon634
+============'======
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1975-10-07
+Marital Status:      M
+Outpatient Provider: NORTH SHORE MEDICAL CENTER -
+Primary Care Provider: 81 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-09-27[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Localized, primary osteoarthritis of the hand
+  2015-08-30[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2013-11-20[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2011-04-07[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2009-04-28[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-05-03 -            : Prediabetes
+  2015-09-27 -            : Localized, primary osteoarthritis of the hand
+  2015-08-30 - 2015-09-06 : Acute bronchitis (disorder)
+  2014-04-29 -            : Body mass index 40+ - severely obese (finding)
+  2013-11-20 - 2013-12-18 : Sprain of ankle
+  2011-04-07 - 2011-04-21 : Acute bronchitis (disorder)
+  2009-04-28 - 2009-05-12 : Acute bronchitis (disorder)
+  2003-08-04 -            : Drug overdose
+  1997-12-08 -            : Body mass index 30+ - obesity (finding)
+  1990-12-03 -            : Chronic pain
+  1990-04-09 -            : Chronic intractable migraine without aura
+  1990-01-31 -            : Impacted molars
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-05-03[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2015-09-27[CURRENT] : Musculoskeletal care
+                         Reason: Localized, primary osteoarthritis of the hand
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2015-08-30[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2013-11-20[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2011-04-07[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2009-04-28[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2003-08-04[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-05-08 : Lipid Panel
+           - Total Cholesterol                        176.2 mg/dL
+           - Triglycerides                            119.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.7 mg/dL
+           - High Density Lipoprotein Cholesterol     68.5 mg/dL
+  2018-05-08 : Basic Metabolic Panel
+           - Glucose                                  77.2 mg/dL
+           - Urea Nitrogen                            19.7 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   142.9 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           20.1 mmol/L
+  2016-05-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.1 %
+           - MCV [Entitic volume] by Automated count  90.8 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+           - Platelets [#/volume] in Blood by Automated count 289.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 312.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2014-04-29 : Lipid Panel
+           - Total Cholesterol                        163.1 mg/dL
+           - Triglycerides                            109.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.8 mg/dL
+           - High Density Lipoprotein Cholesterol     72.4 mg/dL
+  2010-02-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+           - MCV [Entitic volume] by Automated count  88.0 fL
+           - MCH [Entitic mass] by Automated count    33.0 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+           - Platelets [#/volume] in Blood by Automated count 350.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 442.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2010-02-08 : Lipid Panel
+           - Total Cholesterol                        176.0 mg/dL
+           - Triglycerides                            112.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      90.6 mg/dL
+           - High Density Lipoprotein Cholesterol     62.9 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-08 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2018-05-08 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-08 : High Density Lipoprotein Cholesterol     68.5 mg/dL
+  2018-05-08 : Low Density Lipoprotein Cholesterol      83.7 mg/dL
+  2018-05-08 : Triglycerides                            119.9 mg/dL
+  2018-05-08 : Total Cholesterol                        176.2 mg/dL
+  2018-05-08 : Carbon Dioxide                           20.1 mmol/L
+  2018-05-08 : Chloride                                 109.5 mmol/L
+  2018-05-08 : Potassium                                5.1 mmol/L
+  2018-05-08 : Sodium                                   142.9 mmol/L
+  2018-05-08 : Calcium                                  9.4 mg/dL
+  2018-05-08 : Creatinine                               1.4 mg/dL
+  2018-05-08 : Urea Nitrogen                            19.7 mg/dL
+  2018-05-08 : Glucose                                  77.2 mg/dL
+  2018-05-08 : Blood Pressure
+           - Diastolic Blood Pressure                 82.2 mmHg
+           - Systolic Blood Pressure                  129.9 mmHg
+  2018-05-08 : Body Mass Index                          43.1 kg/m2
+  2018-05-08 : Body Weight                              106.7 kg
+  2018-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2018-05-08 : Body Height                              157.4 cm
+  2016-05-03 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-05-03 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2016-05-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 312.7 fL
+  2016-05-03 : Platelets [#/volume] in Blood by Automated count 289.1 10*3/uL
+  2016-05-03 : Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+  2016-05-03 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2016-05-03 : MCH [Entitic mass] by Automated count    32.0 pg
+  2016-05-03 : MCV [Entitic volume] by Automated count  90.8 fL
+  2016-05-03 : Hematocrit [Volume Fraction] of Blood by Automated count 47.1 %
+  2016-05-03 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2016-05-03 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2016-05-03 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2016-05-03 : Blood Pressure
+           - Diastolic Blood Pressure                 86.4 mmHg
+           - Systolic Blood Pressure                  126.8 mmHg
+  2016-05-03 : Body Mass Index                          41.8 kg/m2
+  2016-05-03 : Body Weight                              103.6 kg
+  2016-05-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2016-05-03 : Body Height                              157.4 cm
+  2016-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.8 {score}
+  2015-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.1 {score}
+  2014-04-29 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-29 : High Density Lipoprotein Cholesterol     72.4 mg/dL
+  2014-04-29 : Low Density Lipoprotein Cholesterol      68.8 mg/dL
+  2014-04-29 : Triglycerides                            109.6 mg/dL
+  2014-04-29 : Total Cholesterol                        163.1 mg/dL
+  2014-04-29 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mmHg
+           - Systolic Blood Pressure                  133.8 mmHg
+  2014-04-29 : Body Mass Index                          41.0 kg/m2
+  2014-04-29 : Body Weight                              101.5 kg
+  2014-04-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2014-04-29 : Body Height                              157.4 cm
+  2011-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 75.7 mmHg
+           - Systolic Blood Pressure                  133.0 mmHg
+  2011-04-26 : Body Mass Index                          39.0 kg/m2
+  2011-04-26 : Body Weight                              96.7 kg
+  2011-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2011-04-26 : Body Height                              157.4 cm
+  2010-02-08 : Tobacco smoking status NHIS              Never smoker 
+  2010-02-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2010-02-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 442.8 fL
+  2010-02-08 : Platelets [#/volume] in Blood by Automated count 350.1 10*3/uL
+  2010-02-08 : Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+  2010-02-08 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2010-02-08 : MCH [Entitic mass] by Automated count    33.0 pg
+  2010-02-08 : MCV [Entitic volume] by Automated count  88.0 fL
+  2010-02-08 : Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+  2010-02-08 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2010-02-08 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2010-02-08 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2010-02-08 : High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2010-02-08 : Low Density Lipoprotein Cholesterol      90.6 mg/dL
+  2010-02-08 : Triglycerides                            112.8 mg/dL
+  2010-02-08 : Total Cholesterol                        176.0 mg/dL
+  2010-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 80.7 mmHg
+           - Systolic Blood Pressure                  122.8 mmHg
+  2010-02-08 : Body Mass Index                          38.6 kg/m2
+  2010-02-08 : Body Weight                              95.5 kg
+  2010-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2010-02-08 : Body Height                              157.4 cm
+  2009-06-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-05-03 : Documentation of current medications
+  2015-08-30 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2011-04-26 : Documentation of current medications
+  2010-02-08 : Documentation of current medications
+  2009-04-28 : Sputum examination (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-08 : Hep A, adult
+  2018-05-08 : Td (adult) preservative free
+  2018-05-08 : Influenza, seasonal, injectable, preservative free
+  2016-05-03 : Hep A, adult
+  2016-05-03 : Influenza, seasonal, injectable, preservative free
+  2015-09-08 : Influenza, seasonal, injectable, preservative free
+  2014-04-29 : Influenza, seasonal, injectable, preservative free
+  2011-04-19 : Influenza, seasonal, injectable, preservative free
+  2011-04-12 : Influenza, seasonal, injectable, preservative free
+  2010-02-08 : Influenza, seasonal, injectable, preservative free
+  2009-05-12 : Influenza, seasonal, injectable, preservative free
+  2009-05-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-08 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-01-23 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-12-24 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-11-24 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-10-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-09-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-08-27 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-02-02 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-08-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-07-04 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-06-04 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-05-05 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-05-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-04-05 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-03-05 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-02-04 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-01-21 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-12-31 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2015-09-27 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Localized, primary osteoarthritis of the hand
+2015-09-08 (Dr. Renaldo199 King743) : Encounter at FAMILY DOCTORS
+2015-08-30 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute bronchitis (disorder)
+2014-09-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-08-04 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-07-28 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2014-04-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-11-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-11-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-10-31 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-06-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-05-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-04-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-03-21 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-02-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-07-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+2011-04-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-04-19 (Dr. Renaldo199 King743) : Encounter at FAMILY DOCTORS
+2011-04-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute bronchitis (disorder)
+2011-04-12 (Dr. Renaldo199 King743) : Encounter at FAMILY DOCTORS
+2010-02-08 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-01-22 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-12-23 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-11-23 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-10-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-09-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-08-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-07-27 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-06-15 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-05-12 (Dr. Renaldo199 King743) : Encounter at FAMILY DOCTORS
+2009-05-05 (Dr. Renaldo199 King743) : Encounter at FAMILY DOCTORS
+2009-04-28 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute bronchitis (disorder)
+2003-08-04 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Drug overdose
+1997-12-08 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+1990-12-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic pain
+1990-04-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic intractable migraine without aura
+1990-01-31 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Impacted molars
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,293 @@
+Ashlie138 Hills818
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 9
+Birth Date:          2009-07-18
+Marital Status:      S
+Outpatient Provider: LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+Primary Care Provider: 41 & 45 MALL ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-01-21[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2012-07-02[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2009-12-19[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-01-21 - 2016-01-28 : Viral sinusitis (disorder)
+  2012-07-02 - 2012-08-01 : Fracture of forearm
+  2011-01-29 - 2011-02-11 : Acute viral pharyngitis (disorder)
+  2009-12-19 - 2010-01-01 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-07-02[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-07-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+           - MCV [Entitic volume] by Automated count  87.8 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+           - Platelets [#/volume] in Blood by Automated count 345.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 203.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2009-07-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+           - MCV [Entitic volume] by Automated count  83.6 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+           - Platelets [#/volume] in Blood by Automated count 424.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 433.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-21 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-21 : Blood Pressure
+           - Diastolic Blood Pressure                 72.5 mmHg
+           - Systolic Blood Pressure                  138.6 mmHg
+  2018-07-21 : Body Mass Index                          19.9 kg/m2
+  2018-07-21 : Body Weight                              31.5 kg
+  2018-07-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2018-07-21 : Body Height                              126.0 cm
+  2017-07-15 : Tobacco smoking status NHIS              Never smoker 
+  2017-07-15 : Blood Pressure
+           - Diastolic Blood Pressure                 74.8 mmHg
+           - Systolic Blood Pressure                  105.7 mmHg
+  2017-07-15 : Body Mass Index                          18.9 kg/m2
+  2017-07-15 : Body Weight                              27.7 kg
+  2017-07-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2017-07-15 : Body Height                              121.1 cm
+  2016-07-09 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-09 : Blood Pressure
+           - Diastolic Blood Pressure                 77.4 mmHg
+           - Systolic Blood Pressure                  113.1 mmHg
+  2016-07-09 : Body Mass Index                          18.4 kg/m2
+  2016-07-09 : Body Weight                              24.5 kg
+  2016-07-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2016-07-09 : Body Height                              115.3 cm
+  2015-07-04 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2015-07-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 203.3 fL
+  2015-07-04 : Platelets [#/volume] in Blood by Automated count 345.8 10*3/uL
+  2015-07-04 : Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+  2015-07-04 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2015-07-04 : MCH [Entitic mass] by Automated count    30.2 pg
+  2015-07-04 : MCV [Entitic volume] by Automated count  87.8 fL
+  2015-07-04 : Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+  2015-07-04 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2015-07-04 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2015-07-04 : Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+  2015-07-04 : Blood Pressure
+           - Diastolic Blood Pressure                 86.8 mmHg
+           - Systolic Blood Pressure                  110.4 mmHg
+  2015-07-04 : Body Mass Index                          18.3 kg/m2
+  2015-07-04 : Body Weight                              21.7 kg
+  2015-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2015-07-04 : Body Height                              108.9 cm
+  2014-06-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-28 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mmHg
+           - Systolic Blood Pressure                  117.3 mmHg
+  2014-06-28 : Body Mass Index                          18.3 kg/m2
+  2014-06-28 : Body Weight                              19.1 kg
+  2014-06-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-06-28 : Body Height                              102.3 cm
+  2013-06-22 : Tobacco smoking status NHIS              Never smoker 
+  2013-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  132.1 mmHg
+  2013-06-22 : Body Mass Index                          18.2 kg/m2
+  2013-06-22 : Body Weight                              16.5 kg
+  2013-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2013-06-22 : Body Height                              95.2 cm
+  2012-12-22 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-22 : Blood Pressure
+           - Diastolic Blood Pressure                 81.3 mmHg
+           - Systolic Blood Pressure                  134.2 mmHg
+  2012-12-22 : Body Mass Index                          18.2 kg/m2
+  2012-12-22 : Body Weight                              15.5 kg
+  2012-12-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2012-12-22 : Body Height                              92.1 cm
+  2012-06-23 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-23 : Blood Pressure
+           - Diastolic Blood Pressure                 81.8 mmHg
+           - Systolic Blood Pressure                  100.1 mmHg
+  2012-06-23 : Body Mass Index                          18.3 kg/m2
+  2012-06-23 : Body Weight                              14.4 kg
+  2012-06-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2012-06-23 : Body Height                              88.8 cm
+  2011-12-24 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-24 : Blood Pressure
+           - Diastolic Blood Pressure                 71.4 mmHg
+           - Systolic Blood Pressure                  101.4 mmHg
+  2011-12-24 : Body Mass Index                          18.7 kg/m2
+  2011-12-24 : Body Weight                              13.4 kg
+  2011-12-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2011-12-24 : Body Height                              84.7 cm
+  2011-06-25 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-25 : Blood Pressure
+           - Diastolic Blood Pressure                 85.4 mmHg
+           - Systolic Blood Pressure                  105.4 mmHg
+  2011-06-25 : Body Weight                              12.6 kg
+  2011-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2011-06-25 : Body Height                              81.5 cm
+  2011-01-29 : Oral temperature                         37.7 Cel
+  2010-12-25 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-25 : Blood Pressure
+           - Diastolic Blood Pressure                 78.7 mmHg
+           - Systolic Blood Pressure                  111.6 mmHg
+  2010-12-25 : Body Weight                              11.4 kg
+  2010-12-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2010-12-25 : Body Height                              76.3 cm
+  2010-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 70.5 mmHg
+           - Systolic Blood Pressure                  106.3 mmHg
+  2010-09-25 : Body Weight                              10.7 kg
+  2010-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-09-25 : Body Height                              73.3 cm
+  2010-06-26 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  117.0 mmHg
+  2010-06-26 : Body Weight                              9.8 kg
+  2010-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2010-06-26 : Body Height                              70.0 cm
+  2010-03-27 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-27 : Blood Pressure
+           - Diastolic Blood Pressure                 79.2 mmHg
+           - Systolic Blood Pressure                  114.6 mmHg
+  2010-03-27 : Body Weight                              8.8 kg
+  2010-03-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2010-03-27 : Body Height                              66.2 cm
+  2009-12-26 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-26 : Blood Pressure
+           - Diastolic Blood Pressure                 79.8 mmHg
+           - Systolic Blood Pressure                  114.8 mmHg
+  2009-12-26 : Body Weight                              7.4 kg
+  2009-12-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2009-12-26 : Body Height                              61.6 cm
+  2009-12-19 : Oral temperature                         37.8 Cel
+  2009-10-24 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-24 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  120.3 mmHg
+  2009-10-24 : Body Weight                              5.5 kg
+  2009-10-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2009-10-24 : Body Height                              55.5 cm
+  2009-08-22 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-22 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  111.0 mmHg
+  2009-08-22 : Body Weight                              4.0 kg
+  2009-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2009-08-22 : Body Height                              49.1 cm
+  2009-07-18 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2009-07-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 433.2 fL
+  2009-07-18 : Platelets [#/volume] in Blood by Automated count 424.3 10*3/uL
+  2009-07-18 : Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+  2009-07-18 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2009-07-18 : MCH [Entitic mass] by Automated count    30.1 pg
+  2009-07-18 : MCV [Entitic volume] by Automated count  83.6 fL
+  2009-07-18 : Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+  2009-07-18 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2009-07-18 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2009-07-18 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2009-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2009-07-18 : Body Weight                              4.0 kg
+  2009-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2009-07-18 : Body Height                              49.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-07-21 : Documentation of current medications
+  2013-06-22 : Documentation of current medications
+  2012-07-02 : Bone immobilization for Fracture of forearm
+  2012-07-02 : Upper arm X-ray
+  2011-12-24 : Documentation of current medications
+  2011-01-29 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2010-06-26 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-21 : Influenza, seasonal, injectable, preservative free
+  2017-07-15 : Influenza, seasonal, injectable, preservative free
+  2016-07-09 : Influenza, seasonal, injectable, preservative free
+  2015-07-04 : Influenza, seasonal, injectable, preservative free
+  2014-06-28 : MMR
+  2014-06-28 : DTaP
+  2014-06-28 : Influenza, seasonal, injectable, preservative free
+  2014-06-28 : IPV
+  2014-06-28 : varicella
+  2013-06-22 : Influenza, seasonal, injectable, preservative free
+  2012-06-23 : Influenza, seasonal, injectable, preservative free
+  2011-12-24 : Hep A, ped/adol, 2 dose
+  2011-06-25 : Influenza, seasonal, injectable, preservative free
+  2010-12-25 : DTaP
+  2010-09-25 : Hep A, ped/adol, 2 dose
+  2010-09-25 : Pneumococcal conjugate PCV 13
+  2010-09-25 : MMR
+  2010-09-25 : varicella
+  2010-09-25 : Hib (PRP-OMP)
+  2010-06-26 : Pneumococcal conjugate PCV 13
+  2010-03-27 : Hep B, adolescent or pediatric
+  2010-03-27 : Pneumococcal conjugate PCV 13
+  2010-03-27 : DTaP
+  2010-03-27 : Influenza, seasonal, injectable, preservative free
+  2010-03-27 : IPV
+  2009-12-26 : Pneumococcal conjugate PCV 13
+  2009-12-26 : DTaP
+  2009-12-26 : IPV
+  2009-12-26 : rotavirus, monovalent
+  2009-12-26 : Hib (PRP-OMP)
+  2009-10-24 : DTaP
+  2009-10-24 : IPV
+  2009-10-24 : rotavirus, monovalent
+  2009-10-24 : Hib (PRP-OMP)
+  2009-08-22 : Hep B, adolescent or pediatric
+  2009-07-18 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-21 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2017-07-15 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2016-07-09 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2016-01-21 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Viral sinusitis (disorder)
+2015-07-04 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2014-06-28 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2013-06-22 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2012-12-22 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2012-08-01 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Fracture of forearm
+2012-07-02 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2012-06-23 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2011-12-24 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2011-06-25 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2011-01-29 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute viral pharyngitis (disorder)
+2010-12-25 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2010-09-25 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2010-06-26 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2010-03-27 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2009-12-26 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2009-12-19 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute viral pharyngitis (disorder)
+2009-10-24 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2009-08-22 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2009-07-18 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2012-07-02 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

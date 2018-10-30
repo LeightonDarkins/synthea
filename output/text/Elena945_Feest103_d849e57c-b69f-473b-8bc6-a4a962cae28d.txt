@@ -1,0 +1,140 @@
+Elena945 Feest103
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 41
+Birth Date:          1977-05-29
+Marital Status:      M
+Outpatient Provider: BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+Primary Care Provider: 275 SANDWICH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2010-07-22[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2012-01-19 - 2012-01-31 : Acute viral pharyngitis (disorder)
+  2010-09-12 - 2010-09-24 : Acute viral pharyngitis (disorder)
+  2010-07-22 - 2010-08-05 : Viral sinusitis (disorder)
+  2005-08-07 -            : Body mass index 30+ - obesity (finding)
+  1994-12-18 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-06-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+           - MCV [Entitic volume] by Automated count  89.0 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 191.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 429.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2014-08-17 : Lipid Panel
+           - Total Cholesterol                        194.8 mg/dL
+           - Triglycerides                            117.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      103.6 mg/dL
+           - High Density Lipoprotein Cholesterol     67.9 mg/dL
+  2011-08-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+           - MCV [Entitic volume] by Automated count  84.7 fL
+           - MCH [Entitic mass] by Automated count    28.3 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 365.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 354.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2011-08-14 : Lipid Panel
+           - Total Cholesterol                        195.1 mg/dL
+           - Triglycerides                            138.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      105.7 mg/dL
+           - High Density Lipoprotein Cholesterol     61.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-06-04 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2017-06-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 429.1 fL
+  2017-06-04 : Platelets [#/volume] in Blood by Automated count 191.4 10*3/uL
+  2017-06-04 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2017-06-04 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2017-06-04 : MCH [Entitic mass] by Automated count    29.3 pg
+  2017-06-04 : MCV [Entitic volume] by Automated count  89.0 fL
+  2017-06-04 : Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+  2017-06-04 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2017-06-04 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2017-06-04 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  2017-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  122.4 mmHg
+  2017-06-04 : Body Mass Index                          37.5 kg/m2
+  2017-06-04 : Body Weight                              90.8 kg
+  2017-06-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-06-04 : Body Height                              155.6 cm
+  2014-08-17 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-17 : High Density Lipoprotein Cholesterol     67.9 mg/dL
+  2014-08-17 : Low Density Lipoprotein Cholesterol      103.6 mg/dL
+  2014-08-17 : Triglycerides                            117.0 mg/dL
+  2014-08-17 : Total Cholesterol                        194.8 mg/dL
+  2014-08-17 : Blood Pressure
+           - Diastolic Blood Pressure                 80.7 mmHg
+           - Systolic Blood Pressure                  114.3 mmHg
+  2014-08-17 : Body Mass Index                          36.3 kg/m2
+  2014-08-17 : Body Weight                              87.9 kg
+  2014-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2014-08-17 : Body Height                              155.6 cm
+  2012-01-19 : Oral temperature                         37.7 Cel
+  2011-08-14 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2011-08-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 354.7 fL
+  2011-08-14 : Platelets [#/volume] in Blood by Automated count 365.4 10*3/uL
+  2011-08-14 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2011-08-14 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2011-08-14 : MCH [Entitic mass] by Automated count    28.3 pg
+  2011-08-14 : MCV [Entitic volume] by Automated count  84.7 fL
+  2011-08-14 : Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+  2011-08-14 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2011-08-14 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2011-08-14 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2011-08-14 : High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2011-08-14 : Low Density Lipoprotein Cholesterol      105.7 mg/dL
+  2011-08-14 : Triglycerides                            138.0 mg/dL
+  2011-08-14 : Total Cholesterol                        195.1 mg/dL
+  2011-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 83.8 mmHg
+           - Systolic Blood Pressure                  133.0 mmHg
+  2011-08-14 : Body Mass Index                          34.5 kg/m2
+  2011-08-14 : Body Weight                              83.5 kg
+  2011-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2011-08-14 : Body Height                              155.6 cm
+  2010-09-12 : Oral temperature                         37.4 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-06-04 : Hep A, adult
+  2017-06-04 : Influenza, seasonal, injectable, preservative free
+  2014-08-17 : Influenza, seasonal, injectable, preservative free
+  2011-08-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-06-04 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2014-08-17 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2012-01-19 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Acute viral pharyngitis (disorder)
+2011-08-14 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2010-09-12 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Acute viral pharyngitis (disorder)
+2010-07-22 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Viral sinusitis (disorder)
+2005-08-07 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1994-12-18 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

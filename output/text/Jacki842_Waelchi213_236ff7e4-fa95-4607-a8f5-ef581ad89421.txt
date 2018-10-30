@@ -1,0 +1,341 @@
+Jacki842 Waelchi213
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 42
+Birth Date:          1976-05-05
+Marital Status:      M
+Outpatient Provider: BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+Primary Care Provider: 148 CHESTNUT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-11-10[CURRENT] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2016-11-15[STOPPED] : 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe
+  2014-11-20[STOPPED] : Mirena 52 MG Intrauterine System
+  2013-11-25[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2009-12-16[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2007-11-28[STOPPED] : Errin 28 Day Pack
+  2001-12-18[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-03-28 - 2015-04-18 : Viral sinusitis (disorder)
+  2012-02-22 - 2012-09-26 : Normal pregnancy
+  2009-04-01 - 2009-11-04 : Normal pregnancy
+  2007-07-11 -            : Body mass index 30+ - obesity (finding)
+  2003-04-23 -            : Miscarriage in first trimester
+  2000-08-23 -            : Stroke
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-02-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2009-04-01[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-05-16 : Lipid Panel
+           - Total Cholesterol                        161.9 mg/dL
+           - Triglycerides                            140.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      67.7 mg/dL
+           - High Density Lipoprotein Cholesterol     66.1 mg/dL
+  2016-05-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+           - MCV [Entitic volume] by Automated count  89.7 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 388.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 424.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2013-07-17 : Lipid Panel
+           - Total Cholesterol                        178.1 mg/dL
+           - Triglycerides                            142.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.3 mg/dL
+           - High Density Lipoprotein Cholesterol     68.5 mg/dL
+  2010-07-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.1 %
+           - MCV [Entitic volume] by Automated count  80.6 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+           - Platelets [#/volume] in Blood by Automated count 371.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 317.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2010-07-14 : Lipid Panel
+           - Total Cholesterol                        186.4 mg/dL
+           - Triglycerides                            105.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      106.2 mg/dL
+           - High Density Lipoprotein Cholesterol     59.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-16 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-16 : High Density Lipoprotein Cholesterol     66.1 mg/dL
+  2018-05-16 : Low Density Lipoprotein Cholesterol      67.7 mg/dL
+  2018-05-16 : Triglycerides                            140.7 mg/dL
+  2018-05-16 : Total Cholesterol                        161.9 mg/dL
+  2018-05-16 : Blood Pressure
+           - Diastolic Blood Pressure                 80.8 mmHg
+           - Systolic Blood Pressure                  107.5 mmHg
+  2018-05-16 : Body Mass Index                          36.8 kg/m2
+  2018-05-16 : Body Weight                              93.8 kg
+  2018-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2018-05-16 : Body Height                              159.6 cm
+  2016-05-11 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2016-05-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 424.4 fL
+  2016-05-11 : Platelets [#/volume] in Blood by Automated count 388.8 10*3/uL
+  2016-05-11 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  2016-05-11 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2016-05-11 : MCH [Entitic mass] by Automated count    29.0 pg
+  2016-05-11 : MCV [Entitic volume] by Automated count  89.7 fL
+  2016-05-11 : Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+  2016-05-11 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2016-05-11 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2016-05-11 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2016-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 70.1 mmHg
+           - Systolic Blood Pressure                  100.5 mmHg
+  2016-05-11 : Body Mass Index                          35.3 kg/m2
+  2016-05-11 : Body Weight                              89.9 kg
+  2016-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2016-05-11 : Body Height                              159.6 cm
+  2013-07-17 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-17 : High Density Lipoprotein Cholesterol     68.5 mg/dL
+  2013-07-17 : Low Density Lipoprotein Cholesterol      81.3 mg/dL
+  2013-07-17 : Triglycerides                            142.1 mg/dL
+  2013-07-17 : Total Cholesterol                        178.1 mg/dL
+  2013-07-17 : Blood Pressure
+           - Diastolic Blood Pressure                 85.9 mmHg
+           - Systolic Blood Pressure                  102.5 mmHg
+  2013-07-17 : Body Mass Index                          34.3 kg/m2
+  2013-07-17 : Body Weight                              87.4 kg
+  2013-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2013-07-17 : Body Height                              159.6 cm
+  2010-07-14 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2010-07-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 317.2 fL
+  2010-07-14 : Platelets [#/volume] in Blood by Automated count 371.9 10*3/uL
+  2010-07-14 : Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+  2010-07-14 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2010-07-14 : MCH [Entitic mass] by Automated count    30.1 pg
+  2010-07-14 : MCV [Entitic volume] by Automated count  80.6 fL
+  2010-07-14 : Hematocrit [Volume Fraction] of Blood by Automated count 43.1 %
+  2010-07-14 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2010-07-14 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2010-07-14 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2010-07-14 : High Density Lipoprotein Cholesterol     59.0 mg/dL
+  2010-07-14 : Low Density Lipoprotein Cholesterol      106.2 mg/dL
+  2010-07-14 : Triglycerides                            105.6 mg/dL
+  2010-07-14 : Total Cholesterol                        186.4 mg/dL
+  2010-07-14 : Blood Pressure
+           - Diastolic Blood Pressure                 87.9 mmHg
+           - Systolic Blood Pressure                  119.3 mmHg
+  2010-07-14 : Body Mass Index                          32.8 kg/m2
+  2010-07-14 : Body Weight                              83.6 kg
+  2010-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2010-07-14 : Body Height                              159.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-22 : Intramuscular injection
+  2018-05-23 : Intramuscular injection
+  2018-02-21 : Intramuscular injection
+  2017-11-22 : Intramuscular injection
+  2017-11-10 : Intramuscular injection
+  2017-08-23 : Intramuscular injection
+  2017-05-24 : Intramuscular injection
+  2017-02-22 : Intramuscular injection
+  2016-11-23 : Intramuscular injection
+  2016-11-15 : Intramuscular injection
+  2016-08-24 : Intramuscular injection
+  2016-05-25 : Intramuscular injection
+  2016-02-24 : Intramuscular injection
+  2015-11-25 : Intramuscular injection
+  2015-08-26 : Intramuscular injection
+  2015-05-27 : Intramuscular injection
+  2015-02-25 : Intramuscular injection
+  2014-11-26 : Intramuscular injection
+  2014-11-24 : Insertion of intrauterine contraceptive device
+  2014-08-27 : Intramuscular injection
+  2014-05-28 : Intramuscular injection
+  2014-02-26 : Intramuscular injection
+  2013-11-25 : Intramuscular injection
+  2012-11-07 : Depression screening
+  2012-11-07 : Physical examination following birth
+  2012-09-26 : Childbirth for Normal pregnancy
+  2012-09-26 : Episiotomy for Normal pregnancy
+  2012-09-19 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-05 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-05 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-08-08 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-11 : Auscultation of the fetal heart for Normal pregnancy
+  2012-07-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-11 : Urine screening for glucose for Normal pregnancy
+  2012-07-11 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-07-11 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-06-13 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-16 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-18 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-18 : Alpha-fetoprotein test for Normal pregnancy
+  2012-04-18 : Fetal anatomy study for Normal pregnancy
+  2012-03-21 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-03-21 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-02-22 : Physical examination of mother for Normal pregnancy
+  2012-02-22 : Urine protein test for Normal pregnancy
+  2012-02-22 : Skin test for tuberculosis for Normal pregnancy
+  2012-02-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-02-22 : Rubella screening for Normal pregnancy
+  2012-02-22 : Hepatitis C antibody test for Normal pregnancy
+  2012-02-22 : Urine screening test for diabetes for Normal pregnancy
+  2012-02-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-02-22 : Urine culture for Normal pregnancy
+  2012-02-22 : Syphilis infection test for Normal pregnancy
+  2012-02-22 : Gonorrhea infection test for Normal pregnancy
+  2012-02-22 : Chlamydia antigen test for Normal pregnancy
+  2012-02-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-02-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-02-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-02-22 : Blood typing, RH typing for Normal pregnancy
+  2012-02-22 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-02-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-02-22 : Standard pregnancy test for Normal pregnancy
+  2010-07-14 : Documentation of current medications
+  2009-12-16 : Depression screening
+  2009-12-16 : Physical examination following birth
+  2009-11-04 : Childbirth for Normal pregnancy
+  2009-10-28 : Auscultation of the fetal heart for Normal pregnancy
+  2009-10-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-10-14 : Auscultation of the fetal heart for Normal pregnancy
+  2009-10-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-10-14 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2009-09-16 : Auscultation of the fetal heart for Normal pregnancy
+  2009-09-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-08-19 : Auscultation of the fetal heart for Normal pregnancy
+  2009-08-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-08-19 : Urine screening for glucose for Normal pregnancy
+  2009-08-19 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2009-08-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-07-22 : Auscultation of the fetal heart for Normal pregnancy
+  2009-07-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-06-24 : Auscultation of the fetal heart for Normal pregnancy
+  2009-06-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-27 : Auscultation of the fetal heart for Normal pregnancy
+  2009-05-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-27 : Alpha-fetoprotein test for Normal pregnancy
+  2009-05-27 : Fetal anatomy study for Normal pregnancy
+  2009-04-29 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2009-04-29 : Auscultation of the fetal heart for Normal pregnancy
+  2009-04-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-04-01 : Physical examination of mother for Normal pregnancy
+  2009-04-01 : Urine protein test for Normal pregnancy
+  2009-04-01 : Skin test for tuberculosis for Normal pregnancy
+  2009-04-01 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2009-04-01 : Rubella screening for Normal pregnancy
+  2009-04-01 : Hepatitis C antibody test for Normal pregnancy
+  2009-04-01 : Urine screening test for diabetes for Normal pregnancy
+  2009-04-01 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2009-04-01 : Urine culture for Normal pregnancy
+  2009-04-01 : Syphilis infection test for Normal pregnancy
+  2009-04-01 : Gonorrhea infection test for Normal pregnancy
+  2009-04-01 : Chlamydia antigen test for Normal pregnancy
+  2009-04-01 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2009-04-01 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2009-04-01 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-04-01 : Blood typing, RH typing for Normal pregnancy
+  2009-04-01 : Auscultation of the fetal heart for Normal pregnancy
+  2009-04-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-04-01 : Ultrasound scan for fetal viability for Normal pregnancy
+  2009-04-01 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-16 : Hep A, adult
+  2018-05-16 : Td (adult) preservative free
+  2018-05-16 : Influenza, seasonal, injectable, preservative free
+  2016-05-11 : Hep A, adult
+  2016-05-11 : Influenza, seasonal, injectable, preservative free
+  2013-07-17 : Influenza, seasonal, injectable, preservative free
+  2010-07-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-22 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2018-05-23 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2018-05-16 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2018-02-21 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2017-11-22 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2017-11-10 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2017-08-23 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2017-05-24 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2017-02-22 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2016-11-23 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2016-11-15 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2016-08-24 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2016-05-25 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2016-05-11 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2016-02-24 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2015-11-25 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2015-08-26 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2015-05-27 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2015-03-28 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Viral sinusitis (disorder)
+2015-02-25 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2014-11-26 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2014-11-24 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2014-11-20 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2014-08-27 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2014-05-28 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2014-02-26 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2013-11-25 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2013-07-17 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2012-11-07 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2012-09-26 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-09-19 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-09-05 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-08-08 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-07-11 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-06-13 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-05-16 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-04-18 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-03-21 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2012-02-22 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2010-07-14 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2009-12-16 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2009-12-16 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2009-11-04 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-10-28 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-10-14 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-09-16 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-08-19 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-07-22 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-06-24 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-05-27 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-04-29 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2009-04-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2007-11-28 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2007-07-11 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2003-04-23 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Normal pregnancy
+2001-12-18 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+1999-12-25 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

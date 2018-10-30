@@ -1,0 +1,215 @@
+Huey641 Reichel38
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2015-10-26
+Marital Status:      S
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2016-05-07 -            : Allergy to wheat
+  2016-05-07 -            : Allergy to eggs
+  2016-05-07 -            : Allergy to tree pollen
+  2016-05-07 -            : Allergy to grass pollen
+  2016-05-07 -            : Dander (animal) allergy
+  2016-05-07 -            : House dust mite allergy
+  2016-05-07 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-07-12[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2016-05-07[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2016-05-07[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+  2016-04-23[STOPPED] : predniSONE 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-07-12 - 2018-07-26 : Sprain of wrist
+  2016-04-23 - 2016-04-23 : Acute allergic reaction
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-07-12[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2016-04-25[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-10-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.3 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 248.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 272.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 88.1 mmHg
+           - Systolic Blood Pressure                  111.5 mmHg
+  2018-10-01 : Body Mass Index                          12.2 kg/m2
+  2018-10-01 : Body Weight                              12.9 kg
+  2018-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2018-10-01 : Body Height                              102.8 cm
+  2018-04-02 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 71.1 mmHg
+           - Systolic Blood Pressure                  125.8 mmHg
+  2018-04-02 : Body Mass Index                          12.6 kg/m2
+  2018-04-02 : Body Weight                              12.3 kg
+  2018-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2018-04-02 : Body Height                              99.0 cm
+  2017-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 83.6 mmHg
+           - Systolic Blood Pressure                  119.9 mmHg
+  2017-10-02 : Body Weight                              11.4 kg
+  2017-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2017-10-02 : Body Height                              93.6 cm
+  2017-04-03 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 88.2 mmHg
+           - Systolic Blood Pressure                  127.2 mmHg
+  2017-04-03 : Body Weight                              10.7 kg
+  2017-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2017-04-03 : Body Height                              88.7 cm
+  2017-01-02 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-02 : Blood Pressure
+           - Diastolic Blood Pressure                 85.9 mmHg
+           - Systolic Blood Pressure                  107.4 mmHg
+  2017-01-02 : Body Weight                              10.1 kg
+  2017-01-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2017-01-02 : Body Height                              85.4 cm
+  2016-10-03 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-03 : Blood Pressure
+           - Diastolic Blood Pressure                 70.9 mmHg
+           - Systolic Blood Pressure                  113.8 mmHg
+  2016-10-03 : Body Weight                              9.3 kg
+  2016-10-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2016-10-03 : Body Height                              81.8 cm
+  2016-07-04 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-04 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  124.5 mmHg
+  2016-07-04 : Body Weight                              8.3 kg
+  2016-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2016-07-04 : Body Height                              77.5 cm
+  2016-05-07 : Latex IgE Ab in Serum                    0.2 kU/L
+  2016-05-07 : Honey bee IgE Ab in Serum                0.1 kU/L
+  2016-05-07 : Cladosporium herbarum IgE Ab in Serum    43.5 kU/L
+  2016-05-07 : American house dust mite IgE Ab in Serum 84.3 kU/L
+  2016-05-07 : Cat dander IgE Ab in Serum               28.4 kU/L
+  2016-05-07 : Common Ragweed IgE Ab in Serum           76.4 kU/L
+  2016-05-07 : White oak IgE Ab in Serum                49.2 kU/L
+  2016-05-07 : Cow milk IgE Ab in Serum                 0.0 kU/L
+  2016-05-07 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2016-05-07 : Egg white IgE Ab in Serum                31.3 kU/L
+  2016-05-07 : Wheat IgE Ab in Serum                    44.5 kU/L
+  2016-05-07 : Shrimp IgE Ab in Serum                   0.3 kU/L
+  2016-05-07 : Codfish IgE Ab in Serum                  0.2 kU/L
+  2016-05-07 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2016-05-07 : Peanut IgE Ab in Serum                   0.2 kU/L
+  2016-04-04 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-04 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mmHg
+           - Systolic Blood Pressure                  125.8 mmHg
+  2016-04-04 : Body Weight                              6.9 kg
+  2016-04-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2016-04-04 : Body Height                              72.4 cm
+  2016-02-01 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  117.9 mmHg
+  2016-02-01 : Body Weight                              5.1 kg
+  2016-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2016-02-01 : Body Height                              65.6 cm
+  2015-11-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-11-30 : Blood Pressure
+           - Diastolic Blood Pressure                 77.1 mmHg
+           - Systolic Blood Pressure                  100.4 mmHg
+  2015-11-30 : Body Weight                              3.5 kg
+  2015-11-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2015-11-30 : Body Height                              58.4 cm
+  2015-10-26 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2015-10-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 272.9 fL
+  2015-10-26 : Platelets [#/volume] in Blood by Automated count 248.0 10*3/uL
+  2015-10-26 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2015-10-26 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2015-10-26 : MCH [Entitic mass] by Automated count    30.5 pg
+  2015-10-26 : MCV [Entitic volume] by Automated count  92.0 fL
+  2015-10-26 : Hematocrit [Volume Fraction] of Blood by Automated count 48.3 %
+  2015-10-26 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2015-10-26 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2015-10-26 : Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+  2015-10-26 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2015-10-26 : Body Weight                              3.5 kg
+  2015-10-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2015-10-26 : Body Height                              58.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-01-02 : Documentation of current medications
+  2016-10-03 : Documentation of current medications
+  2016-05-07 : Allergy screening test
+  2016-04-23 : Injection of adrenaline
+  2015-10-26 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-01 : Influenza, seasonal, injectable, preservative free
+  2018-04-02 : Hep A, ped/adol, 2 dose
+  2017-10-02 : Influenza, seasonal, injectable, preservative free
+  2017-04-03 : DTaP
+  2017-01-02 : Hep A, ped/adol, 2 dose
+  2017-01-02 : Pneumococcal conjugate PCV 13
+  2017-01-02 : MMR
+  2017-01-02 : varicella
+  2017-01-02 : Hib (PRP-OMP)
+  2016-07-04 : Hep B, adolescent or pediatric
+  2016-07-04 : Pneumococcal conjugate PCV 13
+  2016-07-04 : DTaP
+  2016-07-04 : Influenza, seasonal, injectable, preservative free
+  2016-07-04 : IPV
+  2016-04-04 : Pneumococcal conjugate PCV 13
+  2016-04-04 : DTaP
+  2016-04-04 : IPV
+  2016-04-04 : rotavirus, monovalent
+  2016-04-04 : Hib (PRP-OMP)
+  2016-02-01 : Pneumococcal conjugate PCV 13
+  2016-02-01 : DTaP
+  2016-02-01 : IPV
+  2016-02-01 : rotavirus, monovalent
+  2016-02-01 : Hib (PRP-OMP)
+  2015-11-30 : Hep B, adolescent or pediatric
+  2015-10-26 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-07-12 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-04-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-10-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-04-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-01-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-10-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-07-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-05-07 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-04-25 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-04-23 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-04-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-02-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-11-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-10-26 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

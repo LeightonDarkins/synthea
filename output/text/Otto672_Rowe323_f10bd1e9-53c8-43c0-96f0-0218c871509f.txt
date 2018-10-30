@@ -1,0 +1,224 @@
+Otto672 Rowe323
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 16
+Birth Date:          2002-10-11
+Marital Status:      S
+Outpatient Provider: NORTH SHORE MEDICAL CENTER -
+Primary Care Provider: 81 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-07-22[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2018-06-01[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2017-12-12[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2017-12-06[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2017-08-18[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2017-04-24[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2017-01-26[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2016-12-20[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2016-11-13[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2014-12-08[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2014-06-11[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-06-01 -            : Chronic pain
+  2017-12-06 - 2018-03-06 : Fracture of forearm
+  2017-04-24 -            : Impacted molars
+  2017-01-22 - 2017-02-05 : Viral sinusitis (disorder)
+  2016-11-13 -            : Chronic intractable migraine without aura
+  2014-12-08 - 2014-12-22 : Facial laceration
+  2014-07-09 - 2014-07-30 : Viral sinusitis (disorder)
+  2014-06-11 - 2014-06-21 : Streptococcal sore throat (disorder)
+  2009-10-10 - 2009-10-24 : Viral sinusitis (disorder)
+  2009-02-06 -            : Chronic paralysis due to lesion of spinal cord
+  2009-02-06 - 2009-03-09 : Fracture of the vertebral column with spinal cord injury
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-12-06[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2014-12-08[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2009-02-06[STOPPED] : Spinal cord injury rehabilitation
+                         Reason: Fracture of the vertebral column with spinal cord injury
+                         Activity: Delivery of rehabilitation for spinal cord injury
+                         Activity: Application of back brace
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-10-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+           - MCV [Entitic volume] by Automated count  80.7 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 386.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 497.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2018-06-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.7 {score}
+  2017-12-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.7 {score}
+  2017-11-17 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-17 : Blood Pressure
+           - Diastolic Blood Pressure                 84.8 mmHg
+           - Systolic Blood Pressure                  105.9 mmHg
+  2017-11-17 : Body Mass Index                          21.5 kg/m2
+  2017-11-17 : Body Weight                              54.7 kg
+  2017-11-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2017-11-17 : Body Height                              159.3 cm
+  2017-08-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.6 {score}
+  2017-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.1 {score}
+  2017-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.4 {score}
+  2016-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.2 {score}
+  2016-11-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.7 {score}
+  2016-11-11 : Tobacco smoking status NHIS              Never smoker 
+  2016-11-11 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  116.0 mmHg
+  2016-11-11 : Body Mass Index                          21.1 kg/m2
+  2016-11-11 : Body Weight                              49.5 kg
+  2016-11-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2016-11-11 : Body Height                              153.1 cm
+  2015-11-06 : Tobacco smoking status NHIS              Never smoker 
+  2015-11-06 : Blood Pressure
+           - Diastolic Blood Pressure                 83.5 mmHg
+           - Systolic Blood Pressure                  132.0 mmHg
+  2015-11-06 : Body Mass Index                          20.8 kg/m2
+  2015-11-06 : Body Weight                              44.2 kg
+  2015-11-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2015-11-06 : Body Height                              145.9 cm
+  2014-10-31 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-31 : Blood Pressure
+           - Diastolic Blood Pressure                 79.3 mmHg
+           - Systolic Blood Pressure                  121.9 mmHg
+  2014-10-31 : Body Mass Index                          20.2 kg/m2
+  2014-10-31 : Body Weight                              39.3 kg
+  2014-10-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2014-10-31 : Body Height                              139.5 cm
+  2014-06-11 : Oral temperature                         37.4 Cel
+  2013-10-25 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2013-10-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 497.5 fL
+  2013-10-25 : Platelets [#/volume] in Blood by Automated count 386.1 10*3/uL
+  2013-10-25 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2013-10-25 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2013-10-25 : MCH [Entitic mass] by Automated count    32.6 pg
+  2013-10-25 : MCV [Entitic volume] by Automated count  80.7 fL
+  2013-10-25 : Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+  2013-10-25 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2013-10-25 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2013-10-25 : Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+  2013-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 81.1 mmHg
+           - Systolic Blood Pressure                  131.4 mmHg
+  2013-10-25 : Body Mass Index                          19.3 kg/m2
+  2013-10-25 : Body Weight                              34.9 kg
+  2013-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2013-10-25 : Body Height                              134.5 cm
+  2012-10-19 : Tobacco smoking status NHIS              Never smoker 
+  2012-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 84.8 mmHg
+           - Systolic Blood Pressure                  100.1 mmHg
+  2012-10-19 : Body Mass Index                          18.4 kg/m2
+  2012-10-19 : Body Weight                              31.1 kg
+  2012-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2012-10-19 : Body Height                              130.1 cm
+  2011-10-14 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-14 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  132.1 mmHg
+  2011-10-14 : Body Mass Index                          17.6 kg/m2
+  2011-10-14 : Body Weight                              27.6 kg
+  2011-10-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2011-10-14 : Body Height                              125.2 cm
+  2010-10-08 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-08 : Blood Pressure
+           - Diastolic Blood Pressure                 80.4 mmHg
+           - Systolic Blood Pressure                  104.7 mmHg
+  2010-10-08 : Body Mass Index                          17.2 kg/m2
+  2010-10-08 : Body Weight                              24.8 kg
+  2010-10-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2010-10-08 : Body Height                              120.1 cm
+  2009-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 86.6 mmHg
+           - Systolic Blood Pressure                  108.6 mmHg
+  2009-10-02 : Body Mass Index                          17.1 kg/m2
+  2009-10-02 : Body Weight                              22.4 kg
+  2009-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2009-10-02 : Body Height                              114.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-12-12 : Extraction of wisdom tooth
+  2017-12-06 : Bone immobilization for Fracture of forearm
+  2017-12-06 : Upper arm X-ray
+  2017-11-17 : Documentation of current medications
+  2017-04-24 : Extraction of wisdom tooth
+  2015-11-06 : Documentation of current medications
+  2014-12-08 : Suture open wound for Facial laceration
+  2014-06-11 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2012-10-19 : Documentation of current medications
+  2010-10-08 : Documentation of current medications
+  2009-10-02 : Documentation of current medications
+  2009-02-06 : Admission to neurosurgical department for Fracture of the vertebral column with spinal cord injury
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-11-17 : Influenza, seasonal, injectable, preservative free
+  2016-11-11 : Influenza, seasonal, injectable, preservative free
+  2015-11-06 : HPV, quadrivalent
+  2015-11-06 : Influenza, seasonal, injectable, preservative free
+  2014-10-31 : HPV, quadrivalent
+  2014-10-31 : Influenza, seasonal, injectable, preservative free
+  2013-10-25 : meningococcal MCV4P
+  2013-10-25 : HPV, quadrivalent
+  2013-10-25 : Influenza, seasonal, injectable, preservative free
+  2013-10-25 : Tdap
+  2012-10-19 : Influenza, seasonal, injectable, preservative free
+  2011-10-14 : Influenza, seasonal, injectable, preservative free
+  2010-10-08 : Influenza, seasonal, injectable, preservative free
+  2009-10-02 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-22 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic intractable migraine without aura
+2018-06-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic pain
+2018-03-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Fracture of forearm
+2017-12-12 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Impacted molars
+2017-12-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-11-17 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2017-08-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic intractable migraine without aura
+2017-04-24 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Impacted molars
+2017-01-22 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2017-01-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic intractable migraine without aura
+2016-12-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic intractable migraine without aura
+2016-11-13 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Chronic intractable migraine without aura
+2016-11-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-11-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-12-08 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-10-31 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-07-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2014-06-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Streptococcal sore throat (disorder)
+2013-10-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-10-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-10-14 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-10-08 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-10-10 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2009-10-02 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2009-03-09 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Fracture of the vertebral column with spinal cord injury
+2009-02-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Fracture of the vertebral column with spinal cord injury
+2009-02-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2017-12-06 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

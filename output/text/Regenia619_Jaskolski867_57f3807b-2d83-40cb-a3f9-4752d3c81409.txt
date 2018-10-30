@@ -1,0 +1,86 @@
+Regenia619 Jaskolski867
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 0
+Birth Date:          2018-06-21
+Marital Status:      S
+Outpatient Provider: LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+Primary Care Provider: 41 & 45 MALL ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-06-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+           - MCV [Entitic volume] by Automated count  91.0 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 154.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 329.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-27 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-27 : Blood Pressure
+           - Diastolic Blood Pressure                 86.3 mmHg
+           - Systolic Blood Pressure                  115.4 mmHg
+  2018-09-27 : Body Weight                              4.1 kg
+  2018-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2018-09-27 : Body Height                              59.2 cm
+  2018-07-26 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-26 : Blood Pressure
+           - Diastolic Blood Pressure                 76.9 mmHg
+           - Systolic Blood Pressure                  127.9 mmHg
+  2018-07-26 : Body Weight                              2.8 kg
+  2018-07-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2018-07-26 : Body Height                              52.8 cm
+  2018-06-21 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2018-06-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 329.0 fL
+  2018-06-21 : Platelets [#/volume] in Blood by Automated count 154.7 10*3/uL
+  2018-06-21 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  2018-06-21 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2018-06-21 : MCH [Entitic mass] by Automated count    31.9 pg
+  2018-06-21 : MCV [Entitic volume] by Automated count  91.0 fL
+  2018-06-21 : Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+  2018-06-21 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2018-06-21 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2018-06-21 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  2018-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2018-06-21 : Body Weight                              2.8 kg
+  2018-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-06-21 : Body Height                              52.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-27 : Pneumococcal conjugate PCV 13
+  2018-09-27 : DTaP
+  2018-09-27 : IPV
+  2018-09-27 : rotavirus, monovalent
+  2018-09-27 : Hib (PRP-OMP)
+  2018-07-26 : Hep B, adolescent or pediatric
+  2018-06-21 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-27 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2018-07-26 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2018-06-21 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

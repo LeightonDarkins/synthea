@@ -1,0 +1,141 @@
+Willian804 Toy286
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 33
+Birth Date:          1985-07-01
+Marital Status:      M
+Outpatient Provider: NORWOOD HOSPITAL
+Primary Care Provider: 800 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2012-08-16[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2004-03-22[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-05-04 - 2018-05-25 : Viral sinusitis (disorder)
+  2017-11-16 - 2017-11-30 : Viral sinusitis (disorder)
+  2015-09-30 - 2015-10-21 : Viral sinusitis (disorder)
+  2015-09-07 -            : Body mass index 30+ - obesity (finding)
+  2012-08-16 - 2012-08-30 : Acute bronchitis (disorder)
+  2004-03-22 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-08-16[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-09-10 : Lipid Panel
+           - Total Cholesterol                        168.7 mg/dL
+           - Triglycerides                            118.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      65.9 mg/dL
+           - High Density Lipoprotein Cholesterol     79.1 mg/dL
+  2015-09-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.6 %
+           - MCV [Entitic volume] by Automated count  89.9 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+           - Platelets [#/volume] in Blood by Automated count 399.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 347.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2015-09-07 : Lipid Panel
+           - Total Cholesterol                        181.9 mg/dL
+           - Triglycerides                            124.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.2 mg/dL
+           - High Density Lipoprotein Cholesterol     72.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-10 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-10 : Estimated Glomerular Filtration Rate     103.1 mL/min/{1.73_m2}
+  2018-09-10 : High Density Lipoprotein Cholesterol     79.1 mg/dL
+  2018-09-10 : Low Density Lipoprotein Cholesterol      65.9 mg/dL
+  2018-09-10 : Triglycerides                            118.6 mg/dL
+  2018-09-10 : Total Cholesterol                        168.7 mg/dL
+  2018-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 110.3 mmHg
+           - Systolic Blood Pressure                  159.6 mmHg
+  2018-09-10 : Body Mass Index                          32.0 kg/m2
+  2018-09-10 : Body Weight                              111.4 kg
+  2018-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2018-09-10 : Body Height                              186.6 cm
+  2015-09-07 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-07 : Estimated Glomerular Filtration Rate     156.9 mL/min/{1.73_m2}
+  2015-09-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2015-09-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 347.4 fL
+  2015-09-07 : Platelets [#/volume] in Blood by Automated count 399.0 10*3/uL
+  2015-09-07 : Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+  2015-09-07 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2015-09-07 : MCH [Entitic mass] by Automated count    27.5 pg
+  2015-09-07 : MCV [Entitic volume] by Automated count  89.9 fL
+  2015-09-07 : Hematocrit [Volume Fraction] of Blood by Automated count 45.6 %
+  2015-09-07 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2015-09-07 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2015-09-07 : Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+  2015-09-07 : High Density Lipoprotein Cholesterol     72.7 mg/dL
+  2015-09-07 : Low Density Lipoprotein Cholesterol      84.2 mg/dL
+  2015-09-07 : Triglycerides                            124.8 mg/dL
+  2015-09-07 : Total Cholesterol                        181.9 mg/dL
+  2015-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 112.3 mmHg
+           - Systolic Blood Pressure                  143.5 mmHg
+  2015-09-07 : Body Mass Index                          30.5 kg/m2
+  2015-09-07 : Body Weight                              106.0 kg
+  2015-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2015-09-07 : Body Height                              186.6 cm
+  2012-09-03 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-03 : Estimated Glomerular Filtration Rate     101.0 mL/min/{1.73_m2}
+  2012-09-03 : Blood Pressure
+           - Diastolic Blood Pressure                 95.2 mmHg
+           - Systolic Blood Pressure                  142.0 mmHg
+  2012-09-03 : Body Mass Index                          29.1 kg/m2
+  2012-09-03 : Body Weight                              101.4 kg
+  2012-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2012-09-03 : Body Height                              186.6 cm
+  2011-04-04 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-04 : Estimated Glomerular Filtration Rate     103.2 mL/min/{1.73_m2}
+  2011-04-04 : Blood Pressure
+           - Diastolic Blood Pressure                 100.4 mmHg
+           - Systolic Blood Pressure                  148.7 mmHg
+  2011-04-04 : Body Mass Index                          28.2 kg/m2
+  2011-04-04 : Body Weight                              98.2 kg
+  2011-04-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2011-04-04 : Body Height                              186.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-09-07 : Documentation of current medications
+  2012-09-03 : Documentation of current medications
+  2012-08-16 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2011-04-04 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-10 : Td (adult) preservative free
+  2018-09-10 : Influenza, seasonal, injectable, preservative free
+  2015-09-07 : Influenza, seasonal, injectable, preservative free
+  2012-09-03 : Influenza, seasonal, injectable, preservative free
+  2012-08-27 : Influenza, seasonal, injectable, preservative free
+  2011-04-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-10 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2018-05-04 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2017-11-16 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2015-09-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2015-09-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2012-09-03 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2012-08-27 (Dr. Seth414 Heller342) : Encounter at CODMAN SQUARE HEALTH CENTER
+2012-08-16 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Acute bronchitis (disorder)
+2011-04-04 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2004-03-22 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

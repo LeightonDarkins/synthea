@@ -1,0 +1,788 @@
+Hollis7 Leffler128
+==================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1913-08-10
+Marital Status:      M
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1983-03-05[CURRENT] : Simvistatin 10 MG for Hyperlipidemia
+  1982-05-27[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  1982-03-05[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  1981-03-05[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  1980-03-05[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  1979-03-08[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1979-03-06[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  1978-03-06[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  1977-03-06[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  1976-05-31[CURRENT] : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+  1976-05-24[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1974-01-27[CURRENT] : 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+  1974-01-27[CURRENT] : 1 ML DOCEtaxel 20 MG/ML Injection
+  1964-12-05[CURRENT] : 10 ML oxaliplatin 5 MG/ML Injection for Overlapping malignant neoplasm of colon
+  1964-12-05[CURRENT] : Leucovorin 100 MG Injection for Overlapping malignant neoplasm of colon
+  1931-10-04[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1983-04-17 -            : Stroke
+  1982-05-27 - 1982-06-10 : Viral sinusitis (disorder)
+  1979-03-08 - 1979-03-22 : Acute bronchitis (disorder)
+  1977-02-13 -            : Hyperlipidemia
+  1976-05-24 - 1976-06-30 : Rupture of patellar tendon
+  1975-11-18 - 1975-11-25 : Viral sinusitis (disorder)
+  1974-01-27 -            : Carcinoma in situ of prostate (disorder)
+  1974-01-27 -            : Neoplasm of prostate
+  1964-11-03 -            : Recurrent rectal polyp
+  1963-08-11 -            : Polyp of colon
+  1958-08-17 -            : Body mass index 30+ - obesity (finding)
+  1931-10-04 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1979-03-08[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1977-03-06[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  1976-05-24[STOPPED] : Physical therapy procedure
+                         Reason: Rupture of patellar tendon
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1974-01-27[CURRENT] : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+--------------------------------------------------------------------------------
+REPORTS:
+  1983-04-24 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Stroke 
+  1983-03-05 : Lipid Panel
+           - Total Cholesterol                        201.4 mg/dL
+           - Triglycerides                            140.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      108.5 mg/dL
+           - High Density Lipoprotein Cholesterol     33.1 mg/dL
+  1983-03-05 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  68.3 mg/dL
+           - Urea Nitrogen                            17.4 mg/dL
+           - Creatinine                               3.2 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   139.8 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 104.0 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 77.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 76.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.9 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 93.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.1 U/L
+  1982-04-11 : Lipid Panel
+           - Total Cholesterol                        192.5 mg/dL
+           - Triglycerides                            129.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.6 mg/dL
+           - High Density Lipoprotein Cholesterol     71.9 mg/dL
+  1982-03-05 : Lipid Panel
+           - Total Cholesterol                        180.3 mg/dL
+           - Triglycerides                            169.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      143.6 mg/dL
+           - High Density Lipoprotein Cholesterol     50.3 mg/dL
+  1982-03-05 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  76.5 mg/dL
+           - Urea Nitrogen                            13.9 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   140.9 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 104.2 mmol/L
+           - Carbon Dioxide                           24.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 85.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 79.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 32.5 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.5 U/L
+  1981-03-05 : Lipid Panel
+           - Total Cholesterol                        190.5 mg/dL
+           - Triglycerides                            174.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      146.3 mg/dL
+           - High Density Lipoprotein Cholesterol     63.7 mg/dL
+  1981-03-05 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  97.3 mg/dL
+           - Urea Nitrogen                            9.8 mg/dL
+           - Creatinine                               2.6 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   143.5 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 110.1 mmol/L
+           - Carbon Dioxide                           22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 81.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 76.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 95.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 47.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.3 U/L
+  1980-03-05 : Lipid Panel
+           - Total Cholesterol                        207.7 mg/dL
+           - Triglycerides                            110.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      132.9 mg/dL
+           - High Density Lipoprotein Cholesterol     70.0 mg/dL
+  1980-03-05 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  69.0 mg/dL
+           - Urea Nitrogen                            14.9 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   141.9 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 107.6 mmol/L
+           - Carbon Dioxide                           23.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 81.8 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 77.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 97.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 31.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.6 U/L
+  1979-03-06 : Lipid Panel
+           - Total Cholesterol                        199.5 mg/dL
+           - Triglycerides                            103.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      123.1 mg/dL
+           - High Density Lipoprotein Cholesterol     57.2 mg/dL
+  1979-03-06 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  76.4 mg/dL
+           - Urea Nitrogen                            16.8 mg/dL
+           - Creatinine                               3.0 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   140.3 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 102.3 mmol/L
+           - Carbon Dioxide                           22.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 80.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 63.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 126.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 50.9 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.4 U/L
+  1979-02-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.5 %
+           - MCV [Entitic volume] by Automated count  80.4 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+           - Platelets [#/volume] in Blood by Automated count 193.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 503.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  1979-02-25 : Lipid Panel
+           - Total Cholesterol                        162.7 mg/dL
+           - Triglycerides                            144.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      57.4 mg/dL
+           - High Density Lipoprotein Cholesterol     76.4 mg/dL
+  1978-03-06 : Lipid Panel
+           - Total Cholesterol                        185.2 mg/dL
+           - Triglycerides                            186.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     62.4 mg/dL
+  1978-03-06 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  93.8 mg/dL
+           - Urea Nitrogen                            11.7 mg/dL
+           - Creatinine                               2.5 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   142.7 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 108.6 mmol/L
+           - Carbon Dioxide                           22.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 71.7 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 76.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 113.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 36.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.3 U/L
+  1977-02-13 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  99.1 mg/dL
+           - Urea Nitrogen                            15.3 mg/dL
+           - Creatinine                               3.3 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   137.9 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 103.3 mmol/L
+           - Carbon Dioxide                           23.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 79.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 62.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.4 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 35.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.0 U/L
+  1977-02-13 : Lipid Panel
+           - Total Cholesterol                        273.0 mg/dL
+           - Triglycerides                            147.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      197.2 mg/dL
+           - High Density Lipoprotein Cholesterol     59.6 mg/dL
+  1976-02-08 : Lipid Panel
+           - Total Cholesterol                        181.7 mg/dL
+           - Triglycerides                            105.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.1 mg/dL
+           - High Density Lipoprotein Cholesterol     75.5 mg/dL
+  1974-04-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/​volume] in Blood by Automated count 4.9 10*3/uL
+           - Erythrocytes [#/​volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/​volume] in Blood       17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+           - MCV [Entitic volume] by Automated count  83.0 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/​volume] by Automated count   34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/​volume] in Blood by Automated count 332.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 501.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  1974-04-27 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Foul smelling urine (finding) {nominal}
+           - Clarity of Urine                         Cloudy urine (finding) {nominal}
+           - Color of Urine                           Reddish color urine {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.3 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 2.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 433.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1974-04-27 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  69.9 mg/dL
+           - Urea Nitrogen                            17.9 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   142.2 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 102.4 mmol/L
+           - Carbon Dioxide                           26.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 21.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 68.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 70.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 51.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.7 U/L
+  1974-01-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/​volume] in Blood by Automated count 3.2 10*3/uL
+           - Erythrocytes [#/​volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/​volume] in Blood       15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+           - MCV [Entitic volume] by Automated count  89.7 fL
+           - MCH [Entitic mass] by Automated count    31.0 pg
+           - MCHC [Mass/​volume] by Automated count   33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+           - Platelets [#/​volume] in Blood by Automated count 305.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 286.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  1974-01-27 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Foul smelling urine (finding) {nominal}
+           - Clarity of Urine                         Cloudy urine (finding) {nominal}
+           - Color of Urine                           Reddish color urine {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.3 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 3.5 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.9 pH
+           - Protein [Mass/volume] in Urine by Test strip 376.0 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1974-01-27 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  86.2 mg/dL
+           - Urea Nitrogen                            13.8 mg/dL
+           - Creatinine                               3.3 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   138.6 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 107.3 mmol/L
+           - Carbon Dioxide                           28.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 6.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 60.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.5 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 130.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.0 U/L
+  1974-01-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+           - MCV [Entitic volume] by Automated count  80.4 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+           - Platelets [#/volume] in Blood by Automated count 195.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 171.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1983-04-24 : Cause of Death [US Standard Certificate of Death] Stroke 
+  1983-03-05 : High Density Lipoprotein Cholesterol     33.1 mg/dL
+  1983-03-05 : Low Density Lipoprotein Cholesterol      108.5 mg/dL
+  1983-03-05 : Triglycerides                            140.5 mg/dL
+  1983-03-05 : Total Cholesterol                        201.4 mg/dL
+  1983-03-05 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.1 U/L
+  1983-03-05 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.5 U/L
+  1983-03-05 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 93.6 U/L
+  1983-03-05 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  1983-03-05 : Globulin [Mass/volume] in Serum by calculation 2.9 g/L
+  1983-03-05 : Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+  1983-03-05 : Protein [Mass/volume] in Serum or Plasma 76.5 g/dL
+  1983-03-05 : Glomerular filtration rate/1.73 sq M.predicted 77.1 mL/min
+  1983-03-05 : Carbon Dioxide                           27.0 mmol/L
+  1983-03-05 : Chloride                                 104.0 mmol/L
+  1983-03-05 : Potassium                                5.0 mmol/L
+  1983-03-05 : Sodium                                   139.8 mmol/L
+  1983-03-05 : Calcium                                  10.0 mg/dL
+  1983-03-05 : Creatinine                               3.2 mg/dL
+  1983-03-05 : Urea Nitrogen                            17.4 mg/dL
+  1983-03-05 : Glucose                                  68.3 mg/dL
+  1982-05-30 : Tobacco smoking status NHIS              Never smoker 
+  1982-05-30 : Estimated Glomerular Filtration Rate     122.8 mL/min/{1.73_m2}
+  1982-05-30 : Blood Pressure
+           - Diastolic Blood Pressure                 107.3 mmHg
+           - Systolic Blood Pressure                  192.1 mmHg
+  1982-05-30 : Body Mass Index                          28.2 kg/m2
+  1982-05-30 : Body Weight                              97.7 kg
+  1982-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  1982-05-30 : Body Height                              186.2 cm
+  1982-04-11 : Tobacco smoking status NHIS              Never smoker 
+  1982-04-11 : Estimated Glomerular Filtration Rate     96.5 mL/min/{1.73_m2}
+  1982-04-11 : High Density Lipoprotein Cholesterol     71.9 mg/dL
+  1982-04-11 : Low Density Lipoprotein Cholesterol      94.6 mg/dL
+  1982-04-11 : Triglycerides                            129.6 mg/dL
+  1982-04-11 : Total Cholesterol                        192.5 mg/dL
+  1982-04-11 : Blood Pressure
+           - Diastolic Blood Pressure                 113.2 mmHg
+           - Systolic Blood Pressure                  175.0 mmHg
+  1982-04-11 : Body Mass Index                          28.2 kg/m2
+  1982-04-11 : Body Weight                              97.7 kg
+  1982-04-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  1982-04-11 : Body Height                              186.2 cm
+  1982-03-05 : High Density Lipoprotein Cholesterol     50.3 mg/dL
+  1982-03-05 : Low Density Lipoprotein Cholesterol      143.6 mg/dL
+  1982-03-05 : Triglycerides                            169.3 mg/dL
+  1982-03-05 : Total Cholesterol                        180.3 mg/dL
+  1982-03-05 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.5 U/L
+  1982-03-05 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.7 U/L
+  1982-03-05 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 32.5 U/L
+  1982-03-05 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  1982-03-05 : Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+  1982-03-05 : Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+  1982-03-05 : Protein [Mass/volume] in Serum or Plasma 79.2 g/dL
+  1982-03-05 : Glomerular filtration rate/1.73 sq M.predicted 85.2 mL/min
+  1982-03-05 : Carbon Dioxide                           24.4 mmol/L
+  1982-03-05 : Chloride                                 104.2 mmol/L
+  1982-03-05 : Potassium                                4.0 mmol/L
+  1982-03-05 : Sodium                                   140.9 mmol/L
+  1982-03-05 : Calcium                                  9.2 mg/dL
+  1982-03-05 : Creatinine                               3.1 mg/dL
+  1982-03-05 : Urea Nitrogen                            13.9 mg/dL
+  1982-03-05 : Glucose                                  76.5 mg/dL
+  1981-04-05 : Tobacco smoking status NHIS              Never smoker 
+  1981-04-05 : Estimated Glomerular Filtration Rate     142.4 mL/min/{1.73_m2}
+  1981-04-05 : Blood Pressure
+           - Diastolic Blood Pressure                 101.0 mmHg
+           - Systolic Blood Pressure                  188.4 mmHg
+  1981-04-05 : Body Mass Index                          28.6 kg/m2
+  1981-04-05 : Body Weight                              99.1 kg
+  1981-04-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1981-04-05 : Body Height                              186.2 cm
+  1981-03-05 : High Density Lipoprotein Cholesterol     63.7 mg/dL
+  1981-03-05 : Low Density Lipoprotein Cholesterol      146.3 mg/dL
+  1981-03-05 : Triglycerides                            174.3 mg/dL
+  1981-03-05 : Total Cholesterol                        190.5 mg/dL
+  1981-03-05 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.3 U/L
+  1981-03-05 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 47.3 U/L
+  1981-03-05 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 95.4 U/L
+  1981-03-05 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+  1981-03-05 : Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+  1981-03-05 : Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+  1981-03-05 : Protein [Mass/volume] in Serum or Plasma 76.2 g/dL
+  1981-03-05 : Glomerular filtration rate/1.73 sq M.predicted 81.4 mL/min
+  1981-03-05 : Carbon Dioxide                           22.1 mmol/L
+  1981-03-05 : Chloride                                 110.1 mmol/L
+  1981-03-05 : Potassium                                4.1 mmol/L
+  1981-03-05 : Sodium                                   143.5 mmol/L
+  1981-03-05 : Calcium                                  8.8 mg/dL
+  1981-03-05 : Creatinine                               2.6 mg/dL
+  1981-03-05 : Urea Nitrogen                            9.8 mg/dL
+  1981-03-05 : Glucose                                  97.3 mg/dL
+  1980-03-30 : Tobacco smoking status NHIS              Never smoker 
+  1980-03-30 : Estimated Glomerular Filtration Rate     96.7 mL/min/{1.73_m2}
+  1980-03-30 : Blood Pressure
+           - Diastolic Blood Pressure                 106.0 mmHg
+           - Systolic Blood Pressure                  151.6 mmHg
+  1980-03-30 : Body Mass Index                          29.0 kg/m2
+  1980-03-30 : Body Weight                              100.6 kg
+  1980-03-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  1980-03-30 : Body Height                              186.2 cm
+  1980-03-05 : High Density Lipoprotein Cholesterol     70.0 mg/dL
+  1980-03-05 : Low Density Lipoprotein Cholesterol      132.9 mg/dL
+  1980-03-05 : Triglycerides                            110.5 mg/dL
+  1980-03-05 : Total Cholesterol                        207.7 mg/dL
+  1980-03-05 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.6 U/L
+  1980-03-05 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 31.7 U/L
+  1980-03-05 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 97.7 U/L
+  1980-03-05 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  1980-03-05 : Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+  1980-03-05 : Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+  1980-03-05 : Protein [Mass/volume] in Serum or Plasma 77.3 g/dL
+  1980-03-05 : Glomerular filtration rate/1.73 sq M.predicted 81.8 mL/min
+  1980-03-05 : Carbon Dioxide                           23.2 mmol/L
+  1980-03-05 : Chloride                                 107.6 mmol/L
+  1980-03-05 : Potassium                                4.4 mmol/L
+  1980-03-05 : Sodium                                   141.9 mmol/L
+  1980-03-05 : Calcium                                  10.1 mg/dL
+  1980-03-05 : Creatinine                               3.1 mg/dL
+  1980-03-05 : Urea Nitrogen                            14.9 mg/dL
+  1980-03-05 : Glucose                                  69.0 mg/dL
+  1979-03-25 : Tobacco smoking status NHIS              Never smoker 
+  1979-03-25 : Estimated Glomerular Filtration Rate     90.6 mL/min/{1.73_m2}
+  1979-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 102.3 mmHg
+           - Systolic Blood Pressure                  164.6 mmHg
+  1979-03-25 : Body Mass Index                          29.5 kg/m2
+  1979-03-25 : Body Weight                              102.3 kg
+  1979-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  1979-03-25 : Body Height                              186.2 cm
+  1979-03-06 : High Density Lipoprotein Cholesterol     57.2 mg/dL
+  1979-03-06 : Low Density Lipoprotein Cholesterol      123.1 mg/dL
+  1979-03-06 : Triglycerides                            103.2 mg/dL
+  1979-03-06 : Total Cholesterol                        199.5 mg/dL
+  1979-03-06 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.4 U/L
+  1979-03-06 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 50.9 U/L
+  1979-03-06 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 126.6 U/L
+  1979-03-06 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  1979-03-06 : Globulin [Mass/volume] in Serum by calculation 3.3 g/L
+  1979-03-06 : Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+  1979-03-06 : Protein [Mass/volume] in Serum or Plasma 63.1 g/dL
+  1979-03-06 : Glomerular filtration rate/1.73 sq M.predicted 80.5 mL/min
+  1979-03-06 : Carbon Dioxide                           22.6 mmol/L
+  1979-03-06 : Chloride                                 102.3 mmol/L
+  1979-03-06 : Potassium                                4.9 mmol/L
+  1979-03-06 : Sodium                                   140.3 mmol/L
+  1979-03-06 : Calcium                                  10.0 mg/dL
+  1979-03-06 : Creatinine                               3.0 mg/dL
+  1979-03-06 : Urea Nitrogen                            16.8 mg/dL
+  1979-03-06 : Glucose                                  76.4 mg/dL
+  1979-02-25 : Tobacco smoking status NHIS              Never smoker 
+  1979-02-25 : Estimated Glomerular Filtration Rate     96.2 mL/min/{1.73_m2}
+  1979-02-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  1979-02-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 503.5 fL
+  1979-02-25 : Platelets [#/volume] in Blood by Automated count 193.9 10*3/uL
+  1979-02-25 : Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+  1979-02-25 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  1979-02-25 : MCH [Entitic mass] by Automated count    32.8 pg
+  1979-02-25 : MCV [Entitic volume] by Automated count  80.4 fL
+  1979-02-25 : Hematocrit [Volume Fraction] of Blood by Automated count 49.5 %
+  1979-02-25 : Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+  1979-02-25 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  1979-02-25 : Leukocytes [#/volume] in Blood by Automated count 7.1 10*3/uL
+  1979-02-25 : High Density Lipoprotein Cholesterol     76.4 mg/dL
+  1979-02-25 : Low Density Lipoprotein Cholesterol      57.4 mg/dL
+  1979-02-25 : Triglycerides                            144.7 mg/dL
+  1979-02-25 : Total Cholesterol                        162.7 mg/dL
+  1979-02-25 : Blood Pressure
+           - Diastolic Blood Pressure                 101.2 mmHg
+           - Systolic Blood Pressure                  163.8 mmHg
+  1979-02-25 : Body Mass Index                          29.5 kg/m2
+  1979-02-25 : Body Weight                              102.3 kg
+  1979-02-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  1979-02-25 : Body Height                              186.2 cm
+  1978-03-06 : High Density Lipoprotein Cholesterol     62.4 mg/dL
+  1978-03-06 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  1978-03-06 : Triglycerides                            186.1 mg/dL
+  1978-03-06 : Total Cholesterol                        185.2 mg/dL
+  1978-03-06 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.3 U/L
+  1978-03-06 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 36.4 U/L
+  1978-03-06 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 113.8 U/L
+  1978-03-06 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+  1978-03-06 : Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+  1978-03-06 : Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+  1978-03-06 : Protein [Mass/volume] in Serum or Plasma 76.0 g/dL
+  1978-03-06 : Glomerular filtration rate/1.73 sq M.predicted 71.7 mL/min
+  1978-03-06 : Carbon Dioxide                           22.9 mmol/L
+  1978-03-06 : Chloride                                 108.6 mmol/L
+  1978-03-06 : Potassium                                3.9 mmol/L
+  1978-03-06 : Sodium                                   142.7 mmol/L
+  1978-03-06 : Calcium                                  9.7 mg/dL
+  1978-03-06 : Creatinine                               2.5 mg/dL
+  1978-03-06 : Urea Nitrogen                            11.7 mg/dL
+  1978-03-06 : Glucose                                  93.8 mg/dL
+  1978-02-19 : Tobacco smoking status NHIS              Never smoker 
+  1978-02-19 : Estimated Glomerular Filtration Rate     78.1 mL/min/{1.73_m2}
+  1978-02-19 : Blood Pressure
+           - Diastolic Blood Pressure                 106.8 mmHg
+           - Systolic Blood Pressure                  171.3 mmHg
+  1978-02-19 : Body Mass Index                          30.0 kg/m2
+  1978-02-19 : Body Weight                              104.2 kg
+  1978-02-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  1978-02-19 : Body Height                              186.2 cm
+  1977-02-13 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.0 U/L
+  1977-02-13 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.0 U/L
+  1977-02-13 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 35.8 U/L
+  1977-02-13 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.1 mg/dL
+  1977-02-13 : Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+  1977-02-13 : Albumin [Mass/volume] in Serum or Plasma 5.4 g/dL
+  1977-02-13 : Protein [Mass/volume] in Serum or Plasma 62.7 g/dL
+  1977-02-13 : Glomerular filtration rate/1.73 sq M.predicted 79.1 mL/min
+  1977-02-13 : Carbon Dioxide                           23.4 mmol/L
+  1977-02-13 : Chloride                                 103.3 mmol/L
+  1977-02-13 : Potassium                                3.8 mmol/L
+  1977-02-13 : Sodium                                   137.9 mmol/L
+  1977-02-13 : Calcium                                  8.8 mg/dL
+  1977-02-13 : Creatinine                               3.3 mg/dL
+  1977-02-13 : Urea Nitrogen                            15.3 mg/dL
+  1977-02-13 : Glucose                                  99.1 mg/dL
+  1977-02-13 : High Density Lipoprotein Cholesterol     59.6 mg/dL
+  1977-02-13 : Low Density Lipoprotein Cholesterol      197.2 mg/dL
+  1977-02-13 : Triglycerides                            147.2 mg/dL
+  1977-02-13 : Total Cholesterol                        273.0 mg/dL
+  1977-02-13 : Tobacco smoking status NHIS              Never smoker 
+  1977-02-13 : Estimated Glomerular Filtration Rate     143.9 mL/min/{1.73_m2}
+  1977-02-13 : Blood Pressure
+           - Diastolic Blood Pressure                 97.5 mmHg
+           - Systolic Blood Pressure                  150.1 mmHg
+  1977-02-13 : Body Mass Index                          30.5 kg/m2
+  1977-02-13 : Body Weight                              105.6 kg
+  1977-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  1977-02-13 : Body Height                              186.2 cm
+  1976-02-08 : Tobacco smoking status NHIS              Never smoker 
+  1976-02-08 : Estimated Glomerular Filtration Rate     82.4 mL/min/{1.73_m2}
+  1976-02-08 : High Density Lipoprotein Cholesterol     75.5 mg/dL
+  1976-02-08 : Low Density Lipoprotein Cholesterol      85.1 mg/dL
+  1976-02-08 : Triglycerides                            105.4 mg/dL
+  1976-02-08 : Total Cholesterol                        181.7 mg/dL
+  1976-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 109.5 mmHg
+           - Systolic Blood Pressure                  151.6 mmHg
+  1976-02-08 : Body Mass Index                          30.8 kg/m2
+  1976-02-08 : Body Weight                              106.6 kg
+  1976-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  1976-02-08 : Body Height                              186.2 cm
+  1975-02-02 : Tobacco smoking status NHIS              Never smoker 
+  1975-02-02 : Estimated Glomerular Filtration Rate     116.7 mL/min/{1.73_m2}
+  1975-02-02 : Blood Pressure
+           - Diastolic Blood Pressure                 111.9 mmHg
+           - Systolic Blood Pressure                  166.3 mmHg
+  1975-02-02 : Body Mass Index                          31.1 kg/m2
+  1975-02-02 : Body Weight                              107.9 kg
+  1975-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1975-02-02 : Body Height                              186.2 cm
+  1974-04-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  1974-04-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 501.7 fL
+  1974-04-27 : Platelets [#/​volume] in Blood by Automated count 332.8 10*3/uL
+  1974-04-27 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  1974-04-27 : MCHC [Mass/​volume] by Automated count   34.7 g/dL
+  1974-04-27 : MCH [Entitic mass] by Automated count    27.8 pg
+  1974-04-27 : MCV [Entitic volume] by Automated count  83.0 fL
+  1974-04-27 : Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+  1974-04-27 : Hemoglobin [Mass/​volume] in Blood       17.0 g/dL
+  1974-04-27 : Erythrocytes [#/​volume] in Blood by Automated count 4.6 10*6/uL
+  1974-04-27 : Leukocytes [#/​volume] in Blood by Automated count 4.9 10*3/uL
+  1974-04-27 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1974-04-27 : Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+  1974-04-27 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  1974-04-27 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  1974-04-27 : Protein [Mass/volume] in Urine by Test strip 433.3 mg/dL
+  1974-04-27 : pH of Urine by Test strip                6.5 pH
+  1974-04-27 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  1974-04-27 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  1974-04-27 : Ketones [Mass/volume] in Urine by Test strip 2.8 mg/dL
+  1974-04-27 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  1974-04-27 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+  1974-04-27 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  1974-04-27 : Glucose [Mass/volume] in Urine by Test strip 2.3 mg/dL
+  1974-04-27 : Color of Urine                           Reddish color urine {nominal}
+  1974-04-27 : Clarity of Urine                         Cloudy urine (finding) {nominal}
+  1974-04-27 : Odor of Urine                            Foul smelling urine (finding) {nominal}
+  1974-04-27 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  1974-04-27 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.7 U/L
+  1974-04-27 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 51.5 U/L
+  1974-04-27 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 70.7 U/L
+  1974-04-27 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+  1974-04-27 : Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+  1974-04-27 : Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+  1974-04-27 : Protein [Mass/volume] in Serum or Plasma 68.7 g/dL
+  1974-04-27 : Glomerular filtration rate/1.73 sq M.predicted 21.6 mL/min
+  1974-04-27 : Carbon Dioxide                           26.7 mmol/L
+  1974-04-27 : Chloride                                 102.4 mmol/L
+  1974-04-27 : Potassium                                5.0 mmol/L
+  1974-04-27 : Sodium                                   142.2 mmol/L
+  1974-04-27 : Calcium                                  9.3 mg/dL
+  1974-04-27 : Creatinine                               2.8 mg/dL
+  1974-04-27 : Urea Nitrogen                            17.9 mg/dL
+  1974-04-27 : Glucose                                  69.9 mg/dL
+  1974-01-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  1974-01-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 286.4 fL
+  1974-01-27 : Platelets [#/​volume] in Blood by Automated count 305.5 10*3/uL
+  1974-01-27 : Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+  1974-01-27 : MCHC [Mass/​volume] by Automated count   33.1 g/dL
+  1974-01-27 : MCH [Entitic mass] by Automated count    31.0 pg
+  1974-01-27 : MCV [Entitic volume] by Automated count  89.7 fL
+  1974-01-27 : Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+  1974-01-27 : Hemoglobin [Mass/​volume] in Blood       15.0 g/dL
+  1974-01-27 : Erythrocytes [#/​volume] in Blood by Automated count 4.6 10*6/uL
+  1974-01-27 : Leukocytes [#/​volume] in Blood by Automated count 3.2 10*3/uL
+  1974-01-27 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1974-01-27 : Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+  1974-01-27 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  1974-01-27 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  1974-01-27 : Protein [Mass/volume] in Urine by Test strip 376.0 mg/dL
+  1974-01-27 : pH of Urine by Test strip                5.9 pH
+  1974-01-27 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  1974-01-27 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  1974-01-27 : Ketones [Mass/volume] in Urine by Test strip 3.5 mg/dL
+  1974-01-27 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  1974-01-27 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  1974-01-27 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  1974-01-27 : Glucose [Mass/volume] in Urine by Test strip 1.3 mg/dL
+  1974-01-27 : Color of Urine                           Reddish color urine {nominal}
+  1974-01-27 : Clarity of Urine                         Cloudy urine (finding) {nominal}
+  1974-01-27 : Odor of Urine                            Foul smelling urine (finding) {nominal}
+  1974-01-27 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  1974-01-27 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.0 U/L
+  1974-01-27 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.0 U/L
+  1974-01-27 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 130.9 U/L
+  1974-01-27 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  1974-01-27 : Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+  1974-01-27 : Albumin [Mass/volume] in Serum or Plasma 5.5 g/dL
+  1974-01-27 : Protein [Mass/volume] in Serum or Plasma 60.9 g/dL
+  1974-01-27 : Glomerular filtration rate/1.73 sq M.predicted 6.5 mL/min
+  1974-01-27 : Carbon Dioxide                           28.3 mmol/L
+  1974-01-27 : Chloride                                 107.3 mmol/L
+  1974-01-27 : Potassium                                4.4 mmol/L
+  1974-01-27 : Sodium                                   138.6 mmol/L
+  1974-01-27 : Calcium                                  8.6 mg/dL
+  1974-01-27 : Creatinine                               3.3 mg/dL
+  1974-01-27 : Urea Nitrogen                            13.8 mg/dL
+  1974-01-27 : Glucose                                  86.2 mg/dL
+  1974-01-27 : US Guidance for biopsy of Prostate       Surgical biopsy result abnormal {nominal}
+  1974-01-27 : Prostate specific Ag [Mass/volume] in Serum or Plasma 5.0 ng/mL
+  1974-01-27 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1974-01-27 : Tobacco smoking status NHIS              Never smoker 
+  1974-01-27 : Estimated Glomerular Filtration Rate     148.0 mL/min/{1.73_m2}
+  1974-01-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  1974-01-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 171.1 fL
+  1974-01-27 : Platelets [#/volume] in Blood by Automated count 195.5 10*3/uL
+  1974-01-27 : Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+  1974-01-27 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  1974-01-27 : MCH [Entitic mass] by Automated count    28.4 pg
+  1974-01-27 : MCV [Entitic volume] by Automated count  80.4 fL
+  1974-01-27 : Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+  1974-01-27 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  1974-01-27 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  1974-01-27 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  1974-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 119.5 mmHg
+           - Systolic Blood Pressure                  171.8 mmHg
+  1974-01-27 : Body Mass Index                          31.4 kg/m2
+  1974-01-27 : Body Weight                              109.0 kg
+  1974-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  1974-01-27 : Body Height                              186.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1983-04-17 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  1982-05-30 : Documentation of current medications
+  1982-04-11 : Documentation of current medications
+  1980-03-30 : Documentation of current medications
+  1979-03-25 : Documentation of current medications
+  1979-03-08 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  1978-02-19 : Documentation of current medications
+  1977-02-13 : Documentation of current medications
+  1976-05-31 : Surgical manipulation of joint of knee for Rupture of patellar tendon
+  1976-05-24 : Knee X-ray
+  1974-01-27 : Prostatectomy for Neoplasm of prostate
+  1974-01-27 : Biopsy of prostate
+  1974-01-27 : Digital examination of rectum
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1982-04-11 : Influenza, seasonal, injectable, preservative free
+  1981-04-05 : Influenza, seasonal, injectable, preservative free
+  1980-03-30 : Influenza, seasonal, injectable, preservative free
+  1979-03-18 : Influenza, seasonal, injectable, preservative free
+  1979-02-25 : Influenza, seasonal, injectable, preservative free
+  1978-02-19 : Influenza, seasonal, injectable, preservative free
+  1977-02-13 : Influenza, seasonal, injectable, preservative free
+  1976-02-08 : Influenza, seasonal, injectable, preservative free
+  1975-02-02 : Influenza, seasonal, injectable, preservative free
+  1974-01-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1983-04-24 : Death Certification
+1983-03-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Hyperlipidemia
+1982-05-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+1982-05-30 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1982-04-11 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1982-03-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Hyperlipidemia
+1981-04-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1981-03-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Hyperlipidemia
+1980-03-30 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1980-03-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Hyperlipidemia
+1979-03-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1979-03-18 (Dr. Leonore418 Hills818) : Encounter at FALLON CLINIC URGENT CARE
+1979-03-08 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute bronchitis (disorder)
+1979-03-06 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Hyperlipidemia
+1979-02-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1978-03-06 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Hyperlipidemia
+1978-02-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1977-03-06 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Hyperlipidemia
+1977-02-13 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1976-05-31 (Dr. Adan632 Feest103) : Encounter at Worcester Outpatient Clinic : Encounter for Rupture of patellar tendon
+1976-05-24 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+1976-02-08 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1975-11-18 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+1975-02-02 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1974-04-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Neoplasm of prostate
+1974-01-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Neoplasm of prostate
+1974-01-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1974-01-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1964-12-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Overlapping malignant neoplasm of colon
+1964-11-03 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1963-08-11 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1958-08-17 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1931-10-04 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  1976-05-24 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

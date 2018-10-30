@@ -1,0 +1,266 @@
+Mao115 Nitzsche158
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 46
+Birth Date:          1972-05-31
+Marital Status:      M
+Outpatient Provider: MERCY MEDICAL CTR
+Primary Care Provider: 271 CAREW STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1973-08-12 -            : Allergy to peanuts
+  1973-08-12 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-03-25[STOPPED] : Errin 28 Day Pack
+  2015-03-31[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2012-04-13[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2011-04-19[STOPPED] : Jolivette 28 Day Pack
+  2008-04-30[STOPPED] : Jolivette 28 Day Pack
+  1975-06-21[CURRENT] : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+  1975-06-07[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1975-06-07[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2010-12-01 - 2010-12-08 : Fetus with unknown complication
+  2010-12-01 - 2010-12-08 : Normal pregnancy
+  2009-02-07 - 2009-03-09 : Concussion with no loss of consciousness
+  1994-02-23 -            : Miscarriage in first trimester
+  1990-07-25 -            : Prediabetes
+  1975-06-07 -            : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2009-02-07[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  1990-07-25[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1975-06-07[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1973-08-01[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-08-23 : Basic Metabolic Panel
+           - Glucose                                  75.4 mg/dL
+           - Urea Nitrogen                            18.6 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   142.8 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 106.9 mmol/L
+           - Carbon Dioxide                           23.3 mmol/L
+  2015-08-19 : Lipid Panel
+           - Total Cholesterol                        185.1 mg/dL
+           - Triglycerides                            147.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.4 mg/dL
+           - High Density Lipoprotein Cholesterol     71.2 mg/dL
+  2015-08-19 : Basic Metabolic Panel
+           - Glucose                                  70.4 mg/dL
+           - Urea Nitrogen                            7.9 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   136.1 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 103.9 mmol/L
+           - Carbon Dioxide                           23.9 mmol/L
+  2013-08-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.1 %
+           - MCV [Entitic volume] by Automated count  92.5 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 368.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 388.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2013-08-14 : Basic Metabolic Panel
+           - Glucose                                  99.1 mg/dL
+           - Urea Nitrogen                            11.3 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   137.2 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           21.4 mmol/L
+  2011-08-10 : Lipid Panel
+           - Total Cholesterol                        171.3 mg/dL
+           - Triglycerides                            128.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.0 mg/dL
+           - High Density Lipoprotein Cholesterol     73.7 mg/dL
+  2011-08-10 : Basic Metabolic Panel
+           - Glucose                                  69.2 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   143.2 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 101.2 mmol/L
+           - Carbon Dioxide                           24.2 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-08-23 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2017-08-23 : Tobacco smoking status NHIS              Former smoker 
+  2017-08-23 : Carbon Dioxide                           23.3 mmol/L
+  2017-08-23 : Chloride                                 106.9 mmol/L
+  2017-08-23 : Potassium                                4.8 mmol/L
+  2017-08-23 : Sodium                                   142.8 mmol/L
+  2017-08-23 : Calcium                                  9.9 mg/dL
+  2017-08-23 : Creatinine                               1.2 mg/dL
+  2017-08-23 : Urea Nitrogen                            18.6 mg/dL
+  2017-08-23 : Glucose                                  75.4 mg/dL
+  2017-08-23 : Blood Pressure
+           - Diastolic Blood Pressure                 73.2 mmHg
+           - Systolic Blood Pressure                  102.3 mmHg
+  2017-08-23 : Body Mass Index                          39.4 kg/m2
+  2017-08-23 : Body Weight                              104.5 kg
+  2017-08-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2017-08-23 : Body Height                              162.8 cm
+  2015-08-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2015-08-19 : Tobacco smoking status NHIS              Former smoker 
+  2015-08-19 : High Density Lipoprotein Cholesterol     71.2 mg/dL
+  2015-08-19 : Low Density Lipoprotein Cholesterol      84.4 mg/dL
+  2015-08-19 : Triglycerides                            147.4 mg/dL
+  2015-08-19 : Total Cholesterol                        185.1 mg/dL
+  2015-08-19 : Carbon Dioxide                           23.9 mmol/L
+  2015-08-19 : Chloride                                 103.9 mmol/L
+  2015-08-19 : Potassium                                4.5 mmol/L
+  2015-08-19 : Sodium                                   136.1 mmol/L
+  2015-08-19 : Calcium                                  8.9 mg/dL
+  2015-08-19 : Creatinine                               1.2 mg/dL
+  2015-08-19 : Urea Nitrogen                            7.9 mg/dL
+  2015-08-19 : Glucose                                  70.4 mg/dL
+  2015-08-19 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  135.8 mmHg
+  2015-08-19 : Body Mass Index                          38.3 kg/m2
+  2015-08-19 : Body Weight                              101.5 kg
+  2015-08-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2015-08-19 : Body Height                              162.8 cm
+  2013-08-14 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2013-08-14 : Tobacco smoking status NHIS              Former smoker 
+  2013-08-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2013-08-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 388.5 fL
+  2013-08-14 : Platelets [#/volume] in Blood by Automated count 368.2 10*3/uL
+  2013-08-14 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2013-08-14 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2013-08-14 : MCH [Entitic mass] by Automated count    29.4 pg
+  2013-08-14 : MCV [Entitic volume] by Automated count  92.5 fL
+  2013-08-14 : Hematocrit [Volume Fraction] of Blood by Automated count 41.1 %
+  2013-08-14 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2013-08-14 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2013-08-14 : Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+  2013-08-14 : Carbon Dioxide                           21.4 mmol/L
+  2013-08-14 : Chloride                                 106.8 mmol/L
+  2013-08-14 : Potassium                                4.1 mmol/L
+  2013-08-14 : Sodium                                   137.2 mmol/L
+  2013-08-14 : Calcium                                  9.3 mg/dL
+  2013-08-14 : Creatinine                               1.8 mg/dL
+  2013-08-14 : Urea Nitrogen                            11.3 mg/dL
+  2013-08-14 : Glucose                                  99.1 mg/dL
+  2013-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.9 mmHg
+           - Systolic Blood Pressure                  125.6 mmHg
+  2013-08-14 : Body Mass Index                          36.9 kg/m2
+  2013-08-14 : Body Weight                              97.8 kg
+  2013-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2013-08-14 : Body Height                              162.8 cm
+  2011-08-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2011-08-10 : Tobacco smoking status NHIS              Former smoker 
+  2011-08-10 : High Density Lipoprotein Cholesterol     73.7 mg/dL
+  2011-08-10 : Low Density Lipoprotein Cholesterol      72.0 mg/dL
+  2011-08-10 : Triglycerides                            128.4 mg/dL
+  2011-08-10 : Total Cholesterol                        171.3 mg/dL
+  2011-08-10 : Carbon Dioxide                           24.2 mmol/L
+  2011-08-10 : Chloride                                 101.2 mmol/L
+  2011-08-10 : Potassium                                4.5 mmol/L
+  2011-08-10 : Sodium                                   143.2 mmol/L
+  2011-08-10 : Calcium                                  9.1 mg/dL
+  2011-08-10 : Creatinine                               1.7 mg/dL
+  2011-08-10 : Urea Nitrogen                            16.6 mg/dL
+  2011-08-10 : Glucose                                  69.2 mg/dL
+  2011-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 86.9 mmHg
+           - Systolic Blood Pressure                  131.7 mmHg
+  2011-08-10 : Body Mass Index                          36.0 kg/m2
+  2011-08-10 : Body Weight                              95.5 kg
+  2011-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2011-08-10 : Body Height                              162.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-26 : Insertion of intrauterine contraceptive device
+  2017-08-23 : Documentation of current medications
+  2017-03-24 : Insertion of intrauterine contraceptive device
+  2016-04-20 : Replacement of subcutaneous contraceptive
+  2015-08-19 : Documentation of current medications
+  2015-03-31 : Intramuscular injection
+  2013-04-10 : Insertion of intrauterine contraceptive device
+  2012-04-13 : Insertion of subcutaneous contraceptive
+  2010-12-08 : Depression screening for Normal pregnancy
+  2010-12-08 : Physical examination for Normal pregnancy
+  2010-12-01 : Ultrasound scan for fetal viability for Normal pregnancy
+  2010-12-01 : Standard pregnancy test for Normal pregnancy
+  2010-09-29 : Removal of intrauterine device
+  2009-04-27 : Insertion of intrauterine contraceptive device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-08-23 : Influenza, seasonal, injectable, preservative free
+  2015-08-19 : Hep A, adult
+  2015-08-19 : Influenza, seasonal, injectable, preservative free
+  2013-08-14 : Hep A, adult
+  2013-08-14 : Td (adult) preservative free
+  2013-08-14 : Influenza, seasonal, injectable, preservative free
+  2011-08-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-26 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2018-03-24 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2017-10-20 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Asthma
+2017-08-23 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2017-04-23 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Asthma
+2017-03-24 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2017-03-20 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2016-04-20 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2016-03-25 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2015-08-19 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2015-05-04 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Asthma
+2015-03-31 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2013-11-10 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Asthma
+2013-08-14 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2013-04-10 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2013-04-08 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2012-04-13 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2011-08-10 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2011-04-19 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2010-12-08 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Fetus with unknown complication
+2010-12-01 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Normal pregnancy
+2010-09-29 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2009-12-01 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Asthma
+2009-06-04 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Asthma
+2009-06-02 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Asthma
+2009-04-27 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2009-04-25 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2009-03-09 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Concussion with no loss of consciousness
+2009-02-07 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2008-04-30 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+1994-02-23 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Normal pregnancy
+1990-07-25 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+1975-06-07 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Childhood asthma
+1975-06-07 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Perennial allergic rhinitis
+1973-08-12 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+1973-08-01 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

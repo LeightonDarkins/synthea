@@ -1,0 +1,350 @@
+Woodrow571 Heidenreich818
+=========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 16
+Birth Date:          2002-07-05
+Marital Status:      S
+Outpatient Provider: BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+Primary Care Provider: 40 WRIGHT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-07-17[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2015-05-17[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2015-05-17[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2004-08-04[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2004-07-25[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-07-17 - 2018-07-31 : Viral sinusitis (disorder)
+  2018-03-16 - 2018-03-28 : Acute viral pharyngitis (disorder)
+  2015-05-17 - 2015-08-14 : Otitis media
+  2013-07-30 - 2013-09-03 : Acute bacterial sinusitis (disorder)
+  2004-07-11 -            : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-07-10[CURRENT] : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy drugs Band 1
+  2004-08-04[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.1 %
+           - MCV [Entitic volume] by Automated count  86.6 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.0 fL
+           - Platelets [#/volume] in Blood by Automated count 164.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 263.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2013-07-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.8 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 235.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 183.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-31 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-31 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2018-08-31 : Platelet distribution width [Entitic volume] in Blood by Automated count 263.3 fL
+  2018-08-31 : Platelets [#/volume] in Blood by Automated count 164.1 10*3/uL
+  2018-08-31 : Erythrocyte distribution width [Entitic volume] by Automated count 39.0 fL
+  2018-08-31 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2018-08-31 : MCH [Entitic mass] by Automated count    27.7 pg
+  2018-08-31 : MCV [Entitic volume] by Automated count  86.6 fL
+  2018-08-31 : Hematocrit [Volume Fraction] of Blood by Automated count 35.1 %
+  2018-08-31 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2018-08-31 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2018-08-31 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  2018-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 70.1 mmHg
+           - Systolic Blood Pressure                  108.5 mmHg
+  2018-08-31 : Body Mass Index                          17.5 kg/m2
+  2018-08-31 : Body Weight                              50.6 kg
+  2018-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2018-08-31 : Body Height                              169.9 cm
+  2018-03-16 : Oral temperature                         37.8 Cel
+  2017-08-25 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-25 : Blood Pressure
+           - Diastolic Blood Pressure                 82.3 mmHg
+           - Systolic Blood Pressure                  113.9 mmHg
+  2017-08-25 : Body Mass Index                          16.7 kg/m2
+  2017-08-25 : Body Weight                              46.3 kg
+  2017-08-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-08-25 : Body Height                              166.5 cm
+  2016-08-19 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-19 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  112.2 mmHg
+  2016-08-19 : Body Mass Index                          16.1 kg/m2
+  2016-08-19 : Body Weight                              41.6 kg
+  2016-08-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2016-08-19 : Body Height                              160.6 cm
+  2015-08-14 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 88.2 mmHg
+           - Systolic Blood Pressure                  100.3 mmHg
+  2015-08-14 : Body Mass Index                          15.8 kg/m2
+  2015-08-14 : Body Weight                              37.1 kg
+  2015-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2015-08-14 : Body Height                              153.0 cm
+  2015-07-10 : Latex IgE Ab in Serum                    0.3 kU/L
+  2015-07-10 : Honey bee IgE Ab in Serum                0.3 kU/L
+  2015-07-10 : Cladosporium herbarum IgE Ab in Serum    0.3 kU/L
+  2015-07-10 : American house dust mite IgE Ab in Serum 0.1 kU/L
+  2015-07-10 : Cat dander IgE Ab in Serum               0.2 kU/L
+  2015-07-10 : Common Ragweed IgE Ab in Serum           0.0 kU/L
+  2015-07-10 : White oak IgE Ab in Serum                0.1 kU/L
+  2015-07-10 : Cow milk IgE Ab in Serum                 0.1 kU/L
+  2015-07-10 : Soybean IgE Ab in Serum                  0.1 kU/L
+  2015-07-10 : Egg white IgE Ab in Serum                0.0 kU/L
+  2015-07-10 : Wheat IgE Ab in Serum                    0.0 kU/L
+  2015-07-10 : Shrimp IgE Ab in Serum                   0.3 kU/L
+  2015-07-10 : Codfish IgE Ab in Serum                  0.3 kU/L
+  2015-07-10 : Walnut IgE Ab in Serum                   0.3 kU/L
+  2015-07-10 : Peanut IgE Ab in Serum                   0.3 kU/L
+  2014-08-08 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 86.6 mmHg
+           - Systolic Blood Pressure                  108.1 mmHg
+  2014-08-08 : Body Mass Index                          15.4 kg/m2
+  2014-08-08 : Body Weight                              32.7 kg
+  2014-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2014-08-08 : Body Height                              145.5 cm
+  2013-08-02 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-02 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  120.6 mmHg
+  2013-08-02 : Body Mass Index                          14.9 kg/m2
+  2013-08-02 : Body Weight                              29.3 kg
+  2013-08-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2013-08-02 : Body Height                              140.1 cm
+  2013-07-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2013-07-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 183.4 fL
+  2013-07-19 : Platelets [#/volume] in Blood by Automated count 235.4 10*3/uL
+  2013-07-19 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2013-07-19 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2013-07-19 : MCH [Entitic mass] by Automated count    28.4 pg
+  2013-07-19 : MCV [Entitic volume] by Automated count  81.7 fL
+  2013-07-19 : Hematocrit [Volume Fraction] of Blood by Automated count 43.8 %
+  2013-07-19 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2013-07-19 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2013-07-19 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2013-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 71.6 mmHg
+           - Systolic Blood Pressure                  122.4 mmHg
+  2013-07-19 : Body Mass Index                          14.9 kg/m2
+  2013-07-19 : Body Weight                              29.3 kg
+  2013-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2013-07-19 : Body Height                              140.1 cm
+  2012-07-13 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-13 : Blood Pressure
+           - Diastolic Blood Pressure                 75.4 mmHg
+           - Systolic Blood Pressure                  115.5 mmHg
+  2012-07-13 : Body Mass Index                          14.4 kg/m2
+  2012-07-13 : Body Weight                              26.4 kg
+  2012-07-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2012-07-13 : Body Height                              135.4 cm
+  2011-07-08 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-08 : Blood Pressure
+           - Diastolic Blood Pressure                 83.6 mmHg
+           - Systolic Blood Pressure                  115.1 mmHg
+  2011-07-08 : Body Mass Index                          14.0 kg/m2
+  2011-07-08 : Body Weight                              23.8 kg
+  2011-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2011-07-08 : Body Height                              130.1 cm
+  2010-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 85.4 mmHg
+           - Systolic Blood Pressure                  109.8 mmHg
+  2010-07-02 : Body Mass Index                          13.9 kg/m2
+  2010-07-02 : Body Weight                              21.6 kg
+  2010-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2010-07-02 : Body Height                              124.7 cm
+  2009-06-26 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 73.1 mmHg
+           - Systolic Blood Pressure                  111.4 mmHg
+  2009-06-26 : Body Mass Index                          13.9 kg/m2
+  2009-06-26 : Body Weight                              19.5 kg
+  2009-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2009-06-26 : Body Height                              118.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-19 : Subcutaneous immunotherapy
+  2018-09-28 : Subcutaneous immunotherapy
+  2018-09-07 : Subcutaneous immunotherapy
+  2018-08-17 : Subcutaneous immunotherapy
+  2018-07-27 : Subcutaneous immunotherapy
+  2018-07-06 : Subcutaneous immunotherapy
+  2018-06-15 : Subcutaneous immunotherapy
+  2018-05-25 : Subcutaneous immunotherapy
+  2018-05-04 : Subcutaneous immunotherapy
+  2018-04-13 : Subcutaneous immunotherapy
+  2018-03-23 : Subcutaneous immunotherapy
+  2018-03-16 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2018-03-02 : Subcutaneous immunotherapy
+  2018-02-09 : Subcutaneous immunotherapy
+  2018-01-19 : Subcutaneous immunotherapy
+  2017-12-29 : Subcutaneous immunotherapy
+  2017-12-08 : Subcutaneous immunotherapy
+  2017-11-17 : Subcutaneous immunotherapy
+  2017-10-27 : Subcutaneous immunotherapy
+  2017-10-06 : Subcutaneous immunotherapy
+  2017-09-15 : Subcutaneous immunotherapy
+  2017-08-25 : Subcutaneous immunotherapy
+  2017-08-25 : Documentation of current medications
+  2017-08-04 : Subcutaneous immunotherapy
+  2017-07-14 : Subcutaneous immunotherapy
+  2017-06-23 : Subcutaneous immunotherapy
+  2017-06-02 : Subcutaneous immunotherapy
+  2017-05-12 : Subcutaneous immunotherapy
+  2017-04-21 : Subcutaneous immunotherapy
+  2017-03-31 : Subcutaneous immunotherapy
+  2017-03-10 : Subcutaneous immunotherapy
+  2017-02-17 : Subcutaneous immunotherapy
+  2017-01-27 : Subcutaneous immunotherapy
+  2017-01-06 : Subcutaneous immunotherapy
+  2016-12-16 : Subcutaneous immunotherapy
+  2016-11-25 : Subcutaneous immunotherapy
+  2016-11-04 : Subcutaneous immunotherapy
+  2016-10-14 : Subcutaneous immunotherapy
+  2016-09-23 : Subcutaneous immunotherapy
+  2016-09-02 : Subcutaneous immunotherapy
+  2016-08-12 : Subcutaneous immunotherapy
+  2016-07-22 : Subcutaneous immunotherapy
+  2016-07-01 : Subcutaneous immunotherapy
+  2016-06-10 : Subcutaneous immunotherapy
+  2016-05-20 : Subcutaneous immunotherapy
+  2016-04-29 : Subcutaneous immunotherapy
+  2016-04-08 : Subcutaneous immunotherapy
+  2016-03-18 : Subcutaneous immunotherapy
+  2016-02-26 : Subcutaneous immunotherapy
+  2016-02-05 : Subcutaneous immunotherapy
+  2016-01-15 : Subcutaneous immunotherapy
+  2015-12-25 : Subcutaneous immunotherapy
+  2015-12-04 : Subcutaneous immunotherapy
+  2015-11-13 : Subcutaneous immunotherapy
+  2015-10-23 : Subcutaneous immunotherapy
+  2015-10-02 : Subcutaneous immunotherapy
+  2015-09-11 : Subcutaneous immunotherapy
+  2015-08-21 : Subcutaneous immunotherapy
+  2015-07-31 : Subcutaneous immunotherapy
+  2015-07-10 : Allergy screening test
+  2013-07-19 : Documentation of current medications
+  2012-07-13 : Documentation of current medications
+  2011-07-08 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-31 : meningococcal MCV4P
+  2018-08-31 : Influenza, seasonal, injectable, preservative free
+  2017-08-25 : Influenza, seasonal, injectable, preservative free
+  2016-08-19 : Influenza, seasonal, injectable, preservative free
+  2015-08-14 : HPV, quadrivalent
+  2015-08-14 : Influenza, seasonal, injectable, preservative free
+  2014-08-08 : HPV, quadrivalent
+  2014-08-08 : Influenza, seasonal, injectable, preservative free
+  2013-07-19 : meningococcal MCV4P
+  2013-07-19 : HPV, quadrivalent
+  2013-07-19 : Influenza, seasonal, injectable, preservative free
+  2013-07-19 : Tdap
+  2012-07-13 : Influenza, seasonal, injectable, preservative free
+  2011-07-08 : Influenza, seasonal, injectable, preservative free
+  2010-07-02 : Influenza, seasonal, injectable, preservative free
+  2009-06-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-09-28 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-09-07 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-08-31 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-08-17 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-07-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-07-17 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Viral sinusitis (disorder)
+2018-07-06 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-06-15 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-05-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-05-04 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-04-13 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-03-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-03-16 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Acute viral pharyngitis (disorder)
+2018-03-02 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-02-09 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2018-01-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-12-29 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-12-08 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-11-17 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-10-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-10-06 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-09-15 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-08-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-08-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-08-04 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-07-14 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-06-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-06-02 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-05-12 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-04-21 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-03-31 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-03-10 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-02-17 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-01-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-01-06 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-12-16 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-11-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-11-04 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-10-14 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-09-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-09-02 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-08-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-08-12 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-07-22 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-07-01 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-06-10 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-05-20 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-04-29 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-04-08 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-03-18 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-02-26 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-02-05 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-01-15 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-12-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-12-04 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-11-13 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-10-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-10-02 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-09-11 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-08-21 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-08-14 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-07-31 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-07-10 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2015-05-17 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Otitis media
+2014-08-08 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2013-07-30 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Acute bacterial sinusitis (disorder)
+2013-08-02 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2013-07-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2012-07-13 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-07-08 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2010-07-02 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2009-06-26 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2004-08-04 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2004-07-11 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

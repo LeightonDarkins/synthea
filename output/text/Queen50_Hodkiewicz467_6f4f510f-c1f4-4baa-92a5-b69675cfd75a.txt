@@ -1,0 +1,201 @@
+Queen50 Hodkiewicz467
+=====================
+Race:                Other
+Ethnicity:           South American
+Gender:              F
+Age:                 3
+Birth Date:          2014-11-16
+Marital Status:      S
+Outpatient Provider: HOLY FAMILY HOSPITAL
+Primary Care Provider: 70 EAST STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-11-05[STOPPED] : Ibuprofen 100 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-07-07 - 2018-07-28 : Viral sinusitis (disorder)
+  2016-11-05 - 2017-04-23 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-11-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %
+           - MCV [Entitic volume] by Automated count  85.0 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 159.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 348.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-21 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-21 : Blood Pressure
+           - Diastolic Blood Pressure                 84.8 mmHg
+           - Systolic Blood Pressure                  131.1 mmHg
+  2018-10-21 : Body Mass Index                          11.8 kg/m2
+  2018-10-21 : Body Weight                              13.2 kg
+  2018-10-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2018-10-21 : Body Height                              106.1 cm
+  2018-04-22 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-22 : Blood Pressure
+           - Diastolic Blood Pressure                 80.7 mmHg
+           - Systolic Blood Pressure                  111.3 mmHg
+  2018-04-22 : Body Mass Index                          11.9 kg/m2
+  2018-04-22 : Body Weight                              12.5 kg
+  2018-04-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2018-04-22 : Body Height                              102.4 cm
+  2017-10-22 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-22 : Blood Pressure
+           - Diastolic Blood Pressure                 85.3 mmHg
+           - Systolic Blood Pressure                  123.1 mmHg
+  2017-10-22 : Body Mass Index                          12.1 kg/m2
+  2017-10-22 : Body Weight                              11.8 kg
+  2017-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2017-10-22 : Body Height                              98.6 cm
+  2017-04-23 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 86.4 mmHg
+           - Systolic Blood Pressure                  109.9 mmHg
+  2017-04-23 : Body Mass Index                          12.4 kg/m2
+  2017-04-23 : Body Weight                              11.2 kg
+  2017-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2017-04-23 : Body Height                              94.9 cm
+  2016-10-23 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-23 : Blood Pressure
+           - Diastolic Blood Pressure                 84.9 mmHg
+           - Systolic Blood Pressure                  136.3 mmHg
+  2016-10-23 : Body Weight                              10.4 kg
+  2016-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2016-10-23 : Body Height                              90.2 cm
+  2016-04-24 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 84.7 mmHg
+           - Systolic Blood Pressure                  129.9 mmHg
+  2016-04-24 : Body Weight                              9.5 kg
+  2016-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2016-04-24 : Body Height                              84.3 cm
+  2016-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2016-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 85.5 mmHg
+           - Systolic Blood Pressure                  138.0 mmHg
+  2016-01-24 : Body Weight                              8.9 kg
+  2016-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2016-01-24 : Body Height                              80.9 cm
+  2015-10-25 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 84.4 mmHg
+           - Systolic Blood Pressure                  100.8 mmHg
+  2015-10-25 : Body Weight                              8.1 kg
+  2015-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2015-10-25 : Body Height                              77.2 cm
+  2015-07-26 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-26 : Blood Pressure
+           - Diastolic Blood Pressure                 79.7 mmHg
+           - Systolic Blood Pressure                  132.5 mmHg
+  2015-07-26 : Body Weight                              7.1 kg
+  2015-07-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2015-07-26 : Body Height                              73.0 cm
+  2015-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  138.2 mmHg
+  2015-04-26 : Body Weight                              5.9 kg
+  2015-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2015-04-26 : Body Height                              68.0 cm
+  2015-02-22 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-22 : Blood Pressure
+           - Diastolic Blood Pressure                 72.1 mmHg
+           - Systolic Blood Pressure                  127.7 mmHg
+  2015-02-22 : Body Weight                              4.3 kg
+  2015-02-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2015-02-22 : Body Height                              61.6 cm
+  2014-12-21 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-21 : Blood Pressure
+           - Diastolic Blood Pressure                 79.7 mmHg
+           - Systolic Blood Pressure                  110.4 mmHg
+  2014-12-21 : Body Weight                              3.1 kg
+  2014-12-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-12-21 : Body Height                              55.3 cm
+  2014-11-16 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2014-11-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 348.1 fL
+  2014-11-16 : Platelets [#/volume] in Blood by Automated count 159.2 10*3/uL
+  2014-11-16 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  2014-11-16 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2014-11-16 : MCH [Entitic mass] by Automated count    31.9 pg
+  2014-11-16 : MCV [Entitic volume] by Automated count  85.0 fL
+  2014-11-16 : Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %
+  2014-11-16 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2014-11-16 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2014-11-16 : Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+  2014-11-16 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2014-11-16 : Body Weight                              3.1 kg
+  2014-11-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-11-16 : Body Height                              55.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-04-22 : Documentation of current medications
+  2017-10-22 : Documentation of current medications
+  2015-10-25 : Documentation of current medications
+  2015-04-26 : Documentation of current medications
+  2014-12-21 : Documentation of current medications
+  2014-11-16 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-21 : Influenza, seasonal, injectable, preservative free
+  2017-10-22 : Influenza, seasonal, injectable, preservative free
+  2017-04-23 : Hep A, ped/adol, 2 dose
+  2016-10-23 : Influenza, seasonal, injectable, preservative free
+  2016-04-24 : DTaP
+  2016-01-24 : Hep A, ped/adol, 2 dose
+  2016-01-24 : Pneumococcal conjugate PCV 13
+  2016-01-24 : MMR
+  2016-01-24 : varicella
+  2016-01-24 : Hib (PRP-OMP)
+  2015-07-26 : Hep B, adolescent or pediatric
+  2015-07-26 : Pneumococcal conjugate PCV 13
+  2015-07-26 : DTaP
+  2015-07-26 : Influenza, seasonal, injectable, preservative free
+  2015-07-26 : IPV
+  2015-04-26 : Pneumococcal conjugate PCV 13
+  2015-04-26 : DTaP
+  2015-04-26 : IPV
+  2015-04-26 : rotavirus, monovalent
+  2015-04-26 : Hib (PRP-OMP)
+  2015-02-22 : Pneumococcal conjugate PCV 13
+  2015-02-22 : DTaP
+  2015-02-22 : IPV
+  2015-02-22 : rotavirus, monovalent
+  2015-02-22 : Hib (PRP-OMP)
+  2014-12-21 : Hep B, adolescent or pediatric
+  2014-11-16 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-21 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2018-07-07 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-04-22 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2017-10-22 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2017-04-23 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2016-11-05 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Otitis media
+2016-10-23 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2016-04-24 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2016-01-24 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2015-10-25 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2015-07-26 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2015-04-26 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2015-02-22 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2014-12-21 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2014-11-16 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

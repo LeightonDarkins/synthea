@@ -1,0 +1,269 @@
+Jackqueline794 O'Reilly797
+================'=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 25
+Birth Date:          1993-04-19
+Marital Status:      S
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-06-19[STOPPED] : Jolivette 28 Day Pack
+  2014-03-10[STOPPED] : Trinessa 28 Day Pack
+  2012-03-20[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2010-03-31[STOPPED] : Levora 0.15/30 28 Day Pack
+  2008-04-10[STOPPED] : Etonogestrel 68 MG Drug Implant
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-09-03 -            : Normal pregnancy
+  2017-03-28 - 2017-04-04 : Acute viral pharyngitis (disorder)
+  2016-10-10 - 2017-05-08 : Normal pregnancy
+  2004-04-17 -            : History of appendectomy
+  2004-04-17 -            : Appendicitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-09-03[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2016-10-10[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-06-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.7 %
+           - MCV [Entitic volume] by Automated count  81.6 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 231.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 370.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2009-06-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+           - MCV [Entitic volume] by Automated count  91.7 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 193.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 471.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-06-25 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-25 : Blood Pressure
+           - Diastolic Blood Pressure                 82.2 mmHg
+           - Systolic Blood Pressure                  138.0 mmHg
+  2018-06-25 : Body Mass Index                          22.1 kg/m2
+  2018-06-25 : Body Weight                              61.6 kg
+  2018-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-06-25 : Body Height                              167.1 cm
+  2017-03-28 : Oral temperature                         37.2 Cel
+  2015-06-22 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2015-06-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 370.5 fL
+  2015-06-22 : Platelets [#/volume] in Blood by Automated count 231.0 10*3/uL
+  2015-06-22 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2015-06-22 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2015-06-22 : MCH [Entitic mass] by Automated count    30.4 pg
+  2015-06-22 : MCV [Entitic volume] by Automated count  81.6 fL
+  2015-06-22 : Hematocrit [Volume Fraction] of Blood by Automated count 46.7 %
+  2015-06-22 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2015-06-22 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2015-06-22 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2015-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  132.4 mmHg
+  2015-06-22 : Body Mass Index                          20.4 kg/m2
+  2015-06-22 : Body Weight                              57.0 kg
+  2015-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2015-06-22 : Body Height                              167.1 cm
+  2012-06-18 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-18 : Blood Pressure
+           - Diastolic Blood Pressure                 86.2 mmHg
+           - Systolic Blood Pressure                  105.2 mmHg
+  2012-06-18 : Body Mass Index                          18.6 kg/m2
+  2012-06-18 : Body Weight                              51.9 kg
+  2012-06-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2012-06-18 : Body Height                              167.0 cm
+  2011-06-13 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-13 : Blood Pressure
+           - Diastolic Blood Pressure                 78.4 mmHg
+           - Systolic Blood Pressure                  119.8 mmHg
+  2011-06-13 : Body Mass Index                          18.3 kg/m2
+  2011-06-13 : Body Weight                              51.0 kg
+  2011-06-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2011-06-13 : Body Height                              166.9 cm
+  2010-06-07 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-07 : Blood Pressure
+           - Diastolic Blood Pressure                 74.1 mmHg
+           - Systolic Blood Pressure                  109.1 mmHg
+  2010-06-07 : Body Mass Index                          18.0 kg/m2
+  2010-06-07 : Body Weight                              50.0 kg
+  2010-06-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2010-06-07 : Body Height                              166.7 cm
+  2009-06-01 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2009-06-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 471.0 fL
+  2009-06-01 : Platelets [#/volume] in Blood by Automated count 193.2 10*3/uL
+  2009-06-01 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2009-06-01 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2009-06-01 : MCH [Entitic mass] by Automated count    31.8 pg
+  2009-06-01 : MCV [Entitic volume] by Automated count  91.7 fL
+  2009-06-01 : Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+  2009-06-01 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2009-06-01 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2009-06-01 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  2009-06-01 : Blood Pressure
+           - Diastolic Blood Pressure                 76.6 mmHg
+           - Systolic Blood Pressure                  104.8 mmHg
+  2009-06-01 : Body Mass Index                          17.6 kg/m2
+  2009-06-01 : Body Weight                              48.7 kg
+  2009-06-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2009-06-01 : Body Height                              166.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-29 : Auscultation of the fetal heart for Normal pregnancy
+  2018-10-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-10-29 : Alpha-fetoprotein test for Normal pregnancy
+  2018-10-29 : Fetal anatomy study for Normal pregnancy
+  2018-10-01 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2018-10-01 : Auscultation of the fetal heart for Normal pregnancy
+  2018-10-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-03 : Physical examination of mother for Normal pregnancy
+  2018-09-03 : Urine protein test for Normal pregnancy
+  2018-09-03 : Skin test for tuberculosis for Normal pregnancy
+  2018-09-03 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2018-09-03 : Rubella screening for Normal pregnancy
+  2018-09-03 : Hepatitis C antibody test for Normal pregnancy
+  2018-09-03 : Urine screening test for diabetes for Normal pregnancy
+  2018-09-03 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2018-09-03 : Urine culture for Normal pregnancy
+  2018-09-03 : Syphilis infection test for Normal pregnancy
+  2018-09-03 : Gonorrhea infection test for Normal pregnancy
+  2018-09-03 : Chlamydia antigen test for Normal pregnancy
+  2018-09-03 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2018-09-03 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2018-09-03 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-09-03 : Blood typing, RH typing for Normal pregnancy
+  2018-09-03 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-03 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-09-03 : Standard pregnancy test for Normal pregnancy
+  2018-06-25 : Documentation of current medications
+  2017-06-19 : Depression screening
+  2017-06-19 : Physical examination following birth
+  2017-06-19 : RhD passive immunization
+  2017-05-08 : Cesarean section for Normal pregnancy
+  2017-05-08 : Epidural anesthesia for Normal pregnancy
+  2017-04-24 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-24 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-03-27 : Auscultation of the fetal heart for Normal pregnancy
+  2017-03-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-27 : Auscultation of the fetal heart for Normal pregnancy
+  2017-02-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-27 : Urine screening for glucose for Normal pregnancy
+  2017-02-27 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-02-27 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-02-27 : RhD passive immunization for Normal pregnancy
+  2017-02-27 : Antenatal RhD antibody screening for Normal pregnancy
+  2017-01-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-01-02 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-12-05 : Auscultation of the fetal heart for Normal pregnancy
+  2016-12-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-12-05 : Alpha-fetoprotein test for Normal pregnancy
+  2016-12-05 : Fetal anatomy study for Normal pregnancy
+  2016-11-07 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-11-07 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-10-10 : Physical examination of mother for Normal pregnancy
+  2016-10-10 : Urine protein test for Normal pregnancy
+  2016-10-10 : Skin test for tuberculosis for Normal pregnancy
+  2016-10-10 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-10-10 : Rubella screening for Normal pregnancy
+  2016-10-10 : Hepatitis C antibody test for Normal pregnancy
+  2016-10-10 : Urine screening test for diabetes for Normal pregnancy
+  2016-10-10 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-10-10 : Urine culture for Normal pregnancy
+  2016-10-10 : Syphilis infection test for Normal pregnancy
+  2016-10-10 : Gonorrhea infection test for Normal pregnancy
+  2016-10-10 : Chlamydia antigen test for Normal pregnancy
+  2016-10-10 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-10-10 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-10-10 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-10-10 : Blood typing, RH typing for Normal pregnancy
+  2016-10-10 : Auscultation of the fetal heart for Normal pregnancy
+  2016-10-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-10-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-10-10 : Standard pregnancy test for Normal pregnancy
+  2016-08-08 : Removal of subcutaneous contraceptive
+  2016-04-18 : Replacement of subcutaneous contraceptive
+  2015-06-22 : Documentation of current medications
+  2012-04-16 : Replacement of subcutaneous contraceptive
+  2012-03-20 : Intramuscular injection
+  2010-06-07 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-06-25 : Influenza, seasonal, injectable, preservative free
+  2015-06-22 : meningococcal MCV4P
+  2015-06-22 : Hep B, adult
+  2015-06-22 : Td (adult) preservative free
+  2015-06-22 : Influenza, seasonal, injectable, preservative free
+  2012-06-18 : Influenza, seasonal, injectable, preservative free
+  2011-06-13 : Influenza, seasonal, injectable, preservative free
+  2010-06-07 : Influenza, seasonal, injectable, preservative free
+  2009-06-01 : meningococcal MCV4P
+  2009-06-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-29 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2018-10-01 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2018-09-03 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2018-06-25 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-06-19 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-06-19 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-05-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2017-04-24 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2017-03-28 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2017-03-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2017-02-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2017-01-30 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2017-01-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-12-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-11-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-10-10 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-08-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-04-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-06-22 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-03-10 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-06-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-04-16 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-03-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2011-06-13 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-06-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-03-31 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-06-01 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2008-04-10 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2004-04-17 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Appendicitis
+2004-04-17 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Appendicitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,141 @@
+Leon728 Herman763
+=================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 34
+Birth Date:          1984-01-10
+Marital Status:      M
+Outpatient Provider: SOUTH SHORE HOSPITAL
+Primary Care Provider: 55 FOGG ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-03-27 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  83.5 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 312.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 273.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2018-03-27 : Lipid Panel
+           - Total Cholesterol                        175.5 mg/dL
+           - Triglycerides                            126.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.6 mg/dL
+           - High Density Lipoprotein Cholesterol     62.5 mg/dL
+  2015-03-24 : Lipid Panel
+           - Total Cholesterol                        170.6 mg/dL
+           - Triglycerides                            103.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.3 mg/dL
+           - High Density Lipoprotein Cholesterol     71.6 mg/dL
+  2012-03-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+           - MCV [Entitic volume] by Automated count  90.5 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 366.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 320.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-27 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2018-03-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 273.8 fL
+  2018-03-27 : Platelets [#/volume] in Blood by Automated count 312.2 10*3/uL
+  2018-03-27 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2018-03-27 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2018-03-27 : MCH [Entitic mass] by Automated count    31.9 pg
+  2018-03-27 : MCV [Entitic volume] by Automated count  83.5 fL
+  2018-03-27 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  2018-03-27 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2018-03-27 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2018-03-27 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2018-03-27 : High Density Lipoprotein Cholesterol     62.5 mg/dL
+  2018-03-27 : Low Density Lipoprotein Cholesterol      87.6 mg/dL
+  2018-03-27 : Triglycerides                            126.9 mg/dL
+  2018-03-27 : Total Cholesterol                        175.5 mg/dL
+  2018-03-27 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mmHg
+           - Systolic Blood Pressure                  103.0 mmHg
+  2018-03-27 : Body Mass Index                          31.0 kg/m2
+  2018-03-27 : Body Weight                              96.0 kg
+  2018-03-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2018-03-27 : Body Height                              176.0 cm
+  2015-03-24 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-24 : High Density Lipoprotein Cholesterol     71.6 mg/dL
+  2015-03-24 : Low Density Lipoprotein Cholesterol      78.3 mg/dL
+  2015-03-24 : Triglycerides                            103.8 mg/dL
+  2015-03-24 : Total Cholesterol                        170.6 mg/dL
+  2015-03-24 : Blood Pressure
+           - Diastolic Blood Pressure                 77.1 mmHg
+           - Systolic Blood Pressure                  121.8 mmHg
+  2015-03-24 : Body Mass Index                          29.4 kg/m2
+  2015-03-24 : Body Weight                              91.0 kg
+  2015-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-03-24 : Body Height                              176.0 cm
+  2012-03-20 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2012-03-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 320.2 fL
+  2012-03-20 : Platelets [#/volume] in Blood by Automated count 366.1 10*3/uL
+  2012-03-20 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2012-03-20 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2012-03-20 : MCH [Entitic mass] by Automated count    28.5 pg
+  2012-03-20 : MCV [Entitic volume] by Automated count  90.5 fL
+  2012-03-20 : Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+  2012-03-20 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2012-03-20 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2012-03-20 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2012-03-20 : Blood Pressure
+           - Diastolic Blood Pressure                 88.2 mmHg
+           - Systolic Blood Pressure                  120.3 mmHg
+  2012-03-20 : Body Mass Index                          28.0 kg/m2
+  2012-03-20 : Body Weight                              86.8 kg
+  2012-03-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2012-03-20 : Body Height                              176.0 cm
+  2009-03-17 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-17 : Blood Pressure
+           - Diastolic Blood Pressure                 84.1 mmHg
+           - Systolic Blood Pressure                  101.3 mmHg
+  2009-03-17 : Body Mass Index                          26.5 kg/m2
+  2009-03-17 : Body Weight                              82.2 kg
+  2009-03-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2009-03-17 : Body Height                              176.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-27 : Documentation of current medications
+  2015-03-24 : Documentation of current medications
+  2009-03-17 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-27 : Influenza, seasonal, injectable, preservative free
+  2015-03-24 : Td (adult) preservative free
+  2015-03-24 : Influenza, seasonal, injectable, preservative free
+  2012-03-20 : Influenza, seasonal, injectable, preservative free
+  2009-03-17 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-27 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2015-03-24 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-03-20 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2009-03-17 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

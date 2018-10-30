@@ -1,0 +1,191 @@
+Trinidad33 McLaughlin530
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 45
+Birth Date:          1973-07-05
+Marital Status:      M
+Outpatient Provider: STURDY MEMORIAL HOSPITAL
+Primary Care Provider: 211 PARK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-09-10[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2014-04-08[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2009-08-16[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-09-10 - 2017-09-17 : Viral sinusitis (disorder)
+  2016-05-21 - 2016-06-11 : Viral sinusitis (disorder)
+  2014-04-08 - 2014-04-15 : Acute bronchitis (disorder)
+  2009-11-23 - 2009-12-06 : Acute viral pharyngitis (disorder)
+  2009-09-03 -            : Body mass index 30+ - obesity (finding)
+  2009-08-16 - 2009-08-30 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-04-08[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2009-08-16[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-04-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.2 %
+           - MCV [Entitic volume] by Automated count  94.5 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 177.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 211.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2016-04-21 : Lipid Panel
+           - Total Cholesterol                        160.2 mg/dL
+           - Triglycerides                            109.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.8 mg/dL
+           - High Density Lipoprotein Cholesterol     63.5 mg/dL
+  2012-12-06 : Lipid Panel
+           - Total Cholesterol                        161.1 mg/dL
+           - Triglycerides                            128.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.6 mg/dL
+           - High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2009-09-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+           - MCV [Entitic volume] by Automated count  84.4 fL
+           - MCH [Entitic mass] by Automated count    28.1 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+           - Platelets [#/volume] in Blood by Automated count 241.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 263.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 73.8 mmHg
+           - Systolic Blood Pressure                  114.9 mmHg
+  2018-04-26 : Body Mass Index                          33.6 kg/m2
+  2018-04-26 : Body Weight                              112.2 kg
+  2018-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2018-04-26 : Body Height                              182.7 cm
+  2016-04-21 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2016-04-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 211.2 fL
+  2016-04-21 : Platelets [#/volume] in Blood by Automated count 177.3 10*3/uL
+  2016-04-21 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2016-04-21 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2016-04-21 : MCH [Entitic mass] by Automated count    32.6 pg
+  2016-04-21 : MCV [Entitic volume] by Automated count  94.5 fL
+  2016-04-21 : Hematocrit [Volume Fraction] of Blood by Automated count 39.2 %
+  2016-04-21 : Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+  2016-04-21 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2016-04-21 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2016-04-21 : High Density Lipoprotein Cholesterol     63.5 mg/dL
+  2016-04-21 : Low Density Lipoprotein Cholesterol      74.8 mg/dL
+  2016-04-21 : Triglycerides                            109.8 mg/dL
+  2016-04-21 : Total Cholesterol                        160.2 mg/dL
+  2016-04-21 : Blood Pressure
+           - Diastolic Blood Pressure                 81.8 mmHg
+           - Systolic Blood Pressure                  114.9 mmHg
+  2016-04-21 : Body Mass Index                          32.6 kg/m2
+  2016-04-21 : Body Weight                              108.8 kg
+  2016-04-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2016-04-21 : Body Height                              182.7 cm
+  2014-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 80.9 mmHg
+           - Systolic Blood Pressure                  124.3 mmHg
+  2014-04-17 : Body Mass Index                          31.8 kg/m2
+  2014-04-17 : Body Weight                              106.2 kg
+  2014-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2014-04-17 : Body Height                              182.7 cm
+  2012-12-06 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-06 : High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2012-12-06 : Low Density Lipoprotein Cholesterol      72.6 mg/dL
+  2012-12-06 : Triglycerides                            128.0 mg/dL
+  2012-12-06 : Total Cholesterol                        161.1 mg/dL
+  2012-12-06 : Blood Pressure
+           - Diastolic Blood Pressure                 80.4 mmHg
+           - Systolic Blood Pressure                  116.3 mmHg
+  2012-12-06 : Body Mass Index                          31.5 kg/m2
+  2012-12-06 : Body Weight                              105.1 kg
+  2012-12-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2012-12-06 : Body Height                              182.7 cm
+  2009-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 84.3 mmHg
+           - Systolic Blood Pressure                  107.3 mmHg
+  2009-12-03 : Body Mass Index                          30.2 kg/m2
+  2009-12-03 : Body Weight                              101.0 kg
+  2009-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2009-12-03 : Body Height                              182.7 cm
+  2009-11-23 : Oral temperature                         37.4 Cel
+  2009-09-03 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2009-09-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 263.0 fL
+  2009-09-03 : Platelets [#/volume] in Blood by Automated count 241.6 10*3/uL
+  2009-09-03 : Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+  2009-09-03 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2009-09-03 : MCH [Entitic mass] by Automated count    28.1 pg
+  2009-09-03 : MCV [Entitic volume] by Automated count  84.4 fL
+  2009-09-03 : Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+  2009-09-03 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2009-09-03 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2009-09-03 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2009-09-03 : Blood Pressure
+           - Diastolic Blood Pressure                 74.4 mmHg
+           - Systolic Blood Pressure                  114.0 mmHg
+  2009-09-03 : Body Mass Index                          30.2 kg/m2
+  2009-09-03 : Body Weight                              101.0 kg
+  2009-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2009-09-03 : Body Height                              182.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-04-21 : Documentation of current medications
+  2014-04-17 : Documentation of current medications
+  2014-04-08 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2009-12-03 : Documentation of current medications
+  2009-11-23 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2009-09-03 : Documentation of current medications
+  2009-08-16 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-04-26 : Influenza, seasonal, injectable, preservative free
+  2016-04-21 : Hep A, adult
+  2016-04-21 : Td (adult) preservative free
+  2016-04-21 : Influenza, seasonal, injectable, preservative free
+  2014-04-17 : Hep A, adult
+  2014-04-17 : Influenza, seasonal, injectable, preservative free
+  2012-12-06 : Influenza, seasonal, injectable, preservative free
+  2009-12-03 : Influenza, seasonal, injectable, preservative free
+  2009-09-03 : Influenza, seasonal, injectable, preservative free
+  2009-08-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-26 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2017-09-10 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-05-21 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-04-21 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2014-04-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2014-04-08 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Acute bronchitis (disorder)
+2012-12-06 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2009-12-03 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2009-11-23 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2009-09-03 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2009-08-27 (Dr. Adan632 Bernier607) : Encounter at GENERAL HEALTH CARE
+2009-08-16 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

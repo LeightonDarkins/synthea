@@ -1,0 +1,168 @@
+Kennith515 Harber290
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 24
+Birth Date:          1994-06-21
+Marital Status:      S
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2011-09-26[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2011-09-26[STOPPED] : Cefuroxime 250 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2011-09-26 - 2012-08-14 : Otitis media
+  2011-07-24 - 2011-08-05 : Acute viral pharyngitis (disorder)
+  2010-11-24 - 2010-12-24 : Concussion with no loss of consciousness
+  2009-07-27 - 2009-08-10 : Viral sinusitis (disorder)
+  2009-06-06 - 2009-06-20 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2010-11-24[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2008-10-07[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-08-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 222.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 446.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2010-08-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+           - MCV [Entitic volume] by Automated count  86.4 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 167.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 288.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-08-23 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2016-08-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 446.8 fL
+  2016-08-23 : Platelets [#/volume] in Blood by Automated count 222.3 10*3/uL
+  2016-08-23 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2016-08-23 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2016-08-23 : MCH [Entitic mass] by Automated count    30.4 pg
+  2016-08-23 : MCV [Entitic volume] by Automated count  90.7 fL
+  2016-08-23 : Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+  2016-08-23 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2016-08-23 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2016-08-23 : Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+  2016-08-23 : Blood Pressure
+           - Diastolic Blood Pressure                 77.1 mmHg
+           - Systolic Blood Pressure                  119.3 mmHg
+  2016-08-23 : Body Mass Index                          25.4 kg/m2
+  2016-08-23 : Body Weight                              79.4 kg
+  2016-08-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2016-08-23 : Body Height                              176.8 cm
+  2013-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 78.5 mmHg
+           - Systolic Blood Pressure                  136.1 mmHg
+  2013-08-20 : Body Mass Index                          23.4 kg/m2
+  2013-08-20 : Body Weight                              73.0 kg
+  2013-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2013-08-20 : Body Height                              176.6 cm
+  2012-08-14 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 76.8 mmHg
+           - Systolic Blood Pressure                  133.8 mmHg
+  2012-08-14 : Body Mass Index                          22.9 kg/m2
+  2012-08-14 : Body Weight                              71.1 kg
+  2012-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2012-08-14 : Body Height                              176.2 cm
+  2011-08-09 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-09 : Blood Pressure
+           - Diastolic Blood Pressure                 77.3 mmHg
+           - Systolic Blood Pressure                  128.5 mmHg
+  2011-08-09 : Body Mass Index                          22.3 kg/m2
+  2011-08-09 : Body Weight                              68.5 kg
+  2011-08-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2011-08-09 : Body Height                              175.4 cm
+  2011-07-24 : Oral temperature                         37.3 Cel
+  2010-08-03 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2010-08-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 288.1 fL
+  2010-08-03 : Platelets [#/volume] in Blood by Automated count 167.9 10*3/uL
+  2010-08-03 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2010-08-03 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2010-08-03 : MCH [Entitic mass] by Automated count    28.2 pg
+  2010-08-03 : MCV [Entitic volume] by Automated count  86.4 fL
+  2010-08-03 : Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+  2010-08-03 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2010-08-03 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2010-08-03 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2010-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 79.3 mmHg
+           - Systolic Blood Pressure                  103.0 mmHg
+  2010-08-03 : Body Mass Index                          21.5 kg/m2
+  2010-08-03 : Body Weight                              65.0 kg
+  2010-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2010-08-03 : Body Height                              173.8 cm
+  2009-07-28 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 72.6 mmHg
+           - Systolic Blood Pressure                  104.8 mmHg
+  2009-07-28 : Body Mass Index                          20.8 kg/m2
+  2009-07-28 : Body Weight                              60.3 kg
+  2009-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2009-07-28 : Body Height                              170.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-08-23 : Documentation of current medications
+  2012-08-14 : Documentation of current medications
+  2011-07-24 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-08-23 : meningococcal MCV4P
+  2016-08-23 : Hep B, adult
+  2016-08-23 : Td (adult) preservative free
+  2016-08-23 : Influenza, seasonal, injectable, preservative free
+  2013-08-20 : Influenza, seasonal, injectable, preservative free
+  2012-08-14 : Influenza, seasonal, injectable, preservative free
+  2011-08-09 : Influenza, seasonal, injectable, preservative free
+  2010-08-03 : meningococcal MCV4P
+  2010-08-03 : Influenza, seasonal, injectable, preservative free
+  2009-07-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2016-08-23 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2013-08-20 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-08-14 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-09-26 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Otitis media
+2011-08-09 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-07-24 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute viral pharyngitis (disorder)
+2010-12-24 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Concussion with no loss of consciousness
+2010-11-24 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+2010-08-03 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-07-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+2009-07-28 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-06-06 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+2008-10-07 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

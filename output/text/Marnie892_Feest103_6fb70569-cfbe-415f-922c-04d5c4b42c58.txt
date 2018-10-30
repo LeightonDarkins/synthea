@@ -1,0 +1,280 @@
+Marnie892 Feest103
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          1996-06-15
+Marital Status:      S
+Outpatient Provider: NORWOOD HOSPITAL
+Primary Care Provider: 800 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-08-22[STOPPED] : Trinessa 28 Day Pack
+  2016-08-27[STOPPED] : Levora 0.15/30 28 Day Pack
+  2011-06-07[STOPPED] : Camila 28 Day Pack
+  2010-12-22[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2010-03-09[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  1998-06-22[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1998-06-22[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-12-31 - 2017-01-13 : Acute viral pharyngitis (disorder)
+  2015-12-05 - 2016-07-16 : Normal pregnancy
+  2014-02-01 - 2014-02-22 : Viral sinusitis (disorder)
+  2010-12-22 - 2010-12-31 : Streptococcal sore throat (disorder)
+  2010-03-09 - 2010-03-30 : Laceration of foot
+  2009-07-15 - 2009-07-22 : Viral sinusitis (disorder)
+  1998-06-22 - 2015-09-21 : Childhood asthma
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-12-05[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2010-03-09[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1998-06-22[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+--------------------------------------------------------------------------------
+REPORTS:
+  2012-08-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+           - MCV [Entitic volume] by Automated count  93.8 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 331.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 152.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-01-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-14 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mmHg
+           - Systolic Blood Pressure                  129.6 mmHg
+  2017-01-14 : Body Mass Index                          21.2 kg/m2
+  2017-01-14 : Body Weight                              62.2 kg
+  2017-01-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2017-01-14 : Body Height                              171.1 cm
+  2017-01-07 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-07 : Blood Pressure
+           - Diastolic Blood Pressure                 77.7 mmHg
+           - Systolic Blood Pressure                  127.0 mmHg
+  2017-01-07 : Body Mass Index                          21.2 kg/m2
+  2017-01-07 : Body Weight                              62.2 kg
+  2017-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2017-01-07 : Body Height                              171.1 cm
+  2016-12-31 : Oral temperature                         37.9 Cel
+  2016-02-20 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 86.9 mmHg
+           - Systolic Blood Pressure                  132.6 mmHg
+  2016-02-20 : Body Mass Index                          20.8 kg/m2
+  2016-02-20 : Body Weight                              60.9 kg
+  2016-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2016-02-20 : Body Height                              171.1 cm
+  2015-02-14 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-14 : Blood Pressure
+           - Diastolic Blood Pressure                 74.1 mmHg
+           - Systolic Blood Pressure                  104.1 mmHg
+  2015-02-14 : Body Mass Index                          20.4 kg/m2
+  2015-02-14 : Body Weight                              59.7 kg
+  2015-02-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2015-02-14 : Body Height                              171.0 cm
+  2014-02-08 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 71.9 mmHg
+           - Systolic Blood Pressure                  132.8 mmHg
+  2014-02-08 : Body Mass Index                          20.0 kg/m2
+  2014-02-08 : Body Weight                              58.5 kg
+  2014-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2014-02-08 : Body Height                              170.9 cm
+  2013-08-10 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 81.3 mmHg
+           - Systolic Blood Pressure                  119.8 mmHg
+  2013-08-10 : Body Mass Index                          19.9 kg/m2
+  2013-08-10 : Body Weight                              58.0 kg
+  2013-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2013-08-10 : Body Height                              170.8 cm
+  2012-08-04 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2012-08-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 152.2 fL
+  2012-08-04 : Platelets [#/volume] in Blood by Automated count 331.2 10*3/uL
+  2012-08-04 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  2012-08-04 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2012-08-04 : MCH [Entitic mass] by Automated count    28.7 pg
+  2012-08-04 : MCV [Entitic volume] by Automated count  93.8 fL
+  2012-08-04 : Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+  2012-08-04 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2012-08-04 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2012-08-04 : Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+  2012-08-04 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mmHg
+           - Systolic Blood Pressure                  131.9 mmHg
+  2012-08-04 : Body Mass Index                          19.6 kg/m2
+  2012-08-04 : Body Weight                              56.8 kg
+  2012-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2012-08-04 : Body Height                              170.4 cm
+  2011-07-30 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 80.5 mmHg
+           - Systolic Blood Pressure                  127.7 mmHg
+  2011-07-30 : Body Mass Index                          19.1 kg/m2
+  2011-07-30 : Body Weight                              55.1 kg
+  2011-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-07-30 : Body Height                              169.8 cm
+  2010-12-22 : Oral temperature                         38.1 Cel
+  2010-07-24 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 88.7 mmHg
+           - Systolic Blood Pressure                  111.8 mmHg
+  2010-07-24 : Body Mass Index                          18.5 kg/m2
+  2010-07-24 : Body Weight                              52.6 kg
+  2010-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2010-07-24 : Body Height                              168.6 cm
+  2009-07-18 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  136.9 mmHg
+  2009-07-18 : Body Mass Index                          17.8 kg/m2
+  2009-07-18 : Body Weight                              48.7 kg
+  2009-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2009-07-18 : Body Height                              165.6 cm
+  2009-01-31 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-31 : Blood Pressure
+           - Diastolic Blood Pressure                 77.1 mmHg
+           - Systolic Blood Pressure                  118.9 mmHg
+  2009-01-31 : Body Mass Index                          17.5 kg/m2
+  2009-01-31 : Body Weight                              47.0 kg
+  2009-01-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2009-01-31 : Body Height                              163.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-01-07 : Documentation of current medications
+  2016-12-31 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2016-08-27 : Depression screening
+  2016-08-27 : Physical examination following birth
+  2016-07-16 : Childbirth for Normal pregnancy
+  2016-07-16 : Epidural anesthesia for Normal pregnancy
+  2016-07-09 : Auscultation of the fetal heart for Normal pregnancy
+  2016-07-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-07-02 : Auscultation of the fetal heart for Normal pregnancy
+  2016-07-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-18 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-18 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-05-21 : Auscultation of the fetal heart for Normal pregnancy
+  2016-05-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-23 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-23 : Urine screening for glucose for Normal pregnancy
+  2016-04-23 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-04-23 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-03-26 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-27 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-30 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-30 : Alpha-fetoprotein test for Normal pregnancy
+  2016-01-30 : Fetal anatomy study for Normal pregnancy
+  2016-01-02 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-01-02 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-05 : Physical examination of mother for Normal pregnancy
+  2015-12-05 : Urine protein test for Normal pregnancy
+  2015-12-05 : Skin test for tuberculosis for Normal pregnancy
+  2015-12-05 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-12-05 : Rubella screening for Normal pregnancy
+  2015-12-05 : Hepatitis C antibody test for Normal pregnancy
+  2015-12-05 : Urine screening test for diabetes for Normal pregnancy
+  2015-12-05 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-12-05 : Urine culture for Normal pregnancy
+  2015-12-05 : Syphilis infection test for Normal pregnancy
+  2015-12-05 : Gonorrhea infection test for Normal pregnancy
+  2015-12-05 : Chlamydia antigen test for Normal pregnancy
+  2015-12-05 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-12-05 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-12-05 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-12-05 : Blood typing, RH typing for Normal pregnancy
+  2015-12-05 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-05 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-12-05 : Standard pregnancy test for Normal pregnancy
+  2014-02-08 : Documentation of current medications
+  2012-08-04 : Documentation of current medications
+  2010-07-24 : Documentation of current medications
+  2010-03-09 : Suture open wound for Laceration of foot
+  2009-07-18 : Documentation of current medications
+  2009-01-31 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-01-14 : Hep B, adult
+  2017-01-07 : Hep B, adult
+  2017-01-07 : Influenza, seasonal, injectable, preservative free
+  2016-02-20 : Influenza, seasonal, injectable, preservative free
+  2015-02-14 : Influenza, seasonal, injectable, preservative free
+  2014-02-08 : Influenza, seasonal, injectable, preservative free
+  2013-08-10 : Influenza, seasonal, injectable, preservative free
+  2012-08-04 : meningococcal MCV4P
+  2012-08-04 : Influenza, seasonal, injectable, preservative free
+  2011-07-30 : Influenza, seasonal, injectable, preservative free
+  2010-07-24 : Influenza, seasonal, injectable, preservative free
+  2009-01-31 : HPV, quadrivalent
+  2009-01-31 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Asthma
+2017-08-22 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2017-01-14 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2017-01-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-12-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2016-08-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-08-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-08-18 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Asthma
+2016-07-16 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-07-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-07-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-06-18 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-05-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-04-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-03-26 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-02-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-02-20 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-01-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-01-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2015-12-05 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2015-02-14 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-03-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Childhood asthma
+2014-02-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-02-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-08-10 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-04-04 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Childhood asthma
+2012-08-04 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-07-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-06-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-04-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Childhood asthma
+2010-12-22 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2010-07-24 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-03-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-07-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2009-07-18 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-01-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+1998-06-22 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Childhood asthma
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

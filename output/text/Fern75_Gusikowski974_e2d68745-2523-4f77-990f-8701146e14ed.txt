@@ -1,0 +1,184 @@
+Fern75 Gusikowski974
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          1997-08-28
+Marital Status:      S
+Outpatient Provider: BERKSHIRE MEDICAL CENTER INC - 1
+Primary Care Provider: 725 NORTH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-04-10[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2014-08-09[STOPPED] : Jolivette 28 Day Pack
+  2013-08-14[STOPPED] : Camila 28 Day Pack
+  2013-01-27[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2012-08-19[STOPPED] : Levora 0.15/30 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-04-10 - 2018-04-17 : Acute bronchitis (disorder)
+  2013-01-27 - 2013-02-17 : Laceration of foot
+  2011-08-25 - 2011-10-27 : Child attention deficit disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-04-10[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2013-01-27[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2011-08-25[STOPPED] : Overactivity/inattention behavior management
+                         Reason: Child attention deficit disorder
+                         Activity: Counseling
+                         Activity: Psychological assessment
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-10-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+           - MCV [Entitic volume] by Automated count  81.3 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 183.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 405.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 75.4 mmHg
+           - Systolic Blood Pressure                  104.4 mmHg
+  2018-04-19 : Body Mass Index                          20.0 kg/m2
+  2018-04-19 : Body Weight                              57.9 kg
+  2018-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2018-04-19 : Body Height                              170.2 cm
+  2016-10-27 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-27 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  131.3 mmHg
+  2016-10-27 : Body Mass Index                          19.4 kg/m2
+  2016-10-27 : Body Weight                              56.0 kg
+  2016-10-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2016-10-27 : Body Height                              170.2 cm
+  2015-10-22 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-22 : Blood Pressure
+           - Diastolic Blood Pressure                 82.4 mmHg
+           - Systolic Blood Pressure                  138.7 mmHg
+  2015-10-22 : Body Mass Index                          19.0 kg/m2
+  2015-10-22 : Body Weight                              55.0 kg
+  2015-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-10-22 : Body Height                              170.0 cm
+  2014-10-16 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-16 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mmHg
+           - Systolic Blood Pressure                  123.2 mmHg
+  2014-10-16 : Body Mass Index                          18.7 kg/m2
+  2014-10-16 : Body Weight                              53.9 kg
+  2014-10-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2014-10-16 : Body Height                              169.8 cm
+  2013-10-10 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2013-10-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 405.5 fL
+  2013-10-10 : Platelets [#/volume] in Blood by Automated count 183.2 10*3/uL
+  2013-10-10 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  2013-10-10 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2013-10-10 : MCH [Entitic mass] by Automated count    32.5 pg
+  2013-10-10 : MCV [Entitic volume] by Automated count  81.3 fL
+  2013-10-10 : Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+  2013-10-10 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2013-10-10 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2013-10-10 : Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+  2013-10-10 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  137.2 mmHg
+  2013-10-10 : Body Mass Index                          18.3 kg/m2
+  2013-10-10 : Body Weight                              52.7 kg
+  2013-10-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2013-10-10 : Body Height                              169.5 cm
+  2012-10-04 : Tobacco smoking status NHIS              Never smoker 
+  2012-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  101.2 mmHg
+  2012-10-04 : Body Mass Index                          17.8 kg/m2
+  2012-10-04 : Body Weight                              50.7 kg
+  2012-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2012-10-04 : Body Height                              168.8 cm
+  2011-09-29 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-29 : Blood Pressure
+           - Diastolic Blood Pressure                 72.6 mmHg
+           - Systolic Blood Pressure                  138.7 mmHg
+  2011-09-29 : Body Mass Index                          17.1 kg/m2
+  2011-09-29 : Body Weight                              48.1 kg
+  2011-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2011-09-29 : Body Height                              167.5 cm
+  2010-09-23 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-23 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  103.1 mmHg
+  2010-09-23 : Body Mass Index                          16.5 kg/m2
+  2010-09-23 : Body Weight                              44.6 kg
+  2010-09-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2010-09-23 : Body Height                              164.7 cm
+  2009-09-17 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-17 : Blood Pressure
+           - Diastolic Blood Pressure                 84.4 mmHg
+           - Systolic Blood Pressure                  110.0 mmHg
+  2009-09-17 : Body Mass Index                          16.0 kg/m2
+  2009-09-17 : Body Weight                              40.5 kg
+  2009-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2009-09-17 : Body Height                              159.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-04-19 : Documentation of current medications
+  2013-01-27 : Suture open wound for Laceration of foot
+  2012-10-04 : Documentation of current medications
+  2011-10-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-09-29 : Documentation of current medications
+  2011-09-22 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-09-23 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-04-19 : Hep B, adult
+  2018-04-19 : Influenza, seasonal, injectable, preservative free
+  2016-10-27 : Influenza, seasonal, injectable, preservative free
+  2015-10-22 : Influenza, seasonal, injectable, preservative free
+  2014-10-16 : Influenza, seasonal, injectable, preservative free
+  2013-10-10 : meningococcal MCV4P
+  2013-10-10 : Influenza, seasonal, injectable, preservative free
+  2012-10-04 : Influenza, seasonal, injectable, preservative free
+  2011-09-29 : Influenza, seasonal, injectable, preservative free
+  2010-09-23 : HPV, quadrivalent
+  2010-09-23 : Influenza, seasonal, injectable, preservative free
+  2009-09-17 : HPV, quadrivalent
+  2009-09-17 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-19 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2018-04-10 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Acute bronchitis (disorder)
+2016-10-27 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2015-10-22 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2014-10-16 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2014-08-09 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2013-10-10 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2013-08-14 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2013-01-27 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2012-10-04 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2012-08-19 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2011-10-27 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Child attention deficit disorder
+2011-09-29 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2011-09-22 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Child attention deficit disorder
+2011-08-25 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Child attention deficit disorder
+2010-09-23 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2009-09-17 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

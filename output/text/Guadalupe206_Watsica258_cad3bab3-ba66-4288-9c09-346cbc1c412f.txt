@@ -1,0 +1,189 @@
+Guadalupe206 Watsica258
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 39
+Birth Date:          1979-08-05
+Marital Status:      M
+Outpatient Provider: LAWRENCE GENERAL HOSPITAL
+Primary Care Provider: ONE GENERAL STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-09-23[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-09-23 - 2015-10-14 : Facial laceration
+  2014-08-29 - 2014-10-28 : Concussion with no loss of consciousness
+  2014-06-05 - 2014-06-12 : Viral sinusitis (disorder)
+  2013-10-20 -            : Prediabetes
+  2010-11-27 - 2010-12-18 : Acute bacterial sinusitis (disorder)
+  2007-10-14 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-09-23[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2014-08-29[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2013-10-20[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-06-11 : Lipid Panel
+           - Total Cholesterol                        195.6 mg/dL
+           - Triglycerides                            131.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.5 mg/dL
+           - High Density Lipoprotein Cholesterol     77.9 mg/dL
+  2017-06-11 : Basic Metabolic Panel
+           - Glucose                                  93.4 mg/dL
+           - Urea Nitrogen                            15.3 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   137.3 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 110.5 mmol/L
+           - Carbon Dioxide                           26.1 mmol/L
+  2014-06-08 : Basic Metabolic Panel
+           - Glucose                                  90.3 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   136.2 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           20.2 mmol/L
+  2013-10-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.5 %
+           - MCV [Entitic volume] by Automated count  83.1 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+           - Platelets [#/volume] in Blood by Automated count 193.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 482.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2013-10-20 : Lipid Panel
+           - Total Cholesterol                        192.7 mg/dL
+           - Triglycerides                            118.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      109.0 mg/dL
+           - High Density Lipoprotein Cholesterol     60.0 mg/dL
+  2010-10-17 : Lipid Panel
+           - Total Cholesterol                        160.5 mg/dL
+           - Triglycerides                            128.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      67.6 mg/dL
+           - High Density Lipoprotein Cholesterol     67.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-06-11 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2017-06-11 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-11 : High Density Lipoprotein Cholesterol     77.9 mg/dL
+  2017-06-11 : Low Density Lipoprotein Cholesterol      91.5 mg/dL
+  2017-06-11 : Triglycerides                            131.4 mg/dL
+  2017-06-11 : Total Cholesterol                        195.6 mg/dL
+  2017-06-11 : Carbon Dioxide                           26.1 mmol/L
+  2017-06-11 : Chloride                                 110.5 mmol/L
+  2017-06-11 : Potassium                                3.7 mmol/L
+  2017-06-11 : Sodium                                   137.3 mmol/L
+  2017-06-11 : Calcium                                  10.2 mg/dL
+  2017-06-11 : Creatinine                               1.6 mg/dL
+  2017-06-11 : Urea Nitrogen                            15.3 mg/dL
+  2017-06-11 : Glucose                                  93.4 mg/dL
+  2017-06-11 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mmHg
+           - Systolic Blood Pressure                  123.6 mmHg
+  2017-06-11 : Body Mass Index                          35.1 kg/m2
+  2017-06-11 : Body Weight                              104.0 kg
+  2017-06-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2017-06-11 : Body Height                              172.0 cm
+  2014-06-08 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2014-06-08 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-08 : Carbon Dioxide                           20.2 mmol/L
+  2014-06-08 : Chloride                                 109.5 mmol/L
+  2014-06-08 : Potassium                                4.1 mmol/L
+  2014-06-08 : Sodium                                   136.2 mmol/L
+  2014-06-08 : Calcium                                  9.8 mg/dL
+  2014-06-08 : Creatinine                               1.5 mg/dL
+  2014-06-08 : Urea Nitrogen                            16.6 mg/dL
+  2014-06-08 : Glucose                                  90.3 mg/dL
+  2014-06-08 : Blood Pressure
+           - Diastolic Blood Pressure                 74.4 mmHg
+           - Systolic Blood Pressure                  119.5 mmHg
+  2014-06-08 : Body Mass Index                          33.7 kg/m2
+  2014-06-08 : Body Weight                              99.8 kg
+  2014-06-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2014-06-08 : Body Height                              172.0 cm
+  2013-10-20 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2013-10-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2013-10-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 482.0 fL
+  2013-10-20 : Platelets [#/volume] in Blood by Automated count 193.0 10*3/uL
+  2013-10-20 : Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+  2013-10-20 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2013-10-20 : MCH [Entitic mass] by Automated count    31.4 pg
+  2013-10-20 : MCV [Entitic volume] by Automated count  83.1 fL
+  2013-10-20 : Hematocrit [Volume Fraction] of Blood by Automated count 40.5 %
+  2013-10-20 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2013-10-20 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2013-10-20 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2013-10-20 : High Density Lipoprotein Cholesterol     60.0 mg/dL
+  2013-10-20 : Low Density Lipoprotein Cholesterol      109.0 mg/dL
+  2013-10-20 : Triglycerides                            118.3 mg/dL
+  2013-10-20 : Total Cholesterol                        192.7 mg/dL
+  2013-10-20 : Blood Pressure
+           - Diastolic Blood Pressure                 84.1 mmHg
+           - Systolic Blood Pressure                  112.6 mmHg
+  2013-10-20 : Body Mass Index                          33.7 kg/m2
+  2013-10-20 : Body Weight                              99.8 kg
+  2013-10-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2013-10-20 : Body Height                              172.0 cm
+  2010-10-17 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-17 : High Density Lipoprotein Cholesterol     67.2 mg/dL
+  2010-10-17 : Low Density Lipoprotein Cholesterol      67.6 mg/dL
+  2010-10-17 : Triglycerides                            128.6 mg/dL
+  2010-10-17 : Total Cholesterol                        160.5 mg/dL
+  2010-10-17 : Blood Pressure
+           - Diastolic Blood Pressure                 81.6 mmHg
+           - Systolic Blood Pressure                  114.7 mmHg
+  2010-10-17 : Body Mass Index                          32.0 kg/m2
+  2010-10-17 : Body Weight                              94.8 kg
+  2010-10-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2010-10-17 : Body Height                              172.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-06-11 : Documentation of current medications
+  2015-09-23 : Injection of tetanus antitoxin for Facial laceration
+  2015-09-23 : Suture open wound for Facial laceration
+  2010-10-17 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-06-11 : Influenza, seasonal, injectable, preservative free
+  2014-06-08 : Influenza, seasonal, injectable, preservative free
+  2013-10-20 : Influenza, seasonal, injectable, preservative free
+  2010-10-17 : Td (adult) preservative free
+  2010-10-17 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-06-11 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2015-09-23 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2014-10-28 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Concussion with no loss of consciousness
+2014-08-29 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2014-06-05 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-06-08 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-10-20 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-11-27 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2010-10-17 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2007-10-14 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

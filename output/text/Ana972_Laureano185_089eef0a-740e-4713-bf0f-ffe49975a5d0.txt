@@ -1,0 +1,173 @@
+Ana972 Laureano185
+==================
+Race:                Other
+Ethnicity:           Puerto Rican
+Gender:              F
+Age:                 42
+Birth Date:          1975-12-18
+Marital Status:      M
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-12-23[STOPPED] : Ibuprofen 200 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-02-11 -            : Body mass index 30+ - obesity (finding)
+  2015-12-23 - 2016-01-13 : Facial laceration
+  2013-01-22 - 2013-02-12 : Viral sinusitis (disorder)
+  2010-08-22 - 2010-08-29 : Viral sinusitis (disorder)
+  2000-05-11 -            : Miscarriage in first trimester
+  1983-12-29 -            : History of cardiac arrest (situation)
+  1983-12-29 -            : Cardiac Arrest
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-12-23[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1999-04-15[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-15 : Lipid Panel
+           - Total Cholesterol                        169.7 mg/dL
+           - Triglycerides                            131.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.5 mg/dL
+           - High Density Lipoprotein Cholesterol     69.0 mg/dL
+  2016-02-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.7 %
+           - MCV [Entitic volume] by Automated count  82.8 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.3 fL
+           - Platelets [#/volume] in Blood by Automated count 448.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 474.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2014-02-06 : Lipid Panel
+           - Total Cholesterol                        192.7 mg/dL
+           - Triglycerides                            146.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.1 mg/dL
+           - High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2011-02-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.1 %
+           - MCV [Entitic volume] by Automated count  94.9 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 438.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 267.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2011-02-03 : Lipid Panel
+           - Total Cholesterol                        183.3 mg/dL
+           - Triglycerides                            101.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      90.7 mg/dL
+           - High Density Lipoprotein Cholesterol     72.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-15 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-15 : High Density Lipoprotein Cholesterol     69.0 mg/dL
+  2018-02-15 : Low Density Lipoprotein Cholesterol      74.5 mg/dL
+  2018-02-15 : Triglycerides                            131.1 mg/dL
+  2018-02-15 : Total Cholesterol                        169.7 mg/dL
+  2018-02-15 : Blood Pressure
+           - Diastolic Blood Pressure                 86.8 mmHg
+           - Systolic Blood Pressure                  108.5 mmHg
+  2018-02-15 : Body Mass Index                          31.8 kg/m2
+  2018-02-15 : Body Weight                              78.6 kg
+  2018-02-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2018-02-15 : Body Height                              157.3 cm
+  2016-02-11 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2016-02-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 474.0 fL
+  2016-02-11 : Platelets [#/volume] in Blood by Automated count 448.9 10*3/uL
+  2016-02-11 : Erythrocyte distribution width [Entitic volume] by Automated count 40.3 fL
+  2016-02-11 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2016-02-11 : MCH [Entitic mass] by Automated count    27.6 pg
+  2016-02-11 : MCV [Entitic volume] by Automated count  82.8 fL
+  2016-02-11 : Hematocrit [Volume Fraction] of Blood by Automated count 46.7 %
+  2016-02-11 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2016-02-11 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2016-02-11 : Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+  2016-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mmHg
+           - Systolic Blood Pressure                  136.2 mmHg
+  2016-02-11 : Body Mass Index                          30.5 kg/m2
+  2016-02-11 : Body Weight                              75.6 kg
+  2016-02-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2016-02-11 : Body Height                              157.3 cm
+  2014-02-06 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-06 : High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2014-02-06 : Low Density Lipoprotein Cholesterol      84.1 mg/dL
+  2014-02-06 : Triglycerides                            146.0 mg/dL
+  2014-02-06 : Total Cholesterol                        192.7 mg/dL
+  2014-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 71.8 mmHg
+           - Systolic Blood Pressure                  128.1 mmHg
+  2014-02-06 : Body Mass Index                          29.4 kg/m2
+  2014-02-06 : Body Weight                              72.8 kg
+  2014-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2014-02-06 : Body Height                              157.3 cm
+  2011-02-03 : Tobacco smoking status NHIS              Never smoker 
+  2011-02-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2011-02-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 267.7 fL
+  2011-02-03 : Platelets [#/volume] in Blood by Automated count 438.2 10*3/uL
+  2011-02-03 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  2011-02-03 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2011-02-03 : MCH [Entitic mass] by Automated count    32.6 pg
+  2011-02-03 : MCV [Entitic volume] by Automated count  94.9 fL
+  2011-02-03 : Hematocrit [Volume Fraction] of Blood by Automated count 49.1 %
+  2011-02-03 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2011-02-03 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2011-02-03 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2011-02-03 : High Density Lipoprotein Cholesterol     72.4 mg/dL
+  2011-02-03 : Low Density Lipoprotein Cholesterol      90.7 mg/dL
+  2011-02-03 : Triglycerides                            101.6 mg/dL
+  2011-02-03 : Total Cholesterol                        183.3 mg/dL
+  2011-02-03 : Blood Pressure
+           - Diastolic Blood Pressure                 80.5 mmHg
+           - Systolic Blood Pressure                  126.9 mmHg
+  2011-02-03 : Body Mass Index                          27.7 kg/m2
+  2011-02-03 : Body Weight                              68.6 kg
+  2011-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2011-02-03 : Body Height                              157.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-12-23 : Suture open wound for Facial laceration
+  2014-02-06 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-15 : Hep A, adult
+  2018-02-15 : Td (adult) preservative free
+  2018-02-15 : Influenza, seasonal, injectable, preservative free
+  2016-02-11 : Hep A, adult
+  2016-02-11 : Influenza, seasonal, injectable, preservative free
+  2014-02-06 : Influenza, seasonal, injectable, preservative free
+  2011-02-03 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-02-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-02-11 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2015-12-23 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-02-06 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-01-22 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-02-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-08-22 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+2000-05-11 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+1999-04-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Normal pregnancy
+1983-12-29 : Emergency Encounter
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,202 @@
+Randy380 Brakus656
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 52
+Birth Date:          1965-12-16
+Marital Status:      S
+Outpatient Provider: STURDY MEMORIAL HOSPITAL
+Primary Care Provider: 211 PARK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2009-05-16[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2000-12-28[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2011-04-05 - 2011-04-12 : Viral sinusitis (disorder)
+  2009-05-16 - 2009-05-30 : Laceration of foot
+  2006-01-05 -            : Body mass index 30+ - obesity (finding)
+  1997-12-25 -            : Chronic obstructive bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2009-05-16[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1997-12-25[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Chronic obstructive bronchitis (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-12-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+           - MCV [Entitic volume] by Automated count  80.4 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 207.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 164.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2015-12-17 : Lipid Panel
+           - Total Cholesterol                        175.1 mg/dL
+           - Triglycerides                            111.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.2 mg/dL
+           - High Density Lipoprotein Cholesterol     64.5 mg/dL
+  2012-01-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.4 %
+           - MCV [Entitic volume] by Automated count  83.5 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 296.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 287.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-01-19 : Lipid Panel
+           - Total Cholesterol                        179.0 mg/dL
+           - Triglycerides                            140.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.4 mg/dL
+           - High Density Lipoprotein Cholesterol     74.6 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-12-28 : FEV1/FVC                                 28.5 %
+  2017-12-28 : Tobacco smoking status NHIS              Former smoker 
+  2017-12-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2017-12-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 164.8 fL
+  2017-12-28 : Platelets [#/volume] in Blood by Automated count 207.1 10*3/uL
+  2017-12-28 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2017-12-28 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2017-12-28 : MCH [Entitic mass] by Automated count    27.2 pg
+  2017-12-28 : MCV [Entitic volume] by Automated count  80.4 fL
+  2017-12-28 : Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+  2017-12-28 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  2017-12-28 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2017-12-28 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2017-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  124.4 mmHg
+  2017-12-28 : Body Mass Index                          33.6 kg/m2
+  2017-12-28 : Body Weight                              110.0 kg
+  2017-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2017-12-28 : Body Height                              180.9 cm
+  2016-12-22 : FEV1/FVC                                 16.9 %
+  2016-12-22 : Tobacco smoking status NHIS              Former smoker 
+  2016-12-22 : Blood Pressure
+           - Diastolic Blood Pressure                 80.7 mmHg
+           - Systolic Blood Pressure                  109.7 mmHg
+  2016-12-22 : Body Mass Index                          33.6 kg/m2
+  2016-12-22 : Body Weight                              110.0 kg
+  2016-12-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2016-12-22 : Body Height                              180.9 cm
+  2015-12-17 : FEV1/FVC                                 18.5 %
+  2015-12-17 : Tobacco smoking status NHIS              Former smoker 
+  2015-12-17 : High Density Lipoprotein Cholesterol     64.5 mg/dL
+  2015-12-17 : Low Density Lipoprotein Cholesterol      88.2 mg/dL
+  2015-12-17 : Triglycerides                            111.9 mg/dL
+  2015-12-17 : Total Cholesterol                        175.1 mg/dL
+  2015-12-17 : Blood Pressure
+           - Diastolic Blood Pressure                 73.2 mmHg
+           - Systolic Blood Pressure                  124.0 mmHg
+  2015-12-17 : Body Mass Index                          33.6 kg/m2
+  2015-12-17 : Body Weight                              110.0 kg
+  2015-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2015-12-17 : Body Height                              180.9 cm
+  2014-01-23 : FEV1/FVC                                 21.7 %
+  2014-01-23 : Tobacco smoking status NHIS              Former smoker 
+  2014-01-23 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mmHg
+           - Systolic Blood Pressure                  129.2 mmHg
+  2014-01-23 : Body Mass Index                          33.3 kg/m2
+  2014-01-23 : Body Weight                              109.0 kg
+  2014-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2014-01-23 : Body Height                              180.9 cm
+  2012-01-19 : FEV1/FVC                                 16.5 %
+  2012-01-19 : Tobacco smoking status NHIS              Former smoker 
+  2012-01-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-01-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 287.7 fL
+  2012-01-19 : Platelets [#/volume] in Blood by Automated count 296.1 10*3/uL
+  2012-01-19 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2012-01-19 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2012-01-19 : MCH [Entitic mass] by Automated count    30.4 pg
+  2012-01-19 : MCV [Entitic volume] by Automated count  83.5 fL
+  2012-01-19 : Hematocrit [Volume Fraction] of Blood by Automated count 49.4 %
+  2012-01-19 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2012-01-19 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2012-01-19 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2012-01-19 : High Density Lipoprotein Cholesterol     74.6 mg/dL
+  2012-01-19 : Low Density Lipoprotein Cholesterol      76.4 mg/dL
+  2012-01-19 : Triglycerides                            140.0 mg/dL
+  2012-01-19 : Total Cholesterol                        179.0 mg/dL
+  2012-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 76.9 mmHg
+           - Systolic Blood Pressure                  121.1 mmHg
+  2012-01-19 : Body Mass Index                          32.5 kg/m2
+  2012-01-19 : Body Weight                              106.4 kg
+  2012-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-01-19 : Body Height                              180.9 cm
+  2010-01-14 : FEV1/FVC                                 20.9 %
+  2010-01-14 : Tobacco smoking status NHIS              Former smoker 
+  2010-01-14 : Blood Pressure
+           - Diastolic Blood Pressure                 82.1 mmHg
+           - Systolic Blood Pressure                  125.8 mmHg
+  2010-01-14 : Body Mass Index                          31.6 kg/m2
+  2010-01-14 : Body Weight                              103.4 kg
+  2010-01-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2010-01-14 : Body Height                              180.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-12-28 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2017-12-28 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2017-12-28 : Documentation of current medications
+  2016-12-22 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2016-12-22 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2016-12-22 : Documentation of current medications
+  2015-12-17 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2015-12-17 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2015-12-17 : Colonoscopy
+  2014-01-23 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2014-01-23 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2012-01-19 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2012-01-19 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2010-01-14 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2010-01-14 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2010-01-14 : Documentation of current medications
+  2009-05-16 : Suture open wound for Laceration of foot
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-28 : Influenza, seasonal, injectable, preservative free
+  2016-12-22 : Td (adult) preservative free
+  2016-12-22 : Influenza, seasonal, injectable, preservative free
+  2016-12-22 : zoster
+  2015-12-17 : Influenza, seasonal, injectable, preservative free
+  2015-12-17 : zoster
+  2014-01-23 : Influenza, seasonal, injectable, preservative free
+  2012-01-19 : Influenza, seasonal, injectable, preservative free
+  2010-01-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-12-28 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2016-12-22 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2015-12-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2015-12-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2014-01-23 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2012-01-19 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2011-04-05 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2010-01-14 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2009-05-16 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2006-01-05 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2000-12-28 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+1997-12-25 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

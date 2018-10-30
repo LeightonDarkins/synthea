@@ -1,0 +1,240 @@
+Lorenzo669 Trejo396
+===================
+Race:                Other
+Ethnicity:           Puerto Rican
+Gender:              M
+Age:                 12
+Birth Date:          2005-12-26
+Marital Status:      S
+Outpatient Provider: HARRINGTON MEMORIAL HOSPITAL-1
+Primary Care Provider: 100 SOUTH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-01-23[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2016-08-21[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2012-12-19[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2011-10-26[STOPPED] : Ibuprofen 100 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-02-04 - 2018-02-11 : Acute viral pharyngitis (disorder)
+  2018-01-23 - 2018-02-13 : Viral sinusitis (disorder)
+  2016-08-21 - 2016-09-18 : Sprain of ankle
+  2016-01-08 - 2016-01-29 : Sinusitis (disorder)
+  2013-08-19 - 2013-08-26 : Acute viral pharyngitis (disorder)
+  2012-12-19 - 2013-01-09 : First degree burn
+  2011-10-26 - 2011-11-25 : Fracture subluxation of wrist
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-08-21[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2012-12-19[STOPPED] : Burn care
+                         Reason: First degree burn
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent sun exposure
+                         Activity: Behavior to prevent infection
+  2011-10-26[STOPPED] : Fracture care
+                         Reason: Fracture subluxation of wrist
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-01-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.0 %
+           - MCV [Entitic volume] by Automated count  84.6 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+           - Platelets [#/volume] in Blood by Automated count 315.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 219.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2011-12-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  94.7 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 264.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 184.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-04 : Oral temperature                         37.2 Cel
+  2018-01-15 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 75.6 mmHg
+           - Systolic Blood Pressure                  114.9 mmHg
+  2018-01-15 : Body Mass Index                          21.0 kg/m2
+  2018-01-15 : Body Weight                              48.1 kg
+  2018-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-01-15 : Body Height                              151.2 cm
+  2017-01-09 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2017-01-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 219.6 fL
+  2017-01-09 : Platelets [#/volume] in Blood by Automated count 315.6 10*3/uL
+  2017-01-09 : Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+  2017-01-09 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2017-01-09 : MCH [Entitic mass] by Automated count    30.5 pg
+  2017-01-09 : MCV [Entitic volume] by Automated count  84.6 fL
+  2017-01-09 : Hematocrit [Volume Fraction] of Blood by Automated count 45.0 %
+  2017-01-09 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2017-01-09 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2017-01-09 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2017-01-09 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  122.9 mmHg
+  2017-01-09 : Body Mass Index                          20.1 kg/m2
+  2017-01-09 : Body Weight                              42.5 kg
+  2017-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2017-01-09 : Body Height                              145.5 cm
+  2016-01-04 : Tobacco smoking status NHIS              Never smoker 
+  2016-01-04 : Blood Pressure
+           - Diastolic Blood Pressure                 80.8 mmHg
+           - Systolic Blood Pressure                  109.1 mmHg
+  2016-01-04 : Body Mass Index                          19.0 kg/m2
+  2016-01-04 : Body Weight                              37.5 kg
+  2016-01-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-01-04 : Body Height                              140.5 cm
+  2014-12-29 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-29 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  109.5 mmHg
+  2014-12-29 : Body Mass Index                          18.1 kg/m2
+  2014-12-29 : Body Weight                              32.9 kg
+  2014-12-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2014-12-29 : Body Height                              134.9 cm
+  2013-12-23 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-23 : Blood Pressure
+           - Diastolic Blood Pressure                 73.9 mmHg
+           - Systolic Blood Pressure                  126.1 mmHg
+  2013-12-23 : Body Mass Index                          17.5 kg/m2
+  2013-12-23 : Body Weight                              29.2 kg
+  2013-12-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2013-12-23 : Body Height                              129.1 cm
+  2013-08-19 : Oral temperature                         37.1 Cel
+  2012-12-17 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-17 : Blood Pressure
+           - Diastolic Blood Pressure                 85.2 mmHg
+           - Systolic Blood Pressure                  119.3 mmHg
+  2012-12-17 : Body Mass Index                          17.2 kg/m2
+  2012-12-17 : Body Weight                              26.0 kg
+  2012-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2012-12-17 : Body Height                              122.9 cm
+  2011-12-12 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2011-12-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 184.4 fL
+  2011-12-12 : Platelets [#/volume] in Blood by Automated count 264.5 10*3/uL
+  2011-12-12 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2011-12-12 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2011-12-12 : MCH [Entitic mass] by Automated count    28.0 pg
+  2011-12-12 : MCV [Entitic volume] by Automated count  94.7 fL
+  2011-12-12 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2011-12-12 : Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+  2011-12-12 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2011-12-12 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2011-12-12 : Blood Pressure
+           - Diastolic Blood Pressure                 75.9 mmHg
+           - Systolic Blood Pressure                  116.0 mmHg
+  2011-12-12 : Body Mass Index                          17.1 kg/m2
+  2011-12-12 : Body Weight                              23.1 kg
+  2011-12-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-12-12 : Body Height                              116.4 cm
+  2010-12-06 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.1 mmHg
+           - Systolic Blood Pressure                  113.3 mmHg
+  2010-12-06 : Body Mass Index                          16.9 kg/m2
+  2010-12-06 : Body Weight                              20.4 kg
+  2010-12-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2010-12-06 : Body Height                              109.8 cm
+  2009-11-30 : Tobacco smoking status NHIS              Never smoker 
+  2009-11-30 : Blood Pressure
+           - Diastolic Blood Pressure                 70.4 mmHg
+           - Systolic Blood Pressure                  101.9 mmHg
+  2009-11-30 : Body Mass Index                          16.8 kg/m2
+  2009-11-30 : Body Weight                              17.6 kg
+  2009-11-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2009-11-30 : Body Height                              102.4 cm
+  2009-06-01 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-01 : Blood Pressure
+           - Diastolic Blood Pressure                 70.4 mmHg
+           - Systolic Blood Pressure                  138.4 mmHg
+  2009-06-01 : Body Mass Index                          16.9 kg/m2
+  2009-06-01 : Body Weight                              16.5 kg
+  2009-06-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2009-06-01 : Body Height                              98.8 cm
+  2008-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 79.8 mmHg
+           - Systolic Blood Pressure                  100.8 mmHg
+  2008-12-01 : Body Mass Index                          17.1 kg/m2
+  2008-12-01 : Body Weight                              15.4 kg
+  2008-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2008-12-01 : Body Height                              95.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-01-09 : Documentation of current medications
+  2014-12-29 : Documentation of current medications
+  2013-12-23 : Documentation of current medications
+  2011-10-26 : Bone immobilization for Fracture subluxation of wrist
+  2011-10-26 : X-ray or wrist
+  2008-12-01 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-12 : HPV, quadrivalent
+  2018-01-15 : HPV, quadrivalent
+  2018-01-15 : Influenza, seasonal, injectable, preservative free
+  2017-01-09 : meningococcal MCV4P
+  2017-01-09 : HPV, quadrivalent
+  2017-01-09 : Influenza, seasonal, injectable, preservative free
+  2017-01-09 : Tdap
+  2016-01-04 : Influenza, seasonal, injectable, preservative free
+  2014-12-29 : Influenza, seasonal, injectable, preservative free
+  2013-12-23 : Influenza, seasonal, injectable, preservative free
+  2012-12-17 : Influenza, seasonal, injectable, preservative free
+  2011-12-12 : Influenza, seasonal, injectable, preservative free
+  2010-12-06 : Pneumococcal conjugate PCV 13
+  2010-12-06 : MMR
+  2010-12-06 : DTaP
+  2010-12-06 : Influenza, seasonal, injectable, preservative free
+  2010-12-06 : IPV
+  2010-12-06 : varicella
+  2009-11-30 : Influenza, seasonal, injectable, preservative free
+  2008-12-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-02-12 (Dr. Thao506 Greenfelder433) : Encounter at FAMILY CARE MEDICAL CENTER / URGENT CARE PHYSICIAN
+2018-02-04 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Acute viral pharyngitis (disorder)
+2018-01-23 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Viral sinusitis (disorder)
+2018-01-15 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2017-01-09 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2016-08-21 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2016-01-08 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Sinusitis (disorder)
+2016-01-04 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2014-12-29 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2013-12-23 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2013-08-19 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Acute viral pharyngitis (disorder)
+2013-01-09 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for First degree burn
+2012-12-19 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2012-12-17 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2011-12-12 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2011-11-25 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Fracture subluxation of wrist
+2011-10-26 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2010-12-06 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2009-11-30 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2009-06-01 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2008-12-01 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2011-10-26 : Digital Radiography, Wrist
+--------------------------------------------------------------------------------

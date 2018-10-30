@@ -1,0 +1,414 @@
+Jospeh459 Nader710
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 61
+Birth Date:          1957-04-07
+Marital Status:      S
+Outpatient Provider: LAWRENCE GENERAL HOSPITAL
+Primary Care Provider: ONE GENERAL STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1976-03-21[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-01-25 - 2015-02-08 : Viral sinusitis (disorder)
+  1995-04-16 -            : Prediabetes
+  1976-03-21 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1995-04-16[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-06-10 : Basic Metabolic Panel
+           - Glucose                                  89.4 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   141.3 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           25.7 mmol/L
+  2017-06-04 : Basic Metabolic Panel
+           - Glucose                                  81.0 mg/dL
+           - Urea Nitrogen                            19.3 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   140.3 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.8 mmol/L
+           - Carbon Dioxide                           21.5 mmol/L
+  2016-05-29 : Lipid Panel
+           - Total Cholesterol                        164.7 mg/dL
+           - Triglycerides                            121.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.9 mg/dL
+           - High Density Lipoprotein Cholesterol     60.4 mg/dL
+  2016-05-29 : Basic Metabolic Panel
+           - Glucose                                  83.0 mg/dL
+           - Urea Nitrogen                            9.3 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   143.5 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 105.5 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+  2015-05-24 : Basic Metabolic Panel
+           - Glucose                                  87.8 mg/dL
+           - Urea Nitrogen                            8.3 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 110.1 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  2014-05-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+           - MCV [Entitic volume] by Automated count  86.1 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 378.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 301.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2014-05-18 : Basic Metabolic Panel
+           - Glucose                                  80.6 mg/dL
+           - Urea Nitrogen                            9.9 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 108.3 mmol/L
+           - Carbon Dioxide                           24.0 mmol/L
+  2013-05-12 : Lipid Panel
+           - Total Cholesterol                        198.3 mg/dL
+           - Triglycerides                            145.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      103.2 mg/dL
+           - High Density Lipoprotein Cholesterol     66.0 mg/dL
+  2013-05-12 : Basic Metabolic Panel
+           - Glucose                                  92.2 mg/dL
+           - Urea Nitrogen                            9.0 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 104.8 mmol/L
+           - Carbon Dioxide                           24.8 mmol/L
+  2012-05-06 : Basic Metabolic Panel
+           - Glucose                                  76.2 mg/dL
+           - Urea Nitrogen                            16.5 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   137.2 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 105.7 mmol/L
+           - Carbon Dioxide                           24.2 mmol/L
+  2011-05-01 : Basic Metabolic Panel
+           - Glucose                                  81.7 mg/dL
+           - Urea Nitrogen                            12.8 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   137.9 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 103.7 mmol/L
+           - Carbon Dioxide                           25.3 mmol/L
+  2010-04-25 : Lipid Panel
+           - Total Cholesterol                        185.7 mg/dL
+           - Triglycerides                            117.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.1 mg/dL
+           - High Density Lipoprotein Cholesterol     77.1 mg/dL
+  2010-04-25 : Basic Metabolic Panel
+           - Glucose                                  82.2 mg/dL
+           - Urea Nitrogen                            10.4 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   143.5 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 101.7 mmol/L
+           - Carbon Dioxide                           24.3 mmol/L
+  2009-04-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %
+           - MCV [Entitic volume] by Automated count  83.9 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+           - Platelets [#/volume] in Blood by Automated count 252.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 349.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2009-04-19 : Basic Metabolic Panel
+           - Glucose                                  82.6 mg/dL
+           - Urea Nitrogen                            18.8 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 107.2 mmol/L
+           - Carbon Dioxide                           24.0 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-06-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2018-06-10 : Tobacco smoking status NHIS              Former smoker 
+  2018-06-10 : Estimated Glomerular Filtration Rate     129.1 mL/min/{1.73_m2}
+  2018-06-10 : Carbon Dioxide                           25.7 mmol/L
+  2018-06-10 : Chloride                                 109.5 mmol/L
+  2018-06-10 : Potassium                                5.2 mmol/L
+  2018-06-10 : Sodium                                   141.3 mmol/L
+  2018-06-10 : Calcium                                  8.6 mg/dL
+  2018-06-10 : Creatinine                               1.2 mg/dL
+  2018-06-10 : Urea Nitrogen                            16.6 mg/dL
+  2018-06-10 : Glucose                                  89.4 mg/dL
+  2018-06-10 : Blood Pressure
+           - Diastolic Blood Pressure                 106.8 mmHg
+           - Systolic Blood Pressure                  197.1 mmHg
+  2018-06-10 : Body Mass Index                          34.4 kg/m2
+  2018-06-10 : Body Weight                              109.5 kg
+  2018-06-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2018-06-10 : Body Height                              178.4 cm
+  2017-06-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2017-06-04 : Tobacco smoking status NHIS              Former smoker 
+  2017-06-04 : Estimated Glomerular Filtration Rate     145.7 mL/min/{1.73_m2}
+  2017-06-04 : Carbon Dioxide                           21.5 mmol/L
+  2017-06-04 : Chloride                                 101.8 mmol/L
+  2017-06-04 : Potassium                                4.0 mmol/L
+  2017-06-04 : Sodium                                   140.3 mmol/L
+  2017-06-04 : Calcium                                  8.9 mg/dL
+  2017-06-04 : Creatinine                               1.2 mg/dL
+  2017-06-04 : Urea Nitrogen                            19.3 mg/dL
+  2017-06-04 : Glucose                                  81.0 mg/dL
+  2017-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 90.1 mmHg
+           - Systolic Blood Pressure                  168.6 mmHg
+  2017-06-04 : Body Mass Index                          35.0 kg/m2
+  2017-06-04 : Body Weight                              111.2 kg
+  2017-06-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2017-06-04 : Body Height                              178.4 cm
+  2016-05-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2016-05-29 : Tobacco smoking status NHIS              Former smoker 
+  2016-05-29 : Estimated Glomerular Filtration Rate     106.7 mL/min/{1.73_m2}
+  2016-05-29 : High Density Lipoprotein Cholesterol     60.4 mg/dL
+  2016-05-29 : Low Density Lipoprotein Cholesterol      79.9 mg/dL
+  2016-05-29 : Triglycerides                            121.7 mg/dL
+  2016-05-29 : Total Cholesterol                        164.7 mg/dL
+  2016-05-29 : Carbon Dioxide                           22.0 mmol/L
+  2016-05-29 : Chloride                                 105.5 mmol/L
+  2016-05-29 : Potassium                                5.0 mmol/L
+  2016-05-29 : Sodium                                   143.5 mmol/L
+  2016-05-29 : Calcium                                  9.3 mg/dL
+  2016-05-29 : Creatinine                               1.3 mg/dL
+  2016-05-29 : Urea Nitrogen                            9.3 mg/dL
+  2016-05-29 : Glucose                                  83.0 mg/dL
+  2016-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 110.6 mmHg
+           - Systolic Blood Pressure                  179.3 mmHg
+  2016-05-29 : Body Mass Index                          35.4 kg/m2
+  2016-05-29 : Body Weight                              112.6 kg
+  2016-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2016-05-29 : Body Height                              178.4 cm
+  2015-05-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2015-05-24 : Tobacco smoking status NHIS              Former smoker 
+  2015-05-24 : Estimated Glomerular Filtration Rate     83.3 mL/min/{1.73_m2}
+  2015-05-24 : Carbon Dioxide                           21.8 mmol/L
+  2015-05-24 : Chloride                                 110.1 mmol/L
+  2015-05-24 : Potassium                                4.5 mmol/L
+  2015-05-24 : Sodium                                   142.3 mmol/L
+  2015-05-24 : Calcium                                  9.0 mg/dL
+  2015-05-24 : Creatinine                               1.5 mg/dL
+  2015-05-24 : Urea Nitrogen                            8.3 mg/dL
+  2015-05-24 : Glucose                                  87.8 mg/dL
+  2015-05-24 : Blood Pressure
+           - Diastolic Blood Pressure                 119.8 mmHg
+           - Systolic Blood Pressure                  175.4 mmHg
+  2015-05-24 : Body Mass Index                          35.4 kg/m2
+  2015-05-24 : Body Weight                              112.6 kg
+  2015-05-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2015-05-24 : Body Height                              178.4 cm
+  2014-05-18 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2014-05-18 : Tobacco smoking status NHIS              Former smoker 
+  2014-05-18 : Estimated Glomerular Filtration Rate     108.7 mL/min/{1.73_m2}
+  2014-05-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2014-05-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 301.8 fL
+  2014-05-18 : Platelets [#/volume] in Blood by Automated count 378.9 10*3/uL
+  2014-05-18 : Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+  2014-05-18 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2014-05-18 : MCH [Entitic mass] by Automated count    28.2 pg
+  2014-05-18 : MCV [Entitic volume] by Automated count  86.1 fL
+  2014-05-18 : Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+  2014-05-18 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2014-05-18 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2014-05-18 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2014-05-18 : Carbon Dioxide                           24.0 mmol/L
+  2014-05-18 : Chloride                                 108.3 mmol/L
+  2014-05-18 : Potassium                                5.1 mmol/L
+  2014-05-18 : Sodium                                   141.7 mmol/L
+  2014-05-18 : Calcium                                  9.7 mg/dL
+  2014-05-18 : Creatinine                               1.3 mg/dL
+  2014-05-18 : Urea Nitrogen                            9.9 mg/dL
+  2014-05-18 : Glucose                                  80.6 mg/dL
+  2014-05-18 : Blood Pressure
+           - Diastolic Blood Pressure                 117.2 mmHg
+           - Systolic Blood Pressure                  189.7 mmHg
+  2014-05-18 : Body Mass Index                          35.4 kg/m2
+  2014-05-18 : Body Weight                              112.6 kg
+  2014-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2014-05-18 : Body Height                              178.4 cm
+  2013-05-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2013-05-12 : Tobacco smoking status NHIS              Former smoker 
+  2013-05-12 : Estimated Glomerular Filtration Rate     92.6 mL/min/{1.73_m2}
+  2013-05-12 : High Density Lipoprotein Cholesterol     66.0 mg/dL
+  2013-05-12 : Low Density Lipoprotein Cholesterol      103.2 mg/dL
+  2013-05-12 : Triglycerides                            145.3 mg/dL
+  2013-05-12 : Total Cholesterol                        198.3 mg/dL
+  2013-05-12 : Carbon Dioxide                           24.8 mmol/L
+  2013-05-12 : Chloride                                 104.8 mmol/L
+  2013-05-12 : Potassium                                4.4 mmol/L
+  2013-05-12 : Sodium                                   137.0 mmol/L
+  2013-05-12 : Calcium                                  8.8 mg/dL
+  2013-05-12 : Creatinine                               1.4 mg/dL
+  2013-05-12 : Urea Nitrogen                            9.0 mg/dL
+  2013-05-12 : Glucose                                  92.2 mg/dL
+  2013-05-12 : Blood Pressure
+           - Diastolic Blood Pressure                 108.5 mmHg
+           - Systolic Blood Pressure                  167.8 mmHg
+  2013-05-12 : Body Mass Index                          35.4 kg/m2
+  2013-05-12 : Body Weight                              112.6 kg
+  2013-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-05-12 : Body Height                              178.4 cm
+  2012-05-06 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2012-05-06 : Tobacco smoking status NHIS              Former smoker 
+  2012-05-06 : Estimated Glomerular Filtration Rate     136.8 mL/min/{1.73_m2}
+  2012-05-06 : Carbon Dioxide                           24.2 mmol/L
+  2012-05-06 : Chloride                                 105.7 mmol/L
+  2012-05-06 : Potassium                                4.8 mmol/L
+  2012-05-06 : Sodium                                   137.2 mmol/L
+  2012-05-06 : Calcium                                  8.8 mg/dL
+  2012-05-06 : Creatinine                               1.3 mg/dL
+  2012-05-06 : Urea Nitrogen                            16.5 mg/dL
+  2012-05-06 : Glucose                                  76.2 mg/dL
+  2012-05-06 : Blood Pressure
+           - Diastolic Blood Pressure                 119.0 mmHg
+           - Systolic Blood Pressure                  171.6 mmHg
+  2012-05-06 : Body Mass Index                          35.4 kg/m2
+  2012-05-06 : Body Weight                              112.6 kg
+  2012-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2012-05-06 : Body Height                              178.4 cm
+  2011-05-01 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2011-05-01 : Tobacco smoking status NHIS              Former smoker 
+  2011-05-01 : Estimated Glomerular Filtration Rate     125.8 mL/min/{1.73_m2}
+  2011-05-01 : Carbon Dioxide                           25.3 mmol/L
+  2011-05-01 : Chloride                                 103.7 mmol/L
+  2011-05-01 : Potassium                                3.8 mmol/L
+  2011-05-01 : Sodium                                   137.9 mmol/L
+  2011-05-01 : Calcium                                  9.2 mg/dL
+  2011-05-01 : Creatinine                               1.3 mg/dL
+  2011-05-01 : Urea Nitrogen                            12.8 mg/dL
+  2011-05-01 : Glucose                                  81.7 mg/dL
+  2011-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 117.6 mmHg
+           - Systolic Blood Pressure                  155.6 mmHg
+  2011-05-01 : Body Mass Index                          35.4 kg/m2
+  2011-05-01 : Body Weight                              112.6 kg
+  2011-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2011-05-01 : Body Height                              178.4 cm
+  2010-04-25 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2010-04-25 : Tobacco smoking status NHIS              Former smoker 
+  2010-04-25 : Estimated Glomerular Filtration Rate     77.6 mL/min/{1.73_m2}
+  2010-04-25 : High Density Lipoprotein Cholesterol     77.1 mg/dL
+  2010-04-25 : Low Density Lipoprotein Cholesterol      85.1 mg/dL
+  2010-04-25 : Triglycerides                            117.3 mg/dL
+  2010-04-25 : Total Cholesterol                        185.7 mg/dL
+  2010-04-25 : Carbon Dioxide                           24.3 mmol/L
+  2010-04-25 : Chloride                                 101.7 mmol/L
+  2010-04-25 : Potassium                                4.4 mmol/L
+  2010-04-25 : Sodium                                   143.5 mmol/L
+  2010-04-25 : Calcium                                  9.4 mg/dL
+  2010-04-25 : Creatinine                               1.8 mg/dL
+  2010-04-25 : Urea Nitrogen                            10.4 mg/dL
+  2010-04-25 : Glucose                                  82.2 mg/dL
+  2010-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 93.2 mmHg
+           - Systolic Blood Pressure                  143.3 mmHg
+  2010-04-25 : Body Mass Index                          35.4 kg/m2
+  2010-04-25 : Body Weight                              112.6 kg
+  2010-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2010-04-25 : Body Height                              178.4 cm
+  2009-04-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2009-04-19 : Tobacco smoking status NHIS              Former smoker 
+  2009-04-19 : Estimated Glomerular Filtration Rate     120.9 mL/min/{1.73_m2}
+  2009-04-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2009-04-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 349.5 fL
+  2009-04-19 : Platelets [#/volume] in Blood by Automated count 252.8 10*3/uL
+  2009-04-19 : Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+  2009-04-19 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2009-04-19 : MCH [Entitic mass] by Automated count    29.7 pg
+  2009-04-19 : MCV [Entitic volume] by Automated count  83.9 fL
+  2009-04-19 : Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %
+  2009-04-19 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2009-04-19 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2009-04-19 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2009-04-19 : Carbon Dioxide                           24.0 mmol/L
+  2009-04-19 : Chloride                                 107.2 mmol/L
+  2009-04-19 : Potassium                                3.9 mmol/L
+  2009-04-19 : Sodium                                   139.5 mmol/L
+  2009-04-19 : Calcium                                  9.4 mg/dL
+  2009-04-19 : Creatinine                               1.4 mg/dL
+  2009-04-19 : Urea Nitrogen                            18.8 mg/dL
+  2009-04-19 : Glucose                                  82.6 mg/dL
+  2009-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 98.9 mmHg
+           - Systolic Blood Pressure                  194.5 mmHg
+  2009-04-19 : Body Mass Index                          35.4 kg/m2
+  2009-04-19 : Body Weight                              112.6 kg
+  2009-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2009-04-19 : Body Height                              178.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-04-05 : Colonoscopy
+  2014-05-18 : Documentation of current medications
+  2012-04-06 : Colonoscopy
+  2010-04-25 : Documentation of current medications
+  2009-04-19 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-06-10 : Td (adult) preservative free
+  2018-06-10 : Influenza, seasonal, injectable, preservative free
+  2017-06-04 : Influenza, seasonal, injectable, preservative free
+  2016-05-29 : Influenza, seasonal, injectable, preservative free
+  2015-05-24 : Influenza, seasonal, injectable, preservative free
+  2014-05-18 : Influenza, seasonal, injectable, preservative free
+  2013-05-12 : Influenza, seasonal, injectable, preservative free
+  2012-05-06 : Influenza, seasonal, injectable, preservative free
+  2011-05-01 : Influenza, seasonal, injectable, preservative free
+  2010-04-25 : Influenza, seasonal, injectable, preservative free
+  2009-04-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-06-10 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2017-06-04 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2017-04-05 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2016-05-29 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2015-05-24 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2015-01-25 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-05-18 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-05-12 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-05-06 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-04-06 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-05-01 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-04-25 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2009-04-19 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+1995-04-16 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+1976-03-21 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

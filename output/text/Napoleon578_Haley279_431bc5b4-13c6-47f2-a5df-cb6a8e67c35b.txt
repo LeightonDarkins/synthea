@@ -1,0 +1,211 @@
+Napoleon578 Haley279
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 42
+Birth Date:          1976-03-23
+Marital Status:      M
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-08-21[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2018-08-17[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2016-03-01[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2013-11-22[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2010-01-13[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2009-05-27[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1994-08-16[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-08-21 - 2018-08-29 : Streptococcal sore throat (disorder)
+  2018-08-17 - 2018-08-31 : Viral sinusitis (disorder)
+  2016-03-01 - 2016-03-22 : Viral sinusitis (disorder)
+  2013-11-22 - 2013-12-06 : Acute bronchitis (disorder)
+  2010-09-07 -            : Body mass index 30+ - obesity (finding)
+  2010-01-13 - 2010-01-27 : Viral sinusitis (disorder)
+  2009-05-27 - 2009-07-01 : Whiplash injury to neck
+  1994-08-16 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-11-22[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2009-05-27[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-04-03 : Lipid Panel
+           - Total Cholesterol                        170.8 mg/dL
+           - Triglycerides                            132.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.7 mg/dL
+           - High Density Lipoprotein Cholesterol     61.7 mg/dL
+  2016-03-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.4 %
+           - MCV [Entitic volume] by Automated count  94.9 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 190.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 432.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2013-09-10 : Lipid Panel
+           - Total Cholesterol                        168.3 mg/dL
+           - Triglycerides                            104.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      69.8 mg/dL
+           - High Density Lipoprotein Cholesterol     77.5 mg/dL
+  2010-09-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.5 %
+           - MCV [Entitic volume] by Automated count  91.1 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+           - Platelets [#/volume] in Blood by Automated count 226.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 478.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2010-09-07 : Lipid Panel
+           - Total Cholesterol                        172.6 mg/dL
+           - Triglycerides                            117.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.7 mg/dL
+           - High Density Lipoprotein Cholesterol     61.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-04 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-04 : Estimated Glomerular Filtration Rate     98.6 mL/min/{1.73_m2}
+  2018-09-04 : Blood Pressure
+           - Diastolic Blood Pressure                 101.7 mmHg
+           - Systolic Blood Pressure                  161.6 mmHg
+  2018-09-04 : Body Mass Index                          34.6 kg/m2
+  2018-09-04 : Body Weight                              105.3 kg
+  2018-09-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2018-09-04 : Body Height                              174.4 cm
+  2018-08-21 : Oral temperature                         38.2 Cel
+  2018-04-03 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-03 : Estimated Glomerular Filtration Rate     154.7 mL/min/{1.73_m2}
+  2018-04-03 : High Density Lipoprotein Cholesterol     61.7 mg/dL
+  2018-04-03 : Low Density Lipoprotein Cholesterol      82.7 mg/dL
+  2018-04-03 : Triglycerides                            132.0 mg/dL
+  2018-04-03 : Total Cholesterol                        170.8 mg/dL
+  2018-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 115.5 mmHg
+           - Systolic Blood Pressure                  186.5 mmHg
+  2018-04-03 : Body Mass Index                          34.6 kg/m2
+  2018-04-03 : Body Weight                              105.3 kg
+  2018-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-04-03 : Body Height                              174.4 cm
+  2016-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-29 : Estimated Glomerular Filtration Rate     87.1 mL/min/{1.73_m2}
+  2016-03-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2016-03-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 432.1 fL
+  2016-03-29 : Platelets [#/volume] in Blood by Automated count 190.8 10*3/uL
+  2016-03-29 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2016-03-29 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2016-03-29 : MCH [Entitic mass] by Automated count    30.3 pg
+  2016-03-29 : MCV [Entitic volume] by Automated count  94.9 fL
+  2016-03-29 : Hematocrit [Volume Fraction] of Blood by Automated count 42.4 %
+  2016-03-29 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2016-03-29 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2016-03-29 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2016-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 103.4 mmHg
+           - Systolic Blood Pressure                  186.0 mmHg
+  2016-03-29 : Body Mass Index                          33.3 kg/m2
+  2016-03-29 : Body Weight                              101.2 kg
+  2016-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2016-03-29 : Body Height                              174.4 cm
+  2013-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-03 : Estimated Glomerular Filtration Rate     143.1 mL/min/{1.73_m2}
+  2013-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 97.8 mmHg
+           - Systolic Blood Pressure                  164.6 mmHg
+  2013-12-03 : Body Mass Index                          32.1 kg/m2
+  2013-12-03 : Body Weight                              97.8 kg
+  2013-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2013-12-03 : Body Height                              174.4 cm
+  2013-09-10 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-10 : Estimated Glomerular Filtration Rate     135.6 mL/min/{1.73_m2}
+  2013-09-10 : High Density Lipoprotein Cholesterol     77.5 mg/dL
+  2013-09-10 : Low Density Lipoprotein Cholesterol      69.8 mg/dL
+  2013-09-10 : Triglycerides                            104.7 mg/dL
+  2013-09-10 : Total Cholesterol                        168.3 mg/dL
+  2013-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 110.9 mmHg
+           - Systolic Blood Pressure                  178.8 mmHg
+  2013-09-10 : Body Mass Index                          32.1 kg/m2
+  2013-09-10 : Body Weight                              97.8 kg
+  2013-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2013-09-10 : Body Height                              174.4 cm
+  2010-09-07 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-07 : Estimated Glomerular Filtration Rate     116.5 mL/min/{1.73_m2}
+  2010-09-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2010-09-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 478.8 fL
+  2010-09-07 : Platelets [#/volume] in Blood by Automated count 226.6 10*3/uL
+  2010-09-07 : Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+  2010-09-07 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2010-09-07 : MCH [Entitic mass] by Automated count    30.0 pg
+  2010-09-07 : MCV [Entitic volume] by Automated count  91.1 fL
+  2010-09-07 : Hematocrit [Volume Fraction] of Blood by Automated count 48.5 %
+  2010-09-07 : Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+  2010-09-07 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2010-09-07 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2010-09-07 : High Density Lipoprotein Cholesterol     61.4 mg/dL
+  2010-09-07 : Low Density Lipoprotein Cholesterol      87.7 mg/dL
+  2010-09-07 : Triglycerides                            117.5 mg/dL
+  2010-09-07 : Total Cholesterol                        172.6 mg/dL
+  2010-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 108.7 mmHg
+           - Systolic Blood Pressure                  153.7 mmHg
+  2010-09-07 : Body Mass Index                          30.5 kg/m2
+  2010-09-07 : Body Weight                              92.9 kg
+  2010-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2010-09-07 : Body Height                              174.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-04 : Documentation of current medications
+  2018-04-03 : Documentation of current medications
+  2016-03-29 : Documentation of current medications
+  2013-12-03 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-04 : Influenza, seasonal, injectable, preservative free
+  2018-08-28 : Influenza, seasonal, injectable, preservative free
+  2018-04-03 : Hep A, adult
+  2018-04-03 : Td (adult) preservative free
+  2018-04-03 : Influenza, seasonal, injectable, preservative free
+  2016-03-29 : Hep A, adult
+  2016-03-29 : Influenza, seasonal, injectable, preservative free
+  2013-12-03 : Influenza, seasonal, injectable, preservative free
+  2013-09-10 : Influenza, seasonal, injectable, preservative free
+  2010-09-07 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-04 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2018-08-28 (Dr. Marjory382 Predovic534) : Encounter at URGENT CARE MEDICAL CLINIC
+2018-08-21 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2018-08-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-04-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-03-29 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-03-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-12-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-11-22 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute bronchitis (disorder)
+2013-09-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-09-07 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-01-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+2009-05-27 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1994-08-16 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

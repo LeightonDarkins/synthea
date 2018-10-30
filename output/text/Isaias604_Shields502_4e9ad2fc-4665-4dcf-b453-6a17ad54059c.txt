@@ -1,0 +1,133 @@
+Isaias604 Shields502
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1986-08-16
+Marital Status:      M
+Outpatient Provider: NORWOOD HOSPITAL
+Primary Care Provider: 800 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-10-10[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2011-06-07[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2005-10-15[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  2005-10-07[CURRENT] : Fluoxetine 25MG for Major depression, single episode
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-10-10 - 2018-10-19 : Streptococcal sore throat (disorder)
+  2011-06-07 - 2011-06-21 : Acute bronchitis (disorder)
+  2009-09-02 - 2009-09-16 : Viral sinusitis (disorder)
+  2005-10-01 -            : Major depression disorder
+  2004-10-09 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-06-07[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2005-10-07[CURRENT] : Major depressive disorder clinical management plan
+                         Reason: Major depression disorder
+  2005-10-01[CURRENT] : Psychiatry care plan
+                         Reason: Major depression disorder
+                         Activity: Coping Support Management
+                         Activity: Psychiatric Follow-up
+                         Activity: Suicide Risk Assessment
+  2005-10-01[CURRENT] : Mental health care plan
+                         Reason: Major depression, single episode
+                         Activity: Initial psychiatric interview with mental status and evaluation
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-06-24 : Lipid Panel
+           - Total Cholesterol                        161.1 mg/dL
+           - Triglycerides                            110.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      60.6 mg/dL
+           - High Density Lipoprotein Cholesterol     78.4 mg/dL
+  2014-06-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+           - MCV [Entitic volume] by Automated count  90.0 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+           - Platelets [#/volume] in Blood by Automated count 200.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 414.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-10 : Oral temperature                         38.4 Cel
+  2017-06-24 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-24 : Estimated Glomerular Filtration Rate     120.1 mL/min/{1.73_m2}
+  2017-06-24 : High Density Lipoprotein Cholesterol     78.4 mg/dL
+  2017-06-24 : Low Density Lipoprotein Cholesterol      60.6 mg/dL
+  2017-06-24 : Triglycerides                            110.6 mg/dL
+  2017-06-24 : Total Cholesterol                        161.1 mg/dL
+  2017-06-24 : Blood Pressure
+           - Diastolic Blood Pressure                 113.1 mmHg
+           - Systolic Blood Pressure                  197.8 mmHg
+  2017-06-24 : Body Mass Index                          30.0 kg/m2
+  2017-06-24 : Body Weight                              99.7 kg
+  2017-06-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2017-06-24 : Body Height                              182.3 cm
+  2014-06-21 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-21 : Estimated Glomerular Filtration Rate     84.4 mL/min/{1.73_m2}
+  2014-06-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2014-06-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 414.5 fL
+  2014-06-21 : Platelets [#/volume] in Blood by Automated count 200.6 10*3/uL
+  2014-06-21 : Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+  2014-06-21 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2014-06-21 : MCH [Entitic mass] by Automated count    27.1 pg
+  2014-06-21 : MCV [Entitic volume] by Automated count  90.0 fL
+  2014-06-21 : Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+  2014-06-21 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2014-06-21 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2014-06-21 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2014-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 110.4 mmHg
+           - Systolic Blood Pressure                  144.4 mmHg
+  2014-06-21 : Body Mass Index                          28.4 kg/m2
+  2014-06-21 : Body Weight                              94.4 kg
+  2014-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2014-06-21 : Body Height                              182.3 cm
+  2011-06-18 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-18 : Estimated Glomerular Filtration Rate     78.0 mL/min/{1.73_m2}
+  2011-06-18 : Blood Pressure
+           - Diastolic Blood Pressure                 97.9 mmHg
+           - Systolic Blood Pressure                  168.0 mmHg
+  2011-06-18 : Body Mass Index                          27.0 kg/m2
+  2011-06-18 : Body Weight                              89.7 kg
+  2011-06-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2011-06-18 : Body Height                              182.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-06-24 : Documentation of current medications
+  2014-06-21 : Documentation of current medications
+  2011-06-18 : Documentation of current medications
+  2011-06-07 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-06-24 : Influenza, seasonal, injectable, preservative free
+  2014-06-21 : Influenza, seasonal, injectable, preservative free
+  2011-06-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-10 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2017-06-24 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-06-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-06-18 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-06-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Acute bronchitis (disorder)
+2009-09-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2005-10-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2005-10-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Major depression disorder
+2005-10-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Major depression, single episode
+2005-10-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Major depression, single episode
+2004-10-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,239 @@
+Cletus494 Runte676
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 37
+Birth Date:          1981-08-30
+Marital Status:      S
+Outpatient Provider: HEYWOOD HOSPITAL -
+Primary Care Provider: 242 GREEN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1982-04-07 -            : Allergy to peanuts
+  1982-04-07 -            : Allergy to fish
+  1982-04-07 -            : Allergy to eggs
+  1982-04-07 -            : Allergy to tree pollen
+  1982-04-07 -            : Allergy to grass pollen
+  1982-04-07 -            : Dander (animal) allergy
+  1982-04-07 -            : House dust mite allergy
+  1982-04-07 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2009-04-06[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1982-04-07[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-09-04 - 2017-09-11 : Viral sinusitis (disorder)
+  2015-11-22 - 2015-12-06 : Viral sinusitis (disorder)
+  2015-03-15 -            : Prediabetes
+  2015-03-04 -            : Chronic sinusitis (disorder)
+  2015-02-18 - 2015-06-18 : Sinusitis (disorder)
+  2013-12-27 - 2014-01-17 : Viral sinusitis (disorder)
+  2009-04-06 - 2009-04-20 : Acute bronchitis (disorder)
+  2006-11-04 -            : Body mass index 30+ - obesity (finding)
+  1983-09-06 -            : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-03-15[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2009-04-06[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1982-03-27[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-04-15 : Lipid Panel
+           - Total Cholesterol                        179.5 mg/dL
+           - Triglycerides                            136.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.6 mg/dL
+           - High Density Lipoprotein Cholesterol     65.5 mg/dL
+  2018-04-15 : Basic Metabolic Panel
+           - Glucose                                  99.6 mg/dL
+           - Urea Nitrogen                            16.2 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 105.8 mmol/L
+           - Carbon Dioxide                           24.5 mmol/L
+  2015-04-12 : Basic Metabolic Panel
+           - Glucose                                  77.9 mg/dL
+           - Urea Nitrogen                            17.6 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 101.3 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+  2015-03-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+           - MCV [Entitic volume] by Automated count  84.7 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 356.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 270.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2012-12-01 : Lipid Panel
+           - Total Cholesterol                        172.9 mg/dL
+           - Triglycerides                            146.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.0 mg/dL
+           - High Density Lipoprotein Cholesterol     66.6 mg/dL
+  2009-11-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.6 %
+           - MCV [Entitic volume] by Automated count  90.6 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 273.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 398.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-04-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2018-04-15 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-15 : High Density Lipoprotein Cholesterol     65.5 mg/dL
+  2018-04-15 : Low Density Lipoprotein Cholesterol      86.6 mg/dL
+  2018-04-15 : Triglycerides                            136.8 mg/dL
+  2018-04-15 : Total Cholesterol                        179.5 mg/dL
+  2018-04-15 : Carbon Dioxide                           24.5 mmol/L
+  2018-04-15 : Chloride                                 105.8 mmol/L
+  2018-04-15 : Potassium                                4.5 mmol/L
+  2018-04-15 : Sodium                                   137.6 mmol/L
+  2018-04-15 : Calcium                                  10.0 mg/dL
+  2018-04-15 : Creatinine                               1.6 mg/dL
+  2018-04-15 : Urea Nitrogen                            16.2 mg/dL
+  2018-04-15 : Glucose                                  99.6 mg/dL
+  2018-04-15 : Blood Pressure
+           - Diastolic Blood Pressure                 82.6 mmHg
+           - Systolic Blood Pressure                  132.0 mmHg
+  2018-04-15 : Body Mass Index                          36.2 kg/m2
+  2018-04-15 : Body Weight                              108.1 kg
+  2018-04-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2018-04-15 : Body Height                              172.8 cm
+  2015-04-12 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-04-12 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-12 : Carbon Dioxide                           20.3 mmol/L
+  2015-04-12 : Chloride                                 101.3 mmol/L
+  2015-04-12 : Potassium                                5.1 mmol/L
+  2015-04-12 : Sodium                                   137.6 mmol/L
+  2015-04-12 : Calcium                                  9.8 mg/dL
+  2015-04-12 : Creatinine                               1.5 mg/dL
+  2015-04-12 : Urea Nitrogen                            17.6 mg/dL
+  2015-04-12 : Glucose                                  77.9 mg/dL
+  2015-04-12 : Blood Pressure
+           - Diastolic Blood Pressure                 73.9 mmHg
+           - Systolic Blood Pressure                  132.0 mmHg
+  2015-04-12 : Body Mass Index                          34.6 kg/m2
+  2015-04-12 : Body Weight                              103.5 kg
+  2015-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2015-04-12 : Body Height                              172.8 cm
+  2015-03-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2015-03-15 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2015-03-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 270.8 fL
+  2015-03-15 : Platelets [#/volume] in Blood by Automated count 356.4 10*3/uL
+  2015-03-15 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  2015-03-15 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2015-03-15 : MCH [Entitic mass] by Automated count    29.8 pg
+  2015-03-15 : MCV [Entitic volume] by Automated count  84.7 fL
+  2015-03-15 : Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+  2015-03-15 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2015-03-15 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2015-03-15 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2015-03-15 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mmHg
+           - Systolic Blood Pressure                  103.9 mmHg
+  2015-03-15 : Body Mass Index                          34.6 kg/m2
+  2015-03-15 : Body Weight                              103.5 kg
+  2015-03-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2015-03-15 : Body Height                              172.8 cm
+  2013-12-28 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 88.6 mmHg
+           - Systolic Blood Pressure                  122.0 mmHg
+  2013-12-28 : Body Mass Index                          34.1 kg/m2
+  2013-12-28 : Body Weight                              101.9 kg
+  2013-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2013-12-28 : Body Height                              172.8 cm
+  2012-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-01 : High Density Lipoprotein Cholesterol     66.6 mg/dL
+  2012-12-01 : Low Density Lipoprotein Cholesterol      77.0 mg/dL
+  2012-12-01 : Triglycerides                            146.6 mg/dL
+  2012-12-01 : Total Cholesterol                        172.9 mg/dL
+  2012-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 77.7 mmHg
+           - Systolic Blood Pressure                  101.0 mmHg
+  2012-12-01 : Body Mass Index                          33.5 kg/m2
+  2012-12-01 : Body Weight                              100.1 kg
+  2012-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2012-12-01 : Body Height                              172.8 cm
+  2009-11-28 : Tobacco smoking status NHIS              Never smoker 
+  2009-11-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2009-11-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 398.0 fL
+  2009-11-28 : Platelets [#/volume] in Blood by Automated count 273.5 10*3/uL
+  2009-11-28 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2009-11-28 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2009-11-28 : MCH [Entitic mass] by Automated count    29.2 pg
+  2009-11-28 : MCV [Entitic volume] by Automated count  90.6 fL
+  2009-11-28 : Hematocrit [Volume Fraction] of Blood by Automated count 39.6 %
+  2009-11-28 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2009-11-28 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2009-11-28 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2009-11-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.1 mmHg
+           - Systolic Blood Pressure                  101.3 mmHg
+  2009-11-28 : Body Mass Index                          32.0 kg/m2
+  2009-11-28 : Body Weight                              95.7 kg
+  2009-11-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2009-11-28 : Body Height                              172.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-04-12 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-04-15 : Influenza, seasonal, injectable, preservative free
+  2015-04-12 : Influenza, seasonal, injectable, preservative free
+  2015-03-15 : Influenza, seasonal, injectable, preservative free
+  2013-12-28 : Influenza, seasonal, injectable, preservative free
+  2012-12-01 : Td (adult) preservative free
+  2012-12-01 : Influenza, seasonal, injectable, preservative free
+  2009-11-28 : Influenza, seasonal, injectable, preservative free
+  2009-04-12 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-15 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2017-09-04 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Viral sinusitis (disorder)
+2015-11-22 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Viral sinusitis (disorder)
+2015-05-14 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Sinusitis (disorder)
+2015-04-12 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2015-04-02 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Sinusitis (disorder)
+2015-03-15 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2015-03-04 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Sinusitis (disorder)
+2015-02-18 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Sinusitis (disorder)
+2013-12-27 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Viral sinusitis (disorder)
+2013-12-28 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2012-12-01 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2009-11-28 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2009-04-06 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Acute bronchitis (disorder)
+2009-04-12 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+2006-11-04 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+1983-09-06 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Perennial allergic rhinitis
+1982-04-07 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+1982-03-27 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

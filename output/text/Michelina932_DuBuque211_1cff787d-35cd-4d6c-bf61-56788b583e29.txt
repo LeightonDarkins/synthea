@@ -1,0 +1,322 @@
+Michelina932 DuBuque211
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2001-09-11
+Marital Status:      S
+Outpatient Provider: STURDY MEMORIAL HOSPITAL
+Primary Care Provider: 211 PARK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-12-18[CURRENT] : Natazia 28 Day Pack
+  2015-09-08[STOPPED] : Trinessa 28 Day Pack
+  2004-09-17[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-09-17[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-08-07 -            : Normal pregnancy
+  2017-04-11 - 2017-11-06 : Normal pregnancy
+  2017-01-02 - 2017-01-09 : Blighted ovum
+  2017-01-02 -            : Miscarriage in first trimester
+  2017-01-02 - 2017-01-09 : Normal pregnancy
+  2015-12-15 - 2016-01-05 : Viral sinusitis (disorder)
+  2004-09-17 -            : Childhood asthma
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-08-07[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2017-04-11[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2008-01-08[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2004-09-17[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %
+           - MCV [Entitic volume] by Automated count  82.9 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+           - Platelets [#/volume] in Blood by Automated count 420.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 487.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2013-02-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+           - MCV [Entitic volume] by Automated count  91.0 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 237.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 511.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-13 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2018-03-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 487.0 fL
+  2018-03-13 : Platelets [#/volume] in Blood by Automated count 420.1 10*3/uL
+  2018-03-13 : Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+  2018-03-13 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2018-03-13 : MCH [Entitic mass] by Automated count    32.6 pg
+  2018-03-13 : MCV [Entitic volume] by Automated count  82.9 fL
+  2018-03-13 : Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %
+  2018-03-13 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2018-03-13 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2018-03-13 : Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+  2018-03-13 : Blood Pressure
+           - Diastolic Blood Pressure                 76.2 mmHg
+           - Systolic Blood Pressure                  133.4 mmHg
+  2018-03-13 : Body Mass Index                          23.0 kg/m2
+  2018-03-13 : Body Weight                              54.4 kg
+  2018-03-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2018-03-13 : Body Height                              153.6 cm
+  2017-03-06 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-06 : Blood Pressure
+           - Diastolic Blood Pressure                 83.7 mmHg
+           - Systolic Blood Pressure                  103.7 mmHg
+  2017-03-06 : Body Mass Index                          22.5 kg/m2
+  2017-03-06 : Body Weight                              52.9 kg
+  2017-03-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2017-03-06 : Body Height                              153.1 cm
+  2016-02-29 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-29 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mmHg
+           - Systolic Blood Pressure                  108.5 mmHg
+  2016-02-29 : Body Mass Index                          21.9 kg/m2
+  2016-02-29 : Body Weight                              50.6 kg
+  2016-02-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2016-02-29 : Body Height                              152.0 cm
+  2015-02-23 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-23 : Blood Pressure
+           - Diastolic Blood Pressure                 77.3 mmHg
+           - Systolic Blood Pressure                  137.4 mmHg
+  2015-02-23 : Body Mass Index                          21.2 kg/m2
+  2015-02-23 : Body Weight                              47.4 kg
+  2015-02-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2015-02-23 : Body Height                              149.4 cm
+  2014-02-17 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-17 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mmHg
+           - Systolic Blood Pressure                  103.4 mmHg
+  2014-02-17 : Body Mass Index                          21.0 kg/m2
+  2014-02-17 : Body Weight                              43.2 kg
+  2014-02-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-02-17 : Body Height                              143.4 cm
+  2013-02-11 : Tobacco smoking status NHIS              Never smoker 
+  2013-02-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2013-02-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 511.3 fL
+  2013-02-11 : Platelets [#/volume] in Blood by Automated count 237.3 10*3/uL
+  2013-02-11 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2013-02-11 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2013-02-11 : MCH [Entitic mass] by Automated count    27.2 pg
+  2013-02-11 : MCV [Entitic volume] by Automated count  91.0 fL
+  2013-02-11 : Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+  2013-02-11 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2013-02-11 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2013-02-11 : Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+  2013-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 77.8 mmHg
+           - Systolic Blood Pressure                  130.2 mmHg
+  2013-02-11 : Body Mass Index                          20.9 kg/m2
+  2013-02-11 : Body Weight                              38.8 kg
+  2013-02-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2013-02-11 : Body Height                              136.2 cm
+  2012-02-06 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 79.1 mmHg
+           - Systolic Blood Pressure                  132.6 mmHg
+  2012-02-06 : Body Mass Index                          20.2 kg/m2
+  2012-02-06 : Body Weight                              34.4 kg
+  2012-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2012-02-06 : Body Height                              130.5 cm
+  2011-01-31 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-31 : Blood Pressure
+           - Diastolic Blood Pressure                 87.3 mmHg
+           - Systolic Blood Pressure                  119.8 mmHg
+  2011-01-31 : Body Mass Index                          19.1 kg/m2
+  2011-01-31 : Body Weight                              30.3 kg
+  2011-01-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2011-01-31 : Body Height                              126.1 cm
+  2010-01-25 : Tobacco smoking status NHIS              Never smoker 
+  2010-01-25 : Blood Pressure
+           - Diastolic Blood Pressure                 72.8 mmHg
+           - Systolic Blood Pressure                  131.3 mmHg
+  2010-01-25 : Body Mass Index                          18.1 kg/m2
+  2010-01-25 : Body Weight                              26.8 kg
+  2010-01-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2010-01-25 : Body Height                              121.5 cm
+  2009-01-19 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 82.8 mmHg
+           - Systolic Blood Pressure                  100.6 mmHg
+  2009-01-19 : Body Mass Index                          17.6 kg/m2
+  2009-01-19 : Body Weight                              23.7 kg
+  2009-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2009-01-19 : Body Height                              116.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-30 : Auscultation of the fetal heart for Normal pregnancy
+  2018-10-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-10-02 : Auscultation of the fetal heart for Normal pregnancy
+  2018-10-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-10-02 : Alpha-fetoprotein test for Normal pregnancy
+  2018-10-02 : Fetal anatomy study for Normal pregnancy
+  2018-09-04 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2018-09-04 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-08-07 : Physical examination of mother for Normal pregnancy
+  2018-08-07 : Urine protein test for Normal pregnancy
+  2018-08-07 : Skin test for tuberculosis for Normal pregnancy
+  2018-08-07 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2018-08-07 : Rubella screening for Normal pregnancy
+  2018-08-07 : Hepatitis C antibody test for Normal pregnancy
+  2018-08-07 : Urine screening test for diabetes for Normal pregnancy
+  2018-08-07 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2018-08-07 : Urine culture for Normal pregnancy
+  2018-08-07 : Syphilis infection test for Normal pregnancy
+  2018-08-07 : Gonorrhea infection test for Normal pregnancy
+  2018-08-07 : Chlamydia antigen test for Normal pregnancy
+  2018-08-07 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2018-08-07 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2018-08-07 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-08-07 : Blood typing, RH typing for Normal pregnancy
+  2018-08-07 : Auscultation of the fetal heart for Normal pregnancy
+  2018-08-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-08-07 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-08-07 : Standard pregnancy test for Normal pregnancy
+  2017-12-18 : Depression screening
+  2017-12-18 : Physical examination following birth
+  2017-11-06 : Childbirth for Normal pregnancy
+  2017-11-06 : Epidural anesthesia for Normal pregnancy
+  2017-10-24 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-24 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-09-26 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-29 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-29 : Urine screening for glucose for Normal pregnancy
+  2017-08-29 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-08-29 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-08-01 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-04 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-06 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-06 : Alpha-fetoprotein test for Normal pregnancy
+  2017-06-06 : Fetal anatomy study for Normal pregnancy
+  2017-05-09 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-05-09 : Auscultation of the fetal heart for Normal pregnancy
+  2017-05-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-11 : Physical examination of mother for Normal pregnancy
+  2017-04-11 : Urine protein test for Normal pregnancy
+  2017-04-11 : Skin test for tuberculosis for Normal pregnancy
+  2017-04-11 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-04-11 : Rubella screening for Normal pregnancy
+  2017-04-11 : Hepatitis C antibody test for Normal pregnancy
+  2017-04-11 : Urine screening test for diabetes for Normal pregnancy
+  2017-04-11 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-04-11 : Urine culture for Normal pregnancy
+  2017-04-11 : Syphilis infection test for Normal pregnancy
+  2017-04-11 : Gonorrhea infection test for Normal pregnancy
+  2017-04-11 : Chlamydia antigen test for Normal pregnancy
+  2017-04-11 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-04-11 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-04-11 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-04-11 : Blood typing, RH typing for Normal pregnancy
+  2017-04-11 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-11 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-04-11 : Standard pregnancy test for Normal pregnancy
+  2017-03-06 : Documentation of current medications
+  2017-01-09 : Depression screening for Normal pregnancy
+  2017-01-09 : Physical examination for Normal pregnancy
+  2017-01-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-01-02 : Standard pregnancy test for Normal pregnancy
+  2016-02-29 : Documentation of current medications
+  2013-02-11 : Documentation of current medications
+  2010-01-25 : Documentation of current medications
+  2009-01-19 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-13 : meningococcal MCV4P
+  2018-03-13 : Influenza, seasonal, injectable, preservative free
+  2017-03-06 : Influenza, seasonal, injectable, preservative free
+  2015-12-21 : Influenza, seasonal, injectable, preservative free
+  2015-02-23 : HPV, quadrivalent
+  2015-02-23 : Influenza, seasonal, injectable, preservative free
+  2014-02-17 : HPV, quadrivalent
+  2014-02-17 : Influenza, seasonal, injectable, preservative free
+  2013-02-11 : meningococcal MCV4P
+  2013-02-11 : HPV, quadrivalent
+  2013-02-11 : Influenza, seasonal, injectable, preservative free
+  2013-02-11 : Tdap
+  2012-02-06 : Influenza, seasonal, injectable, preservative free
+  2011-01-31 : Influenza, seasonal, injectable, preservative free
+  2010-01-25 : Influenza, seasonal, injectable, preservative free
+  2009-01-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-30 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-10-02 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-09-04 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-08-07 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2018-03-13 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2017-12-18 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2017-12-18 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2017-11-06 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-10-24 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-09-26 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-08-29 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-08-01 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-07-04 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-06-06 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-05-09 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-04-11 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2017-03-06 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2017-01-09 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Blighted ovum
+2017-01-02 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+2016-02-29 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2015-12-15 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2015-12-21 (Dr. Adan632 Bernier607) : Encounter at GENERAL HEALTH CARE
+2015-09-08 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2015-02-23 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2015-01-24 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Childhood asthma
+2014-02-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2014-01-29 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Childhood asthma
+2013-02-11 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2012-02-06 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2011-02-14 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Childhood asthma
+2011-01-31 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2010-01-25 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2009-01-19 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2008-01-08 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Acute bronchitis (disorder)
+2004-09-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Childhood asthma
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

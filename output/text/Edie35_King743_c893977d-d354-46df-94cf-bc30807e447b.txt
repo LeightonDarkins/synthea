@@ -1,0 +1,277 @@
+Edie35 King743
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 35
+Birth Date:          1983-09-24
+Marital Status:      M
+Outpatient Provider: MORTON HOSPITAL
+Primary Care Provider: 88 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-09-25[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2014-09-30[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2013-10-16[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2013-10-16[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2012-10-06[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2001-12-29[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-03-24 - 2018-04-23 : Concussion with loss of consciousness
+  2016-12-15 - 2016-12-27 : Acute viral pharyngitis (disorder)
+  2013-10-16 - 2013-11-30 : Otitis media
+  2013-02-22 - 2013-03-04 : Acute viral pharyngitis (disorder)
+  2012-02-11 - 2012-08-25 : Normal pregnancy
+  2001-12-29 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-03-24[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2012-02-11[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-12-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+           - MCV [Entitic volume] by Automated count  82.6 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 182.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 152.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2016-12-03 : Lipid Panel
+           - Total Cholesterol                        162.8 mg/dL
+           - Triglycerides                            137.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.6 mg/dL
+           - High Density Lipoprotein Cholesterol     60.7 mg/dL
+  2013-11-30 : Lipid Panel
+           - Total Cholesterol                        190.2 mg/dL
+           - Triglycerides                            133.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      104.1 mg/dL
+           - High Density Lipoprotein Cholesterol     59.5 mg/dL
+  2010-11-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.8 %
+           - MCV [Entitic volume] by Automated count  83.3 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+           - Platelets [#/volume] in Blood by Automated count 405.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 175.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-12-15 : Oral temperature                         37.0 Cel
+  2016-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-03 : Estimated Glomerular Filtration Rate     120.2 mL/min/{1.73_m2}
+  2016-12-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2016-12-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 152.9 fL
+  2016-12-03 : Platelets [#/volume] in Blood by Automated count 182.0 10*3/uL
+  2016-12-03 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2016-12-03 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2016-12-03 : MCH [Entitic mass] by Automated count    30.7 pg
+  2016-12-03 : MCV [Entitic volume] by Automated count  82.6 fL
+  2016-12-03 : Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+  2016-12-03 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2016-12-03 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2016-12-03 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2016-12-03 : High Density Lipoprotein Cholesterol     60.7 mg/dL
+  2016-12-03 : Low Density Lipoprotein Cholesterol      74.6 mg/dL
+  2016-12-03 : Triglycerides                            137.4 mg/dL
+  2016-12-03 : Total Cholesterol                        162.8 mg/dL
+  2016-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mmHg
+           - Systolic Blood Pressure                  151.8 mmHg
+  2016-12-03 : Body Mass Index                          26.7 kg/m2
+  2016-12-03 : Body Weight                              74.5 kg
+  2016-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2016-12-03 : Body Height                              167.0 cm
+  2013-11-30 : Tobacco smoking status NHIS              Never smoker 
+  2013-11-30 : Estimated Glomerular Filtration Rate     109.4 mL/min/{1.73_m2}
+  2013-11-30 : High Density Lipoprotein Cholesterol     59.5 mg/dL
+  2013-11-30 : Low Density Lipoprotein Cholesterol      104.1 mg/dL
+  2013-11-30 : Triglycerides                            133.2 mg/dL
+  2013-11-30 : Total Cholesterol                        190.2 mg/dL
+  2013-11-30 : Blood Pressure
+           - Diastolic Blood Pressure                 109.6 mmHg
+           - Systolic Blood Pressure                  179.7 mmHg
+  2013-11-30 : Body Mass Index                          24.8 kg/m2
+  2013-11-30 : Body Weight                              69.2 kg
+  2013-11-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2013-11-30 : Body Height                              167.0 cm
+  2013-02-22 : Oral temperature                         37.3 Cel
+  2010-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2010-11-27 : Estimated Glomerular Filtration Rate     104.4 mL/min/{1.73_m2}
+  2010-11-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2010-11-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 175.6 fL
+  2010-11-27 : Platelets [#/volume] in Blood by Automated count 405.5 10*3/uL
+  2010-11-27 : Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+  2010-11-27 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2010-11-27 : MCH [Entitic mass] by Automated count    28.2 pg
+  2010-11-27 : MCV [Entitic volume] by Automated count  83.3 fL
+  2010-11-27 : Hematocrit [Volume Fraction] of Blood by Automated count 36.8 %
+  2010-11-27 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2010-11-27 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2010-11-27 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2010-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 99.2 mmHg
+           - Systolic Blood Pressure                  183.8 mmHg
+  2010-11-27 : Body Mass Index                          23.5 kg/m2
+  2010-11-27 : Body Weight                              65.5 kg
+  2010-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-11-27 : Body Height                              167.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-29 : Intramuscular injection
+  2018-06-30 : Intramuscular injection
+  2018-03-31 : Intramuscular injection
+  2017-12-30 : Intramuscular injection
+  2017-09-30 : Intramuscular injection
+  2017-07-01 : Intramuscular injection
+  2017-04-01 : Intramuscular injection
+  2016-12-31 : Intramuscular injection
+  2016-12-15 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2016-12-03 : Documentation of current medications
+  2016-10-01 : Intramuscular injection
+  2016-07-02 : Intramuscular injection
+  2016-04-02 : Intramuscular injection
+  2016-01-02 : Intramuscular injection
+  2015-10-03 : Intramuscular injection
+  2015-07-04 : Intramuscular injection
+  2015-04-04 : Intramuscular injection
+  2015-01-03 : Intramuscular injection
+  2014-10-04 : Intramuscular injection
+  2014-09-30 : Insertion of subcutaneous contraceptive
+  2014-07-05 : Intramuscular injection
+  2014-04-05 : Intramuscular injection
+  2014-01-04 : Intramuscular injection
+  2013-11-30 : Documentation of current medications
+  2013-10-05 : Intramuscular injection
+  2013-10-03 : Insertion of intrauterine contraceptive device
+  2013-07-06 : Intramuscular injection
+  2013-04-06 : Intramuscular injection
+  2013-02-22 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2013-01-05 : Intramuscular injection
+  2012-10-06 : Intramuscular injection
+  2012-10-06 : Depression screening
+  2012-10-06 : Physical examination following birth
+  2012-10-06 : RhD passive immunization
+  2012-08-25 : Premature birth of newborn for Normal pregnancy
+  2012-07-28 : Auscultation of the fetal heart for Normal pregnancy
+  2012-07-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-30 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-30 : Urine screening for glucose for Normal pregnancy
+  2012-06-30 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-06-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-06-30 : RhD passive immunization for Normal pregnancy
+  2012-06-30 : Antenatal RhD antibody screening for Normal pregnancy
+  2012-06-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-05 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-07 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-07 : Alpha-fetoprotein test for Normal pregnancy
+  2012-04-07 : Fetal anatomy study for Normal pregnancy
+  2012-03-10 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-03-10 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-02-11 : Physical examination of mother for Normal pregnancy
+  2012-02-11 : Urine protein test for Normal pregnancy
+  2012-02-11 : Skin test for tuberculosis for Normal pregnancy
+  2012-02-11 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-02-11 : Rubella screening for Normal pregnancy
+  2012-02-11 : Hepatitis C antibody test for Normal pregnancy
+  2012-02-11 : Urine screening test for diabetes for Normal pregnancy
+  2012-02-11 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-02-11 : Urine culture for Normal pregnancy
+  2012-02-11 : Syphilis infection test for Normal pregnancy
+  2012-02-11 : Gonorrhea infection test for Normal pregnancy
+  2012-02-11 : Chlamydia antigen test for Normal pregnancy
+  2012-02-11 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-02-11 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-02-11 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-02-11 : Blood typing, RH typing for Normal pregnancy
+  2012-02-11 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-02-11 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-02-11 : Standard pregnancy test for Normal pregnancy
+  2011-12-10 : Removal of subcutaneous contraceptive
+  2010-11-27 : Documentation of current medications
+  2009-10-24 : Replacement of subcutaneous contraceptive
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-12-03 : Td (adult) preservative free
+  2016-12-03 : Influenza, seasonal, injectable, preservative free
+  2013-11-30 : Influenza, seasonal, injectable, preservative free
+  2010-11-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-29 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2018-06-30 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2018-04-23 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Concussion with loss of consciousness
+2018-03-31 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2018-03-24 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2017-12-30 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2017-09-30 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2017-07-01 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2017-04-01 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2016-12-31 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2016-12-15 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2016-12-03 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2016-10-01 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2016-07-02 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2016-04-02 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2016-01-02 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2015-10-03 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2015-09-25 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2015-07-04 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2015-04-04 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2015-01-03 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2014-10-04 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2014-09-30 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2014-07-05 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2014-04-05 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2014-01-04 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2013-11-30 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2013-10-16 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Otitis media
+2013-10-05 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2013-10-03 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2013-10-01 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2013-07-06 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2013-04-06 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2013-02-22 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2013-01-05 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2012-10-06 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2012-10-06 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2012-08-25 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Normal pregnancy
+2012-07-28 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Normal pregnancy
+2012-06-30 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Normal pregnancy
+2012-06-02 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Normal pregnancy
+2012-05-05 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Normal pregnancy
+2012-04-07 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Normal pregnancy
+2012-03-10 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Normal pregnancy
+2012-02-11 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Normal pregnancy
+2011-12-10 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2010-11-27 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2009-10-24 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2001-12-29 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

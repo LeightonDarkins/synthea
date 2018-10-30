@@ -1,0 +1,431 @@
+Sirena316 Dickens475
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 37
+Birth Date:          1981-10-04
+Marital Status:      S
+Outpatient Provider: BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+Primary Care Provider: 40 WRIGHT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-11-19[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2015-11-01[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Cystitis
+  2015-11-01[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Cystitis
+  2011-11-15[STOPPED] : Natazia 28 Day Pack
+  2010-06-16[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2009-11-25[STOPPED] : 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe
+  2009-03-19[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-04-23 - 2017-05-01 : Acute viral pharyngitis (disorder)
+  2017-03-12 - 2017-10-08 : Normal pregnancy
+  2016-05-15 -            : Body mass index 30+ - obesity (finding)
+  2015-10-04 - 2016-05-01 : Normal pregnancy
+  2015-09-26 - 2015-11-08 : Cystitis
+  2014-07-13 - 2014-08-24 : Preeclampsia
+  2014-01-26 - 2014-08-24 : Normal pregnancy
+  2010-06-16 - 2010-07-07 : Viral sinusitis (disorder)
+  2009-11-06 - 2009-11-13 : Viral sinusitis (disorder)
+  2009-03-19 - 2009-04-02 : Viral sinusitis (disorder)
+  2009-03-08 - 2009-09-20 : Normal pregnancy
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-03-12[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-11-01[STOPPED] : Urinary tract infection care
+                         Reason: Cystitis
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2015-10-04[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2014-01-26[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2009-03-08[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-05-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+           - MCV [Entitic volume] by Automated count  86.8 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 155.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 317.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2016-05-15 : Lipid Panel
+           - Total Cholesterol                        191.6 mg/dL
+           - Triglycerides                            143.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      100.1 mg/dL
+           - High Density Lipoprotein Cholesterol     62.8 mg/dL
+  2013-05-12 : Lipid Panel
+           - Total Cholesterol                        187.6 mg/dL
+           - Triglycerides                            131.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.9 mg/dL
+           - High Density Lipoprotein Cholesterol     59.5 mg/dL
+  2010-05-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.5 %
+           - MCV [Entitic volume] by Automated count  90.6 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+           - Platelets [#/volume] in Blood by Automated count 402.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 400.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-04-23 : Oral temperature                         37.2 Cel
+  2016-05-15 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2016-05-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 317.3 fL
+  2016-05-15 : Platelets [#/volume] in Blood by Automated count 155.9 10*3/uL
+  2016-05-15 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  2016-05-15 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2016-05-15 : MCH [Entitic mass] by Automated count    27.4 pg
+  2016-05-15 : MCV [Entitic volume] by Automated count  86.8 fL
+  2016-05-15 : Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+  2016-05-15 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2016-05-15 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2016-05-15 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2016-05-15 : High Density Lipoprotein Cholesterol     62.8 mg/dL
+  2016-05-15 : Low Density Lipoprotein Cholesterol      100.1 mg/dL
+  2016-05-15 : Triglycerides                            143.5 mg/dL
+  2016-05-15 : Total Cholesterol                        191.6 mg/dL
+  2016-05-15 : Blood Pressure
+           - Diastolic Blood Pressure                 81.1 mmHg
+           - Systolic Blood Pressure                  121.5 mmHg
+  2016-05-15 : Body Mass Index                          30.5 kg/m2
+  2016-05-15 : Body Weight                              71.0 kg
+  2016-05-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2016-05-15 : Body Height                              152.6 cm
+  2013-05-12 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-12 : High Density Lipoprotein Cholesterol     59.5 mg/dL
+  2013-05-12 : Low Density Lipoprotein Cholesterol      101.9 mg/dL
+  2013-05-12 : Triglycerides                            131.1 mg/dL
+  2013-05-12 : Total Cholesterol                        187.6 mg/dL
+  2013-05-12 : Blood Pressure
+           - Diastolic Blood Pressure                 88.9 mmHg
+           - Systolic Blood Pressure                  122.3 mmHg
+  2013-05-12 : Body Mass Index                          28.3 kg/m2
+  2013-05-12 : Body Weight                              65.8 kg
+  2013-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2013-05-12 : Body Height                              152.6 cm
+  2010-05-09 : Tobacco smoking status NHIS              Never smoker 
+  2010-05-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2010-05-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 400.4 fL
+  2010-05-09 : Platelets [#/volume] in Blood by Automated count 402.6 10*3/uL
+  2010-05-09 : Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+  2010-05-09 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2010-05-09 : MCH [Entitic mass] by Automated count    30.2 pg
+  2010-05-09 : MCV [Entitic volume] by Automated count  90.6 fL
+  2010-05-09 : Hematocrit [Volume Fraction] of Blood by Automated count 46.5 %
+  2010-05-09 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2010-05-09 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2010-05-09 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2010-05-09 : Blood Pressure
+           - Diastolic Blood Pressure                 84.3 mmHg
+           - Systolic Blood Pressure                  129.6 mmHg
+  2010-05-09 : Body Mass Index                          26.3 kg/m2
+  2010-05-09 : Body Weight                              61.3 kg
+  2010-05-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2010-05-09 : Body Height                              152.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-11-19 : Insertion of subcutaneous contraceptive
+  2017-11-19 : Depression screening
+  2017-11-19 : Physical examination following birth
+  2017-10-08 : Childbirth for Normal pregnancy
+  2017-10-08 : Episiotomy for Normal pregnancy
+  2017-09-24 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-24 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-08-27 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-30 : Urine screening for glucose for Normal pregnancy
+  2017-07-30 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-07-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-07-02 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-04 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-05-07 : Auscultation of the fetal heart for Normal pregnancy
+  2017-05-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-05-07 : Alpha-fetoprotein test for Normal pregnancy
+  2017-05-07 : Fetal anatomy study for Normal pregnancy
+  2017-04-09 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-04-09 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-03-12 : Physical examination of mother for Normal pregnancy
+  2017-03-12 : Urine protein test for Normal pregnancy
+  2017-03-12 : Skin test for tuberculosis for Normal pregnancy
+  2017-03-12 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-03-12 : Rubella screening for Normal pregnancy
+  2017-03-12 : Hepatitis C antibody test for Normal pregnancy
+  2017-03-12 : Urine screening test for diabetes for Normal pregnancy
+  2017-03-12 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-03-12 : Urine culture for Normal pregnancy
+  2017-03-12 : Syphilis infection test for Normal pregnancy
+  2017-03-12 : Gonorrhea infection test for Normal pregnancy
+  2017-03-12 : Chlamydia antigen test for Normal pregnancy
+  2017-03-12 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-03-12 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-03-12 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-03-12 : Blood typing, RH typing for Normal pregnancy
+  2017-03-12 : Auscultation of the fetal heart for Normal pregnancy
+  2017-03-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-03-12 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-03-12 : Standard pregnancy test for Normal pregnancy
+  2016-06-12 : Depression screening
+  2016-06-12 : Physical examination following birth
+  2016-05-01 : Childbirth for Normal pregnancy
+  2016-05-01 : Epidural anesthesia for Normal pregnancy
+  2016-04-17 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-17 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-03-20 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-21 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-21 : Urine screening for glucose for Normal pregnancy
+  2016-02-21 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-02-21 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-01-24 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-27 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-29 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-29 : Alpha-fetoprotein test for Normal pregnancy
+  2015-11-29 : Fetal anatomy study for Normal pregnancy
+  2015-11-01 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-11-01 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-04 : Physical examination of mother for Normal pregnancy
+  2015-10-04 : Urine protein test for Normal pregnancy
+  2015-10-04 : Skin test for tuberculosis for Normal pregnancy
+  2015-10-04 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-10-04 : Rubella screening for Normal pregnancy
+  2015-10-04 : Hepatitis C antibody test for Normal pregnancy
+  2015-10-04 : Urine screening test for diabetes for Normal pregnancy
+  2015-10-04 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-10-04 : Urine culture for Normal pregnancy
+  2015-10-04 : Syphilis infection test for Normal pregnancy
+  2015-10-04 : Gonorrhea infection test for Normal pregnancy
+  2015-10-04 : Chlamydia antigen test for Normal pregnancy
+  2015-10-04 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-10-04 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-10-04 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-10-04 : Blood typing, RH typing for Normal pregnancy
+  2015-10-04 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-04 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-10-04 : Standard pregnancy test for Normal pregnancy
+  2014-10-05 : Depression screening
+  2014-10-05 : Physical examination following birth
+  2014-08-24 : Childbirth for Normal pregnancy
+  2014-08-10 : Auscultation of the fetal heart for Normal pregnancy
+  2014-08-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-08-10 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-07-13 : Auscultation of the fetal heart for Normal pregnancy
+  2014-07-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-15 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-15 : Urine screening for glucose for Normal pregnancy
+  2014-06-15 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-06-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-05-18 : Auscultation of the fetal heart for Normal pregnancy
+  2014-05-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-04-20 : Auscultation of the fetal heart for Normal pregnancy
+  2014-04-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-03-23 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-03-23 : Alpha-fetoprotein test for Normal pregnancy
+  2014-03-23 : Fetal anatomy study for Normal pregnancy
+  2014-02-23 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2014-02-23 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-26 : Physical examination of mother for Normal pregnancy
+  2014-01-26 : Urine protein test for Normal pregnancy
+  2014-01-26 : Skin test for tuberculosis for Normal pregnancy
+  2014-01-26 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2014-01-26 : Rubella screening for Normal pregnancy
+  2014-01-26 : Hepatitis C antibody test for Normal pregnancy
+  2014-01-26 : Urine screening test for diabetes for Normal pregnancy
+  2014-01-26 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2014-01-26 : Urine culture for Normal pregnancy
+  2014-01-26 : Syphilis infection test for Normal pregnancy
+  2014-01-26 : Gonorrhea infection test for Normal pregnancy
+  2014-01-26 : Chlamydia antigen test for Normal pregnancy
+  2014-01-26 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2014-01-26 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2014-01-26 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-01-26 : Blood typing, RH typing for Normal pregnancy
+  2014-01-26 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-26 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-01-26 : Standard pregnancy test for Normal pregnancy
+  2013-08-25 : Intramuscular injection
+  2013-05-26 : Intramuscular injection
+  2013-02-24 : Intramuscular injection
+  2012-11-25 : Intramuscular injection
+  2012-11-12 : Insertion of intrauterine contraceptive device
+  2012-08-26 : Intramuscular injection
+  2012-05-27 : Intramuscular injection
+  2012-02-26 : Intramuscular injection
+  2011-11-27 : Intramuscular injection
+  2011-08-28 : Intramuscular injection
+  2011-05-29 : Intramuscular injection
+  2011-02-27 : Intramuscular injection
+  2010-11-28 : Intramuscular injection
+  2010-08-29 : Intramuscular injection
+  2010-05-30 : Intramuscular injection
+  2010-02-28 : Intramuscular injection
+  2009-11-25 : Intramuscular injection
+  2009-11-01 : Depression screening
+  2009-11-01 : Physical examination following birth
+  2009-09-20 : Premature birth of newborn for Normal pregnancy
+  2009-09-20 : Medical induction of labor for Normal pregnancy
+  2009-08-23 : Auscultation of the fetal heart for Normal pregnancy
+  2009-08-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-07-26 : Auscultation of the fetal heart for Normal pregnancy
+  2009-07-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-07-26 : Urine screening for glucose for Normal pregnancy
+  2009-07-26 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2009-07-26 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-06-28 : Auscultation of the fetal heart for Normal pregnancy
+  2009-06-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-31 : Auscultation of the fetal heart for Normal pregnancy
+  2009-05-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-03 : Auscultation of the fetal heart for Normal pregnancy
+  2009-05-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-03 : Alpha-fetoprotein test for Normal pregnancy
+  2009-05-03 : Fetal anatomy study for Normal pregnancy
+  2009-04-05 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2009-04-05 : Auscultation of the fetal heart for Normal pregnancy
+  2009-04-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-03-08 : Physical examination of mother for Normal pregnancy
+  2009-03-08 : Urine protein test for Normal pregnancy
+  2009-03-08 : Skin test for tuberculosis for Normal pregnancy
+  2009-03-08 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2009-03-08 : Rubella screening for Normal pregnancy
+  2009-03-08 : Hepatitis C antibody test for Normal pregnancy
+  2009-03-08 : Urine screening test for diabetes for Normal pregnancy
+  2009-03-08 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2009-03-08 : Urine culture for Normal pregnancy
+  2009-03-08 : Syphilis infection test for Normal pregnancy
+  2009-03-08 : Gonorrhea infection test for Normal pregnancy
+  2009-03-08 : Chlamydia antigen test for Normal pregnancy
+  2009-03-08 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2009-03-08 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2009-03-08 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-03-08 : Blood typing, RH typing for Normal pregnancy
+  2009-03-08 : Auscultation of the fetal heart for Normal pregnancy
+  2009-03-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-03-08 : Ultrasound scan for fetal viability for Normal pregnancy
+  2009-03-08 : Standard pregnancy test for Normal pregnancy
+  2008-11-30 : Depression screening
+  2008-11-30 : Physical examination following birth
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-05-15 : Influenza, seasonal, injectable, preservative free
+  2013-05-12 : Td (adult) preservative free
+  2013-05-12 : Influenza, seasonal, injectable, preservative free
+  2010-05-09 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-11-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-11-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2017-10-08 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2017-09-24 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2017-08-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2017-07-30 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2017-07-02 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2017-06-04 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2017-05-07 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2017-04-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Acute viral pharyngitis (disorder)
+2017-04-09 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2017-03-12 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2016-06-12 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-05-15 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2016-05-01 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2016-04-17 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2016-03-20 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2016-02-21 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2016-01-24 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2015-12-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2015-11-29 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2015-11-01 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2015-10-04 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2015-09-26 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Cystitis
+2014-10-05 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2014-08-24 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2014-08-10 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2014-07-13 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2014-06-15 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2014-05-18 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2014-04-20 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2014-03-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2014-02-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2014-01-26 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2013-08-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2013-05-26 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2013-05-12 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2013-02-24 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2012-11-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2012-11-12 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2012-11-09 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2012-08-26 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2012-05-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2012-02-26 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-11-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-11-15 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-08-28 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-05-29 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2011-02-27 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2010-11-28 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2010-08-29 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2010-06-16 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Viral sinusitis (disorder)
+2010-05-30 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2010-05-09 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2010-02-28 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2009-11-25 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2009-11-06 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Viral sinusitis (disorder)
+2009-11-01 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+2009-09-20 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2009-08-23 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2009-07-26 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2009-06-28 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2009-05-31 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2009-05-03 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2009-04-05 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2009-03-19 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Viral sinusitis (disorder)
+2009-03-08 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS : Encounter for Normal pregnancy
+2008-11-30 (Dr. Royce974 Crona259) : Encounter at BAYSTATE WING HOSPITAL AND MEDICAL CENTERS
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

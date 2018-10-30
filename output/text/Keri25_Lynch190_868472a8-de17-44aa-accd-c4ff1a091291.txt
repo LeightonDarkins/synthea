@@ -1,0 +1,263 @@
+Keri25 Lynch190
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 35
+Birth Date:          1983-10-06
+Marital Status:      M
+Outpatient Provider: BEVERLY HOSPITAL CORPORATION
+Primary Care Provider: 85 HERRICK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-04-28[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2012-05-24[STOPPED] : Jolivette 28 Day Pack
+  2009-08-05[STOPPED] : Yaz 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-07-16 -            : Tubal pregnancy
+  2015-07-16 - 2015-08-06 : Normal pregnancy
+  2014-01-09 -            : Miscarriage in first trimester
+  2014-01-09 - 2014-02-06 : Normal pregnancy
+  2013-09-26 -            : Body mass index 30+ - obesity (finding)
+  2011-09-08 - 2012-04-12 : Normal pregnancy
+  2009-10-12 -            : Drug overdose
+  1999-01-17 -            : Chronic intractable migraine without aura
+  1998-06-04 -            : Chronic pain
+  1997-11-08 -            : Impacted molars
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-09-08[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2009-10-12[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-29 : Lipid Panel
+           - Total Cholesterol                        167.0 mg/dL
+           - Triglycerides                            124.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.6 mg/dL
+           - High Density Lipoprotein Cholesterol     69.4 mg/dL
+  2013-09-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+           - MCV [Entitic volume] by Automated count  84.6 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 341.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 515.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-09-29 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-29 : High Density Lipoprotein Cholesterol     69.4 mg/dL
+  2016-09-29 : Low Density Lipoprotein Cholesterol      72.6 mg/dL
+  2016-09-29 : Triglycerides                            124.9 mg/dL
+  2016-09-29 : Total Cholesterol                        167.0 mg/dL
+  2016-09-29 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  135.4 mmHg
+  2016-09-29 : Body Mass Index                          32.5 kg/m2
+  2016-09-29 : Body Weight                              87.5 kg
+  2016-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2016-09-29 : Body Height                              164.1 cm
+  2013-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2013-09-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 515.2 fL
+  2013-09-26 : Platelets [#/volume] in Blood by Automated count 341.4 10*3/uL
+  2013-09-26 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2013-09-26 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2013-09-26 : MCH [Entitic mass] by Automated count    31.4 pg
+  2013-09-26 : MCV [Entitic volume] by Automated count  84.6 fL
+  2013-09-26 : Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+  2013-09-26 : Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+  2013-09-26 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2013-09-26 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2013-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 71.4 mmHg
+           - Systolic Blood Pressure                  119.8 mmHg
+  2013-09-26 : Body Mass Index                          31.0 kg/m2
+  2013-09-26 : Body Weight                              83.5 kg
+  2013-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2013-09-26 : Body Height                              164.1 cm
+  2010-09-23 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-23 : Blood Pressure
+           - Diastolic Blood Pressure                 87.2 mmHg
+           - Systolic Blood Pressure                  106.1 mmHg
+  2010-09-23 : Body Mass Index                          29.7 kg/m2
+  2010-09-23 : Body Weight                              80.1 kg
+  2010-09-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2010-09-23 : Body Height                              164.1 cm
+  2009-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.1 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-02 : Intramuscular injection
+  2018-05-03 : Intramuscular injection
+  2018-04-26 : Insertion of intrauterine contraceptive device
+  2018-02-01 : Intramuscular injection
+  2017-11-02 : Intramuscular injection
+  2017-08-03 : Intramuscular injection
+  2017-04-28 : Intramuscular injection
+  2016-09-29 : Documentation of current medications
+  2015-08-06 : Depression screening for Normal pregnancy
+  2015-08-06 : Physical exam following abortion for Normal pregnancy
+  2015-08-06 : Pregnancy termination care for Normal pregnancy
+  2015-07-23 : Induced termination of pregnancy for Normal pregnancy
+  2015-07-23 : Counseling for termination of pregnancy for Normal pregnancy
+  2015-07-16 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-07-16 : Standard pregnancy test for Normal pregnancy
+  2014-02-06 : Depression screening for Normal pregnancy
+  2014-02-06 : Physical examination for Normal pregnancy
+  2014-01-23 : Methotrexate injection into tubal pregnancy
+  2014-01-09 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-01-09 : Standard pregnancy test for Normal pregnancy
+  2013-09-26 : Documentation of current medications
+  2012-05-24 : Depression screening
+  2012-05-24 : Physical examination following birth
+  2012-04-12 : Childbirth for Normal pregnancy
+  2012-04-05 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-22 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-22 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-02-23 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-26 : Auscultation of the fetal heart for Normal pregnancy
+  2012-01-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-26 : Urine screening for glucose for Normal pregnancy
+  2012-01-26 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-01-26 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-12-29 : Auscultation of the fetal heart for Normal pregnancy
+  2011-12-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-12-01 : Auscultation of the fetal heart for Normal pregnancy
+  2011-12-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-11-03 : Auscultation of the fetal heart for Normal pregnancy
+  2011-11-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-11-03 : Alpha-fetoprotein test for Normal pregnancy
+  2011-11-03 : Fetal anatomy study for Normal pregnancy
+  2011-10-06 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-10-06 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-09-08 : Physical examination of mother for Normal pregnancy
+  2011-09-08 : Urine protein test for Normal pregnancy
+  2011-09-08 : Skin test for tuberculosis for Normal pregnancy
+  2011-09-08 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-09-08 : Rubella screening for Normal pregnancy
+  2011-09-08 : Hepatitis C antibody test for Normal pregnancy
+  2011-09-08 : Urine screening test for diabetes for Normal pregnancy
+  2011-09-08 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-09-08 : Urine culture for Normal pregnancy
+  2011-09-08 : Syphilis infection test for Normal pregnancy
+  2011-09-08 : Gonorrhea infection test for Normal pregnancy
+  2011-09-08 : Chlamydia antigen test for Normal pregnancy
+  2011-09-08 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-09-08 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-09-08 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-09-08 : Blood typing, RH typing for Normal pregnancy
+  2011-09-08 : Auscultation of the fetal heart for Normal pregnancy
+  2011-09-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-09-08 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-09-08 : Standard pregnancy test for Normal pregnancy
+  2011-07-07 : Removal of intrauterine device
+  2010-09-23 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-09-29 : Td (adult) preservative free
+  2016-09-29 : Influenza, seasonal, injectable, preservative free
+  2013-09-26 : Influenza, seasonal, injectable, preservative free
+  2010-09-23 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-02 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-06-29 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-05-30 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-05-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-04-30 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-04-26 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-04-23 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-03-31 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-03-01 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-02-01 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2018-01-30 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-12-31 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-12-01 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-11-02 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-11-01 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-10-02 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-09-02 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-08-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-08-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-07-04 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-04-28 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2016-09-29 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2016-07-12 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Drug overdose
+2016-04-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2016-03-04 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2016-02-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2016-01-04 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2015-12-05 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2015-09-05 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Drug overdose
+2015-08-06 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2015-07-23 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2015-07-16 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2015-07-02 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2015-06-02 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2015-05-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2015-04-26 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Drug overdose
+2014-10-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-09-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-08-04 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-07-05 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-06-05 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-05-06 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-04-06 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-02-06 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Tubal pregnancy
+2014-01-23 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2014-01-09 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2013-09-26 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2012-05-24 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2012-05-24 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2012-04-27 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2012-04-12 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2012-04-05 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2012-03-22 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2012-02-23 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2012-01-26 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2011-12-29 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2011-12-01 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2011-11-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2011-10-06 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2011-09-08 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Normal pregnancy
+2011-07-07 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2011-02-09 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2011-01-10 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-12-11 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-12-04 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Drug overdose
+2010-09-23 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-07-15 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-06-15 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-05-16 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-04-16 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-03-17 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2010-02-15 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2009-10-19 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2009-10-12 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Drug overdose
+2009-08-05 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+1999-01-17 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Chronic intractable migraine without aura
+1998-06-04 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Chronic pain
+1997-11-08 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Impacted molars
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

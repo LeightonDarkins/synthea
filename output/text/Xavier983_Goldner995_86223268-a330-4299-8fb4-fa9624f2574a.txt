@@ -1,0 +1,155 @@
+Xavier983 Goldner995
+====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1989-03-18
+Marital Status:      M
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-02-28 -            : Prediabetes
+  2012-12-04 - 2012-12-25 : Viral sinusitis (disorder)
+  2010-02-03 - 2010-02-10 : Viral sinusitis (disorder)
+  2009-10-15 - 2009-10-29 : Viral sinusitis (disorder)
+  2005-04-10 -            : Impacted molars
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-02-28[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.7 %
+           - MCV [Entitic volume] by Automated count  89.9 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 160.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 203.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2018-03-03 : Basic Metabolic Panel
+           - Glucose                                  73.3 mg/dL
+           - Urea Nitrogen                            19.7 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   138.8 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 101.1 mmol/L
+           - Carbon Dioxide                           21.4 mmol/L
+  2012-02-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.9 %
+           - MCV [Entitic volume] by Automated count  85.0 fL
+           - MCH [Entitic mass] by Automated count    29.6 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+           - Platelets [#/volume] in Blood by Automated count 340.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 350.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2018-03-03 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2018-03-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 203.5 fL
+  2018-03-03 : Platelets [#/volume] in Blood by Automated count 160.3 10*3/uL
+  2018-03-03 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2018-03-03 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2018-03-03 : MCH [Entitic mass] by Automated count    31.5 pg
+  2018-03-03 : MCV [Entitic volume] by Automated count  89.9 fL
+  2018-03-03 : Hematocrit [Volume Fraction] of Blood by Automated count 45.7 %
+  2018-03-03 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2018-03-03 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2018-03-03 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2018-03-03 : Carbon Dioxide                           21.4 mmol/L
+  2018-03-03 : Chloride                                 101.1 mmol/L
+  2018-03-03 : Potassium                                4.9 mmol/L
+  2018-03-03 : Sodium                                   138.8 mmol/L
+  2018-03-03 : Calcium                                  10.0 mg/dL
+  2018-03-03 : Creatinine                               1.2 mg/dL
+  2018-03-03 : Urea Nitrogen                            19.7 mg/dL
+  2018-03-03 : Glucose                                  73.3 mg/dL
+  2018-03-03 : Blood Pressure
+           - Diastolic Blood Pressure                 75.8 mmHg
+           - Systolic Blood Pressure                  128.3 mmHg
+  2018-03-03 : Body Mass Index                          20.5 kg/m2
+  2018-03-03 : Body Weight                              74.5 kg
+  2018-03-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2018-03-03 : Body Height                              190.7 cm
+  2015-02-28 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-02-28 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-28 : Blood Pressure
+           - Diastolic Blood Pressure                 76.2 mmHg
+           - Systolic Blood Pressure                  138.1 mmHg
+  2015-02-28 : Body Mass Index                          19.3 kg/m2
+  2015-02-28 : Body Weight                              70.3 kg
+  2015-02-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2015-02-28 : Body Height                              190.7 cm
+  2012-02-25 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-02-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 350.9 fL
+  2012-02-25 : Platelets [#/volume] in Blood by Automated count 340.6 10*3/uL
+  2012-02-25 : Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+  2012-02-25 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2012-02-25 : MCH [Entitic mass] by Automated count    29.6 pg
+  2012-02-25 : MCV [Entitic volume] by Automated count  85.0 fL
+  2012-02-25 : Hematocrit [Volume Fraction] of Blood by Automated count 43.9 %
+  2012-02-25 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2012-02-25 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2012-02-25 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2012-02-25 : Blood Pressure
+           - Diastolic Blood Pressure                 70.8 mmHg
+           - Systolic Blood Pressure                  101.7 mmHg
+  2012-02-25 : Body Mass Index                          18.0 kg/m2
+  2012-02-25 : Body Weight                              65.3 kg
+  2012-02-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2012-02-25 : Body Height                              190.7 cm
+  2009-02-21 : Tobacco smoking status NHIS              Never smoker 
+  2009-02-21 : Blood Pressure
+           - Diastolic Blood Pressure                 70.9 mmHg
+           - Systolic Blood Pressure                  137.5 mmHg
+  2009-02-21 : Body Mass Index                          16.8 kg/m2
+  2009-02-21 : Body Weight                              61.1 kg
+  2009-02-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2009-02-21 : Body Height                              190.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-02-28 : Documentation of current medications
+  2009-02-21 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-03 : Influenza, seasonal, injectable, preservative free
+  2015-02-28 : Influenza, seasonal, injectable, preservative free
+  2012-02-25 : meningococcal MCV4P
+  2012-02-25 : Hep B, adult
+  2012-02-25 : Td (adult) preservative free
+  2012-02-25 : Influenza, seasonal, injectable, preservative free
+  2009-02-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-02-28 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-12-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2012-02-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-02-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2009-10-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2009-02-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2005-04-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Impacted molars
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

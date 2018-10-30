@@ -1,0 +1,297 @@
+Maricarmen445 Arellano2
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 53
+Birth Date:          1965-03-12
+Marital Status:      S
+Outpatient Provider: BERKSHIRE MEDICAL CENTER INC - 1
+Primary Care Provider: 725 NORTH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1966-03-23 -            : Shellfish allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-10-30[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2016-05-07[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2014-12-28[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2014-01-02[STOPPED] : Camila 28 Day Pack
+  2013-01-07[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2011-07-12[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2011-01-10[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2008-08-01[STOPPED] : Errin 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-10-30 - 2016-11-06 : Viral sinusitis (disorder)
+  2016-05-07 - 2016-05-28 : Laceration of thigh
+  2014-07-05 - 2014-07-14 : Acute viral pharyngitis (disorder)
+  2011-07-12 - 2011-08-02 : Laceration of forearm
+  2009-05-08 - 2009-12-04 : Normal pregnancy
+  1997-03-21 -            : Body mass index 40+ - severely obese (finding)
+  1994-10-14 -            : Miscarriage in first trimester
+  1979-02-02 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-05-07[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2011-07-12[STOPPED] : Wound care
+                         Reason: Laceration of forearm
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2009-05-08[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1966-03-11[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-30 : Lipid Panel
+           - Total Cholesterol                        188.4 mg/dL
+           - Triglycerides                            117.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.8 mg/dL
+           - High Density Lipoprotein Cholesterol     79.1 mg/dL
+  2017-03-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  85.0 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 323.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 494.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2015-03-13 : Lipid Panel
+           - Total Cholesterol                        190.8 mg/dL
+           - Triglycerides                            110.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      95.5 mg/dL
+           - High Density Lipoprotein Cholesterol     73.2 mg/dL
+  2012-01-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+           - MCV [Entitic volume] by Automated count  91.0 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 382.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 290.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2012-01-06 : Lipid Panel
+           - Total Cholesterol                        194.3 mg/dL
+           - Triglycerides                            106.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      113.7 mg/dL
+           - High Density Lipoprotein Cholesterol     59.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-30 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-30 : High Density Lipoprotein Cholesterol     79.1 mg/dL
+  2018-03-30 : Low Density Lipoprotein Cholesterol      85.8 mg/dL
+  2018-03-30 : Triglycerides                            117.7 mg/dL
+  2018-03-30 : Total Cholesterol                        188.4 mg/dL
+  2018-03-30 : Blood Pressure
+           - Diastolic Blood Pressure                 81.4 mmHg
+           - Systolic Blood Pressure                  129.7 mmHg
+  2018-03-30 : Body Mass Index                          51.5 kg/m2
+  2018-03-30 : Body Weight                              135.2 kg
+  2018-03-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2018-03-30 : Body Height                              162.1 cm
+  2017-03-24 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2017-03-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 494.3 fL
+  2017-03-24 : Platelets [#/volume] in Blood by Automated count 323.6 10*3/uL
+  2017-03-24 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2017-03-24 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2017-03-24 : MCH [Entitic mass] by Automated count    29.7 pg
+  2017-03-24 : MCV [Entitic volume] by Automated count  85.0 fL
+  2017-03-24 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  2017-03-24 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2017-03-24 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2017-03-24 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2017-03-24 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mmHg
+           - Systolic Blood Pressure                  124.0 mmHg
+  2017-03-24 : Body Mass Index                          51.5 kg/m2
+  2017-03-24 : Body Weight                              135.2 kg
+  2017-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2017-03-24 : Body Height                              162.1 cm
+  2016-03-18 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 77.5 mmHg
+           - Systolic Blood Pressure                  125.7 mmHg
+  2016-03-18 : Body Mass Index                          51.5 kg/m2
+  2016-03-18 : Body Weight                              135.2 kg
+  2016-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2016-03-18 : Body Height                              162.1 cm
+  2015-03-13 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-13 : High Density Lipoprotein Cholesterol     73.2 mg/dL
+  2015-03-13 : Low Density Lipoprotein Cholesterol      95.5 mg/dL
+  2015-03-13 : Triglycerides                            110.5 mg/dL
+  2015-03-13 : Total Cholesterol                        190.8 mg/dL
+  2015-03-13 : Blood Pressure
+           - Diastolic Blood Pressure                 77.7 mmHg
+           - Systolic Blood Pressure                  138.1 mmHg
+  2015-03-13 : Body Mass Index                          51.5 kg/m2
+  2015-03-13 : Body Weight                              135.2 kg
+  2015-03-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2015-03-13 : Body Height                              162.1 cm
+  2014-07-05 : Oral temperature                         37.4 Cel
+  2014-01-10 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-10 : Blood Pressure
+           - Diastolic Blood Pressure                 88.6 mmHg
+           - Systolic Blood Pressure                  115.4 mmHg
+  2014-01-10 : Body Mass Index                          50.8 kg/m2
+  2014-01-10 : Body Weight                              133.4 kg
+  2014-01-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2014-01-10 : Body Height                              162.1 cm
+  2012-01-06 : Tobacco smoking status NHIS              Never smoker 
+  2012-01-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2012-01-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 290.7 fL
+  2012-01-06 : Platelets [#/volume] in Blood by Automated count 382.8 10*3/uL
+  2012-01-06 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2012-01-06 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2012-01-06 : MCH [Entitic mass] by Automated count    30.9 pg
+  2012-01-06 : MCV [Entitic volume] by Automated count  91.0 fL
+  2012-01-06 : Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+  2012-01-06 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2012-01-06 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2012-01-06 : Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+  2012-01-06 : High Density Lipoprotein Cholesterol     59.2 mg/dL
+  2012-01-06 : Low Density Lipoprotein Cholesterol      113.7 mg/dL
+  2012-01-06 : Triglycerides                            106.7 mg/dL
+  2012-01-06 : Total Cholesterol                        194.3 mg/dL
+  2012-01-06 : Blood Pressure
+           - Diastolic Blood Pressure                 74.6 mmHg
+           - Systolic Blood Pressure                  122.9 mmHg
+  2012-01-06 : Body Mass Index                          49.6 kg/m2
+  2012-01-06 : Body Weight                              130.4 kg
+  2012-01-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2012-01-06 : Body Height                              162.1 cm
+  2010-01-01 : Tobacco smoking status NHIS              Never smoker 
+  2010-01-01 : Blood Pressure
+           - Diastolic Blood Pressure                 77.7 mmHg
+           - Systolic Blood Pressure                  100.1 mmHg
+  2010-01-01 : Body Mass Index                          48.3 kg/m2
+  2010-01-01 : Body Weight                              126.9 kg
+  2010-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2010-01-01 : Body Height                              162.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-05-07 : Suture open wound for Laceration of thigh
+  2015-12-25 : Removal of subcutaneous contraceptive
+  2015-03-13 : Documentation of current medications
+  2015-03-13 : Colonoscopy
+  2015-01-16 : Replacement of subcutaneous contraceptive
+  2014-12-28 : Intramuscular injection
+  2014-01-10 : Documentation of current medications
+  2013-01-07 : Insertion of subcutaneous contraceptive
+  2012-01-08 : Insertion of intrauterine contraceptive device
+  2011-07-12 : Suture open wound for Laceration of forearm
+  2011-01-10 : Insertion of subcutaneous contraceptive
+  2010-01-15 : Depression screening
+  2010-01-15 : Physical examination following birth
+  2009-12-04 : Childbirth for Normal pregnancy
+  2009-12-04 : Epidural anesthesia for Normal pregnancy
+  2009-11-20 : Auscultation of the fetal heart for Normal pregnancy
+  2009-11-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-11-20 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2009-10-23 : Auscultation of the fetal heart for Normal pregnancy
+  2009-10-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-09-25 : Auscultation of the fetal heart for Normal pregnancy
+  2009-09-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-09-25 : Urine screening for glucose for Normal pregnancy
+  2009-09-25 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2009-09-25 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-08-28 : Auscultation of the fetal heart for Normal pregnancy
+  2009-08-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-07-31 : Auscultation of the fetal heart for Normal pregnancy
+  2009-07-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-07-03 : Auscultation of the fetal heart for Normal pregnancy
+  2009-07-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-07-03 : Alpha-fetoprotein test for Normal pregnancy
+  2009-07-03 : Fetal anatomy study for Normal pregnancy
+  2009-06-05 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2009-06-05 : Auscultation of the fetal heart for Normal pregnancy
+  2009-06-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-08 : Physical examination of mother for Normal pregnancy
+  2009-05-08 : Urine protein test for Normal pregnancy
+  2009-05-08 : Skin test for tuberculosis for Normal pregnancy
+  2009-05-08 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2009-05-08 : Rubella screening for Normal pregnancy
+  2009-05-08 : Hepatitis C antibody test for Normal pregnancy
+  2009-05-08 : Urine screening test for diabetes for Normal pregnancy
+  2009-05-08 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2009-05-08 : Urine culture for Normal pregnancy
+  2009-05-08 : Syphilis infection test for Normal pregnancy
+  2009-05-08 : Gonorrhea infection test for Normal pregnancy
+  2009-05-08 : Chlamydia antigen test for Normal pregnancy
+  2009-05-08 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2009-05-08 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2009-05-08 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-05-08 : Blood typing, RH typing for Normal pregnancy
+  2009-05-08 : Auscultation of the fetal heart for Normal pregnancy
+  2009-05-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-05-08 : Ultrasound scan for fetal viability for Normal pregnancy
+  2009-05-08 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-30 : Influenza, seasonal, injectable, preservative free
+  2017-03-24 : Influenza, seasonal, injectable, preservative free
+  2016-03-18 : Td (adult) preservative free
+  2016-03-18 : Influenza, seasonal, injectable, preservative free
+  2016-03-18 : zoster
+  2015-03-13 : Influenza, seasonal, injectable, preservative free
+  2015-03-13 : zoster
+  2014-01-10 : Influenza, seasonal, injectable, preservative free
+  2012-01-06 : Influenza, seasonal, injectable, preservative free
+  2010-01-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-30 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2017-03-24 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2016-10-30 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Viral sinusitis (disorder)
+2016-05-07 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2016-03-18 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2015-12-25 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2015-03-13 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2015-03-13 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2015-01-16 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2014-12-28 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2014-07-05 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Acute viral pharyngitis (disorder)
+2014-01-10 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2014-01-02 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2013-01-07 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2012-01-08 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2012-01-05 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2012-01-06 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2011-07-12 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2011-01-10 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2010-01-15 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2010-01-01 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2009-12-04 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2009-11-20 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2009-10-23 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2009-09-25 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2009-08-28 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2009-07-31 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2009-07-03 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2009-06-05 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2009-05-08 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+2008-08-01 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+1997-03-21 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+1994-10-14 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Normal pregnancy
+1979-02-02 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+1966-03-23 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+1966-03-11 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

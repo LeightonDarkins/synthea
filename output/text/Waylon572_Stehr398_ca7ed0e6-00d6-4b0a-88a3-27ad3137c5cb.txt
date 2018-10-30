@@ -1,0 +1,224 @@
+Waylon572 Stehr398
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 5
+Birth Date:          2013-07-24
+Marital Status:      S
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-08-19[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2014-04-22[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2013-12-21[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2013-12-21[STOPPED] : Amoxicillin 250 MG Oral Capsule
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-05-09 - 2017-05-16 : Viral sinusitis (disorder)
+  2016-08-19 - 2016-12-28 : Otitis media
+  2015-01-03 - 2015-01-15 : Acute viral pharyngitis (disorder)
+  2014-04-22 - 2014-05-04 : Streptococcal sore throat (disorder)
+  2013-12-21 - 2014-04-02 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-07-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.1 %
+           - MCV [Entitic volume] by Automated count  82.6 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+           - Platelets [#/volume] in Blood by Automated count 312.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 207.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-04 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-04 : Blood Pressure
+           - Diastolic Blood Pressure                 75.8 mmHg
+           - Systolic Blood Pressure                  136.2 mmHg
+  2018-07-04 : Body Mass Index                          15.8 kg/m2
+  2018-07-04 : Body Weight                              19.9 kg
+  2018-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-07-04 : Body Height                              112.0 cm
+  2017-06-28 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-28 : Blood Pressure
+           - Diastolic Blood Pressure                 74.6 mmHg
+           - Systolic Blood Pressure                  134.0 mmHg
+  2017-06-28 : Body Mass Index                          15.8 kg/m2
+  2017-06-28 : Body Weight                              17.2 kg
+  2017-06-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2017-06-28 : Body Height                              104.5 cm
+  2016-12-28 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 71.6 mmHg
+           - Systolic Blood Pressure                  119.8 mmHg
+  2016-12-28 : Body Mass Index                          15.9 kg/m2
+  2016-12-28 : Body Weight                              16.1 kg
+  2016-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2016-12-28 : Body Height                              100.8 cm
+  2016-06-29 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-29 : Blood Pressure
+           - Diastolic Blood Pressure                 86.5 mmHg
+           - Systolic Blood Pressure                  135.9 mmHg
+  2016-06-29 : Body Mass Index                          16.1 kg/m2
+  2016-06-29 : Body Weight                              15.1 kg
+  2016-06-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2016-06-29 : Body Height                              96.9 cm
+  2015-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 85.5 mmHg
+           - Systolic Blood Pressure                  130.7 mmHg
+  2015-12-30 : Body Mass Index                          16.6 kg/m2
+  2015-12-30 : Body Weight                              14.2 kg
+  2015-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2015-12-30 : Body Height                              92.6 cm
+  2015-07-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.1 mmHg
+           - Systolic Blood Pressure                  114.4 mmHg
+  2015-07-01 : Body Weight                              13.5 kg
+  2015-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2015-07-01 : Body Height                              89.4 cm
+  2015-01-03 : Oral temperature                         37.4 Cel
+  2014-12-31 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-31 : Blood Pressure
+           - Diastolic Blood Pressure                 87.3 mmHg
+           - Systolic Blood Pressure                  101.5 mmHg
+  2014-12-31 : Body Weight                              12.4 kg
+  2014-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2014-12-31 : Body Height                              83.8 cm
+  2014-10-01 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 80.2 mmHg
+           - Systolic Blood Pressure                  130.4 mmHg
+  2014-10-01 : Body Weight                              11.7 kg
+  2014-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-10-01 : Body Height                              80.7 cm
+  2014-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 76.2 mmHg
+           - Systolic Blood Pressure                  112.8 mmHg
+  2014-07-02 : Body Weight                              10.9 kg
+  2014-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-07-02 : Body Height                              77.1 cm
+  2014-04-22 : Oral temperature                         37.5 Cel
+  2014-04-02 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 75.5 mmHg
+           - Systolic Blood Pressure                  104.0 mmHg
+  2014-04-02 : Body Weight                              9.7 kg
+  2014-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2014-04-02 : Body Height                              73.0 cm
+  2014-01-01 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-01 : Blood Pressure
+           - Diastolic Blood Pressure                 80.1 mmHg
+           - Systolic Blood Pressure                  105.7 mmHg
+  2014-01-01 : Body Weight                              8.2 kg
+  2014-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2014-01-01 : Body Height                              68.1 cm
+  2013-10-30 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-30 : Blood Pressure
+           - Diastolic Blood Pressure                 83.6 mmHg
+           - Systolic Blood Pressure                  128.9 mmHg
+  2013-10-30 : Body Weight                              6.1 kg
+  2013-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2013-10-30 : Body Height                              61.5 cm
+  2013-08-28 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-28 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  117.2 mmHg
+  2013-08-28 : Body Weight                              4.4 kg
+  2013-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2013-08-28 : Body Height                              54.6 cm
+  2013-07-24 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2013-07-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 207.9 fL
+  2013-07-24 : Platelets [#/volume] in Blood by Automated count 312.7 10*3/uL
+  2013-07-24 : Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+  2013-07-24 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2013-07-24 : MCH [Entitic mass] by Automated count    30.5 pg
+  2013-07-24 : MCV [Entitic volume] by Automated count  82.6 fL
+  2013-07-24 : Hematocrit [Volume Fraction] of Blood by Automated count 39.1 %
+  2013-07-24 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2013-07-24 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2013-07-24 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2013-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2013-07-24 : Body Weight                              4.4 kg
+  2013-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2013-07-24 : Body Height                              54.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-12-28 : Documentation of current medications
+  2015-01-03 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2013-08-28 : Documentation of current medications
+  2013-07-24 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-04 : MMR
+  2018-07-04 : DTaP
+  2018-07-04 : Influenza, seasonal, injectable, preservative free
+  2018-07-04 : IPV
+  2018-07-04 : varicella
+  2017-06-28 : Influenza, seasonal, injectable, preservative free
+  2016-06-29 : Influenza, seasonal, injectable, preservative free
+  2015-12-30 : Hep A, ped/adol, 2 dose
+  2015-07-01 : Influenza, seasonal, injectable, preservative free
+  2014-12-31 : DTaP
+  2014-10-01 : Hep A, ped/adol, 2 dose
+  2014-10-01 : Pneumococcal conjugate PCV 13
+  2014-10-01 : MMR
+  2014-10-01 : varicella
+  2014-10-01 : Hib (PRP-OMP)
+  2014-04-02 : Hep B, adolescent or pediatric
+  2014-04-02 : Pneumococcal conjugate PCV 13
+  2014-04-02 : DTaP
+  2014-04-02 : Influenza, seasonal, injectable, preservative free
+  2014-04-02 : IPV
+  2014-01-01 : Pneumococcal conjugate PCV 13
+  2014-01-01 : DTaP
+  2014-01-01 : IPV
+  2014-01-01 : rotavirus, monovalent
+  2014-01-01 : Hib (PRP-OMP)
+  2013-10-30 : Pneumococcal conjugate PCV 13
+  2013-10-30 : DTaP
+  2013-10-30 : IPV
+  2013-10-30 : rotavirus, monovalent
+  2013-10-30 : Hib (PRP-OMP)
+  2013-08-28 : Hep B, adolescent or pediatric
+  2013-07-24 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-06-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-05-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-12-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-08-19 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Otitis media
+2016-06-29 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-12-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-07-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-01-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2014-12-31 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-10-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-07-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-04-22 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2014-04-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-01-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-12-21 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Otitis media
+2013-10-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-08-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-07-24 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

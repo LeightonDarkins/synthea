@@ -1,0 +1,220 @@
+Marybelle759 Reynolds644
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1985-07-19
+Marital Status:      M
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-07-23[STOPPED] : Jolivette 28 Day Pack
+  2016-07-28[STOPPED] : Camila 28 Day Pack
+  2015-08-03[STOPPED] : Errin 28 Day Pack
+  2011-11-27[STOPPED] : 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+  2010-12-02[STOPPED] : Camila 28 Day Pack
+  2009-12-07[STOPPED] : Seasonique 91 Day Pack
+  1989-08-16[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1989-08-08[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-11-13 -            : Body mass index 30+ - obesity (finding)
+  2013-11-15 - 2014-06-27 : Normal pregnancy
+  2013-07-12 - 2013-07-26 : Normal pregnancy
+  2006-05-18 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-11-15[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1989-08-16[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-11-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.7 %
+           - MCV [Entitic volume] by Automated count  86.5 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 160.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 318.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2015-11-13 : Lipid Panel
+           - Total Cholesterol                        173.3 mg/dL
+           - Triglycerides                            124.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.1 mg/dL
+           - High Density Lipoprotein Cholesterol     63.5 mg/dL
+  2009-11-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.3 %
+           - MCV [Entitic volume] by Automated count  81.9 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.8 fL
+           - Platelets [#/volume] in Blood by Automated count 440.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 401.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2015-11-13 : Tobacco smoking status NHIS              Former smoker 
+  2015-11-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2015-11-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 318.1 fL
+  2015-11-13 : Platelets [#/volume] in Blood by Automated count 160.0 10*3/uL
+  2015-11-13 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2015-11-13 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2015-11-13 : MCH [Entitic mass] by Automated count    30.7 pg
+  2015-11-13 : MCV [Entitic volume] by Automated count  86.5 fL
+  2015-11-13 : Hematocrit [Volume Fraction] of Blood by Automated count 40.7 %
+  2015-11-13 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2015-11-13 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2015-11-13 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2015-11-13 : High Density Lipoprotein Cholesterol     63.5 mg/dL
+  2015-11-13 : Low Density Lipoprotein Cholesterol      85.1 mg/dL
+  2015-11-13 : Triglycerides                            124.0 mg/dL
+  2015-11-13 : Total Cholesterol                        173.3 mg/dL
+  2015-11-13 : Blood Pressure
+           - Diastolic Blood Pressure                 75.6 mmHg
+           - Systolic Blood Pressure                  109.3 mmHg
+  2015-11-13 : Body Mass Index                          31.3 kg/m2
+  2015-11-13 : Body Weight                              97.0 kg
+  2015-11-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2015-11-13 : Body Height                              176.2 cm
+  2012-11-09 : Tobacco smoking status NHIS              Former smoker 
+  2012-11-09 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  136.9 mmHg
+  2012-11-09 : Body Mass Index                          30.0 kg/m2
+  2012-11-09 : Body Weight                              93.1 kg
+  2012-11-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2012-11-09 : Body Height                              176.2 cm
+  2009-11-06 : Tobacco smoking status NHIS              Former smoker 
+  2009-11-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2009-11-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 401.3 fL
+  2009-11-06 : Platelets [#/volume] in Blood by Automated count 440.8 10*3/uL
+  2009-11-06 : Erythrocyte distribution width [Entitic volume] by Automated count 45.8 fL
+  2009-11-06 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2009-11-06 : MCH [Entitic mass] by Automated count    29.4 pg
+  2009-11-06 : MCV [Entitic volume] by Automated count  81.9 fL
+  2009-11-06 : Hematocrit [Volume Fraction] of Blood by Automated count 48.3 %
+  2009-11-06 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2009-11-06 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2009-11-06 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2009-11-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.8 mmHg
+           - Systolic Blood Pressure                  132.2 mmHg
+  2009-11-06 : Body Mass Index                          28.8 kg/m2
+  2009-11-06 : Body Weight                              89.3 kg
+  2009-11-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2009-11-06 : Body Height                              176.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-08-08 : Depression screening
+  2014-08-08 : Physical examination following birth
+  2014-06-27 : Childbirth for Normal pregnancy
+  2014-06-27 : Episiotomy for Normal pregnancy
+  2014-06-20 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-13 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-05-30 : Auscultation of the fetal heart for Normal pregnancy
+  2014-05-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-05-30 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-05-02 : Auscultation of the fetal heart for Normal pregnancy
+  2014-05-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-04-04 : Auscultation of the fetal heart for Normal pregnancy
+  2014-04-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-04-04 : Urine screening for glucose for Normal pregnancy
+  2014-04-04 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-04-04 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-03-07 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-07 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-10 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-10 : Alpha-fetoprotein test for Normal pregnancy
+  2014-01-10 : Fetal anatomy study for Normal pregnancy
+  2013-12-13 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-12-13 : Auscultation of the fetal heart for Normal pregnancy
+  2013-12-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-15 : Physical examination of mother for Normal pregnancy
+  2013-11-15 : Urine protein test for Normal pregnancy
+  2013-11-15 : Skin test for tuberculosis for Normal pregnancy
+  2013-11-15 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-11-15 : Rubella screening for Normal pregnancy
+  2013-11-15 : Hepatitis C antibody test for Normal pregnancy
+  2013-11-15 : Urine screening test for diabetes for Normal pregnancy
+  2013-11-15 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-11-15 : Urine culture for Normal pregnancy
+  2013-11-15 : Syphilis infection test for Normal pregnancy
+  2013-11-15 : Gonorrhea infection test for Normal pregnancy
+  2013-11-15 : Chlamydia antigen test for Normal pregnancy
+  2013-11-15 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-11-15 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-11-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-11-15 : Blood typing, RH typing for Normal pregnancy
+  2013-11-15 : Auscultation of the fetal heart for Normal pregnancy
+  2013-11-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-15 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-11-15 : Standard pregnancy test for Normal pregnancy
+  2013-07-26 : Depression screening for Normal pregnancy
+  2013-07-26 : Physical exam following abortion for Normal pregnancy
+  2013-07-26 : Pregnancy termination care for Normal pregnancy
+  2013-07-19 : Induced termination of pregnancy for Normal pregnancy
+  2013-07-19 : Counseling for termination of pregnancy for Normal pregnancy
+  2013-07-12 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-07-12 : Standard pregnancy test for Normal pregnancy
+  2012-11-09 : Documentation of current medications
+  2008-12-12 : Depression screening
+  2008-12-12 : Physical examination following birth
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2015-11-13 : Influenza, seasonal, injectable, preservative free
+  2012-11-09 : Influenza, seasonal, injectable, preservative free
+  2009-11-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-07-23 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-07-28 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-11-13 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-08-03 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-08-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-06-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2014-06-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2014-06-13 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2014-05-30 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2014-05-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2014-04-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2014-03-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2014-02-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2014-01-10 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2013-12-13 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2013-11-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2013-07-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2013-07-19 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2013-07-12 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2012-11-09 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2011-11-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-12-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-12-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-11-06 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2008-12-12 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2006-05-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+1989-08-16 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1989-07-25 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Seasonal allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,255 @@
+Stormy472 Wolf938
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 42
+Birth Date:          1976-03-14
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-06-07[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2015-08-17[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-06-22 - 2018-07-04 : Acute viral pharyngitis (disorder)
+  2018-06-07 - 2018-07-07 : Closed fracture of hip
+  2015-08-17 - 2015-09-21 : Sprain of ankle
+  2015-01-07 - 2015-01-14 : Viral sinusitis (disorder)
+  2011-02-13 - 2011-02-25 : Acute viral pharyngitis (disorder)
+  2007-09-23 -            : Prediabetes
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-06-07[STOPPED] : Fracture care
+                         Reason: Closed fracture of hip
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2015-08-17[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2007-09-23[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-25 : Lipid Panel
+           - Total Cholesterol                        193.5 mg/dL
+           - Triglycerides                            134.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      93.1 mg/dL
+           - High Density Lipoprotein Cholesterol     73.6 mg/dL
+  2018-03-25 : Basic Metabolic Panel
+           - Glucose                                  71.4 mg/dL
+           - Urea Nitrogen                            13.8 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   141.9 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 109.3 mmol/L
+           - Carbon Dioxide                           23.4 mmol/L
+  2016-03-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+           - MCV [Entitic volume] by Automated count  91.5 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 318.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 320.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2016-03-20 : Basic Metabolic Panel
+           - Glucose                                  71.2 mg/dL
+           - Urea Nitrogen                            13.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   137.8 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 107.6 mmol/L
+           - Carbon Dioxide                           28.1 mmol/L
+  2013-09-29 : Lipid Panel
+           - Total Cholesterol                        177.3 mg/dL
+           - Triglycerides                            130.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.2 mg/dL
+           - High Density Lipoprotein Cholesterol     74.0 mg/dL
+  2013-09-29 : Basic Metabolic Panel
+           - Glucose                                  95.5 mg/dL
+           - Urea Nitrogen                            13.8 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   141.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 106.5 mmol/L
+           - Carbon Dioxide                           25.5 mmol/L
+  2010-09-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+           - Platelets [#/volume] in Blood by Automated count 295.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 216.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2010-09-26 : Lipid Panel
+           - Total Cholesterol                        183.5 mg/dL
+           - Triglycerides                            120.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.4 mg/dL
+           - High Density Lipoprotein Cholesterol     71.1 mg/dL
+  2010-09-26 : Basic Metabolic Panel
+           - Glucose                                  71.2 mg/dL
+           - Urea Nitrogen                            15.3 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   142.5 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 101.5 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-06-22 : Oral temperature                         37.8 Cel
+  2018-03-25 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2018-03-25 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-25 : High Density Lipoprotein Cholesterol     73.6 mg/dL
+  2018-03-25 : Low Density Lipoprotein Cholesterol      93.1 mg/dL
+  2018-03-25 : Triglycerides                            134.4 mg/dL
+  2018-03-25 : Total Cholesterol                        193.5 mg/dL
+  2018-03-25 : Carbon Dioxide                           23.4 mmol/L
+  2018-03-25 : Chloride                                 109.3 mmol/L
+  2018-03-25 : Potassium                                4.2 mmol/L
+  2018-03-25 : Sodium                                   141.9 mmol/L
+  2018-03-25 : Calcium                                  10.1 mg/dL
+  2018-03-25 : Creatinine                               1.1 mg/dL
+  2018-03-25 : Urea Nitrogen                            13.8 mg/dL
+  2018-03-25 : Glucose                                  71.4 mg/dL
+  2018-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 79.1 mmHg
+           - Systolic Blood Pressure                  115.1 mmHg
+  2018-03-25 : Body Mass Index                          37.9 kg/m2
+  2018-03-25 : Body Weight                              92.9 kg
+  2018-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2018-03-25 : Body Height                              156.5 cm
+  2016-03-20 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-03-20 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2016-03-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 320.9 fL
+  2016-03-20 : Platelets [#/volume] in Blood by Automated count 318.8 10*3/uL
+  2016-03-20 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2016-03-20 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2016-03-20 : MCH [Entitic mass] by Automated count    32.8 pg
+  2016-03-20 : MCV [Entitic volume] by Automated count  91.5 fL
+  2016-03-20 : Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+  2016-03-20 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2016-03-20 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2016-03-20 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2016-03-20 : Carbon Dioxide                           28.1 mmol/L
+  2016-03-20 : Chloride                                 107.6 mmol/L
+  2016-03-20 : Potassium                                4.5 mmol/L
+  2016-03-20 : Sodium                                   137.8 mmol/L
+  2016-03-20 : Calcium                                  9.7 mg/dL
+  2016-03-20 : Creatinine                               1.1 mg/dL
+  2016-03-20 : Urea Nitrogen                            13.9 mg/dL
+  2016-03-20 : Glucose                                  71.2 mg/dL
+  2016-03-20 : Blood Pressure
+           - Diastolic Blood Pressure                 88.4 mmHg
+           - Systolic Blood Pressure                  126.7 mmHg
+  2016-03-20 : Body Mass Index                          36.3 kg/m2
+  2016-03-20 : Body Weight                              88.8 kg
+  2016-03-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2016-03-20 : Body Height                              156.5 cm
+  2013-09-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2013-09-29 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-29 : High Density Lipoprotein Cholesterol     74.0 mg/dL
+  2013-09-29 : Low Density Lipoprotein Cholesterol      77.2 mg/dL
+  2013-09-29 : Triglycerides                            130.7 mg/dL
+  2013-09-29 : Total Cholesterol                        177.3 mg/dL
+  2013-09-29 : Carbon Dioxide                           25.5 mmol/L
+  2013-09-29 : Chloride                                 106.5 mmol/L
+  2013-09-29 : Potassium                                4.5 mmol/L
+  2013-09-29 : Sodium                                   141.6 mmol/L
+  2013-09-29 : Calcium                                  10.2 mg/dL
+  2013-09-29 : Creatinine                               1.0 mg/dL
+  2013-09-29 : Urea Nitrogen                            13.8 mg/dL
+  2013-09-29 : Glucose                                  95.5 mg/dL
+  2013-09-29 : Blood Pressure
+           - Diastolic Blood Pressure                 78.1 mmHg
+           - Systolic Blood Pressure                  112.3 mmHg
+  2013-09-29 : Body Mass Index                          34.9 kg/m2
+  2013-09-29 : Body Weight                              85.4 kg
+  2013-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2013-09-29 : Body Height                              156.5 cm
+  2011-02-13 : Oral temperature                         37.8 Cel
+  2010-09-26 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2010-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2010-09-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 216.4 fL
+  2010-09-26 : Platelets [#/volume] in Blood by Automated count 295.5 10*3/uL
+  2010-09-26 : Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+  2010-09-26 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2010-09-26 : MCH [Entitic mass] by Automated count    27.7 pg
+  2010-09-26 : MCV [Entitic volume] by Automated count  90.7 fL
+  2010-09-26 : Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+  2010-09-26 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2010-09-26 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2010-09-26 : Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+  2010-09-26 : High Density Lipoprotein Cholesterol     71.1 mg/dL
+  2010-09-26 : Low Density Lipoprotein Cholesterol      88.4 mg/dL
+  2010-09-26 : Triglycerides                            120.1 mg/dL
+  2010-09-26 : Total Cholesterol                        183.5 mg/dL
+  2010-09-26 : Carbon Dioxide                           23.5 mmol/L
+  2010-09-26 : Chloride                                 101.5 mmol/L
+  2010-09-26 : Potassium                                5.0 mmol/L
+  2010-09-26 : Sodium                                   142.5 mmol/L
+  2010-09-26 : Calcium                                  9.3 mg/dL
+  2010-09-26 : Creatinine                               1.0 mg/dL
+  2010-09-26 : Urea Nitrogen                            15.3 mg/dL
+  2010-09-26 : Glucose                                  71.2 mg/dL
+  2010-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 73.5 mmHg
+           - Systolic Blood Pressure                  112.0 mmHg
+  2010-09-26 : Body Mass Index                          32.7 kg/m2
+  2010-09-26 : Body Weight                              80.1 kg
+  2010-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2010-09-26 : Body Height                              156.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-06-07 : Admission to orthopedic department for Closed fracture of hip
+  2018-06-07 : Pelvis X-ray
+  2016-03-20 : Documentation of current medications
+  2011-02-13 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2010-09-26 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-25 : Hep A, adult
+  2018-03-25 : Td (adult) preservative free
+  2018-03-25 : Influenza, seasonal, injectable, preservative free
+  2016-03-20 : Hep A, adult
+  2016-03-20 : Influenza, seasonal, injectable, preservative free
+  2013-09-29 : Influenza, seasonal, injectable, preservative free
+  2010-09-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Closed fracture of hip
+2018-06-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2018-06-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-03-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-03-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-08-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-01-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-09-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-02-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2010-09-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2007-09-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2018-06-07 : Digital Radiography, Pelvis
+--------------------------------------------------------------------------------

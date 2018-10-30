@@ -1,0 +1,299 @@
+Dennis979 Rodriguez71
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 37
+Birth Date:          1981-01-22
+Marital Status:      M
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1982-03-28 -            : Allergy to peanuts
+  1982-03-28 -            : Allergy to nut
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-09-05[STOPPED] : 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe
+  2016-12-14[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2016-12-14[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+  2016-09-10[STOPPED] : Camila 28 Day Pack
+  2014-09-21[STOPPED] : Levora 0.15/30 28 Day Pack
+  2013-09-26[STOPPED] : Jolivette 28 Day Pack
+  2011-07-31[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2010-04-13[STOPPED] : Levora 0.15/30 28 Day Pack
+  2009-04-18[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2008-04-23[STOPPED] : Camila 28 Day Pack
+  1982-03-28[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-04-26 -            : Body mass index 30+ - obesity (finding)
+  2018-04-25 - 2018-05-16 : Viral sinusitis (disorder)
+  2016-12-14 - 2017-02-12 : Fracture of clavicle
+  2016-03-24 - 2016-04-21 : Normal pregnancy
+  2013-01-10 - 2013-08-15 : Normal pregnancy
+  2011-07-31 - 2011-08-14 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-12-14[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2013-01-10[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2011-07-31[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1982-03-18[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-12-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.7 %
+           - MCV [Entitic volume] by Automated count  89.9 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+           - Platelets [#/volume] in Blood by Automated count 370.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 498.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2015-12-03 : Lipid Panel
+           - Total Cholesterol                        188.8 mg/dL
+           - Triglycerides                            138.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.3 mg/dL
+           - High Density Lipoprotein Cholesterol     76.7 mg/dL
+  2012-11-29 : Lipid Panel
+           - Total Cholesterol                        197.0 mg/dL
+           - Triglycerides                            119.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      102.7 mg/dL
+           - High Density Lipoprotein Cholesterol     70.4 mg/dL
+  2009-11-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+           - MCV [Entitic volume] by Automated count  93.5 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 378.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 334.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 74.6 mmHg
+           - Systolic Blood Pressure                  136.9 mmHg
+  2018-04-26 : Body Mass Index                          31.2 kg/m2
+  2018-04-26 : Body Weight                              81.7 kg
+  2018-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2018-04-26 : Body Height                              161.9 cm
+  2016-12-14 : DXA [T-score] Bone density               0.1 {T-score}
+  2015-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2015-12-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 498.9 fL
+  2015-12-03 : Platelets [#/volume] in Blood by Automated count 370.7 10*3/uL
+  2015-12-03 : Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+  2015-12-03 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2015-12-03 : MCH [Entitic mass] by Automated count    30.9 pg
+  2015-12-03 : MCV [Entitic volume] by Automated count  89.9 fL
+  2015-12-03 : Hematocrit [Volume Fraction] of Blood by Automated count 48.7 %
+  2015-12-03 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2015-12-03 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2015-12-03 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2015-12-03 : High Density Lipoprotein Cholesterol     76.7 mg/dL
+  2015-12-03 : Low Density Lipoprotein Cholesterol      84.3 mg/dL
+  2015-12-03 : Triglycerides                            138.6 mg/dL
+  2015-12-03 : Total Cholesterol                        188.8 mg/dL
+  2015-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 70.1 mmHg
+           - Systolic Blood Pressure                  121.1 mmHg
+  2015-12-03 : Body Mass Index                          29.5 kg/m2
+  2015-12-03 : Body Weight                              77.2 kg
+  2015-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2015-12-03 : Body Height                              161.9 cm
+  2012-11-29 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-29 : High Density Lipoprotein Cholesterol     70.4 mg/dL
+  2012-11-29 : Low Density Lipoprotein Cholesterol      102.7 mg/dL
+  2012-11-29 : Triglycerides                            119.6 mg/dL
+  2012-11-29 : Total Cholesterol                        197.0 mg/dL
+  2012-11-29 : Blood Pressure
+           - Diastolic Blood Pressure                 82.1 mmHg
+           - Systolic Blood Pressure                  109.4 mmHg
+  2012-11-29 : Body Mass Index                          27.9 kg/m2
+  2012-11-29 : Body Weight                              73.2 kg
+  2012-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2012-11-29 : Body Height                              161.9 cm
+  2009-11-26 : Tobacco smoking status NHIS              Never smoker 
+  2009-11-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2009-11-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 334.6 fL
+  2009-11-26 : Platelets [#/volume] in Blood by Automated count 378.1 10*3/uL
+  2009-11-26 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2009-11-26 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2009-11-26 : MCH [Entitic mass] by Automated count    30.0 pg
+  2009-11-26 : MCV [Entitic volume] by Automated count  93.5 fL
+  2009-11-26 : Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+  2009-11-26 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2009-11-26 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2009-11-26 : Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+  2009-11-26 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  101.8 mmHg
+  2009-11-26 : Body Mass Index                          26.3 kg/m2
+  2009-11-26 : Body Weight                              68.9 kg
+  2009-11-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2009-11-26 : Body Height                              161.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-06 : Intramuscular injection
+  2018-06-07 : Intramuscular injection
+  2018-03-08 : Intramuscular injection
+  2017-12-07 : Intramuscular injection
+  2017-09-05 : Intramuscular injection
+  2016-12-14 : Bone density scan (procedure) for Fracture of clavicle
+  2016-12-14 : Admission to orthopedic department for Fracture of clavicle
+  2016-12-14 : Clavicle X-ray
+  2016-04-21 : Depression screening for Normal pregnancy
+  2016-04-21 : Physical exam following abortion for Normal pregnancy
+  2016-04-21 : Pregnancy termination care for Normal pregnancy
+  2016-04-07 : Induced termination of pregnancy for Normal pregnancy
+  2016-04-07 : Counseling for termination of pregnancy for Normal pregnancy
+  2016-03-24 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-03-24 : Standard pregnancy test for Normal pregnancy
+  2015-12-03 : Documentation of current medications
+  2013-09-26 : Depression screening
+  2013-09-26 : Physical examination following birth
+  2013-08-15 : Cesarean section for Normal pregnancy
+  2013-08-15 : Epidural anesthesia for Normal pregnancy
+  2013-08-08 : Auscultation of the fetal heart for Normal pregnancy
+  2013-08-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-07-25 : Auscultation of the fetal heart for Normal pregnancy
+  2013-07-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-07-25 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2013-06-27 : Auscultation of the fetal heart for Normal pregnancy
+  2013-06-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-05-30 : Auscultation of the fetal heart for Normal pregnancy
+  2013-05-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-05-30 : Urine screening for glucose for Normal pregnancy
+  2013-05-30 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2013-05-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-05-02 : Auscultation of the fetal heart for Normal pregnancy
+  2013-05-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-04-04 : Auscultation of the fetal heart for Normal pregnancy
+  2013-04-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-03-07 : Auscultation of the fetal heart for Normal pregnancy
+  2013-03-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-03-07 : Alpha-fetoprotein test for Normal pregnancy
+  2013-03-07 : Fetal anatomy study for Normal pregnancy
+  2013-02-07 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-02-07 : Auscultation of the fetal heart for Normal pregnancy
+  2013-02-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-01-10 : Physical examination of mother for Normal pregnancy
+  2013-01-10 : Urine protein test for Normal pregnancy
+  2013-01-10 : Skin test for tuberculosis for Normal pregnancy
+  2013-01-10 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-01-10 : Rubella screening for Normal pregnancy
+  2013-01-10 : Hepatitis C antibody test for Normal pregnancy
+  2013-01-10 : Urine screening test for diabetes for Normal pregnancy
+  2013-01-10 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-01-10 : Urine culture for Normal pregnancy
+  2013-01-10 : Syphilis infection test for Normal pregnancy
+  2013-01-10 : Gonorrhea infection test for Normal pregnancy
+  2013-01-10 : Chlamydia antigen test for Normal pregnancy
+  2013-01-10 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-01-10 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-01-10 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-01-10 : Blood typing, RH typing for Normal pregnancy
+  2013-01-10 : Auscultation of the fetal heart for Normal pregnancy
+  2013-01-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-01-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-01-10 : Standard pregnancy test for Normal pregnancy
+  2012-10-18 : Intramuscular injection
+  2012-07-19 : Intramuscular injection
+  2012-04-19 : Intramuscular injection
+  2012-01-19 : Intramuscular injection
+  2011-10-20 : Intramuscular injection
+  2011-07-21 : Intramuscular injection
+  2011-04-21 : Intramuscular injection
+  2011-01-20 : Intramuscular injection
+  2010-10-21 : Intramuscular injection
+  2010-07-22 : Intramuscular injection
+  2010-04-22 : Intramuscular injection
+  2010-01-21 : Intramuscular injection
+  2009-10-22 : Intramuscular injection
+  2009-07-23 : Intramuscular injection
+  2009-04-18 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-04-26 : Influenza, seasonal, injectable, preservative free
+  2015-12-03 : Influenza, seasonal, injectable, preservative free
+  2012-11-29 : Td (adult) preservative free
+  2012-11-29 : Influenza, seasonal, injectable, preservative free
+  2011-08-11 : Influenza, seasonal, injectable, preservative free
+  2009-11-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-06 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2018-06-07 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2018-04-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Viral sinusitis (disorder)
+2018-04-26 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2018-03-08 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-12-07 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-09-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-02-12 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Fracture of clavicle
+2016-12-14 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+2016-09-10 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2016-04-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2016-04-07 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2016-03-24 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2015-12-03 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2014-09-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2013-09-26 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2013-09-26 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2013-08-15 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL - : Encounter for Normal pregnancy
+2013-08-08 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2013-07-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2013-06-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2013-05-30 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2013-05-02 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2013-04-04 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2013-03-07 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2013-02-07 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2013-01-10 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Normal pregnancy
+2012-11-29 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-10-18 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-07-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-04-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-01-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-10-20 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-08-11 (Dr. Toccara373 Thiel172) : Encounter at FAMILY HEALTH CENTER
+2011-07-31 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute bronchitis (disorder)
+2011-07-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-04-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-01-20 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2010-10-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2010-07-22 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2010-04-22 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2010-04-13 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2010-01-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-11-26 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-10-22 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-07-23 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-04-18 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2008-04-23 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1982-03-28 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1982-03-18 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2016-12-14 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------

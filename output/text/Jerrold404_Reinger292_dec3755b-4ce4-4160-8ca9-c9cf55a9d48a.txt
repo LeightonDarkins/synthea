@@ -1,0 +1,131 @@
+Jerrold404 Reinger292
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 1
+Birth Date:          2017-08-30
+Marital Status:      S
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-06-26[STOPPED] : Acetaminophen 160 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-06-26 - 2018-07-10 : Facial laceration
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-06-26[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-08-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+           - MCV [Entitic volume] by Automated count  88.7 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 381.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 252.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-08 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 71.8 mmHg
+           - Systolic Blood Pressure                  117.4 mmHg
+  2018-08-08 : Body Weight                              11.3 kg
+  2018-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2018-08-08 : Body Height                              71.1 cm
+  2018-05-09 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-09 : Blood Pressure
+           - Diastolic Blood Pressure                 79.2 mmHg
+           - Systolic Blood Pressure                  117.0 mmHg
+  2018-05-09 : Body Weight                              10.1 kg
+  2018-05-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2018-05-09 : Body Height                              67.3 cm
+  2018-02-07 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-07 : Blood Pressure
+           - Diastolic Blood Pressure                 72.1 mmHg
+           - Systolic Blood Pressure                  129.5 mmHg
+  2018-02-07 : Body Weight                              8.5 kg
+  2018-02-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2018-02-07 : Body Height                              62.7 cm
+  2017-12-06 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-06 : Blood Pressure
+           - Diastolic Blood Pressure                 76.4 mmHg
+           - Systolic Blood Pressure                  137.5 mmHg
+  2017-12-06 : Body Weight                              6.4 kg
+  2017-12-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2017-12-06 : Body Height                              56.3 cm
+  2017-10-04 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 85.6 mmHg
+           - Systolic Blood Pressure                  120.5 mmHg
+  2017-10-04 : Body Weight                              4.5 kg
+  2017-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2017-10-04 : Body Height                              49.2 cm
+  2017-08-30 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2017-08-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 252.4 fL
+  2017-08-30 : Platelets [#/volume] in Blood by Automated count 381.8 10*3/uL
+  2017-08-30 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2017-08-30 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2017-08-30 : MCH [Entitic mass] by Automated count    28.8 pg
+  2017-08-30 : MCV [Entitic volume] by Automated count  88.7 fL
+  2017-08-30 : Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+  2017-08-30 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2017-08-30 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2017-08-30 : Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+  2017-08-30 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2017-08-30 : Body Weight                              4.5 kg
+  2017-08-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2017-08-30 : Body Height                              49.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-08 : Documentation of current medications
+  2018-06-26 : Suture open wound for Facial laceration
+  2017-12-06 : Documentation of current medications
+  2017-10-04 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-09 : Hep B, adolescent or pediatric
+  2018-05-09 : Pneumococcal conjugate PCV 13
+  2018-05-09 : DTaP
+  2018-05-09 : Influenza, seasonal, injectable, preservative free
+  2018-05-09 : IPV
+  2018-02-07 : Pneumococcal conjugate PCV 13
+  2018-02-07 : DTaP
+  2018-02-07 : IPV
+  2018-02-07 : rotavirus, monovalent
+  2018-02-07 : Hib (PRP-OMP)
+  2017-12-06 : Pneumococcal conjugate PCV 13
+  2017-12-06 : DTaP
+  2017-12-06 : IPV
+  2017-12-06 : rotavirus, monovalent
+  2017-12-06 : Hib (PRP-OMP)
+  2017-10-04 : Hep B, adolescent or pediatric
+  2017-08-30 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-08 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-06-26 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-05-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-02-07 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-12-06 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-10-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-08-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

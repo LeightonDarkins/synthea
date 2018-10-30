@@ -1,0 +1,163 @@
+Dylan44 Schimmel440
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 50
+Birth Date:          1968-01-16
+Marital Status:      M
+Outpatient Provider: BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+Primary Care Provider: 275 SANDWICH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1972-02-05[CURRENT] : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-08-28 - 2017-09-04 : Acute viral pharyngitis (disorder)
+  2013-11-06 - 2013-11-27 : Viral sinusitis (disorder)
+  2012-05-18 - 2012-05-25 : Acute viral pharyngitis (disorder)
+  2011-05-24 - 2011-06-14 : Viral sinusitis (disorder)
+  2010-11-28 - 2010-12-19 : Viral sinusitis (disorder)
+  2010-05-25 -            : Body mass index 30+ - obesity (finding)
+  2010-03-20 - 2010-08-21 : Sinusitis (disorder)
+  1994-04-20 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1972-02-14[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-01-16 : Lipid Panel
+           - Total Cholesterol                        160.8 mg/dL
+           - Triglycerides                            148.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.9 mg/dL
+           - High Density Lipoprotein Cholesterol     62.3 mg/dL
+  2014-06-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+           - MCV [Entitic volume] by Automated count  80.5 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+           - Platelets [#/volume] in Blood by Automated count 157.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 478.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2014-06-03 : Lipid Panel
+           - Total Cholesterol                        199.4 mg/dL
+           - Triglycerides                            111.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      103.4 mg/dL
+           - High Density Lipoprotein Cholesterol     73.7 mg/dL
+  2010-05-25 : Lipid Panel
+           - Total Cholesterol                        183.3 mg/dL
+           - Triglycerides                            113.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      93.2 mg/dL
+           - High Density Lipoprotein Cholesterol     67.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-01-16 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-16 : High Density Lipoprotein Cholesterol     62.3 mg/dL
+  2018-01-16 : Low Density Lipoprotein Cholesterol      68.9 mg/dL
+  2018-01-16 : Triglycerides                            148.4 mg/dL
+  2018-01-16 : Total Cholesterol                        160.8 mg/dL
+  2018-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 86.9 mmHg
+           - Systolic Blood Pressure                  118.1 mmHg
+  2018-01-16 : Body Mass Index                          33.8 kg/m2
+  2018-01-16 : Body Weight                              104.7 kg
+  2018-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2018-01-16 : Body Height                              176.0 cm
+  2017-08-28 : Oral temperature                         37.7 Cel
+  2016-06-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-07 : Blood Pressure
+           - Diastolic Blood Pressure                 73.3 mmHg
+           - Systolic Blood Pressure                  121.8 mmHg
+  2016-06-07 : Body Mass Index                          33.4 kg/m2
+  2016-06-07 : Body Weight                              103.4 kg
+  2016-06-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2016-06-07 : Body Height                              176.0 cm
+  2014-06-03 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2014-06-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 478.7 fL
+  2014-06-03 : Platelets [#/volume] in Blood by Automated count 157.7 10*3/uL
+  2014-06-03 : Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+  2014-06-03 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2014-06-03 : MCH [Entitic mass] by Automated count    32.8 pg
+  2014-06-03 : MCV [Entitic volume] by Automated count  80.5 fL
+  2014-06-03 : Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+  2014-06-03 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2014-06-03 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2014-06-03 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2014-06-03 : High Density Lipoprotein Cholesterol     73.7 mg/dL
+  2014-06-03 : Low Density Lipoprotein Cholesterol      103.4 mg/dL
+  2014-06-03 : Triglycerides                            111.1 mg/dL
+  2014-06-03 : Total Cholesterol                        199.4 mg/dL
+  2014-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  102.7 mmHg
+  2014-06-03 : Body Mass Index                          32.7 kg/m2
+  2014-06-03 : Body Weight                              101.2 kg
+  2014-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2014-06-03 : Body Height                              176.0 cm
+  2012-05-29 : Tobacco smoking status NHIS              Never smoker 
+  2012-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  125.4 mmHg
+  2012-05-29 : Body Mass Index                          31.5 kg/m2
+  2012-05-29 : Body Weight                              97.5 kg
+  2012-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2012-05-29 : Body Height                              176.0 cm
+  2012-05-18 : Oral temperature                         37.1 Cel
+  2010-05-25 : Tobacco smoking status NHIS              Never smoker 
+  2010-05-25 : High Density Lipoprotein Cholesterol     67.4 mg/dL
+  2010-05-25 : Low Density Lipoprotein Cholesterol      93.2 mg/dL
+  2010-05-25 : Triglycerides                            113.4 mg/dL
+  2010-05-25 : Total Cholesterol                        183.3 mg/dL
+  2010-05-25 : Blood Pressure
+           - Diastolic Blood Pressure                 86.7 mmHg
+           - Systolic Blood Pressure                  105.0 mmHg
+  2010-05-25 : Body Mass Index                          30.7 kg/m2
+  2010-05-25 : Body Weight                              95.0 kg
+  2010-05-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2010-05-25 : Body Height                              176.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-01-16 : Colonoscopy
+  2016-06-07 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-16 : Influenza, seasonal, injectable, preservative free
+  2018-01-16 : zoster
+  2016-06-07 : Influenza, seasonal, injectable, preservative free
+  2014-06-03 : Influenza, seasonal, injectable, preservative free
+  2012-05-29 : Influenza, seasonal, injectable, preservative free
+  2010-05-25 : Hep A, adult
+  2010-05-25 : Td (adult) preservative free
+  2010-05-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-16 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2018-01-16 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2017-08-28 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Acute viral pharyngitis (disorder)
+2016-06-07 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2014-06-03 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2013-11-06 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Viral sinusitis (disorder)
+2012-05-29 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2012-05-18 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Acute viral pharyngitis (disorder)
+2011-05-24 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Viral sinusitis (disorder)
+2010-11-28 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Viral sinusitis (disorder)
+2010-08-14 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Sinusitis (disorder)
+2010-07-31 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Sinusitis (disorder)
+2010-05-25 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2010-05-15 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Sinusitis (disorder)
+2010-03-20 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Sinusitis (disorder)
+1994-04-20 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Sinusitis (disorder)
+1972-02-14 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1972-01-22 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,205 @@
+Valorie864 Mante251
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2003-09-30
+Marital Status:      S
+Outpatient Provider: LAWRENCE GENERAL HOSPITAL
+Primary Care Provider: ONE GENERAL STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-09-21[CURRENT] : Levora 0.15/30 28 Day Pack
+  2018-05-31[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2017-06-06[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-05-31 -            : Chronic pain
+  2017-06-06 - 2017-06-14 : Streptococcal sore throat (disorder)
+  2012-03-16 - 2012-05-15 : Concussion with no loss of consciousness
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-03-16[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-10-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 353.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 355.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2009-09-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  80.8 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.3 fL
+           - Platelets [#/volume] in Blood by Automated count 414.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 506.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-06-19 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-19 : Blood Pressure
+           - Diastolic Blood Pressure                 77.2 mmHg
+           - Systolic Blood Pressure                  108.0 mmHg
+  2018-06-19 : Body Mass Index                          20.8 kg/m2
+  2018-06-19 : Body Weight                              55.8 kg
+  2018-06-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2018-06-19 : Body Height                              163.7 cm
+  2018-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2017-06-13 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-13 : Blood Pressure
+           - Diastolic Blood Pressure                 85.4 mmHg
+           - Systolic Blood Pressure                  103.2 mmHg
+  2017-06-13 : Body Mass Index                          20.1 kg/m2
+  2017-06-13 : Body Weight                              52.8 kg
+  2017-06-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2017-06-13 : Body Height                              161.9 cm
+  2017-06-06 : Oral temperature                         38.2 Cel
+  2016-10-25 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 82.7 mmHg
+           - Systolic Blood Pressure                  116.9 mmHg
+  2016-10-25 : Body Mass Index                          19.7 kg/m2
+  2016-10-25 : Body Weight                              50.3 kg
+  2016-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2016-10-25 : Body Height                              159.6 cm
+  2015-10-20 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-20 : Blood Pressure
+           - Diastolic Blood Pressure                 86.2 mmHg
+           - Systolic Blood Pressure                  106.7 mmHg
+  2015-10-20 : Body Mass Index                          19.3 kg/m2
+  2015-10-20 : Body Weight                              45.8 kg
+  2015-10-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2015-10-20 : Body Height                              153.9 cm
+  2014-10-14 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2014-10-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 355.9 fL
+  2014-10-14 : Platelets [#/volume] in Blood by Automated count 353.1 10*3/uL
+  2014-10-14 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2014-10-14 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2014-10-14 : MCH [Entitic mass] by Automated count    31.7 pg
+  2014-10-14 : MCV [Entitic volume] by Automated count  81.7 fL
+  2014-10-14 : Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+  2014-10-14 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2014-10-14 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2014-10-14 : Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+  2014-10-14 : Blood Pressure
+           - Diastolic Blood Pressure                 73.3 mmHg
+           - Systolic Blood Pressure                  125.3 mmHg
+  2014-10-14 : Body Mass Index                          19.0 kg/m2
+  2014-10-14 : Body Weight                              40.9 kg
+  2014-10-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-10-14 : Body Height                              146.7 cm
+  2013-10-08 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-08 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  133.7 mmHg
+  2013-10-08 : Body Mass Index                          18.3 kg/m2
+  2013-10-08 : Body Weight                              36.1 kg
+  2013-10-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2013-10-08 : Body Height                              140.5 cm
+  2012-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2012-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  107.3 mmHg
+  2012-10-02 : Body Mass Index                          17.3 kg/m2
+  2012-10-02 : Body Weight                              31.3 kg
+  2012-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2012-10-02 : Body Height                              134.8 cm
+  2011-09-27 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-27 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  127.8 mmHg
+  2011-09-27 : Body Mass Index                          16.5 kg/m2
+  2011-09-27 : Body Weight                              27.6 kg
+  2011-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2011-09-27 : Body Height                              129.3 cm
+  2010-09-21 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-21 : Blood Pressure
+           - Diastolic Blood Pressure                 73.7 mmHg
+           - Systolic Blood Pressure                  137.9 mmHg
+  2010-09-21 : Body Mass Index                          16.1 kg/m2
+  2010-09-21 : Body Weight                              24.3 kg
+  2010-09-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2010-09-21 : Body Height                              123.1 cm
+  2009-09-15 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2009-09-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 506.8 fL
+  2009-09-15 : Platelets [#/volume] in Blood by Automated count 414.2 10*3/uL
+  2009-09-15 : Erythrocyte distribution width [Entitic volume] by Automated count 40.3 fL
+  2009-09-15 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2009-09-15 : MCH [Entitic mass] by Automated count    28.4 pg
+  2009-09-15 : MCV [Entitic volume] by Automated count  80.8 fL
+  2009-09-15 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2009-09-15 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2009-09-15 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2009-09-15 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2009-09-15 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  104.4 mmHg
+  2009-09-15 : Body Mass Index                          16.0 kg/m2
+  2009-09-15 : Body Weight                              21.5 kg
+  2009-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2009-09-15 : Body Height                              116.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-06-19 : Documentation of current medications
+  2014-10-14 : Documentation of current medications
+  2013-10-08 : Documentation of current medications
+  2012-10-02 : Documentation of current medications
+  2009-09-15 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-06-19 : Influenza, seasonal, injectable, preservative free
+  2017-06-13 : Influenza, seasonal, injectable, preservative free
+  2016-10-25 : HPV, quadrivalent
+  2016-10-25 : Influenza, seasonal, injectable, preservative free
+  2015-10-20 : HPV, quadrivalent
+  2015-10-20 : Influenza, seasonal, injectable, preservative free
+  2014-10-14 : meningococcal MCV4P
+  2014-10-14 : HPV, quadrivalent
+  2014-10-14 : Influenza, seasonal, injectable, preservative free
+  2014-10-14 : Tdap
+  2013-10-08 : Influenza, seasonal, injectable, preservative free
+  2012-10-02 : Influenza, seasonal, injectable, preservative free
+  2011-09-27 : Influenza, seasonal, injectable, preservative free
+  2010-09-21 : Influenza, seasonal, injectable, preservative free
+  2009-09-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-21 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2018-06-19 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2018-05-31 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Chronic pain
+2017-06-13 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2017-06-06 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2016-10-25 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2015-10-20 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2014-10-14 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-10-08 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-10-02 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-05-15 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Concussion with no loss of consciousness
+2012-03-16 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-09-27 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-09-21 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2009-09-15 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

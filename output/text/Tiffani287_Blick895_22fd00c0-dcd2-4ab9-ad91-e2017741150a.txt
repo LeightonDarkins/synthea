@@ -1,0 +1,224 @@
+Tiffani287 Blick895
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 103
+Birth Date:          1915-07-05
+Marital Status:      M
+Outpatient Provider: HEYWOOD HOSPITAL -
+Primary Care Provider: 242 GREEN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2013-12-05 - 2013-12-16 : Acute viral pharyngitis (disorder)
+  2011-08-07 - 2011-08-16 : Acute viral pharyngitis (disorder)
+  1993-09-03 -            : Chronic sinusitis (disorder)
+  1976-06-14 -            : Osteoporosis (disorder)
+  1954-07-19 -            : Stroke
+  1952-03-03 -            : Body mass index 30+ - obesity (finding)
+  1950-05-08 -            : Miscarriage in first trimester
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+           - MCV [Entitic volume] by Automated count  92.2 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 268.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 413.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2016-08-15 : Lipid Panel
+           - Total Cholesterol                        189.8 mg/dL
+           - Triglycerides                            106.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.7 mg/dL
+           - High Density Lipoprotein Cholesterol     70.7 mg/dL
+  2013-07-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+           - MCV [Entitic volume] by Automated count  85.4 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+           - Platelets [#/volume] in Blood by Automated count 195.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 321.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2013-07-29 : Lipid Panel
+           - Total Cholesterol                        199.7 mg/dL
+           - Triglycerides                            134.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      104.4 mg/dL
+           - High Density Lipoprotein Cholesterol     68.6 mg/dL
+  2010-07-12 : Lipid Panel
+           - Total Cholesterol                        168.0 mg/dL
+           - Triglycerides                            132.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      75.2 mg/dL
+           - High Density Lipoprotein Cholesterol     66.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-27 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2018-08-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 413.8 fL
+  2018-08-27 : Platelets [#/volume] in Blood by Automated count 268.7 10*3/uL
+  2018-08-27 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  2018-08-27 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2018-08-27 : MCH [Entitic mass] by Automated count    32.6 pg
+  2018-08-27 : MCV [Entitic volume] by Automated count  92.2 fL
+  2018-08-27 : Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+  2018-08-27 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2018-08-27 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2018-08-27 : Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+  2018-08-27 : Blood Pressure
+           - Diastolic Blood Pressure                 81.4 mmHg
+           - Systolic Blood Pressure                  133.8 mmHg
+  2018-08-27 : Body Mass Index                          13.9 kg/m2
+  2018-08-27 : Body Weight                              39.0 kg
+  2018-08-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2018-08-27 : Body Height                              167.9 cm
+  2017-08-21 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-21 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  112.4 mmHg
+  2017-08-21 : Body Mass Index                          14.3 kg/m2
+  2017-08-21 : Body Weight                              40.2 kg
+  2017-08-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2017-08-21 : Body Height                              167.9 cm
+  2016-08-15 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-15 : High Density Lipoprotein Cholesterol     70.7 mg/dL
+  2016-08-15 : Low Density Lipoprotein Cholesterol      97.7 mg/dL
+  2016-08-15 : Triglycerides                            106.9 mg/dL
+  2016-08-15 : Total Cholesterol                        189.8 mg/dL
+  2016-08-15 : Blood Pressure
+           - Diastolic Blood Pressure                 77.8 mmHg
+           - Systolic Blood Pressure                  100.1 mmHg
+  2016-08-15 : Body Mass Index                          14.6 kg/m2
+  2016-08-15 : Body Weight                              41.3 kg
+  2016-08-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-08-15 : Body Height                              167.9 cm
+  2015-08-10 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mmHg
+           - Systolic Blood Pressure                  134.0 mmHg
+  2015-08-10 : Body Mass Index                          15.3 kg/m2
+  2015-08-10 : Body Weight                              43.2 kg
+  2015-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2015-08-10 : Body Height                              167.9 cm
+  2014-08-04 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-04 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  137.7 mmHg
+  2014-08-04 : Body Mass Index                          15.9 kg/m2
+  2014-08-04 : Body Weight                              44.9 kg
+  2014-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2014-08-04 : Body Height                              167.9 cm
+  2013-12-05 : Oral temperature                         37.8 Cel
+  2013-07-29 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2013-07-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 321.9 fL
+  2013-07-29 : Platelets [#/volume] in Blood by Automated count 195.7 10*3/uL
+  2013-07-29 : Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+  2013-07-29 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2013-07-29 : MCH [Entitic mass] by Automated count    31.5 pg
+  2013-07-29 : MCV [Entitic volume] by Automated count  85.4 fL
+  2013-07-29 : Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+  2013-07-29 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2013-07-29 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2013-07-29 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2013-07-29 : High Density Lipoprotein Cholesterol     68.6 mg/dL
+  2013-07-29 : Low Density Lipoprotein Cholesterol      104.4 mg/dL
+  2013-07-29 : Triglycerides                            134.1 mg/dL
+  2013-07-29 : Total Cholesterol                        199.7 mg/dL
+  2013-07-29 : Blood Pressure
+           - Diastolic Blood Pressure                 86.5 mmHg
+           - Systolic Blood Pressure                  135.4 mmHg
+  2013-07-29 : Body Mass Index                          16.4 kg/m2
+  2013-07-29 : Body Weight                              46.2 kg
+  2013-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2013-07-29 : Body Height                              167.9 cm
+  2012-07-23 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-23 : Blood Pressure
+           - Diastolic Blood Pressure                 85.5 mmHg
+           - Systolic Blood Pressure                  112.4 mmHg
+  2012-07-23 : Body Mass Index                          16.8 kg/m2
+  2012-07-23 : Body Weight                              47.4 kg
+  2012-07-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2012-07-23 : Body Height                              167.9 cm
+  2011-08-07 : Oral temperature                         38.0 Cel
+  2011-07-18 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 85.4 mmHg
+           - Systolic Blood Pressure                  107.7 mmHg
+  2011-07-18 : Body Mass Index                          17.2 kg/m2
+  2011-07-18 : Body Weight                              48.4 kg
+  2011-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2011-07-18 : Body Height                              167.9 cm
+  2010-07-12 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-12 : High Density Lipoprotein Cholesterol     66.3 mg/dL
+  2010-07-12 : Low Density Lipoprotein Cholesterol      75.2 mg/dL
+  2010-07-12 : Triglycerides                            132.4 mg/dL
+  2010-07-12 : Total Cholesterol                        168.0 mg/dL
+  2010-07-12 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  114.7 mmHg
+  2010-07-12 : Body Mass Index                          17.9 kg/m2
+  2010-07-12 : Body Weight                              50.3 kg
+  2010-07-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2010-07-12 : Body Height                              167.9 cm
+  2009-07-06 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-06 : Blood Pressure
+           - Diastolic Blood Pressure                 75.9 mmHg
+           - Systolic Blood Pressure                  101.0 mmHg
+  2009-07-06 : Body Mass Index                          19.0 kg/m2
+  2009-07-06 : Body Weight                              53.5 kg
+  2009-07-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2009-07-06 : Body Height                              167.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-08-21 : Documentation of current medications
+  2014-08-04 : Documentation of current medications
+  2013-07-29 : Documentation of current medications
+  2011-07-18 : Documentation of current medications
+  2010-07-12 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-08-15 : Influenza, seasonal, injectable, preservative free
+  2015-08-10 : Influenza, seasonal, injectable, preservative free
+  2014-08-04 : Influenza, seasonal, injectable, preservative free
+  2013-07-29 : Influenza, seasonal, injectable, preservative free
+  2012-07-23 : Influenza, seasonal, injectable, preservative free
+  2011-07-18 : Influenza, seasonal, injectable, preservative free
+  2010-07-12 : Influenza, seasonal, injectable, preservative free
+  2009-07-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-27 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2017-08-21 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2016-08-15 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2015-08-10 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2014-08-04 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2013-12-05 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Acute viral pharyngitis (disorder)
+2013-07-29 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2012-07-23 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2011-08-07 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Acute viral pharyngitis (disorder)
+2011-07-18 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2010-07-12 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2009-07-06 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+1993-09-03 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Sinusitis (disorder)
+1976-06-14 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+1952-10-27 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+1952-03-03 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+1950-05-08 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Normal pregnancy
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

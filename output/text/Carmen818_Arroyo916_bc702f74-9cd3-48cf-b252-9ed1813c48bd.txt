@@ -1,0 +1,225 @@
+Carmen818 Arroyo916
+===================
+Race:                Other
+Ethnicity:           South American
+Gender:              F
+Age:                 26
+Birth Date:          1992-02-20
+Marital Status:      S
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-04-15[CURRENT] : Kyleena 19.5 MG Intrauterine System
+  2016-04-20[STOPPED] : Seasonique 91 Day Pack
+  2015-04-26[STOPPED] : Seasonique 91 Day Pack
+  2013-05-19[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2013-05-19[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+  2012-01-16[STOPPED] : Yaz 28 Day Pack
+  2011-06-08[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2011-01-21[STOPPED] : Camila 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-05-08 - 2015-05-22 : Viral sinusitis (disorder)
+  2013-08-08 - 2014-03-20 : Normal pregnancy
+  2013-05-19 - 2013-08-17 : Fracture of clavicle
+  2013-04-11 - 2013-05-02 : Normal pregnancy
+  2011-06-08 - 2011-06-29 : Laceration of foot
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-08-08[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-05-19[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2011-06-08[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-08-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.9 %
+           - MCV [Entitic volume] by Automated count  80.4 fL
+           - MCH [Entitic mass] by Automated count    28.3 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 443.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 477.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-08-17 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-17 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mmHg
+           - Systolic Blood Pressure                  106.2 mmHg
+  2017-08-17 : Body Mass Index                          25.2 kg/m2
+  2017-08-17 : Body Weight                              65.1 kg
+  2017-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2017-08-17 : Body Height                              160.8 cm
+  2014-08-14 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2014-08-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 477.8 fL
+  2014-08-14 : Platelets [#/volume] in Blood by Automated count 443.4 10*3/uL
+  2014-08-14 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2014-08-14 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2014-08-14 : MCH [Entitic mass] by Automated count    28.3 pg
+  2014-08-14 : MCV [Entitic volume] by Automated count  80.4 fL
+  2014-08-14 : Hematocrit [Volume Fraction] of Blood by Automated count 48.9 %
+  2014-08-14 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2014-08-14 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2014-08-14 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2014-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mmHg
+           - Systolic Blood Pressure                  128.2 mmHg
+  2014-08-14 : Body Mass Index                          23.4 kg/m2
+  2014-08-14 : Body Weight                              60.6 kg
+  2014-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2014-08-14 : Body Height                              160.8 cm
+  2011-08-11 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-11 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  101.3 mmHg
+  2011-08-11 : Body Mass Index                          21.6 kg/m2
+  2011-08-11 : Body Weight                              55.8 kg
+  2011-08-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2011-08-11 : Body Height                              160.8 cm
+  2010-08-05 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-05 : Blood Pressure
+           - Diastolic Blood Pressure                 83.4 mmHg
+           - Systolic Blood Pressure                  120.3 mmHg
+  2010-08-05 : Body Mass Index                          21.2 kg/m2
+  2010-08-05 : Body Weight                              54.8 kg
+  2010-08-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2010-08-05 : Body Height                              160.7 cm
+  2009-07-30 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  133.6 mmHg
+  2009-07-30 : Body Mass Index                          20.9 kg/m2
+  2009-07-30 : Body Weight                              53.8 kg
+  2009-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2009-07-30 : Body Height                              160.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-04-17 : Insertion of intrauterine contraceptive device
+  2017-04-17 : Insertion of intrauterine contraceptive device
+  2014-05-01 : Depression screening
+  2014-05-01 : Physical examination following birth
+  2014-03-20 : Childbirth for Normal pregnancy
+  2014-03-20 : Augmentation of labor for Normal pregnancy
+  2014-03-13 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-03-06 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-20 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-20 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-01-23 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-12-26 : Auscultation of the fetal heart for Normal pregnancy
+  2013-12-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-12-26 : Urine screening for glucose for Normal pregnancy
+  2013-12-26 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2013-12-26 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-11-28 : Auscultation of the fetal heart for Normal pregnancy
+  2013-11-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-10-31 : Auscultation of the fetal heart for Normal pregnancy
+  2013-10-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-10-03 : Auscultation of the fetal heart for Normal pregnancy
+  2013-10-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-10-03 : Alpha-fetoprotein test for Normal pregnancy
+  2013-10-03 : Fetal anatomy study for Normal pregnancy
+  2013-09-05 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-09-05 : Auscultation of the fetal heart for Normal pregnancy
+  2013-09-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-08-08 : Physical examination of mother for Normal pregnancy
+  2013-08-08 : Urine protein test for Normal pregnancy
+  2013-08-08 : Skin test for tuberculosis for Normal pregnancy
+  2013-08-08 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-08-08 : Rubella screening for Normal pregnancy
+  2013-08-08 : Hepatitis C antibody test for Normal pregnancy
+  2013-08-08 : Urine screening test for diabetes for Normal pregnancy
+  2013-08-08 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-08-08 : Urine culture for Normal pregnancy
+  2013-08-08 : Syphilis infection test for Normal pregnancy
+  2013-08-08 : Gonorrhea infection test for Normal pregnancy
+  2013-08-08 : Chlamydia antigen test for Normal pregnancy
+  2013-08-08 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-08-08 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-08-08 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-08-08 : Blood typing, RH typing for Normal pregnancy
+  2013-08-08 : Auscultation of the fetal heart for Normal pregnancy
+  2013-08-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-08-08 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-08-08 : Standard pregnancy test for Normal pregnancy
+  2013-05-19 : Admission to orthopedic department for Fracture of clavicle
+  2013-05-19 : Clavicle X-ray
+  2013-05-02 : Depression screening for Normal pregnancy
+  2013-05-02 : Physical exam following abortion for Normal pregnancy
+  2013-05-02 : Pregnancy termination care for Normal pregnancy
+  2013-04-25 : Induced termination of pregnancy for Normal pregnancy
+  2013-04-25 : Counseling for termination of pregnancy for Normal pregnancy
+  2013-04-11 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-04-11 : Standard pregnancy test for Normal pregnancy
+  2011-06-08 : Suture open wound for Laceration of foot
+  2010-08-05 : Documentation of current medications
+  2009-07-30 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-08-17 : Influenza, seasonal, injectable, preservative free
+  2014-08-14 : meningococcal MCV4P
+  2014-08-14 : Hep B, adult
+  2014-08-14 : Td (adult) preservative free
+  2014-08-14 : Influenza, seasonal, injectable, preservative free
+  2011-08-11 : Influenza, seasonal, injectable, preservative free
+  2010-08-05 : Influenza, seasonal, injectable, preservative free
+  2009-07-30 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-08-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-04-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-04-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-05-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2015-04-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-08-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-05-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-03-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-03-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-03-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-02-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-01-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-12-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-11-28 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-10-31 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-10-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-09-05 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-08-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Fracture of clavicle
+2013-08-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-05-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-05-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-04-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-04-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2012-01-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-08-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-06-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-01-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-08-05 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-07-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2013-05-19 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------

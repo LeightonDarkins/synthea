@@ -1,0 +1,194 @@
+Jewel43 Rolfson709
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1986-07-24
+Marital Status:      M
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2008-11-09[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-07-05 -            : Chronic sinusitis (disorder)
+  2018-05-03 - 2018-08-02 : Sinusitis (disorder)
+  2018-02-03 - 2018-02-24 : Viral sinusitis (disorder)
+  2008-11-09 - 2008-11-17 : Streptococcal sore throat (disorder)
+  2004-09-09 -            : Prediabetes
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2004-09-09[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-08 : Basic Metabolic Panel
+           - Glucose                                  71.6 mg/dL
+           - Urea Nitrogen                            8.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   136.8 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 105.7 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+  2017-09-28 : Lipid Panel
+           - Total Cholesterol                        170.4 mg/dL
+           - Triglycerides                            114.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.8 mg/dL
+           - High Density Lipoprotein Cholesterol     63.6 mg/dL
+  2017-09-28 : Basic Metabolic Panel
+           - Glucose                                  93.8 mg/dL
+           - Urea Nitrogen                            8.4 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   140.1 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+  2014-09-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+           - MCV [Entitic volume] by Automated count  90.0 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 344.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 428.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2014-09-25 : Basic Metabolic Panel
+           - Glucose                                  86.4 mg/dL
+           - Urea Nitrogen                            12.1 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           20.4 mmol/L
+  2011-09-22 : Basic Metabolic Panel
+           - Glucose                                  84.0 mg/dL
+           - Urea Nitrogen                            11.1 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   139.4 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 103.1 mmol/L
+           - Carbon Dioxide                           25.4 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-08 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2018-02-08 : Tobacco smoking status NHIS              Former smoker 
+  2018-02-08 : Carbon Dioxide                           23.5 mmol/L
+  2018-02-08 : Chloride                                 105.7 mmol/L
+  2018-02-08 : Potassium                                5.1 mmol/L
+  2018-02-08 : Sodium                                   136.8 mmol/L
+  2018-02-08 : Calcium                                  9.0 mg/dL
+  2018-02-08 : Creatinine                               1.1 mg/dL
+  2018-02-08 : Urea Nitrogen                            8.9 mg/dL
+  2018-02-08 : Glucose                                  71.6 mg/dL
+  2018-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 84.3 mmHg
+           - Systolic Blood Pressure                  128.4 mmHg
+  2018-02-08 : Body Mass Index                          26.6 kg/m2
+  2018-02-08 : Body Weight                              71.2 kg
+  2018-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2018-02-08 : Body Height                              163.4 cm
+  2017-09-28 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2017-09-28 : Tobacco smoking status NHIS              Former smoker 
+  2017-09-28 : High Density Lipoprotein Cholesterol     63.6 mg/dL
+  2017-09-28 : Low Density Lipoprotein Cholesterol      83.8 mg/dL
+  2017-09-28 : Triglycerides                            114.8 mg/dL
+  2017-09-28 : Total Cholesterol                        170.4 mg/dL
+  2017-09-28 : Carbon Dioxide                           27.0 mmol/L
+  2017-09-28 : Chloride                                 107.0 mmol/L
+  2017-09-28 : Potassium                                3.8 mmol/L
+  2017-09-28 : Sodium                                   140.1 mmol/L
+  2017-09-28 : Calcium                                  9.3 mg/dL
+  2017-09-28 : Creatinine                               1.1 mg/dL
+  2017-09-28 : Urea Nitrogen                            8.4 mg/dL
+  2017-09-28 : Glucose                                  93.8 mg/dL
+  2017-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mmHg
+           - Systolic Blood Pressure                  138.3 mmHg
+  2017-09-28 : Body Mass Index                          26.6 kg/m2
+  2017-09-28 : Body Weight                              71.2 kg
+  2017-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2017-09-28 : Body Height                              163.4 cm
+  2014-09-25 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2014-09-25 : Tobacco smoking status NHIS              Former smoker 
+  2014-09-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2014-09-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 428.6 fL
+  2014-09-25 : Platelets [#/volume] in Blood by Automated count 344.9 10*3/uL
+  2014-09-25 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  2014-09-25 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2014-09-25 : MCH [Entitic mass] by Automated count    32.0 pg
+  2014-09-25 : MCV [Entitic volume] by Automated count  90.0 fL
+  2014-09-25 : Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+  2014-09-25 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2014-09-25 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2014-09-25 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2014-09-25 : Carbon Dioxide                           20.4 mmol/L
+  2014-09-25 : Chloride                                 107.5 mmol/L
+  2014-09-25 : Potassium                                4.0 mmol/L
+  2014-09-25 : Sodium                                   142.3 mmol/L
+  2014-09-25 : Calcium                                  9.4 mg/dL
+  2014-09-25 : Creatinine                               1.2 mg/dL
+  2014-09-25 : Urea Nitrogen                            12.1 mg/dL
+  2014-09-25 : Glucose                                  86.4 mg/dL
+  2014-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 81.6 mmHg
+           - Systolic Blood Pressure                  129.5 mmHg
+  2014-09-25 : Body Mass Index                          24.9 kg/m2
+  2014-09-25 : Body Weight                              66.4 kg
+  2014-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2014-09-25 : Body Height                              163.4 cm
+  2011-09-22 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2011-09-22 : Tobacco smoking status NHIS              Former smoker 
+  2011-09-22 : Carbon Dioxide                           25.4 mmol/L
+  2011-09-22 : Chloride                                 103.1 mmol/L
+  2011-09-22 : Potassium                                4.3 mmol/L
+  2011-09-22 : Sodium                                   139.4 mmol/L
+  2011-09-22 : Calcium                                  9.9 mg/dL
+  2011-09-22 : Creatinine                               1.0 mg/dL
+  2011-09-22 : Urea Nitrogen                            11.1 mg/dL
+  2011-09-22 : Glucose                                  84.0 mg/dL
+  2011-09-22 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  100.9 mmHg
+  2011-09-22 : Body Mass Index                          23.2 kg/m2
+  2011-09-22 : Body Weight                              61.8 kg
+  2011-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2011-09-22 : Body Height                              163.4 cm
+  2008-11-09 : Oral temperature                         38.8 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-08 : Influenza, seasonal, injectable, preservative free
+  2017-09-28 : Td (adult) preservative free
+  2017-09-28 : Influenza, seasonal, injectable, preservative free
+  2014-09-25 : Influenza, seasonal, injectable, preservative free
+  2011-09-22 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-26 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Sinusitis (disorder)
+2018-07-05 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Sinusitis (disorder)
+2018-05-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Sinusitis (disorder)
+2018-02-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-02-08 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-09-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-09-25 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-09-22 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2008-11-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2004-09-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

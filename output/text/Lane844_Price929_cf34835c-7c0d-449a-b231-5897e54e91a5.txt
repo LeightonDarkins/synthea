@@ -1,0 +1,182 @@
+Lane844 Price929
+================
+Race:                Other
+Ethnicity:           Puerto Rican
+Gender:              M
+Age:                 48
+Birth Date:          1970-08-25
+Marital Status:      S
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1972-01-30 -            : Shellfish allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2009-05-02[STOPPED] : Ibuprofen 200 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-12-05 -            : Prediabetes
+  2017-02-24 - 2017-03-06 : Acute viral pharyngitis (disorder)
+  2015-12-01 -            : Body mass index 40+ - severely obese (finding)
+  2015-11-23 - 2015-12-01 : Acute viral pharyngitis (disorder)
+  2009-05-02 - 2009-05-23 : Laceration of hand
+  1996-03-12 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-12-05[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2009-05-02[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1972-01-17[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-12-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+           - MCV [Entitic volume] by Automated count  91.6 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 250.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 414.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2015-12-01 : Lipid Panel
+           - Total Cholesterol                        167.1 mg/dL
+           - Triglycerides                            103.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      67.1 mg/dL
+           - High Density Lipoprotein Cholesterol     79.3 mg/dL
+  2012-09-04 : Lipid Panel
+           - Total Cholesterol                        179.3 mg/dL
+           - Triglycerides                            116.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.2 mg/dL
+           - High Density Lipoprotein Cholesterol     76.8 mg/dL
+  2010-08-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+           - MCV [Entitic volume] by Automated count  85.8 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.0 fL
+           - Platelets [#/volume] in Blood by Automated count 207.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 447.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-12-05 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2017-12-05 : Tobacco smoking status NHIS              Former smoker 
+  2017-12-05 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mmHg
+           - Systolic Blood Pressure                  123.6 mmHg
+  2017-12-05 : Body Mass Index                          41.7 kg/m2
+  2017-12-05 : Body Weight                              126.0 kg
+  2017-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2017-12-05 : Body Height                              173.8 cm
+  2017-02-24 : Oral temperature                         37.6 Cel
+  2015-12-01 : Tobacco smoking status NHIS              Former smoker 
+  2015-12-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2015-12-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 414.1 fL
+  2015-12-01 : Platelets [#/volume] in Blood by Automated count 250.2 10*3/uL
+  2015-12-01 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2015-12-01 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2015-12-01 : MCH [Entitic mass] by Automated count    27.3 pg
+  2015-12-01 : MCV [Entitic volume] by Automated count  91.6 fL
+  2015-12-01 : Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+  2015-12-01 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2015-12-01 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2015-12-01 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2015-12-01 : High Density Lipoprotein Cholesterol     79.3 mg/dL
+  2015-12-01 : Low Density Lipoprotein Cholesterol      67.1 mg/dL
+  2015-12-01 : Triglycerides                            103.8 mg/dL
+  2015-12-01 : Total Cholesterol                        167.1 mg/dL
+  2015-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 73.7 mmHg
+           - Systolic Blood Pressure                  108.4 mmHg
+  2015-12-01 : Body Mass Index                          40.6 kg/m2
+  2015-12-01 : Body Weight                              122.6 kg
+  2015-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2015-12-01 : Body Height                              173.8 cm
+  2015-11-23 : Oral temperature                         37.8 Cel
+  2014-09-09 : Tobacco smoking status NHIS              Former smoker 
+  2014-09-09 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  138.8 mmHg
+  2014-09-09 : Body Mass Index                          39.9 kg/m2
+  2014-09-09 : Body Weight                              120.7 kg
+  2014-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2014-09-09 : Body Height                              173.8 cm
+  2012-09-04 : Tobacco smoking status NHIS              Former smoker 
+  2012-09-04 : High Density Lipoprotein Cholesterol     76.8 mg/dL
+  2012-09-04 : Low Density Lipoprotein Cholesterol      79.2 mg/dL
+  2012-09-04 : Triglycerides                            116.3 mg/dL
+  2012-09-04 : Total Cholesterol                        179.3 mg/dL
+  2012-09-04 : Blood Pressure
+           - Diastolic Blood Pressure                 77.1 mmHg
+           - Systolic Blood Pressure                  111.7 mmHg
+  2012-09-04 : Body Mass Index                          38.8 kg/m2
+  2012-09-04 : Body Weight                              117.1 kg
+  2012-09-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2012-09-04 : Body Height                              173.8 cm
+  2010-08-31 : Tobacco smoking status NHIS              Former smoker 
+  2010-08-31 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2010-08-31 : Platelet distribution width [Entitic volume] in Blood by Automated count 447.4 fL
+  2010-08-31 : Platelets [#/volume] in Blood by Automated count 207.4 10*3/uL
+  2010-08-31 : Erythrocyte distribution width [Entitic volume] by Automated count 39.0 fL
+  2010-08-31 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2010-08-31 : MCH [Entitic mass] by Automated count    31.3 pg
+  2010-08-31 : MCV [Entitic volume] by Automated count  85.8 fL
+  2010-08-31 : Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+  2010-08-31 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2010-08-31 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2010-08-31 : Leukocytes [#/volume] in Blood by Automated count 7.5 10*3/uL
+  2010-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mmHg
+           - Systolic Blood Pressure                  134.2 mmHg
+  2010-08-31 : Body Mass Index                          37.4 kg/m2
+  2010-08-31 : Body Weight                              112.9 kg
+  2010-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2010-08-31 : Body Height                              173.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-12-01 : Documentation of current medications
+  2014-09-09 : Documentation of current medications
+  2010-08-31 : Documentation of current medications
+  2009-05-02 : Injection of tetanus antitoxin for Laceration of hand
+  2009-05-02 : Suture open wound for Laceration of hand
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-05 : Influenza, seasonal, injectable, preservative free
+  2015-12-01 : Influenza, seasonal, injectable, preservative free
+  2014-09-09 : Influenza, seasonal, injectable, preservative free
+  2012-09-04 : Hep A, adult
+  2012-09-04 : Td (adult) preservative free
+  2012-09-04 : Influenza, seasonal, injectable, preservative free
+  2010-08-31 : Hep A, adult
+  2010-08-31 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-12-05 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-02-24 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute viral pharyngitis (disorder)
+2015-12-01 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2015-11-23 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute viral pharyngitis (disorder)
+2014-09-09 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-09-04 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2010-08-31 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-05-02 (Dr. Marylou497 Runolfsson901) : Encounter at EMERSON HOSPITAL -
+1996-03-12 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1972-01-30 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+1972-01-17 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

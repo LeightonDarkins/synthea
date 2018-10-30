@@ -1,0 +1,378 @@
+Rodrigo242 Predovic534
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 21
+Birth Date:          1997-02-25
+Marital Status:      S
+Outpatient Provider: LAWRENCE GENERAL HOSPITAL
+Primary Care Provider: ONE GENERAL STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1997-11-07 -            : Allergy to nut
+  1997-11-07 -            : Allergy to fish
+  1997-11-07 - 2013-09-03 : Allergy to tree pollen
+  1997-11-07 -            : Allergy to grass pollen
+  1997-11-07 - 2013-09-03 : Dander (animal) allergy
+  1997-11-07 - 2013-09-03 : House dust mite allergy
+  1997-11-07 - 2013-09-03 : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2011-09-10[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2011-09-10[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+  1997-11-07[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1997-11-07[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-09-08 - 2017-09-15 : Viral sinusitis (disorder)
+  2016-06-19 - 2016-06-29 : Acute viral pharyngitis (disorder)
+  2011-11-16 - 2011-11-30 : Viral sinusitis (disorder)
+  2011-09-10 - 2011-12-09 : Fracture of ankle
+  2011-02-22 - 2012-04-24 : Child attention deficit disorder
+  2008-08-26 -            : History of cardiac arrest (situation)
+  2008-08-26 -            : Cardiac Arrest
+  2002-03-03 -            : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-09-10[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2011-02-22[STOPPED] : Overactivity/inattention behavior management
+                         Reason: Child attention deficit disorder
+                         Activity: Counseling
+                         Activity: Psychological assessment
+  2010-03-02[STOPPED] : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy drugs Band 1
+  1997-10-23[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-12-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %
+           - MCV [Entitic volume] by Automated count  89.7 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 433.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 171.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-06-28 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-28 : Blood Pressure
+           - Diastolic Blood Pressure                 82.1 mmHg
+           - Systolic Blood Pressure                  113.5 mmHg
+  2016-06-28 : Body Mass Index                          23.2 kg/m2
+  2016-06-28 : Body Weight                              69.7 kg
+  2016-06-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2016-06-28 : Body Height                              173.2 cm
+  2016-06-19 : Oral temperature                         37.2 Cel
+  2015-12-15 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mmHg
+           - Systolic Blood Pressure                  103.1 mmHg
+  2015-12-15 : Body Mass Index                          23.0 kg/m2
+  2015-12-15 : Body Weight                              68.8 kg
+  2015-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2015-12-15 : Body Height                              173.0 cm
+  2014-12-09 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-09 : Blood Pressure
+           - Diastolic Blood Pressure                 76.8 mmHg
+           - Systolic Blood Pressure                  105.0 mmHg
+  2014-12-09 : Body Mass Index                          22.5 kg/m2
+  2014-12-09 : Body Weight                              66.8 kg
+  2014-12-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2014-12-09 : Body Height                              172.5 cm
+  2013-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2013-12-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 171.8 fL
+  2013-12-03 : Platelets [#/volume] in Blood by Automated count 433.1 10*3/uL
+  2013-12-03 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2013-12-03 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2013-12-03 : MCH [Entitic mass] by Automated count    29.4 pg
+  2013-12-03 : MCV [Entitic volume] by Automated count  89.7 fL
+  2013-12-03 : Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %
+  2013-12-03 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2013-12-03 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2013-12-03 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2013-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 84.1 mmHg
+           - Systolic Blood Pressure                  127.5 mmHg
+  2013-12-03 : Body Mass Index                          21.8 kg/m2
+  2013-12-03 : Body Weight                              64.0 kg
+  2013-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2013-12-03 : Body Height                              171.4 cm
+  2013-09-03 : Latex IgE Ab in Serum                    0.3 kU/L
+  2013-09-03 : Honey bee IgE Ab in Serum                0.0 kU/L
+  2013-09-03 : Cladosporium herbarum IgE Ab in Serum    0.1 kU/L
+  2013-09-03 : American house dust mite IgE Ab in Serum 0.3 kU/L
+  2013-09-03 : Cat dander IgE Ab in Serum               0.1 kU/L
+  2013-09-03 : Common Ragweed IgE Ab in Serum           62.2 kU/L
+  2013-09-03 : White oak IgE Ab in Serum                0.0 kU/L
+  2013-09-03 : Cow milk IgE Ab in Serum                 0.1 kU/L
+  2013-09-03 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2013-09-03 : Egg white IgE Ab in Serum                0.3 kU/L
+  2013-09-03 : Wheat IgE Ab in Serum                    0.3 kU/L
+  2013-09-03 : Shrimp IgE Ab in Serum                   0.3 kU/L
+  2013-09-03 : Codfish IgE Ab in Serum                  83.6 kU/L
+  2013-09-03 : Walnut IgE Ab in Serum                   36.9 kU/L
+  2013-09-03 : Peanut IgE Ab in Serum                   0.0 kU/L
+  2012-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  105.5 mmHg
+  2012-11-27 : Body Mass Index                          20.9 kg/m2
+  2012-11-27 : Body Weight                              59.7 kg
+  2012-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2012-11-27 : Body Height                              168.9 cm
+  2011-11-22 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-22 : Blood Pressure
+           - Diastolic Blood Pressure                 76.3 mmHg
+           - Systolic Blood Pressure                  118.0 mmHg
+  2011-11-22 : Body Mass Index                          20.3 kg/m2
+  2011-11-22 : Body Weight                              54.9 kg
+  2011-11-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2011-11-22 : Body Height                              164.5 cm
+  2011-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2011-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 83.6 mmHg
+           - Systolic Blood Pressure                  135.8 mmHg
+  2011-03-29 : Body Mass Index                          20.0 kg/m2
+  2011-03-29 : Body Weight                              51.3 kg
+  2011-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2011-03-29 : Body Height                              160.1 cm
+  2010-03-23 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-23 : Blood Pressure
+           - Diastolic Blood Pressure                 79.5 mmHg
+           - Systolic Blood Pressure                  119.9 mmHg
+  2010-03-23 : Body Mass Index                          19.7 kg/m2
+  2010-03-23 : Body Weight                              45.9 kg
+  2010-03-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2010-03-23 : Body Height                              152.5 cm
+  2010-03-02 : Latex IgE Ab in Serum                    0.3 kU/L
+  2010-03-02 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2010-03-02 : Cladosporium herbarum IgE Ab in Serum    34.8 kU/L
+  2010-03-02 : American house dust mite IgE Ab in Serum 60.8 kU/L
+  2010-03-02 : Cat dander IgE Ab in Serum               37.8 kU/L
+  2010-03-02 : Common Ragweed IgE Ab in Serum           34.0 kU/L
+  2010-03-02 : White oak IgE Ab in Serum                81.3 kU/L
+  2010-03-02 : Cow milk IgE Ab in Serum                 0.1 kU/L
+  2010-03-02 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2010-03-02 : Egg white IgE Ab in Serum                0.3 kU/L
+  2010-03-02 : Wheat IgE Ab in Serum                    0.2 kU/L
+  2010-03-02 : Shrimp IgE Ab in Serum                   0.0 kU/L
+  2010-03-02 : Codfish IgE Ab in Serum                  9.8 kU/L
+  2010-03-02 : Walnut IgE Ab in Serum                   8.1 kU/L
+  2010-03-02 : Peanut IgE Ab in Serum                   0.2 kU/L
+  2009-03-17 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-17 : Blood Pressure
+           - Diastolic Blood Pressure                 82.1 mmHg
+           - Systolic Blood Pressure                  139.0 mmHg
+  2009-03-17 : Body Mass Index                          19.2 kg/m2
+  2009-03-17 : Body Weight                              40.7 kg
+  2009-03-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2009-03-17 : Body Height                              145.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-12-15 : Documentation of current medications
+  2013-12-03 : Documentation of current medications
+  2013-09-03 : Allergy screening test
+  2013-08-13 : Subcutaneous immunotherapy
+  2013-07-23 : Subcutaneous immunotherapy
+  2013-07-02 : Subcutaneous immunotherapy
+  2013-06-11 : Subcutaneous immunotherapy
+  2013-05-21 : Subcutaneous immunotherapy
+  2013-04-30 : Subcutaneous immunotherapy
+  2013-04-09 : Subcutaneous immunotherapy
+  2013-03-19 : Subcutaneous immunotherapy
+  2013-02-26 : Subcutaneous immunotherapy
+  2013-02-05 : Subcutaneous immunotherapy
+  2013-01-15 : Subcutaneous immunotherapy
+  2012-12-25 : Subcutaneous immunotherapy
+  2012-12-04 : Subcutaneous immunotherapy
+  2012-11-27 : Documentation of current medications
+  2012-11-13 : Subcutaneous immunotherapy
+  2012-10-23 : Subcutaneous immunotherapy
+  2012-10-02 : Subcutaneous immunotherapy
+  2012-09-11 : Subcutaneous immunotherapy
+  2012-08-21 : Subcutaneous immunotherapy
+  2012-07-31 : Subcutaneous immunotherapy
+  2012-07-10 : Subcutaneous immunotherapy
+  2012-06-19 : Subcutaneous immunotherapy
+  2012-05-29 : Subcutaneous immunotherapy
+  2012-05-08 : Subcutaneous immunotherapy
+  2012-04-24 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-04-17 : Subcutaneous immunotherapy
+  2012-03-27 : Subcutaneous immunotherapy
+  2012-03-20 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-03-06 : Subcutaneous immunotherapy
+  2012-02-21 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-02-14 : Subcutaneous immunotherapy
+  2012-01-24 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-01-24 : Subcutaneous immunotherapy
+  2012-01-03 : Subcutaneous immunotherapy
+  2011-12-20 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-12-13 : Subcutaneous immunotherapy
+  2011-11-22 : Subcutaneous immunotherapy
+  2011-11-22 : Documentation of current medications
+  2011-11-15 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-11-01 : Subcutaneous immunotherapy
+  2011-10-18 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-10-11 : Subcutaneous immunotherapy
+  2011-09-20 : Subcutaneous immunotherapy
+  2011-09-13 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-09-10 : Bone immobilization for Fracture of ankle
+  2011-09-10 : Ankle X-ray
+  2011-08-30 : Subcutaneous immunotherapy
+  2011-08-09 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-08-09 : Subcutaneous immunotherapy
+  2011-07-19 : Subcutaneous immunotherapy
+  2011-07-05 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-06-28 : Subcutaneous immunotherapy
+  2011-06-07 : Subcutaneous immunotherapy
+  2011-05-31 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-05-17 : Subcutaneous immunotherapy
+  2011-04-26 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-04-26 : Subcutaneous immunotherapy
+  2011-04-05 : Subcutaneous immunotherapy
+  2011-03-29 : Documentation of current medications
+  2011-03-22 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-03-15 : Subcutaneous immunotherapy
+  2011-02-22 : Subcutaneous immunotherapy
+  2011-02-01 : Subcutaneous immunotherapy
+  2011-01-11 : Subcutaneous immunotherapy
+  2010-12-21 : Subcutaneous immunotherapy
+  2010-11-30 : Subcutaneous immunotherapy
+  2010-11-09 : Subcutaneous immunotherapy
+  2010-10-19 : Subcutaneous immunotherapy
+  2010-09-28 : Subcutaneous immunotherapy
+  2010-09-07 : Subcutaneous immunotherapy
+  2010-08-17 : Subcutaneous immunotherapy
+  2010-07-27 : Subcutaneous immunotherapy
+  2010-07-06 : Subcutaneous immunotherapy
+  2010-06-15 : Subcutaneous immunotherapy
+  2010-05-25 : Subcutaneous immunotherapy
+  2010-05-04 : Subcutaneous immunotherapy
+  2010-04-13 : Subcutaneous immunotherapy
+  2010-03-23 : Subcutaneous immunotherapy
+  2010-03-02 : Allergy screening test
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2015-12-15 : Influenza, seasonal, injectable, preservative free
+  2014-12-09 : Influenza, seasonal, injectable, preservative free
+  2013-12-03 : meningococcal MCV4P
+  2013-12-03 : Influenza, seasonal, injectable, preservative free
+  2012-11-27 : Influenza, seasonal, injectable, preservative free
+  2011-11-22 : Influenza, seasonal, injectable, preservative free
+  2011-03-29 : Influenza, seasonal, injectable, preservative free
+  2010-03-23 : HPV, quadrivalent
+  2010-03-23 : Influenza, seasonal, injectable, preservative free
+  2009-03-17 : HPV, quadrivalent
+  2009-03-17 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-09-08 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-06-28 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2016-06-19 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2015-12-15 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2014-12-09 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-12-03 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-09-03 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-08-13 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-07-23 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-07-02 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-06-11 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-05-21 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-04-30 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-04-09 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-03-19 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-02-26 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-02-05 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2013-01-15 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-12-25 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-12-04 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-11-27 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-11-13 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-10-23 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-10-02 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-09-11 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-08-21 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-07-31 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-07-10 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-06-19 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-05-29 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-05-08 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-04-24 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2012-04-17 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-03-27 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-03-20 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2012-03-06 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-02-21 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2012-02-14 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-01-24 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2012-01-24 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2012-01-03 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-12-20 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-12-13 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-12-09 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Fracture of ankle
+2011-11-22 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-11-16 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-11-22 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-11-15 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-11-01 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-10-18 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-10-11 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-09-20 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-09-13 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-09-10 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-08-30 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-08-09 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-08-09 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-07-19 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-07-05 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-06-28 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-06-07 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-05-31 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-05-17 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-04-26 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-04-26 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-04-05 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-03-29 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-03-22 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-03-15 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-02-22 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+2011-02-22 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-02-01 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2011-01-11 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-12-21 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-11-30 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-11-09 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-10-19 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-09-28 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-09-07 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-08-17 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-07-27 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-07-06 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-06-15 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-05-25 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-05-04 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-04-13 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-03-23 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-03-23 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2010-03-02 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2009-03-17 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+2008-08-26 : Emergency Encounter
+2002-03-03 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Perennial allergic rhinitis
+1997-11-07 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+1997-10-23 (Dr. Toby274 Abernathy524) : Encounter at LAWRENCE GENERAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2011-09-10 : Digital Radiography, Ankle
+--------------------------------------------------------------------------------

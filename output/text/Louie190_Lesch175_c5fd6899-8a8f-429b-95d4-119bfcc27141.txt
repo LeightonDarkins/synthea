@@ -1,0 +1,221 @@
+Louie190 Lesch175
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 45
+Birth Date:          1972-11-28
+Marital Status:      M
+Outpatient Provider: WINCHESTER HOSPITAL
+Primary Care Provider: 41 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2010-11-19[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Localized, primary osteoarthritis of the hand
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-09-30 -            : Prediabetes
+  2010-11-19 -            : Localized, primary osteoarthritis of the hand
+  2000-09-26 -            : Miscarriage in first trimester
+  1992-11-23 -            : Anemia (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-09-30[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2010-11-19[CURRENT] : Musculoskeletal care
+                         Reason: Localized, primary osteoarthritis of the hand
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1989-01-30[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-10-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+           - MCV [Entitic volume] by Automated count  87.5 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+           - Platelets [#/volume] in Blood by Automated count 379.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 179.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2018-10-09 : Basic Metabolic Panel
+           - Glucose                                  70.4 mg/dL
+           - Urea Nitrogen                            10.5 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   136.1 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 106.6 mmol/L
+           - Carbon Dioxide                           21.1 mmol/L
+  2016-10-04 : Lipid Panel
+           - Total Cholesterol                        188.4 mg/dL
+           - Triglycerides                            117.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      103.3 mg/dL
+           - High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2016-10-04 : Basic Metabolic Panel
+           - Glucose                                  76.7 mg/dL
+           - Urea Nitrogen                            8.3 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   143.0 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 101.6 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  2012-09-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+           - MCV [Entitic volume] by Automated count  86.2 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 361.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 412.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2012-09-25 : Lipid Panel
+           - Total Cholesterol                        191.3 mg/dL
+           - Triglycerides                            120.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.3 mg/dL
+           - High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2009-09-22 : Lipid Panel
+           - Total Cholesterol                        164.7 mg/dL
+           - Triglycerides                            113.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      66.9 mg/dL
+           - High Density Lipoprotein Cholesterol     75.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2018-10-09 : Tobacco smoking status NHIS              Former smoker 
+  2018-10-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2018-10-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 179.2 fL
+  2018-10-09 : Platelets [#/volume] in Blood by Automated count 379.0 10*3/uL
+  2018-10-09 : Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+  2018-10-09 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2018-10-09 : MCH [Entitic mass] by Automated count    30.6 pg
+  2018-10-09 : MCV [Entitic volume] by Automated count  87.5 fL
+  2018-10-09 : Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+  2018-10-09 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2018-10-09 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2018-10-09 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2018-10-09 : Carbon Dioxide                           21.1 mmol/L
+  2018-10-09 : Chloride                                 106.6 mmol/L
+  2018-10-09 : Potassium                                4.5 mmol/L
+  2018-10-09 : Sodium                                   136.1 mmol/L
+  2018-10-09 : Calcium                                  9.3 mg/dL
+  2018-10-09 : Creatinine                               1.2 mg/dL
+  2018-10-09 : Urea Nitrogen                            10.5 mg/dL
+  2018-10-09 : Glucose                                  70.4 mg/dL
+  2018-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 74.1 mmHg
+           - Systolic Blood Pressure                  102.3 mmHg
+  2018-10-09 : Body Mass Index                          28.1 kg/m2
+  2018-10-09 : Body Weight                              82.2 kg
+  2018-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2018-10-09 : Body Height                              171.2 cm
+  2016-10-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2016-10-04 : Tobacco smoking status NHIS              Former smoker 
+  2016-10-04 : High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2016-10-04 : Low Density Lipoprotein Cholesterol      103.3 mg/dL
+  2016-10-04 : Triglycerides                            117.0 mg/dL
+  2016-10-04 : Total Cholesterol                        188.4 mg/dL
+  2016-10-04 : Carbon Dioxide                           21.8 mmol/L
+  2016-10-04 : Chloride                                 101.6 mmol/L
+  2016-10-04 : Potassium                                3.8 mmol/L
+  2016-10-04 : Sodium                                   143.0 mmol/L
+  2016-10-04 : Calcium                                  9.8 mg/dL
+  2016-10-04 : Creatinine                               1.4 mg/dL
+  2016-10-04 : Urea Nitrogen                            8.3 mg/dL
+  2016-10-04 : Glucose                                  76.7 mg/dL
+  2016-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  105.6 mmHg
+  2016-10-04 : Body Mass Index                          26.9 kg/m2
+  2016-10-04 : Body Weight                              79.0 kg
+  2016-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-10-04 : Body Height                              171.2 cm
+  2014-09-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2014-09-30 : Tobacco smoking status NHIS              Former smoker 
+  2014-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mmHg
+           - Systolic Blood Pressure                  117.5 mmHg
+  2014-09-30 : Body Mass Index                          25.8 kg/m2
+  2014-09-30 : Body Weight                              75.7 kg
+  2014-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2014-09-30 : Body Height                              171.2 cm
+  2012-09-25 : Tobacco smoking status NHIS              Former smoker 
+  2012-09-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2012-09-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 412.3 fL
+  2012-09-25 : Platelets [#/volume] in Blood by Automated count 361.8 10*3/uL
+  2012-09-25 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2012-09-25 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2012-09-25 : MCH [Entitic mass] by Automated count    31.8 pg
+  2012-09-25 : MCV [Entitic volume] by Automated count  86.2 fL
+  2012-09-25 : Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+  2012-09-25 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2012-09-25 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2012-09-25 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2012-09-25 : High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2012-09-25 : Low Density Lipoprotein Cholesterol      101.3 mg/dL
+  2012-09-25 : Triglycerides                            120.6 mg/dL
+  2012-09-25 : Total Cholesterol                        191.3 mg/dL
+  2012-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 78.3 mmHg
+           - Systolic Blood Pressure                  138.7 mmHg
+  2012-09-25 : Body Mass Index                          25.0 kg/m2
+  2012-09-25 : Body Weight                              73.2 kg
+  2012-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2012-09-25 : Body Height                              171.2 cm
+  2010-11-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.2 {score}
+  2009-09-22 : Tobacco smoking status NHIS              Former smoker 
+  2009-09-22 : High Density Lipoprotein Cholesterol     75.2 mg/dL
+  2009-09-22 : Low Density Lipoprotein Cholesterol      66.9 mg/dL
+  2009-09-22 : Triglycerides                            113.5 mg/dL
+  2009-09-22 : Total Cholesterol                        164.7 mg/dL
+  2009-09-22 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  134.9 mmHg
+  2009-09-22 : Body Mass Index                          23.3 kg/m2
+  2009-09-22 : Body Weight                              68.2 kg
+  2009-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2009-09-22 : Body Height                              171.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-09 : Documentation of current medications
+  2016-10-04 : Documentation of current medications
+  2014-09-30 : Documentation of current medications
+  2012-09-25 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-09 : Influenza, seasonal, injectable, preservative free
+  2016-10-04 : Hep A, adult
+  2016-10-04 : Influenza, seasonal, injectable, preservative free
+  2014-09-30 : Hep A, adult
+  2014-09-30 : Td (adult) preservative free
+  2014-09-30 : Influenza, seasonal, injectable, preservative free
+  2012-09-25 : Influenza, seasonal, injectable, preservative free
+  2009-09-22 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-09 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-10-04 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-09-30 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2012-09-25 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2010-11-19 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Localized, primary osteoarthritis of the hand
+2009-09-22 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2000-09-26 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Normal pregnancy
+1992-11-23 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+1989-01-30 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,190 @@
+Christopher407 Turcotte120
+==========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2003-03-06
+Marital Status:      S
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-01-10 - 2014-01-20 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-01-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.3 %
+           - MCV [Entitic volume] by Automated count  80.8 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 228.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 210.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2008-12-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.5 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.8 fL
+           - Platelets [#/volume] in Blood by Automated count 219.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 416.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-15 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-15 : Blood Pressure
+           - Diastolic Blood Pressure                 78.7 mmHg
+           - Systolic Blood Pressure                  135.6 mmHg
+  2018-02-15 : Body Mass Index                          24.4 kg/m2
+  2018-02-15 : Body Weight                              53.4 kg
+  2018-02-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2018-02-15 : Body Height                              147.9 cm
+  2017-02-09 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-09 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  105.5 mmHg
+  2017-02-09 : Body Mass Index                          23.7 kg/m2
+  2017-02-09 : Body Weight                              50.5 kg
+  2017-02-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2017-02-09 : Body Height                              145.9 cm
+  2016-02-04 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-04 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  105.7 mmHg
+  2016-02-04 : Body Mass Index                          23.4 kg/m2
+  2016-02-04 : Body Weight                              46.8 kg
+  2016-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2016-02-04 : Body Height                              141.3 cm
+  2015-01-29 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-29 : Blood Pressure
+           - Diastolic Blood Pressure                 72.8 mmHg
+           - Systolic Blood Pressure                  133.1 mmHg
+  2015-01-29 : Body Mass Index                          23.6 kg/m2
+  2015-01-29 : Body Weight                              42.4 kg
+  2015-01-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2015-01-29 : Body Height                              134.1 cm
+  2014-01-23 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2014-01-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 210.6 fL
+  2014-01-23 : Platelets [#/volume] in Blood by Automated count 228.4 10*3/uL
+  2014-01-23 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2014-01-23 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2014-01-23 : MCH [Entitic mass] by Automated count    28.5 pg
+  2014-01-23 : MCV [Entitic volume] by Automated count  80.8 fL
+  2014-01-23 : Hematocrit [Volume Fraction] of Blood by Automated count 40.3 %
+  2014-01-23 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2014-01-23 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2014-01-23 : Leukocytes [#/volume] in Blood by Automated count 6.8 10*3/uL
+  2014-01-23 : Blood Pressure
+           - Diastolic Blood Pressure                 86.2 mmHg
+           - Systolic Blood Pressure                  125.6 mmHg
+  2014-01-23 : Body Mass Index                          23.1 kg/m2
+  2014-01-23 : Body Weight                              37.8 kg
+  2014-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2014-01-23 : Body Height                              127.9 cm
+  2014-01-10 : Oral temperature                         37.8 Cel
+  2013-01-17 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-17 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mmHg
+           - Systolic Blood Pressure                  138.6 mmHg
+  2013-01-17 : Body Mass Index                          21.9 kg/m2
+  2013-01-17 : Body Weight                              33.4 kg
+  2013-01-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2013-01-17 : Body Height                              123.6 cm
+  2012-01-12 : Tobacco smoking status NHIS              Never smoker 
+  2012-01-12 : Blood Pressure
+           - Diastolic Blood Pressure                 81.1 mmHg
+           - Systolic Blood Pressure                  111.5 mmHg
+  2012-01-12 : Body Mass Index                          20.4 kg/m2
+  2012-01-12 : Body Weight                              29.1 kg
+  2012-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2012-01-12 : Body Height                              119.3 cm
+  2011-01-06 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-06 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  119.1 mmHg
+  2011-01-06 : Body Mass Index                          19.6 kg/m2
+  2011-01-06 : Body Weight                              25.7 kg
+  2011-01-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2011-01-06 : Body Height                              114.6 cm
+  2009-12-31 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-31 : Blood Pressure
+           - Diastolic Blood Pressure                 84.3 mmHg
+           - Systolic Blood Pressure                  118.8 mmHg
+  2009-12-31 : Body Mass Index                          19.1 kg/m2
+  2009-12-31 : Body Weight                              22.8 kg
+  2009-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2009-12-31 : Body Height                              109.1 cm
+  2008-12-25 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2008-12-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 416.6 fL
+  2008-12-25 : Platelets [#/volume] in Blood by Automated count 219.2 10*3/uL
+  2008-12-25 : Erythrocyte distribution width [Entitic volume] by Automated count 40.8 fL
+  2008-12-25 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2008-12-25 : MCH [Entitic mass] by Automated count    29.4 pg
+  2008-12-25 : MCV [Entitic volume] by Automated count  82.3 fL
+  2008-12-25 : Hematocrit [Volume Fraction] of Blood by Automated count 49.5 %
+  2008-12-25 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2008-12-25 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2008-12-25 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2008-12-25 : Blood Pressure
+           - Diastolic Blood Pressure                 86.9 mmHg
+           - Systolic Blood Pressure                  123.6 mmHg
+  2008-12-25 : Body Mass Index                          19.1 kg/m2
+  2008-12-25 : Body Weight                              20.2 kg
+  2008-12-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2008-12-25 : Body Height                              102.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-02-15 : Documentation of current medications
+  2016-02-04 : Documentation of current medications
+  2015-01-29 : Documentation of current medications
+  2014-01-10 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-15 : Influenza, seasonal, injectable, preservative free
+  2017-02-09 : HPV, quadrivalent
+  2017-02-09 : Influenza, seasonal, injectable, preservative free
+  2016-02-04 : HPV, quadrivalent
+  2016-02-04 : Influenza, seasonal, injectable, preservative free
+  2015-01-29 : meningococcal MCV4P
+  2015-01-29 : HPV, quadrivalent
+  2015-01-29 : Influenza, seasonal, injectable, preservative free
+  2015-01-29 : Tdap
+  2014-01-23 : Influenza, seasonal, injectable, preservative free
+  2013-01-17 : Influenza, seasonal, injectable, preservative free
+  2012-01-12 : Influenza, seasonal, injectable, preservative free
+  2011-01-06 : Influenza, seasonal, injectable, preservative free
+  2009-12-31 : Influenza, seasonal, injectable, preservative free
+  2008-12-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-02-15 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-02-09 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2016-02-04 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2015-01-29 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2014-01-23 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2014-01-10 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Acute viral pharyngitis (disorder)
+2013-01-17 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2012-01-12 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2011-01-06 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2009-12-31 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2008-12-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

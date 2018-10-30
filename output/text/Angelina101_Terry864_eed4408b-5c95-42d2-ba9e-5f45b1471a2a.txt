@@ -1,0 +1,382 @@
+Angelina101 Terry864
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2000-01-27
+Marital Status:      S
+Outpatient Provider: NORWOOD HOSPITAL
+Primary Care Provider: 800 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2001-07-01 -            : Allergy to eggs
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-01-02[CURRENT] : Seasonique 91 Day Pack
+  2015-01-18[STOPPED] : Levora 0.15/30 28 Day Pack
+  2014-01-23[STOPPED] : Natazia 28 Day Pack
+  2012-11-15[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2001-07-01[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2001-07-01[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-06-09 - 2016-06-23 : Fetus with unknown complication
+  2016-06-09 -            : Miscarriage in first trimester
+  2016-06-09 - 2016-06-23 : Normal pregnancy
+  2015-02-25 - 2015-03-07 : Acute viral pharyngitis (disorder)
+  2013-05-25 - 2013-06-15 : Viral sinusitis (disorder)
+  2012-11-15 - 2012-11-22 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-01-31[STOPPED] : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy drugs Band 1
+  2012-11-15[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2001-06-20[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-10-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  86.2 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 217.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 444.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2010-09-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+           - MCV [Entitic volume] by Automated count  84.8 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 422.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 188.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-25 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  101.6 mmHg
+  2018-10-25 : Body Mass Index                          19.4 kg/m2
+  2018-10-25 : Body Weight                              49.6 kg
+  2018-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2018-10-25 : Body Height                              159.9 cm
+  2017-10-19 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 76.2 mmHg
+           - Systolic Blood Pressure                  138.4 mmHg
+  2017-10-19 : Body Mass Index                          19.1 kg/m2
+  2017-10-19 : Body Weight                              48.7 kg
+  2017-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2017-10-19 : Body Height                              159.8 cm
+  2016-10-13 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-13 : Blood Pressure
+           - Diastolic Blood Pressure                 76.4 mmHg
+           - Systolic Blood Pressure                  123.7 mmHg
+  2016-10-13 : Body Mass Index                          18.7 kg/m2
+  2016-10-13 : Body Weight                              47.6 kg
+  2016-10-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2016-10-13 : Body Height                              159.5 cm
+  2016-08-04 : Latex IgE Ab in Serum                    0.3 kU/L
+  2016-08-04 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2016-08-04 : Cladosporium herbarum IgE Ab in Serum    0.2 kU/L
+  2016-08-04 : American house dust mite IgE Ab in Serum 0.3 kU/L
+  2016-08-04 : Cat dander IgE Ab in Serum               0.1 kU/L
+  2016-08-04 : Common Ragweed IgE Ab in Serum           0.2 kU/L
+  2016-08-04 : White oak IgE Ab in Serum                0.2 kU/L
+  2016-08-04 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2016-08-04 : Soybean IgE Ab in Serum                  0.3 kU/L
+  2016-08-04 : Egg white IgE Ab in Serum                77.0 kU/L
+  2016-08-04 : Wheat IgE Ab in Serum                    0.0 kU/L
+  2016-08-04 : Shrimp IgE Ab in Serum                   0.3 kU/L
+  2016-08-04 : Codfish IgE Ab in Serum                  0.2 kU/L
+  2016-08-04 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2016-08-04 : Peanut IgE Ab in Serum                   0.2 kU/L
+  2015-10-08 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2015-10-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 444.8 fL
+  2015-10-08 : Platelets [#/volume] in Blood by Automated count 217.0 10*3/uL
+  2015-10-08 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  2015-10-08 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2015-10-08 : MCH [Entitic mass] by Automated count    30.9 pg
+  2015-10-08 : MCV [Entitic volume] by Automated count  86.2 fL
+  2015-10-08 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2015-10-08 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2015-10-08 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2015-10-08 : Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+  2015-10-08 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  117.9 mmHg
+  2015-10-08 : Body Mass Index                          18.2 kg/m2
+  2015-10-08 : Body Weight                              46.1 kg
+  2015-10-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2015-10-08 : Body Height                              159.1 cm
+  2015-02-25 : Oral temperature                         37.9 Cel
+  2014-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  102.9 mmHg
+  2014-10-02 : Body Mass Index                          17.4 kg/m2
+  2014-10-02 : Body Weight                              43.6 kg
+  2014-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2014-10-02 : Body Height                              158.1 cm
+  2013-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 79.8 mmHg
+           - Systolic Blood Pressure                  117.2 mmHg
+  2013-09-26 : Body Mass Index                          16.6 kg/m2
+  2013-09-26 : Body Weight                              40.5 kg
+  2013-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2013-09-26 : Body Height                              156.0 cm
+  2013-01-31 : Latex IgE Ab in Serum                    0.1 kU/L
+  2013-01-31 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2013-01-31 : Cladosporium herbarum IgE Ab in Serum    0.1 kU/L
+  2013-01-31 : American house dust mite IgE Ab in Serum 0.1 kU/L
+  2013-01-31 : Cat dander IgE Ab in Serum               0.3 kU/L
+  2013-01-31 : Common Ragweed IgE Ab in Serum           0.2 kU/L
+  2013-01-31 : White oak IgE Ab in Serum                0.2 kU/L
+  2013-01-31 : Cow milk IgE Ab in Serum                 0.1 kU/L
+  2013-01-31 : Soybean IgE Ab in Serum                  0.3 kU/L
+  2013-01-31 : Egg white IgE Ab in Serum                20.2 kU/L
+  2013-01-31 : Wheat IgE Ab in Serum                    0.1 kU/L
+  2013-01-31 : Shrimp IgE Ab in Serum                   0.1 kU/L
+  2013-01-31 : Codfish IgE Ab in Serum                  0.1 kU/L
+  2013-01-31 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2013-01-31 : Peanut IgE Ab in Serum                   0.1 kU/L
+  2012-09-20 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 74.1 mmHg
+           - Systolic Blood Pressure                  117.0 mmHg
+  2012-09-20 : Body Mass Index                          16.1 kg/m2
+  2012-09-20 : Body Weight                              37.0 kg
+  2012-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2012-09-20 : Body Height                              151.6 cm
+  2011-09-15 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-15 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mmHg
+           - Systolic Blood Pressure                  116.3 mmHg
+  2011-09-15 : Body Mass Index                          15.9 kg/m2
+  2011-09-15 : Body Weight                              33.3 kg
+  2011-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-09-15 : Body Height                              144.7 cm
+  2010-09-09 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2010-09-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 188.2 fL
+  2010-09-09 : Platelets [#/volume] in Blood by Automated count 422.3 10*3/uL
+  2010-09-09 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2010-09-09 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2010-09-09 : MCH [Entitic mass] by Automated count    27.6 pg
+  2010-09-09 : MCV [Entitic volume] by Automated count  84.8 fL
+  2010-09-09 : Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+  2010-09-09 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2010-09-09 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2010-09-09 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2010-09-09 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  104.2 mmHg
+  2010-09-09 : Body Mass Index                          15.6 kg/m2
+  2010-09-09 : Body Weight                              29.7 kg
+  2010-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2010-09-09 : Body Height                              138.0 cm
+  2009-09-03 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-03 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  113.3 mmHg
+  2009-09-03 : Body Mass Index                          15.0 kg/m2
+  2009-09-03 : Body Weight                              26.4 kg
+  2009-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2009-09-03 : Body Height                              132.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-25 : Documentation of current medications
+  2017-10-19 : Documentation of current medications
+  2016-08-04 : Allergy screening test
+  2016-07-14 : Subcutaneous immunotherapy
+  2016-06-23 : Subcutaneous immunotherapy
+  2016-06-23 : Depression screening for Normal pregnancy
+  2016-06-23 : Physical examination for Normal pregnancy
+  2016-06-09 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-06-09 : Standard pregnancy test for Normal pregnancy
+  2016-06-02 : Subcutaneous immunotherapy
+  2016-05-12 : Subcutaneous immunotherapy
+  2016-04-21 : Subcutaneous immunotherapy
+  2016-03-31 : Subcutaneous immunotherapy
+  2016-03-10 : Subcutaneous immunotherapy
+  2016-02-18 : Subcutaneous immunotherapy
+  2016-01-28 : Subcutaneous immunotherapy
+  2016-01-07 : Subcutaneous immunotherapy
+  2015-12-17 : Subcutaneous immunotherapy
+  2015-11-26 : Subcutaneous immunotherapy
+  2015-11-05 : Subcutaneous immunotherapy
+  2015-10-15 : Subcutaneous immunotherapy
+  2015-10-08 : Documentation of current medications
+  2015-09-24 : Subcutaneous immunotherapy
+  2015-09-03 : Subcutaneous immunotherapy
+  2015-08-13 : Subcutaneous immunotherapy
+  2015-07-23 : Subcutaneous immunotherapy
+  2015-07-02 : Subcutaneous immunotherapy
+  2015-06-11 : Subcutaneous immunotherapy
+  2015-05-21 : Subcutaneous immunotherapy
+  2015-04-30 : Subcutaneous immunotherapy
+  2015-04-09 : Subcutaneous immunotherapy
+  2015-03-19 : Subcutaneous immunotherapy
+  2015-02-26 : Subcutaneous immunotherapy
+  2015-02-05 : Subcutaneous immunotherapy
+  2015-01-15 : Subcutaneous immunotherapy
+  2014-12-25 : Subcutaneous immunotherapy
+  2014-12-04 : Subcutaneous immunotherapy
+  2014-11-13 : Subcutaneous immunotherapy
+  2014-10-23 : Subcutaneous immunotherapy
+  2014-10-02 : Subcutaneous immunotherapy
+  2014-09-11 : Subcutaneous immunotherapy
+  2014-08-21 : Subcutaneous immunotherapy
+  2014-07-31 : Subcutaneous immunotherapy
+  2014-07-10 : Subcutaneous immunotherapy
+  2014-06-19 : Subcutaneous immunotherapy
+  2014-05-29 : Subcutaneous immunotherapy
+  2014-05-08 : Subcutaneous immunotherapy
+  2014-04-17 : Subcutaneous immunotherapy
+  2014-03-27 : Subcutaneous immunotherapy
+  2014-03-06 : Subcutaneous immunotherapy
+  2014-02-13 : Subcutaneous immunotherapy
+  2014-01-23 : Subcutaneous immunotherapy
+  2014-01-02 : Subcutaneous immunotherapy
+  2013-12-12 : Subcutaneous immunotherapy
+  2013-11-21 : Subcutaneous immunotherapy
+  2013-10-31 : Subcutaneous immunotherapy
+  2013-10-10 : Subcutaneous immunotherapy
+  2013-09-19 : Subcutaneous immunotherapy
+  2013-08-29 : Subcutaneous immunotherapy
+  2013-08-08 : Subcutaneous immunotherapy
+  2013-07-18 : Subcutaneous immunotherapy
+  2013-06-27 : Subcutaneous immunotherapy
+  2013-06-06 : Subcutaneous immunotherapy
+  2013-05-16 : Subcutaneous immunotherapy
+  2013-04-25 : Subcutaneous immunotherapy
+  2013-04-04 : Subcutaneous immunotherapy
+  2013-03-14 : Subcutaneous immunotherapy
+  2013-02-21 : Subcutaneous immunotherapy
+  2013-01-31 : Allergy screening test
+  2012-11-15 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2012-09-20 : Documentation of current medications
+  2011-09-15 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-25 : Influenza, seasonal, injectable, preservative free
+  2017-10-19 : Influenza, seasonal, injectable, preservative free
+  2016-10-13 : meningococcal MCV4P
+  2016-10-13 : Influenza, seasonal, injectable, preservative free
+  2015-10-08 : Influenza, seasonal, injectable, preservative free
+  2014-10-02 : Influenza, seasonal, injectable, preservative free
+  2013-09-26 : Influenza, seasonal, injectable, preservative free
+  2012-11-22 : HPV, quadrivalent
+  2012-09-20 : HPV, quadrivalent
+  2012-09-20 : Influenza, seasonal, injectable, preservative free
+  2011-09-15 : meningococcal MCV4P
+  2011-09-15 : HPV, quadrivalent
+  2011-09-15 : Influenza, seasonal, injectable, preservative free
+  2011-09-15 : Tdap
+  2010-09-09 : Influenza, seasonal, injectable, preservative free
+  2009-09-03 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-25 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2018-01-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2017-10-19 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-10-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-08-04 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-07-14 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-06-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-06-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Fetus with unknown complication
+2016-06-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2016-06-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-05-12 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-04-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-03-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-03-10 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-02-18 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-01-28 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-01-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-12-17 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-11-26 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-11-05 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-10-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-10-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-09-24 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-09-03 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-08-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-07-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-07-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-06-11 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-05-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-04-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-04-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-03-19 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-02-25 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2015-02-26 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-02-05 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-01-18 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-01-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-12-25 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-12-04 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-11-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-10-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-10-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-10-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-09-11 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-08-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-07-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-07-10 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-06-19 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-05-29 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-05-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-04-17 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-03-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-03-06 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-02-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-01-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-01-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2014-01-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-12-12 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-11-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-10-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-10-10 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-09-26 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-09-19 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-08-29 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-08-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-07-18 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-06-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-06-06 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-05-25 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-05-16 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-04-25 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-04-04 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-03-14 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-02-21 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-01-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2012-11-22 (Dr. Adan632 Bernier607) : Encounter at GENERAL HEALTH CARE
+2012-11-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Acute bronchitis (disorder)
+2012-09-20 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-09-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-09-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-09-03 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2001-07-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2001-06-20 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

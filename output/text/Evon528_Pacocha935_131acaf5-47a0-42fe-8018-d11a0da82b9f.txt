@@ -1,0 +1,307 @@
+Evon528 Pacocha935
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 34
+Birth Date:          1984-06-02
+Marital Status:      M
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-08-07[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2018-08-07[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2017-11-05[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2016-11-10[STOPPED] : 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+  2014-11-21[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2014-07-23[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2014-06-27[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2014-06-27[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2012-11-27[STOPPED] : Mirena 52 MG Intrauterine System
+  2008-08-05[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-07-03 - 2018-08-14 : Escherichia coli urinary tract infection
+  2017-06-01 - 2018-03-28 : Contact dermatitis
+  2016-02-20 - 2016-09-24 : Normal pregnancy
+  2014-07-23 - 2014-07-30 : Viral sinusitis (disorder)
+  2014-05-26 - 2014-07-04 : Escherichia coli urinary tract infection
+  2011-08-27 - 2011-10-22 : Preeclampsia
+  2011-03-12 - 2011-10-22 : Normal pregnancy
+  2010-04-22 - 2010-05-06 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-08-07[STOPPED] : Urinary tract infection care
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2017-06-01[STOPPED] : Skin condition care
+                         Reason: Contact dermatitis
+                         Activity: Application of moisturizer to skin
+  2016-02-20[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2014-06-27[STOPPED] : Urinary tract infection care
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2011-03-12[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-07-29 : Lipid Panel
+           - Total Cholesterol                        180.4 mg/dL
+           - Triglycerides                            126.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      92.2 mg/dL
+           - High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2014-07-26 : Lipid Panel
+           - Total Cholesterol                        187.7 mg/dL
+           - Triglycerides                            108.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      92.3 mg/dL
+           - High Density Lipoprotein Cholesterol     73.7 mg/dL
+  2012-08-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+           - MCV [Entitic volume] by Automated count  83.6 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 433.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 454.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-07-29 : Tobacco smoking status NHIS              Former smoker 
+  2017-07-29 : High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2017-07-29 : Low Density Lipoprotein Cholesterol      92.2 mg/dL
+  2017-07-29 : Triglycerides                            126.6 mg/dL
+  2017-07-29 : Total Cholesterol                        180.4 mg/dL
+  2017-07-29 : Blood Pressure
+           - Diastolic Blood Pressure                 83.1 mmHg
+           - Systolic Blood Pressure                  100.0 mmHg
+  2017-07-29 : Body Mass Index                          28.3 kg/m2
+  2017-07-29 : Body Weight                              80.2 kg
+  2017-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2017-07-29 : Body Height                              168.2 cm
+  2014-07-26 : Tobacco smoking status NHIS              Former smoker 
+  2014-07-26 : High Density Lipoprotein Cholesterol     73.7 mg/dL
+  2014-07-26 : Low Density Lipoprotein Cholesterol      92.3 mg/dL
+  2014-07-26 : Triglycerides                            108.4 mg/dL
+  2014-07-26 : Total Cholesterol                        187.7 mg/dL
+  2014-07-26 : Blood Pressure
+           - Diastolic Blood Pressure                 88.7 mmHg
+           - Systolic Blood Pressure                  136.4 mmHg
+  2014-07-26 : Body Mass Index                          26.4 kg/m2
+  2014-07-26 : Body Weight                              74.7 kg
+  2014-07-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2014-07-26 : Body Height                              168.2 cm
+  2012-08-11 : Tobacco smoking status NHIS              Former smoker 
+  2012-08-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2012-08-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 454.7 fL
+  2012-08-11 : Platelets [#/volume] in Blood by Automated count 433.9 10*3/uL
+  2012-08-11 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2012-08-11 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2012-08-11 : MCH [Entitic mass] by Automated count    32.3 pg
+  2012-08-11 : MCV [Entitic volume] by Automated count  83.6 fL
+  2012-08-11 : Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+  2012-08-11 : Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+  2012-08-11 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2012-08-11 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2012-08-11 : Blood Pressure
+           - Diastolic Blood Pressure                 86.3 mmHg
+           - Systolic Blood Pressure                  131.7 mmHg
+  2012-08-11 : Body Mass Index                          25.4 kg/m2
+  2012-08-11 : Body Weight                              71.8 kg
+  2012-08-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-08-11 : Body Height                              168.2 cm
+  2009-08-08 : Tobacco smoking status NHIS              Former smoker 
+  2009-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 82.2 mmHg
+           - Systolic Blood Pressure                  119.7 mmHg
+  2009-08-08 : Body Mass Index                          24.0 kg/m2
+  2009-08-08 : Body Weight                              67.8 kg
+  2009-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2009-08-08 : Body Height                              168.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-11-05 : Insertion of subcutaneous contraceptive
+  2017-07-29 : Documentation of current medications
+  2016-11-05 : Depression screening
+  2016-11-05 : Physical examination following birth
+  2016-09-24 : Childbirth for Normal pregnancy
+  2016-09-24 : Medical induction of labor for Normal pregnancy
+  2016-09-17 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-03 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-03 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-08-06 : Auscultation of the fetal heart for Normal pregnancy
+  2016-08-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-07-09 : Auscultation of the fetal heart for Normal pregnancy
+  2016-07-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-07-09 : Urine screening for glucose for Normal pregnancy
+  2016-07-09 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-07-09 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-06-11 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-05-14 : Auscultation of the fetal heart for Normal pregnancy
+  2016-05-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-16 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-16 : Alpha-fetoprotein test for Normal pregnancy
+  2016-04-16 : Fetal anatomy study for Normal pregnancy
+  2016-03-19 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-03-19 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-20 : Physical examination of mother for Normal pregnancy
+  2016-02-20 : Urine protein test for Normal pregnancy
+  2016-02-20 : Skin test for tuberculosis for Normal pregnancy
+  2016-02-20 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-02-20 : Rubella screening for Normal pregnancy
+  2016-02-20 : Hepatitis C antibody test for Normal pregnancy
+  2016-02-20 : Urine screening test for diabetes for Normal pregnancy
+  2016-02-20 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-02-20 : Urine culture for Normal pregnancy
+  2016-02-20 : Syphilis infection test for Normal pregnancy
+  2016-02-20 : Gonorrhea infection test for Normal pregnancy
+  2016-02-20 : Chlamydia antigen test for Normal pregnancy
+  2016-02-20 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-02-20 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-02-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-02-20 : Blood typing, RH typing for Normal pregnancy
+  2016-02-20 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-02-20 : Standard pregnancy test for Normal pregnancy
+  2015-12-19 : Removal of intrauterine device
+  2012-11-30 : Insertion of intrauterine contraceptive device
+  2012-08-11 : Documentation of current medications
+  2011-12-03 : Depression screening
+  2011-12-03 : Physical examination following birth
+  2011-10-22 : Childbirth for Normal pregnancy
+  2011-10-22 : Episiotomy for Normal pregnancy
+  2011-10-15 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-08 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-09-24 : Auscultation of the fetal heart for Normal pregnancy
+  2011-09-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-09-24 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2011-08-27 : Auscultation of the fetal heart for Normal pregnancy
+  2011-08-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-07-30 : Auscultation of the fetal heart for Normal pregnancy
+  2011-07-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-07-30 : Urine screening for glucose for Normal pregnancy
+  2011-07-30 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2011-07-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-07-02 : Auscultation of the fetal heart for Normal pregnancy
+  2011-07-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-06-04 : Auscultation of the fetal heart for Normal pregnancy
+  2011-06-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-05-07 : Auscultation of the fetal heart for Normal pregnancy
+  2011-05-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-05-07 : Alpha-fetoprotein test for Normal pregnancy
+  2011-05-07 : Fetal anatomy study for Normal pregnancy
+  2011-04-09 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-04-09 : Auscultation of the fetal heart for Normal pregnancy
+  2011-04-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-03-12 : Physical examination of mother for Normal pregnancy
+  2011-03-12 : Urine protein test for Normal pregnancy
+  2011-03-12 : Skin test for tuberculosis for Normal pregnancy
+  2011-03-12 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-03-12 : Rubella screening for Normal pregnancy
+  2011-03-12 : Hepatitis C antibody test for Normal pregnancy
+  2011-03-12 : Urine screening test for diabetes for Normal pregnancy
+  2011-03-12 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-03-12 : Urine culture for Normal pregnancy
+  2011-03-12 : Syphilis infection test for Normal pregnancy
+  2011-03-12 : Gonorrhea infection test for Normal pregnancy
+  2011-03-12 : Chlamydia antigen test for Normal pregnancy
+  2011-03-12 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-03-12 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-03-12 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-03-12 : Blood typing, RH typing for Normal pregnancy
+  2011-03-12 : Auscultation of the fetal heart for Normal pregnancy
+  2011-03-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-03-12 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-03-12 : Standard pregnancy test for Normal pregnancy
+  2010-11-06 : Intramuscular injection
+  2010-08-07 : Intramuscular injection
+  2010-05-08 : Intramuscular injection
+  2010-02-06 : Intramuscular injection
+  2009-11-07 : Intramuscular injection
+  2009-08-08 : Intramuscular injection
+  2009-05-09 : Intramuscular injection
+  2009-02-07 : Intramuscular injection
+  2008-11-08 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-07-29 : Td (adult) preservative free
+  2017-07-29 : Influenza, seasonal, injectable, preservative free
+  2014-07-26 : Influenza, seasonal, injectable, preservative free
+  2012-08-11 : Influenza, seasonal, injectable, preservative free
+  2009-08-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-03 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Escherichia coli urinary tract infection
+2017-11-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-07-29 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-06-01 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Contact dermatitis
+2016-11-10 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-11-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-09-24 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-09-17 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-09-03 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-08-06 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-07-09 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-06-11 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-05-14 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-04-16 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-03-19 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2016-02-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2015-12-19 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-11-21 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-07-23 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-07-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-05-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Escherichia coli urinary tract infection
+2012-11-30 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-11-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-08-11 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2011-12-03 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2011-10-22 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-10-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-10-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-09-24 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-08-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-07-30 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-07-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-06-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-05-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-04-09 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2011-03-12 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+2010-11-06 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-08-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-05-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-04-22 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Viral sinusitis (disorder)
+2010-02-06 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-11-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-08-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-08-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-05-09 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-02-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2008-11-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2008-08-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

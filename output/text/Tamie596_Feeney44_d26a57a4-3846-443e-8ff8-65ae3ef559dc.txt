@@ -1,0 +1,393 @@
+Tamie596 Feeney44
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 31
+Birth Date:          1987-07-22
+Marital Status:      M
+Outpatient Provider: NORTH SHORE MEDICAL CENTER -
+Primary Care Provider: 81 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-03-28[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2017-01-20[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2013-02-19[STOPPED] : Camila 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-07-26 - 2017-08-02 : Viral sinusitis (disorder)
+  2017-07-19 - 2018-02-14 : Normal pregnancy
+  2017-01-20 - 2017-02-24 : Sprain of wrist
+  2016-11-16 - 2016-12-07 : Normal pregnancy
+  2015-12-02 - 2016-07-06 : Normal pregnancy
+  2014-10-01 - 2015-05-06 : Normal pregnancy
+  2010-06-16 - 2011-01-19 : Normal pregnancy
+  2002-04-17 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-07-19[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2017-01-20[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2015-12-02[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2014-10-01[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2010-06-16[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-05-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.8 %
+           - MCV [Entitic volume] by Automated count  81.9 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 393.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 247.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2010-05-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+           - MCV [Entitic volume] by Automated count  81.1 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+           - Platelets [#/volume] in Blood by Automated count 243.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 187.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-05-25 : Tobacco smoking status NHIS              Former smoker 
+  2016-05-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2016-05-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 247.5 fL
+  2016-05-25 : Platelets [#/volume] in Blood by Automated count 393.9 10*3/uL
+  2016-05-25 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2016-05-25 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2016-05-25 : MCH [Entitic mass] by Automated count    27.5 pg
+  2016-05-25 : MCV [Entitic volume] by Automated count  81.9 fL
+  2016-05-25 : Hematocrit [Volume Fraction] of Blood by Automated count 45.8 %
+  2016-05-25 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2016-05-25 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2016-05-25 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2016-05-25 : Blood Pressure
+           - Diastolic Blood Pressure                 83.3 mmHg
+           - Systolic Blood Pressure                  125.2 mmHg
+  2016-05-25 : Body Mass Index                          38.7 kg/m2
+  2016-05-25 : Body Weight                              93.4 kg
+  2016-05-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2016-05-25 : Body Height                              155.4 cm
+  2013-05-22 : Tobacco smoking status NHIS              Former smoker 
+  2013-05-22 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mmHg
+           - Systolic Blood Pressure                  104.4 mmHg
+  2013-05-22 : Body Mass Index                          36.7 kg/m2
+  2013-05-22 : Body Weight                              88.6 kg
+  2013-05-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2013-05-22 : Body Height                              155.4 cm
+  2010-05-19 : Tobacco smoking status NHIS              Former smoker 
+  2010-05-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2010-05-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 187.4 fL
+  2010-05-19 : Platelets [#/volume] in Blood by Automated count 243.8 10*3/uL
+  2010-05-19 : Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+  2010-05-19 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2010-05-19 : MCH [Entitic mass] by Automated count    29.8 pg
+  2010-05-19 : MCV [Entitic volume] by Automated count  81.1 fL
+  2010-05-19 : Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+  2010-05-19 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2010-05-19 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2010-05-19 : Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+  2010-05-19 : Blood Pressure
+           - Diastolic Blood Pressure                 83.9 mmHg
+           - Systolic Blood Pressure                  137.2 mmHg
+  2010-05-19 : Body Mass Index                          34.9 kg/m2
+  2010-05-19 : Body Weight                              84.3 kg
+  2010-05-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2010-05-19 : Body Height                              155.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-28 : Insertion of subcutaneous contraceptive
+  2018-03-28 : Depression screening
+  2018-03-28 : Physical examination following birth
+  2018-02-14 : Childbirth for Normal pregnancy
+  2018-02-14 : Epidural anesthesia for Normal pregnancy
+  2018-01-31 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-01-31 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2018-01-03 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-06 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-06 : Urine screening for glucose for Normal pregnancy
+  2017-12-06 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-12-06 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-11-08 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-11 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-13 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-13 : Alpha-fetoprotein test for Normal pregnancy
+  2017-09-13 : Fetal anatomy study for Normal pregnancy
+  2017-08-16 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-08-16 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-19 : Physical examination of mother for Normal pregnancy
+  2017-07-19 : Urine protein test for Normal pregnancy
+  2017-07-19 : Skin test for tuberculosis for Normal pregnancy
+  2017-07-19 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-07-19 : Rubella screening for Normal pregnancy
+  2017-07-19 : Hepatitis C antibody test for Normal pregnancy
+  2017-07-19 : Urine screening test for diabetes for Normal pregnancy
+  2017-07-19 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-07-19 : Urine culture for Normal pregnancy
+  2017-07-19 : Syphilis infection test for Normal pregnancy
+  2017-07-19 : Gonorrhea infection test for Normal pregnancy
+  2017-07-19 : Chlamydia antigen test for Normal pregnancy
+  2017-07-19 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-07-19 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-07-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-07-19 : Blood typing, RH typing for Normal pregnancy
+  2017-07-19 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-19 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-07-19 : Standard pregnancy test for Normal pregnancy
+  2016-12-07 : Depression screening for Normal pregnancy
+  2016-12-07 : Physical exam following abortion for Normal pregnancy
+  2016-12-07 : Pregnancy termination care for Normal pregnancy
+  2016-11-23 : Induced termination of pregnancy for Normal pregnancy
+  2016-11-23 : Counseling for termination of pregnancy for Normal pregnancy
+  2016-11-16 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-11-16 : Standard pregnancy test for Normal pregnancy
+  2016-08-17 : Depression screening
+  2016-08-17 : Physical examination following birth
+  2016-07-06 : Childbirth for Normal pregnancy
+  2016-07-06 : Episiotomy for Normal pregnancy
+  2016-06-29 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-15 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-15 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-05-18 : Auscultation of the fetal heart for Normal pregnancy
+  2016-05-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-20 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-20 : Urine screening for glucose for Normal pregnancy
+  2016-04-20 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-04-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-03-23 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-24 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-27 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-27 : Alpha-fetoprotein test for Normal pregnancy
+  2016-01-27 : Fetal anatomy study for Normal pregnancy
+  2015-12-30 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-12-30 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-02 : Physical examination of mother for Normal pregnancy
+  2015-12-02 : Urine protein test for Normal pregnancy
+  2015-12-02 : Skin test for tuberculosis for Normal pregnancy
+  2015-12-02 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-12-02 : Rubella screening for Normal pregnancy
+  2015-12-02 : Hepatitis C antibody test for Normal pregnancy
+  2015-12-02 : Urine screening test for diabetes for Normal pregnancy
+  2015-12-02 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-12-02 : Urine culture for Normal pregnancy
+  2015-12-02 : Syphilis infection test for Normal pregnancy
+  2015-12-02 : Gonorrhea infection test for Normal pregnancy
+  2015-12-02 : Chlamydia antigen test for Normal pregnancy
+  2015-12-02 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-12-02 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-12-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-12-02 : Blood typing, RH typing for Normal pregnancy
+  2015-12-02 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-12-02 : Standard pregnancy test for Normal pregnancy
+  2015-06-17 : Depression screening
+  2015-06-17 : Physical examination following birth
+  2015-05-06 : Childbirth for Normal pregnancy
+  2015-05-06 : Medical induction of labor for Normal pregnancy
+  2015-04-29 : Auscultation of the fetal heart for Normal pregnancy
+  2015-04-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-04-15 : Auscultation of the fetal heart for Normal pregnancy
+  2015-04-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-04-15 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2015-03-18 : Auscultation of the fetal heart for Normal pregnancy
+  2015-03-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-02-18 : Auscultation of the fetal heart for Normal pregnancy
+  2015-02-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-02-18 : Urine screening for glucose for Normal pregnancy
+  2015-02-18 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2015-02-18 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-01-21 : Auscultation of the fetal heart for Normal pregnancy
+  2015-01-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-12-24 : Auscultation of the fetal heart for Normal pregnancy
+  2014-12-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-11-26 : Auscultation of the fetal heart for Normal pregnancy
+  2014-11-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-11-26 : Alpha-fetoprotein test for Normal pregnancy
+  2014-11-26 : Fetal anatomy study for Normal pregnancy
+  2014-10-29 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2014-10-29 : Auscultation of the fetal heart for Normal pregnancy
+  2014-10-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-01 : Physical examination of mother for Normal pregnancy
+  2014-10-01 : Urine protein test for Normal pregnancy
+  2014-10-01 : Skin test for tuberculosis for Normal pregnancy
+  2014-10-01 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2014-10-01 : Rubella screening for Normal pregnancy
+  2014-10-01 : Hepatitis C antibody test for Normal pregnancy
+  2014-10-01 : Urine screening test for diabetes for Normal pregnancy
+  2014-10-01 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2014-10-01 : Urine culture for Normal pregnancy
+  2014-10-01 : Syphilis infection test for Normal pregnancy
+  2014-10-01 : Gonorrhea infection test for Normal pregnancy
+  2014-10-01 : Chlamydia antigen test for Normal pregnancy
+  2014-10-01 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2014-10-01 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2014-10-01 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-10-01 : Blood typing, RH typing for Normal pregnancy
+  2014-10-01 : Auscultation of the fetal heart for Normal pregnancy
+  2014-10-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-01 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-10-01 : Standard pregnancy test for Normal pregnancy
+  2013-05-22 : Documentation of current medications
+  2011-03-02 : Depression screening
+  2011-03-02 : Physical examination following birth
+  2011-01-19 : Childbirth for Normal pregnancy
+  2011-01-19 : Epidural anesthesia for Normal pregnancy
+  2011-01-12 : Auscultation of the fetal heart for Normal pregnancy
+  2011-01-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-12-29 : Auscultation of the fetal heart for Normal pregnancy
+  2010-12-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-12-29 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2010-12-01 : Auscultation of the fetal heart for Normal pregnancy
+  2010-12-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-11-03 : Auscultation of the fetal heart for Normal pregnancy
+  2010-11-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-11-03 : Urine screening for glucose for Normal pregnancy
+  2010-11-03 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2010-11-03 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2010-10-06 : Auscultation of the fetal heart for Normal pregnancy
+  2010-10-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-09-08 : Auscultation of the fetal heart for Normal pregnancy
+  2010-09-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-08-11 : Auscultation of the fetal heart for Normal pregnancy
+  2010-08-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-08-11 : Alpha-fetoprotein test for Normal pregnancy
+  2010-08-11 : Fetal anatomy study for Normal pregnancy
+  2010-07-14 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2010-07-14 : Auscultation of the fetal heart for Normal pregnancy
+  2010-07-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-06-16 : Physical examination of mother for Normal pregnancy
+  2010-06-16 : Urine protein test for Normal pregnancy
+  2010-06-16 : Skin test for tuberculosis for Normal pregnancy
+  2010-06-16 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2010-06-16 : Rubella screening for Normal pregnancy
+  2010-06-16 : Hepatitis C antibody test for Normal pregnancy
+  2010-06-16 : Urine screening test for diabetes for Normal pregnancy
+  2010-06-16 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2010-06-16 : Urine culture for Normal pregnancy
+  2010-06-16 : Syphilis infection test for Normal pregnancy
+  2010-06-16 : Gonorrhea infection test for Normal pregnancy
+  2010-06-16 : Chlamydia antigen test for Normal pregnancy
+  2010-06-16 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2010-06-16 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2010-06-16 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2010-06-16 : Blood typing, RH typing for Normal pregnancy
+  2010-06-16 : Auscultation of the fetal heart for Normal pregnancy
+  2010-06-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-06-16 : Ultrasound scan for fetal viability for Normal pregnancy
+  2010-06-16 : Standard pregnancy test for Normal pregnancy
+  2010-05-19 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-05-25 : Influenza, seasonal, injectable, preservative free
+  2013-05-22 : Influenza, seasonal, injectable, preservative free
+  2010-05-19 : meningococcal MCV4P
+  2010-05-19 : Hep B, adult
+  2010-05-19 : Td (adult) preservative free
+  2010-05-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-28 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-03-28 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-02-14 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2018-01-31 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2018-01-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2017-12-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2017-11-08 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2017-10-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2017-09-13 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2017-08-16 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2017-07-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2017-07-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2017-01-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-12-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-11-23 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-11-16 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-08-17 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-07-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-06-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-06-15 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-05-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-05-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-04-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-03-23 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-02-24 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2016-01-27 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2015-12-30 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2015-12-02 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2015-06-17 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-05-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2015-04-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2015-04-15 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2015-03-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2015-02-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2015-01-21 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2014-12-24 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2014-11-26 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2014-10-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2014-10-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2013-05-22 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-02-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-03-02 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2011-01-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2011-01-12 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-12-29 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-12-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-11-03 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-10-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-09-08 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-08-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-07-14 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-06-16 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Normal pregnancy
+2010-05-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2002-04-17 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

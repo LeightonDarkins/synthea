@@ -1,0 +1,613 @@
+Bruce167 Nienow652
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1910-08-15
+Marital Status:      M
+Outpatient Provider: CAPE COD HOSPITAL
+Primary Care Provider: 88 LEWIS BAY ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1989-12-19[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1988-01-04[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1986-11-05[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1985-12-23[CURRENT] : 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+  1985-12-23[CURRENT] : 1 ML DOCEtaxel 20 MG/ML Injection
+  1984-12-06[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  1984-09-11[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  1983-08-18[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  1983-08-18[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1989-12-19 - 1990-01-18 : Fracture of ankle
+  1988-01-04 -            : Coronary Heart Disease
+  1986-11-05 - 1987-01-04 : Fracture subluxation of wrist
+  1986-03-23 -            : Metastasis from malignant tumor of prostate (disorder)
+  1985-12-23 -            : Carcinoma in situ of prostate (disorder)
+  1985-12-23 -            : Neoplasm of prostate
+  1984-12-06 - 1984-12-20 : Acute bronchitis (disorder)
+  1984-09-11 - 1984-10-16 : Whiplash injury to neck
+  1983-08-18 - 1983-11-16 : Fracture of ankle
+  1981-10-25 - 1981-11-04 : Acute viral pharyngitis (disorder)
+  1959-11-30 -            : Prediabetes
+  1947-06-16 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1989-12-19[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  1986-11-05[STOPPED] : Fracture care
+                         Reason: Fracture subluxation of wrist
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  1985-12-23[CURRENT] : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1984-12-06[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1984-09-11[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+  1983-08-18[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  1959-11-30[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  1990-03-26 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Neoplasm of prostate 
+  1990-01-15 : Basic Metabolic Panel
+           - Glucose                                  78.2 mg/dL
+           - Urea Nitrogen                            8.8 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           26.0 mmol/L
+  1989-01-09 : Lipid Panel
+           - Total Cholesterol                        189.8 mg/dL
+           - Triglycerides                            138.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.0 mg/dL
+           - High Density Lipoprotein Cholesterol     65.2 mg/dL
+  1989-01-09 : Basic Metabolic Panel
+           - Glucose                                  71.2 mg/dL
+           - Urea Nitrogen                            9.5 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   139.4 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           23.1 mmol/L
+  1988-01-04 : Basic Metabolic Panel
+           - Glucose                                  64.6 mg/dL
+           - Urea Nitrogen                            12.1 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.6 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 108.4 mmol/L
+           - Carbon Dioxide                           22.9 mmol/L
+  1986-12-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.6 %
+           - MCV [Entitic volume] by Automated count  84.6 fL
+           - MCH [Entitic mass] by Automated count    28.6 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 401.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 387.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  1986-12-29 : Basic Metabolic Panel
+           - Glucose                                  73.9 mg/dL
+           - Urea Nitrogen                            14.8 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   138.4 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 101.4 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  1985-12-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/​volume] in Blood by Automated count 3.4 10*3/uL
+           - Erythrocytes [#/​volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/​volume] in Blood       17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.0 %
+           - MCV [Entitic volume] by Automated count  93.8 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/​volume] by Automated count   35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+           - Platelets [#/​volume] in Blood by Automated count 253.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 384.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  1985-12-23 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Foul smelling urine (finding) {nominal}
+           - Clarity of Urine                         Cloudy urine (finding) {nominal}
+           - Color of Urine                           Reddish color urine {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.3 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 302.1 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1985-12-23 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  88.1 mg/dL
+           - Urea Nitrogen                            19.8 mg/dL
+           - Creatinine                               3.4 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 104.5 mmol/L
+           - Carbon Dioxide                           22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 21.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 67.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.6 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 132.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 57.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 8.6 U/L
+  1985-12-23 : Lipid Panel
+           - Total Cholesterol                        198.4 mg/dL
+           - Triglycerides                            129.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      109.4 mg/dL
+           - High Density Lipoprotein Cholesterol     63.1 mg/dL
+  1985-12-23 : Basic Metabolic Panel
+           - Glucose                                  95.8 mg/dL
+           - Urea Nitrogen                            13.7 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   136.8 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 105.5 mmol/L
+           - Carbon Dioxide                           20.6 mmol/L
+  1984-12-17 : Basic Metabolic Panel
+           - Glucose                                  94.0 mg/dL
+           - Urea Nitrogen                            18.4 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   138.7 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 110.7 mmol/L
+           - Carbon Dioxide                           23.3 mmol/L
+  1984-11-05 : Basic Metabolic Panel
+           - Glucose                                  70.0 mg/dL
+           - Urea Nitrogen                            13.6 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   139.6 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           26.8 mmol/L
+  1983-10-31 : Basic Metabolic Panel
+           - Glucose                                  69.5 mg/dL
+           - Urea Nitrogen                            14.7 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   136.7 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 105.0 mmol/L
+           - Carbon Dioxide                           23.3 mmol/L
+  1982-10-25 : Lipid Panel
+           - Total Cholesterol                        168.4 mg/dL
+           - Triglycerides                            103.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.5 mg/dL
+           - High Density Lipoprotein Cholesterol     75.1 mg/dL
+  1982-10-25 : Basic Metabolic Panel
+           - Glucose                                  71.1 mg/dL
+           - Urea Nitrogen                            8.4 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   136.2 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           21.9 mmol/L
+  1981-10-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.3 %
+           - MCV [Entitic volume] by Automated count  83.1 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+           - Platelets [#/volume] in Blood by Automated count 253.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 228.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  1981-10-19 : Basic Metabolic Panel
+           - Glucose                                  88.0 mg/dL
+           - Urea Nitrogen                            18.8 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   140.3 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 104.6 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+  1980-10-13 : Basic Metabolic Panel
+           - Glucose                                  85.2 mg/dL
+           - Urea Nitrogen                            15.1 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 110.4 mmol/L
+           - Carbon Dioxide                           23.8 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1990-03-26 : Cause of Death [US Standard Certificate of Death] Neoplasm of prostate 
+  1990-01-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  1990-01-15 : Tobacco smoking status NHIS              Former smoker 
+  1990-01-15 : Carbon Dioxide                           26.0 mmol/L
+  1990-01-15 : Chloride                                 106.8 mmol/L
+  1990-01-15 : Potassium                                4.7 mmol/L
+  1990-01-15 : Sodium                                   140.4 mmol/L
+  1990-01-15 : Calcium                                  8.7 mg/dL
+  1990-01-15 : Creatinine                               0.8 mg/dL
+  1990-01-15 : Urea Nitrogen                            8.8 mg/dL
+  1990-01-15 : Glucose                                  78.2 mg/dL
+  1990-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 78.1 mmHg
+           - Systolic Blood Pressure                  103.4 mmHg
+  1990-01-15 : Body Mass Index                          28.0 kg/m2
+  1990-01-15 : Body Weight                              91.0 kg
+  1990-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  1990-01-15 : Body Height                              180.4 cm
+  1989-12-19 : DXA [T-score] Bone density               0.4 {T-score}
+  1989-01-09 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  1989-01-09 : Tobacco smoking status NHIS              Former smoker 
+  1989-01-09 : High Density Lipoprotein Cholesterol     65.2 mg/dL
+  1989-01-09 : Low Density Lipoprotein Cholesterol      97.0 mg/dL
+  1989-01-09 : Triglycerides                            138.5 mg/dL
+  1989-01-09 : Total Cholesterol                        189.8 mg/dL
+  1989-01-09 : Carbon Dioxide                           23.1 mmol/L
+  1989-01-09 : Chloride                                 109.5 mmol/L
+  1989-01-09 : Potassium                                4.0 mmol/L
+  1989-01-09 : Sodium                                   139.4 mmol/L
+  1989-01-09 : Calcium                                  9.8 mg/dL
+  1989-01-09 : Creatinine                               0.8 mg/dL
+  1989-01-09 : Urea Nitrogen                            9.5 mg/dL
+  1989-01-09 : Glucose                                  71.2 mg/dL
+  1989-01-09 : Blood Pressure
+           - Diastolic Blood Pressure                 83.3 mmHg
+           - Systolic Blood Pressure                  118.2 mmHg
+  1989-01-09 : Body Mass Index                          28.4 kg/m2
+  1989-01-09 : Body Weight                              92.5 kg
+  1989-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  1989-01-09 : Body Height                              180.4 cm
+  1988-01-04 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  1988-01-04 : Tobacco smoking status NHIS              Former smoker 
+  1988-01-04 : Carbon Dioxide                           22.9 mmol/L
+  1988-01-04 : Chloride                                 108.4 mmol/L
+  1988-01-04 : Potassium                                5.2 mmol/L
+  1988-01-04 : Sodium                                   142.6 mmol/L
+  1988-01-04 : Calcium                                  8.6 mg/dL
+  1988-01-04 : Creatinine                               0.8 mg/dL
+  1988-01-04 : Urea Nitrogen                            12.1 mg/dL
+  1988-01-04 : Glucose                                  64.6 mg/dL
+  1988-01-04 : Blood Pressure
+           - Diastolic Blood Pressure                 86.4 mmHg
+           - Systolic Blood Pressure                  101.0 mmHg
+  1988-01-04 : Body Mass Index                          29.0 kg/m2
+  1988-01-04 : Body Weight                              94.4 kg
+  1988-01-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  1988-01-04 : Body Height                              180.4 cm
+  1986-12-29 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  1986-12-29 : Tobacco smoking status NHIS              Former smoker 
+  1986-12-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  1986-12-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 387.2 fL
+  1986-12-29 : Platelets [#/volume] in Blood by Automated count 401.4 10*3/uL
+  1986-12-29 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  1986-12-29 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  1986-12-29 : MCH [Entitic mass] by Automated count    28.6 pg
+  1986-12-29 : MCV [Entitic volume] by Automated count  84.6 fL
+  1986-12-29 : Hematocrit [Volume Fraction] of Blood by Automated count 39.6 %
+  1986-12-29 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  1986-12-29 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  1986-12-29 : Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+  1986-12-29 : Carbon Dioxide                           21.7 mmol/L
+  1986-12-29 : Chloride                                 101.4 mmol/L
+  1986-12-29 : Potassium                                3.8 mmol/L
+  1986-12-29 : Sodium                                   138.4 mmol/L
+  1986-12-29 : Calcium                                  9.1 mg/dL
+  1986-12-29 : Creatinine                               0.9 mg/dL
+  1986-12-29 : Urea Nitrogen                            14.8 mg/dL
+  1986-12-29 : Glucose                                  73.9 mg/dL
+  1986-12-29 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  113.0 mmHg
+  1986-12-29 : Body Mass Index                          29.5 kg/m2
+  1986-12-29 : Body Weight                              96.0 kg
+  1986-12-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  1986-12-29 : Body Height                              180.4 cm
+  1986-11-05 : DXA [T-score] Bone density               0.5 {T-score}
+  1985-12-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  1985-12-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  1985-12-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 384.7 fL
+  1985-12-23 : Platelets [#/​volume] in Blood by Automated count 253.4 10*3/uL
+  1985-12-23 : Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+  1985-12-23 : MCHC [Mass/​volume] by Automated count   35.2 g/dL
+  1985-12-23 : MCH [Entitic mass] by Automated count    28.2 pg
+  1985-12-23 : MCV [Entitic volume] by Automated count  93.8 fL
+  1985-12-23 : Hematocrit [Volume Fraction] of Blood by Automated count 38.0 %
+  1985-12-23 : Hemoglobin [Mass/​volume] in Blood       17.2 g/dL
+  1985-12-23 : Erythrocytes [#/​volume] in Blood by Automated count 4.6 10*6/uL
+  1985-12-23 : Leukocytes [#/​volume] in Blood by Automated count 3.4 10*3/uL
+  1985-12-23 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1985-12-23 : Hemoglobin [Presence] in Urine by Test strip Blood in urine (finding) {nominal}
+  1985-12-23 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  1985-12-23 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  1985-12-23 : Protein [Mass/volume] in Urine by Test strip 302.1 mg/dL
+  1985-12-23 : pH of Urine by Test strip                6.0 pH
+  1985-12-23 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  1985-12-23 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  1985-12-23 : Ketones [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  1985-12-23 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  1985-12-23 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+  1985-12-23 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  1985-12-23 : Glucose [Mass/volume] in Urine by Test strip 2.3 mg/dL
+  1985-12-23 : Color of Urine                           Reddish color urine {nominal}
+  1985-12-23 : Clarity of Urine                         Cloudy urine (finding) {nominal}
+  1985-12-23 : Odor of Urine                            Foul smelling urine (finding) {nominal}
+  1985-12-23 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  1985-12-23 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 8.6 U/L
+  1985-12-23 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 57.3 U/L
+  1985-12-23 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 132.1 U/L
+  1985-12-23 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+  1985-12-23 : Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+  1985-12-23 : Albumin [Mass/volume] in Serum or Plasma 3.6 g/dL
+  1985-12-23 : Protein [Mass/volume] in Serum or Plasma 67.0 g/dL
+  1985-12-23 : Glomerular filtration rate/1.73 sq M.predicted 21.2 mL/min
+  1985-12-23 : Carbon Dioxide                           22.7 mmol/L
+  1985-12-23 : Chloride                                 104.5 mmol/L
+  1985-12-23 : Potassium                                4.0 mmol/L
+  1985-12-23 : Sodium                                   140.4 mmol/L
+  1985-12-23 : Calcium                                  8.6 mg/dL
+  1985-12-23 : Creatinine                               3.4 mg/dL
+  1985-12-23 : Urea Nitrogen                            19.8 mg/dL
+  1985-12-23 : Glucose                                  88.1 mg/dL
+  1985-12-23 : US Guidance for biopsy of Prostate       Surgical biopsy result abnormal {nominal}
+  1985-12-23 : Prostate specific Ag [Mass/volume] in Serum or Plasma 5.8 ng/mL
+  1985-12-23 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1985-12-23 : Tobacco smoking status NHIS              Former smoker 
+  1985-12-23 : High Density Lipoprotein Cholesterol     63.1 mg/dL
+  1985-12-23 : Low Density Lipoprotein Cholesterol      109.4 mg/dL
+  1985-12-23 : Triglycerides                            129.3 mg/dL
+  1985-12-23 : Total Cholesterol                        198.4 mg/dL
+  1985-12-23 : Carbon Dioxide                           20.6 mmol/L
+  1985-12-23 : Chloride                                 105.5 mmol/L
+  1985-12-23 : Potassium                                3.9 mmol/L
+  1985-12-23 : Sodium                                   136.8 mmol/L
+  1985-12-23 : Calcium                                  10.0 mg/dL
+  1985-12-23 : Creatinine                               0.9 mg/dL
+  1985-12-23 : Urea Nitrogen                            13.7 mg/dL
+  1985-12-23 : Glucose                                  95.8 mg/dL
+  1985-12-23 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  132.6 mmHg
+  1985-12-23 : Body Mass Index                          29.9 kg/m2
+  1985-12-23 : Body Weight                              97.4 kg
+  1985-12-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  1985-12-23 : Body Height                              180.4 cm
+  1984-12-17 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  1984-12-17 : Tobacco smoking status NHIS              Former smoker 
+  1984-12-17 : Carbon Dioxide                           23.3 mmol/L
+  1984-12-17 : Chloride                                 110.7 mmol/L
+  1984-12-17 : Potassium                                5.0 mmol/L
+  1984-12-17 : Sodium                                   138.7 mmol/L
+  1984-12-17 : Calcium                                  9.1 mg/dL
+  1984-12-17 : Creatinine                               0.9 mg/dL
+  1984-12-17 : Urea Nitrogen                            18.4 mg/dL
+  1984-12-17 : Glucose                                  94.0 mg/dL
+  1984-12-17 : Blood Pressure
+           - Diastolic Blood Pressure                 80.2 mmHg
+           - Systolic Blood Pressure                  117.2 mmHg
+  1984-12-17 : Body Mass Index                          30.5 kg/m2
+  1984-12-17 : Body Weight                              99.2 kg
+  1984-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  1984-12-17 : Body Height                              180.4 cm
+  1984-11-05 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  1984-10-30 : Prostate specific Ag [Mass/volume] in Serum or Plasma 0.7 ng/mL
+  1984-10-30 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1984-11-05 : Tobacco smoking status NHIS              Former smoker 
+  1984-11-05 : Carbon Dioxide                           26.8 mmol/L
+  1984-11-05 : Chloride                                 107.5 mmol/L
+  1984-11-05 : Potassium                                4.4 mmol/L
+  1984-11-05 : Sodium                                   139.6 mmol/L
+  1984-11-05 : Calcium                                  9.4 mg/dL
+  1984-11-05 : Creatinine                               0.9 mg/dL
+  1984-11-05 : Urea Nitrogen                            13.6 mg/dL
+  1984-11-05 : Glucose                                  70.0 mg/dL
+  1984-11-05 : Blood Pressure
+           - Diastolic Blood Pressure                 74.3 mmHg
+           - Systolic Blood Pressure                  130.8 mmHg
+  1984-11-05 : Body Mass Index                          30.5 kg/m2
+  1984-11-05 : Body Weight                              99.2 kg
+  1984-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  1984-11-05 : Body Height                              180.4 cm
+  1983-10-31 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  1983-10-31 : Prostate specific Ag [Mass/volume] in Serum or Plasma 1.3 ng/mL
+  1983-10-31 : Physical findings of Prostate            Normal size prostate {nominal}
+  1983-10-31 : Tobacco smoking status NHIS              Former smoker 
+  1983-10-31 : Carbon Dioxide                           23.3 mmol/L
+  1983-10-31 : Chloride                                 105.0 mmol/L
+  1983-10-31 : Potassium                                3.9 mmol/L
+  1983-10-31 : Sodium                                   136.7 mmol/L
+  1983-10-31 : Calcium                                  8.5 mg/dL
+  1983-10-31 : Creatinine                               0.9 mg/dL
+  1983-10-31 : Urea Nitrogen                            14.7 mg/dL
+  1983-10-31 : Glucose                                  69.5 mg/dL
+  1983-10-31 : Blood Pressure
+           - Diastolic Blood Pressure                 75.6 mmHg
+           - Systolic Blood Pressure                  110.2 mmHg
+  1983-10-31 : Body Mass Index                          31.0 kg/m2
+  1983-10-31 : Body Weight                              100.9 kg
+  1983-10-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  1983-10-31 : Body Height                              180.4 cm
+  1983-08-18 : DXA [T-score] Bone density               -0.4 {T-score}
+  1982-10-25 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  1982-10-19 : Prostate specific Ag [Mass/volume] in Serum or Plasma 0.8 ng/mL
+  1982-10-19 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1982-10-25 : Tobacco smoking status NHIS              Former smoker 
+  1982-10-25 : High Density Lipoprotein Cholesterol     75.1 mg/dL
+  1982-10-25 : Low Density Lipoprotein Cholesterol      72.5 mg/dL
+  1982-10-25 : Triglycerides                            103.5 mg/dL
+  1982-10-25 : Total Cholesterol                        168.4 mg/dL
+  1982-10-25 : Carbon Dioxide                           21.9 mmol/L
+  1982-10-25 : Chloride                                 107.5 mmol/L
+  1982-10-25 : Potassium                                5.0 mmol/L
+  1982-10-25 : Sodium                                   136.2 mmol/L
+  1982-10-25 : Calcium                                  8.8 mg/dL
+  1982-10-25 : Creatinine                               1.1 mg/dL
+  1982-10-25 : Urea Nitrogen                            8.4 mg/dL
+  1982-10-25 : Glucose                                  71.1 mg/dL
+  1982-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 76.5 mmHg
+           - Systolic Blood Pressure                  118.0 mmHg
+  1982-10-25 : Body Mass Index                          31.6 kg/m2
+  1982-10-25 : Body Weight                              102.7 kg
+  1982-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  1982-10-25 : Body Height                              180.4 cm
+  1981-10-25 : Oral temperature                         37.5 Cel
+  1981-10-19 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  1981-10-19 : Prostate specific Ag [Mass/volume] in Serum or Plasma 3.4 ng/mL
+  1981-10-19 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1981-10-19 : Tobacco smoking status NHIS              Former smoker 
+  1981-10-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  1981-10-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 228.5 fL
+  1981-10-19 : Platelets [#/volume] in Blood by Automated count 253.2 10*3/uL
+  1981-10-19 : Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+  1981-10-19 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  1981-10-19 : MCH [Entitic mass] by Automated count    27.7 pg
+  1981-10-19 : MCV [Entitic volume] by Automated count  83.1 fL
+  1981-10-19 : Hematocrit [Volume Fraction] of Blood by Automated count 41.3 %
+  1981-10-19 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  1981-10-19 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  1981-10-19 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  1981-10-19 : Carbon Dioxide                           26.4 mmol/L
+  1981-10-19 : Chloride                                 104.6 mmol/L
+  1981-10-19 : Potassium                                3.8 mmol/L
+  1981-10-19 : Sodium                                   140.3 mmol/L
+  1981-10-19 : Calcium                                  9.4 mg/dL
+  1981-10-19 : Creatinine                               1.1 mg/dL
+  1981-10-19 : Urea Nitrogen                            18.8 mg/dL
+  1981-10-19 : Glucose                                  88.0 mg/dL
+  1981-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 76.1 mmHg
+           - Systolic Blood Pressure                  121.4 mmHg
+  1981-10-19 : Body Mass Index                          31.9 kg/m2
+  1981-10-19 : Body Weight                              103.8 kg
+  1981-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  1981-10-19 : Body Height                              180.4 cm
+  1980-10-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  1980-10-07 : Prostate specific Ag [Mass/volume] in Serum or Plasma 2.9 ng/mL
+  1980-10-07 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+  1980-10-13 : Tobacco smoking status NHIS              Former smoker 
+  1980-10-13 : Carbon Dioxide                           23.8 mmol/L
+  1980-10-13 : Chloride                                 110.4 mmol/L
+  1980-10-13 : Potassium                                5.2 mmol/L
+  1980-10-13 : Sodium                                   138.1 mmol/L
+  1980-10-13 : Calcium                                  8.6 mg/dL
+  1980-10-13 : Creatinine                               1.2 mg/dL
+  1980-10-13 : Urea Nitrogen                            15.1 mg/dL
+  1980-10-13 : Glucose                                  85.2 mg/dL
+  1980-10-13 : Blood Pressure
+           - Diastolic Blood Pressure                 81.6 mmHg
+           - Systolic Blood Pressure                  130.3 mmHg
+  1980-10-13 : Body Mass Index                          32.4 kg/m2
+  1980-10-13 : Body Weight                              105.4 kg
+  1980-10-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  1980-10-13 : Body Height                              180.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1989-12-19 : Bone density scan (procedure) for Fracture of ankle
+  1989-12-19 : Bone immobilization for Fracture of ankle
+  1989-12-19 : Ankle X-ray
+  1986-12-29 : Documentation of current medications
+  1986-11-05 : Bone density scan (procedure) for Fracture subluxation of wrist
+  1986-11-05 : Bone immobilization for Fracture subluxation of wrist
+  1986-11-05 : X-ray or wrist
+  1985-12-23 : Prostatectomy for Neoplasm of prostate
+  1985-12-23 : Biopsy of prostate
+  1985-12-23 : Digital examination of rectum
+  1985-12-23 : Documentation of current medications
+  1984-12-06 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  1984-10-30 : Digital examination of rectum
+  1984-11-05 : Documentation of current medications
+  1983-10-31 : Digital examination of rectum
+  1983-10-31 : Documentation of current medications
+  1983-08-18 : Bone density scan (procedure) for Fracture of ankle
+  1983-08-18 : Bone immobilization for Fracture of ankle
+  1983-08-18 : Ankle X-ray
+  1982-10-19 : Digital examination of rectum
+  1981-10-19 : Digital examination of rectum
+  1980-10-07 : Digital examination of rectum
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1990-01-15 : Influenza, seasonal, injectable, preservative free
+  1989-01-09 : Influenza, seasonal, injectable, preservative free
+  1988-01-04 : Influenza, seasonal, injectable, preservative free
+  1986-12-29 : Influenza, seasonal, injectable, preservative free
+  1985-12-23 : Influenza, seasonal, injectable, preservative free
+  1984-11-05 : Influenza, seasonal, injectable, preservative free
+  1983-10-31 : Influenza, seasonal, injectable, preservative free
+  1982-10-25 : Influenza, seasonal, injectable, preservative free
+  1981-10-19 : Influenza, seasonal, injectable, preservative free
+  1980-10-13 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1990-03-26 : Death Certification
+1990-01-18 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Fracture of ankle
+1990-01-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1989-12-19 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1989-01-09 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1988-01-04 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1987-01-04 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Fracture subluxation of wrist
+1986-12-29 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1986-11-05 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1986-03-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Neoplasm of prostate
+1985-12-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Neoplasm of prostate
+1985-12-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1985-12-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1984-12-17 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1984-12-06 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute bronchitis (disorder)
+1984-11-05 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1984-09-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1983-11-16 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Fracture of ankle
+1983-10-31 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1983-08-18 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1982-10-25 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1981-10-25 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+1981-10-19 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1980-10-13 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1959-11-30 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1947-06-16 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  1989-12-19 : Digital Radiography, Ankle
+  1986-11-05 : Digital Radiography, Wrist
+  1983-08-18 : Digital Radiography, Ankle
+--------------------------------------------------------------------------------

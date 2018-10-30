@@ -1,0 +1,73 @@
+Porter490 McKenzie376
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 0
+Birth Date:          2018-08-31
+Marital Status:      S
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+           - MCV [Entitic volume] by Automated count  85.3 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+           - Platelets [#/volume] in Blood by Automated count 264.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 255.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-05 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-05 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  110.3 mmHg
+  2018-10-05 : Body Weight                              4.5 kg
+  2018-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2018-10-05 : Body Height                              54.7 cm
+  2018-08-31 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-31 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2018-08-31 : Platelet distribution width [Entitic volume] in Blood by Automated count 255.5 fL
+  2018-08-31 : Platelets [#/volume] in Blood by Automated count 264.6 10*3/uL
+  2018-08-31 : Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+  2018-08-31 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2018-08-31 : MCH [Entitic mass] by Automated count    31.5 pg
+  2018-08-31 : MCV [Entitic volume] by Automated count  85.3 fL
+  2018-08-31 : Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+  2018-08-31 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2018-08-31 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2018-08-31 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2018-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2018-08-31 : Body Weight                              4.5 kg
+  2018-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2018-08-31 : Body Height                              54.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-05 : Hep B, adolescent or pediatric
+  2018-08-31 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2018-08-31 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

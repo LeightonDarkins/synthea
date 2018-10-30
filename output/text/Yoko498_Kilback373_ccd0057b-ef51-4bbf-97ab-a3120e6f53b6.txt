@@ -1,0 +1,230 @@
+Yoko498 Kilback373
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 52
+Birth Date:          1966-06-17
+Marital Status:      M
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1967-03-02 -            : Allergy to fish
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-12-21[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2015-09-29[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2014-12-21[STOPPED] : Mirena 52 MG Intrauterine System
+  2014-09-20[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2011-01-04[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2010-01-16[STOPPED] : Jolivette 28 Day Pack
+  2009-01-14[STOPPED] : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+  2009-01-07[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2008-01-27[STOPPED] : Camila 28 Day Pack
+  1969-07-07[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-12-22 - 2016-12-29 : Streptococcal sore throat (disorder)
+  2015-09-29 - 2015-11-28 : Tear of meniscus of knee
+  2014-09-20 - 2014-10-04 : Laceration of hand
+  2011-01-04 - 2011-02-08 : Sprain of wrist
+  2009-03-06 -            : Body mass index 40+ - severely obese (finding)
+  2009-01-07 - 2009-02-13 : Injury of anterior cruciate ligament
+  1993-02-12 -            : Body mass index 30+ - obesity (finding)
+  1969-12-27 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-09-29[STOPPED] : Physical therapy procedure
+                         Reason: Tear of meniscus of knee
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2014-09-20[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2011-01-04[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2009-01-07[STOPPED] : Physical therapy procedure
+                         Reason: Injury of anterior cruciate ligament
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2007-06-02[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1967-02-12[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-06-17 : Lipid Panel
+           - Total Cholesterol                        178.7 mg/dL
+           - Triglycerides                            145.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      75.2 mg/dL
+           - High Density Lipoprotein Cholesterol     74.4 mg/dL
+  2013-03-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+           - MCV [Entitic volume] by Automated count  90.6 fL
+           - MCH [Entitic mass] by Automated count    29.9 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+           - Platelets [#/volume] in Blood by Automated count 292.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 377.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2013-03-15 : Lipid Panel
+           - Total Cholesterol                        167.2 mg/dL
+           - Triglycerides                            143.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.8 mg/dL
+           - High Density Lipoprotein Cholesterol     61.7 mg/dL
+  2009-03-06 : Lipid Panel
+           - Total Cholesterol                        184.7 mg/dL
+           - Triglycerides                            129.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.9 mg/dL
+           - High Density Lipoprotein Cholesterol     66.9 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-01-05 : Tobacco smoking status NHIS              Former smoker 
+  2018-01-05 : Blood Pressure
+           - Diastolic Blood Pressure                 71.9 mmHg
+           - Systolic Blood Pressure                  110.3 mmHg
+  2018-01-05 : Body Mass Index                          45.1 kg/m2
+  2018-01-05 : Body Weight                              105.2 kg
+  2018-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2018-01-05 : Body Height                              152.8 cm
+  2016-12-30 : Tobacco smoking status NHIS              Former smoker 
+  2016-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 85.9 mmHg
+           - Systolic Blood Pressure                  111.7 mmHg
+  2016-12-30 : Body Mass Index                          45.1 kg/m2
+  2016-12-30 : Body Weight                              105.2 kg
+  2016-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2016-12-30 : Body Height                              152.8 cm
+  2016-12-22 : Oral temperature                         37.5 Cel
+  2016-06-17 : Tobacco smoking status NHIS              Former smoker 
+  2016-06-17 : High Density Lipoprotein Cholesterol     74.4 mg/dL
+  2016-06-17 : Low Density Lipoprotein Cholesterol      75.2 mg/dL
+  2016-06-17 : Triglycerides                            145.4 mg/dL
+  2016-06-17 : Total Cholesterol                        178.7 mg/dL
+  2016-06-17 : Blood Pressure
+           - Diastolic Blood Pressure                 88.5 mmHg
+           - Systolic Blood Pressure                  124.4 mmHg
+  2016-06-17 : Body Mass Index                          45.1 kg/m2
+  2016-06-17 : Body Weight                              105.2 kg
+  2016-06-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2016-06-17 : Body Height                              152.8 cm
+  2015-03-20 : Tobacco smoking status NHIS              Former smoker 
+  2015-03-20 : Blood Pressure
+           - Diastolic Blood Pressure                 78.4 mmHg
+           - Systolic Blood Pressure                  105.5 mmHg
+  2015-03-20 : Body Mass Index                          44.6 kg/m2
+  2015-03-20 : Body Weight                              104.1 kg
+  2015-03-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2015-03-20 : Body Height                              152.8 cm
+  2013-03-15 : Tobacco smoking status NHIS              Former smoker 
+  2013-03-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2013-03-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 377.4 fL
+  2013-03-15 : Platelets [#/volume] in Blood by Automated count 292.5 10*3/uL
+  2013-03-15 : Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+  2013-03-15 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2013-03-15 : MCH [Entitic mass] by Automated count    29.9 pg
+  2013-03-15 : MCV [Entitic volume] by Automated count  90.6 fL
+  2013-03-15 : Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+  2013-03-15 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2013-03-15 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2013-03-15 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2013-03-15 : High Density Lipoprotein Cholesterol     61.7 mg/dL
+  2013-03-15 : Low Density Lipoprotein Cholesterol      76.8 mg/dL
+  2013-03-15 : Triglycerides                            143.8 mg/dL
+  2013-03-15 : Total Cholesterol                        167.2 mg/dL
+  2013-03-15 : Blood Pressure
+           - Diastolic Blood Pressure                 87.1 mmHg
+           - Systolic Blood Pressure                  105.5 mmHg
+  2013-03-15 : Body Mass Index                          43.3 kg/m2
+  2013-03-15 : Body Weight                              101.1 kg
+  2013-03-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2013-03-15 : Body Height                              152.8 cm
+  2011-03-11 : Tobacco smoking status NHIS              Former smoker 
+  2011-03-11 : Blood Pressure
+           - Diastolic Blood Pressure                 81.7 mmHg
+           - Systolic Blood Pressure                  104.3 mmHg
+  2011-03-11 : Body Mass Index                          41.9 kg/m2
+  2011-03-11 : Body Weight                              97.8 kg
+  2011-03-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2011-03-11 : Body Height                              152.8 cm
+  2009-03-06 : Tobacco smoking status NHIS              Former smoker 
+  2009-03-06 : High Density Lipoprotein Cholesterol     66.9 mg/dL
+  2009-03-06 : Low Density Lipoprotein Cholesterol      91.9 mg/dL
+  2009-03-06 : Triglycerides                            129.4 mg/dL
+  2009-03-06 : Total Cholesterol                        184.7 mg/dL
+  2009-03-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.7 mmHg
+           - Systolic Blood Pressure                  103.6 mmHg
+  2009-03-06 : Body Mass Index                          40.3 kg/m2
+  2009-03-06 : Body Weight                              94.1 kg
+  2009-03-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2009-03-06 : Body Height                              152.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-01-05 : Documentation of current medications
+  2016-12-30 : Documentation of current medications
+  2016-12-16 : Removal of intrauterine device
+  2015-12-21 : Insertion of subcutaneous contraceptive
+  2015-09-29 : Knee X-ray
+  2015-03-20 : Documentation of current medications
+  2014-12-24 : Insertion of intrauterine contraceptive device
+  2014-09-20 : Injection of tetanus antitoxin for Laceration of hand
+  2014-09-20 : Suture open wound for Laceration of hand
+  2009-01-14 : Surgical manipulation of joint of knee for Injury of anterior cruciate ligament
+  2009-01-07 : Knee X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-05 : Td (adult) preservative free
+  2018-01-05 : Influenza, seasonal, injectable, preservative free
+  2016-12-30 : Influenza, seasonal, injectable, preservative free
+  2016-12-30 : zoster
+  2016-06-17 : Influenza, seasonal, injectable, preservative free
+  2016-06-17 : zoster
+  2015-03-20 : Influenza, seasonal, injectable, preservative free
+  2013-03-15 : Influenza, seasonal, injectable, preservative free
+  2011-03-11 : Influenza, seasonal, injectable, preservative free
+  2009-03-06 : Td (adult) preservative free
+  2009-03-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-12-30 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-12-22 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2016-12-16 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-06-17 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-12-21 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-09-29 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-03-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-12-24 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-12-21 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-09-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2013-03-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2011-03-11 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2011-01-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-01-16 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-03-06 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-01-14 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Injury of anterior cruciate ligament
+2009-01-07 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2008-01-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2007-06-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Acute bronchitis (disorder)
+1993-02-12 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1969-12-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+1969-06-23 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Perennial allergic rhinitis
+1967-03-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1967-02-12 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2015-09-29 : Digital Radiography, Knee
+  2009-01-07 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

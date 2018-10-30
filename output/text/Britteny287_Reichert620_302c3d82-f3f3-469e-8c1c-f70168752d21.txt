@@ -1,0 +1,215 @@
+Britteny287 Reichert620
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2003-06-21
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-02-20[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2014-08-18[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2011-10-28[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2009-01-26[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2009-01-26[STOPPED] : Cefuroxime 250 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-02-20 - 2015-02-27 : Acute bronchitis (disorder)
+  2014-08-18 - 2014-09-08 : Sprain of ankle
+  2011-10-28 - 2011-12-02 : Sprain of ankle
+  2009-01-26 - 2009-06-06 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-02-20[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2014-08-18[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2011-10-28[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-07-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    36.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+           - Platelets [#/volume] in Blood by Automated count 179.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 248.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2009-06-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  80.4 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 278.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 198.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-28 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 75.2 mmHg
+           - Systolic Blood Pressure                  128.8 mmHg
+  2018-07-28 : Body Mass Index                          22.2 kg/m2
+  2018-07-28 : Body Weight                              63.0 kg
+  2018-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2018-07-28 : Body Height                              168.6 cm
+  2017-07-22 : Tobacco smoking status NHIS              Never smoker 
+  2017-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mmHg
+           - Systolic Blood Pressure                  105.4 mmHg
+  2017-07-22 : Body Mass Index                          21.5 kg/m2
+  2017-07-22 : Body Weight                              60.1 kg
+  2017-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2017-07-22 : Body Height                              167.2 cm
+  2016-07-16 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 76.9 mmHg
+           - Systolic Blood Pressure                  106.2 mmHg
+  2016-07-16 : Body Mass Index                          20.8 kg/m2
+  2016-07-16 : Body Weight                              56.2 kg
+  2016-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-07-16 : Body Height                              164.4 cm
+  2015-07-11 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-11 : Blood Pressure
+           - Diastolic Blood Pressure                 70.8 mmHg
+           - Systolic Blood Pressure                  117.7 mmHg
+  2015-07-11 : Body Mass Index                          20.3 kg/m2
+  2015-07-11 : Body Weight                              51.3 kg
+  2015-07-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2015-07-11 : Body Height                              159.0 cm
+  2014-07-05 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2014-07-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 248.3 fL
+  2014-07-05 : Platelets [#/volume] in Blood by Automated count 179.9 10*3/uL
+  2014-07-05 : Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+  2014-07-05 : MCHC [Mass/volume] by Automated count    36.0 g/dL
+  2014-07-05 : MCH [Entitic mass] by Automated count    29.3 pg
+  2014-07-05 : MCV [Entitic volume] by Automated count  92.0 fL
+  2014-07-05 : Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+  2014-07-05 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2014-07-05 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2014-07-05 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2014-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 78.3 mmHg
+           - Systolic Blood Pressure                  119.8 mmHg
+  2014-07-05 : Body Mass Index                          19.9 kg/m2
+  2014-07-05 : Body Weight                              45.8 kg
+  2014-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2014-07-05 : Body Height                              151.8 cm
+  2013-06-29 : Tobacco smoking status NHIS              Never smoker 
+  2013-06-29 : Blood Pressure
+           - Diastolic Blood Pressure                 87.8 mmHg
+           - Systolic Blood Pressure                  131.5 mmHg
+  2013-06-29 : Body Mass Index                          19.1 kg/m2
+  2013-06-29 : Body Weight                              40.3 kg
+  2013-06-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2013-06-29 : Body Height                              145.2 cm
+  2012-06-23 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-23 : Blood Pressure
+           - Diastolic Blood Pressure                 87.5 mmHg
+           - Systolic Blood Pressure                  118.4 mmHg
+  2012-06-23 : Body Mass Index                          17.9 kg/m2
+  2012-06-23 : Body Weight                              34.8 kg
+  2012-06-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2012-06-23 : Body Height                              139.2 cm
+  2011-06-18 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-18 : Blood Pressure
+           - Diastolic Blood Pressure                 87.8 mmHg
+           - Systolic Blood Pressure                  105.2 mmHg
+  2011-06-18 : Body Mass Index                          17.0 kg/m2
+  2011-06-18 : Body Weight                              30.4 kg
+  2011-06-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2011-06-18 : Body Height                              133.5 cm
+  2010-06-12 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-12 : Blood Pressure
+           - Diastolic Blood Pressure                 70.8 mmHg
+           - Systolic Blood Pressure                  132.9 mmHg
+  2010-06-12 : Body Mass Index                          16.5 kg/m2
+  2010-06-12 : Body Weight                              26.7 kg
+  2010-06-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2010-06-12 : Body Height                              127.0 cm
+  2009-06-06 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2009-06-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 198.5 fL
+  2009-06-06 : Platelets [#/volume] in Blood by Automated count 278.5 10*3/uL
+  2009-06-06 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  2009-06-06 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2009-06-06 : MCH [Entitic mass] by Automated count    29.8 pg
+  2009-06-06 : MCV [Entitic volume] by Automated count  80.4 fL
+  2009-06-06 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2009-06-06 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2009-06-06 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2009-06-06 : Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+  2009-06-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  128.2 mmHg
+  2009-06-06 : Body Mass Index                          16.3 kg/m2
+  2009-06-06 : Body Weight                              23.5 kg
+  2009-06-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2009-06-06 : Body Height                              119.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-07-22 : Documentation of current medications
+  2016-07-16 : Documentation of current medications
+  2015-02-20 : Plain chest X-ray (procedure) for Acute bronchitis (disorder)
+  2013-06-29 : Documentation of current medications
+  2011-06-18 : Documentation of current medications
+  2009-06-06 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-28 : Influenza, seasonal, injectable, preservative free
+  2017-07-22 : Influenza, seasonal, injectable, preservative free
+  2016-07-16 : Influenza, seasonal, injectable, preservative free
+  2015-07-11 : HPV, quadrivalent
+  2015-02-28 : HPV, quadrivalent
+  2015-02-28 : Influenza, seasonal, injectable, preservative free
+  2014-07-05 : meningococcal MCV4P
+  2014-07-05 : HPV, quadrivalent
+  2014-07-05 : Influenza, seasonal, injectable, preservative free
+  2014-07-05 : Tdap
+  2013-06-29 : Influenza, seasonal, injectable, preservative free
+  2012-06-23 : Influenza, seasonal, injectable, preservative free
+  2011-06-18 : Influenza, seasonal, injectable, preservative free
+  2010-06-12 : Influenza, seasonal, injectable, preservative free
+  2009-06-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-07-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2016-07-16 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-07-11 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-02-28 (Dr. Aileen250 Johnston597) : Encounter at CONCENTRA URGENT CARE - EAST BOSTON
+2015-02-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2014-08-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-07-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-06-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-06-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-10-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-06-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-06-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-06-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-01-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Otitis media
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

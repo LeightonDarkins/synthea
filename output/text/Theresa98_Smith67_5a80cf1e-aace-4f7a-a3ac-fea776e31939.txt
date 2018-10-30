@@ -1,0 +1,208 @@
+Theresa98 Smith67
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 61
+Birth Date:          1957-09-17
+Marital Status:      M
+Outpatient Provider: ATHOL MEMORIAL HOSPITAL
+Primary Care Provider: 2033 MAIN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-09-03[CURRENT] : Levothyroxine Sodium 0.075 MG Oral Tablet
+  1997-09-23[CURRENT] : Clopidogrel 75 MG Oral Tablet
+  1994-12-06[CURRENT] : Amlodipine 5 MG Oral Tablet
+  1991-12-03[CURRENT] : Simvastatin 20 MG Oral Tablet
+  1962-08-28[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-09-03 -            : Hypothyroidism (disorder)
+  2009-01-15 - 2009-01-24 : Acute viral pharyngitis (disorder)
+  2004-12-14 -            : Chronic pain
+  1991-12-03 -            : Body mass index 30+ - obesity (finding)
+  1991-07-23 -            : Miscarriage in first trimester
+  1965-05-23 -            : Chronic sinusitis (disorder)
+  1962-08-28 -            : Coronary Heart Disease
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-11-08 : Lipid Panel
+           - Total Cholesterol                        168.2 mg/dL
+           - Triglycerides                            120.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.8 mg/dL
+           - High Density Lipoprotein Cholesterol     62.2 mg/dL
+  2015-09-03 : Free T4 and TSH panel - Serum or Plasma
+           - Thyroxine (T4) free [Mass/volume] in Serum or Plasma 0.3 ng/dl
+           - Thyrotropin [Units/volume] in Serum or Plasma 2.7 m[IU]/L
+  2013-10-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.1 %
+           - MCV [Entitic volume] by Automated count  93.7 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 229.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 151.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2013-10-22 : Lipid Panel
+           - Total Cholesterol                        183.1 mg/dL
+           - Triglycerides                            103.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.6 mg/dL
+           - High Density Lipoprotein Cholesterol     60.9 mg/dL
+  2010-10-05 : Lipid Panel
+           - Total Cholesterol                        190.0 mg/dL
+           - Triglycerides                            147.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.7 mg/dL
+           - High Density Lipoprotein Cholesterol     79.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-11-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-14 : Blood Pressure
+           - Diastolic Blood Pressure                 82.3 mmHg
+           - Systolic Blood Pressure                  114.0 mmHg
+  2017-11-14 : Body Mass Index                          38.9 kg/m2
+  2017-11-14 : Body Weight                              96.3 kg
+  2017-11-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2017-11-14 : Body Height                              157.4 cm
+  2016-11-08 : Tobacco smoking status NHIS              Never smoker 
+  2016-11-08 : High Density Lipoprotein Cholesterol     62.2 mg/dL
+  2016-11-08 : Low Density Lipoprotein Cholesterol      81.8 mg/dL
+  2016-11-08 : Triglycerides                            120.8 mg/dL
+  2016-11-08 : Total Cholesterol                        168.2 mg/dL
+  2016-11-08 : Blood Pressure
+           - Diastolic Blood Pressure                 81.4 mmHg
+           - Systolic Blood Pressure                  133.3 mmHg
+  2016-11-08 : Body Mass Index                          39.4 kg/m2
+  2016-11-08 : Body Weight                              97.5 kg
+  2016-11-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2016-11-08 : Body Height                              157.4 cm
+  2015-11-03 : Tobacco smoking status NHIS              Never smoker 
+  2015-11-03 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mmHg
+           - Systolic Blood Pressure                  124.3 mmHg
+  2015-11-03 : Body Mass Index                          39.4 kg/m2
+  2015-11-03 : Body Weight                              97.5 kg
+  2015-11-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2015-11-03 : Body Height                              157.4 cm
+  2015-09-03 : Thyrotropin [Units/volume] in Serum or Plasma 2.7 m[IU]/L
+  2015-09-03 : Thyroxine (T4) free [Mass/volume] in Serum or Plasma 0.3 ng/dl
+  2014-10-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.3 mmHg
+           - Systolic Blood Pressure                  107.3 mmHg
+  2014-10-28 : Body Mass Index                          39.4 kg/m2
+  2014-10-28 : Body Weight                              97.5 kg
+  2014-10-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2014-10-28 : Body Height                              157.4 cm
+  2013-10-22 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2013-10-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 151.2 fL
+  2013-10-22 : Platelets [#/volume] in Blood by Automated count 229.7 10*3/uL
+  2013-10-22 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2013-10-22 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2013-10-22 : MCH [Entitic mass] by Automated count    30.9 pg
+  2013-10-22 : MCV [Entitic volume] by Automated count  93.7 fL
+  2013-10-22 : Hematocrit [Volume Fraction] of Blood by Automated count 35.1 %
+  2013-10-22 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  2013-10-22 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2013-10-22 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2013-10-22 : High Density Lipoprotein Cholesterol     60.9 mg/dL
+  2013-10-22 : Low Density Lipoprotein Cholesterol      101.6 mg/dL
+  2013-10-22 : Triglycerides                            103.0 mg/dL
+  2013-10-22 : Total Cholesterol                        183.1 mg/dL
+  2013-10-22 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  120.2 mmHg
+  2013-10-22 : Body Mass Index                          39.4 kg/m2
+  2013-10-22 : Body Weight                              97.5 kg
+  2013-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2013-10-22 : Body Height                              157.4 cm
+  2012-10-16 : Tobacco smoking status NHIS              Never smoker 
+  2012-10-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  112.9 mmHg
+  2012-10-16 : Body Mass Index                          39.4 kg/m2
+  2012-10-16 : Body Weight                              97.5 kg
+  2012-10-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2012-10-16 : Body Height                              157.4 cm
+  2011-10-11 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-11 : Blood Pressure
+           - Diastolic Blood Pressure                 72.1 mmHg
+           - Systolic Blood Pressure                  113.7 mmHg
+  2011-10-11 : Body Mass Index                          39.4 kg/m2
+  2011-10-11 : Body Weight                              97.5 kg
+  2011-10-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2011-10-11 : Body Height                              157.4 cm
+  2010-10-05 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-05 : High Density Lipoprotein Cholesterol     79.8 mg/dL
+  2010-10-05 : Low Density Lipoprotein Cholesterol      80.7 mg/dL
+  2010-10-05 : Triglycerides                            147.8 mg/dL
+  2010-10-05 : Total Cholesterol                        190.0 mg/dL
+  2010-10-05 : Blood Pressure
+           - Diastolic Blood Pressure                 85.6 mmHg
+           - Systolic Blood Pressure                  114.7 mmHg
+  2010-10-05 : Body Mass Index                          39.4 kg/m2
+  2010-10-05 : Body Weight                              97.5 kg
+  2010-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2010-10-05 : Body Height                              157.4 cm
+  2009-09-29 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-29 : Blood Pressure
+           - Diastolic Blood Pressure                 81.4 mmHg
+           - Systolic Blood Pressure                  111.5 mmHg
+  2009-09-29 : Body Mass Index                          39.4 kg/m2
+  2009-09-29 : Body Weight                              97.5 kg
+  2009-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2009-09-29 : Body Height                              157.4 cm
+  2009-01-15 : Oral temperature                         37.4 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-09-15 : Colonoscopy
+  2014-10-28 : Documentation of current medications
+  2013-10-22 : Documentation of current medications
+  2012-09-16 : Colonoscopy
+  2011-10-11 : Documentation of current medications
+  2010-10-05 : Documentation of current medications
+  2009-09-29 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-11-14 : Influenza, seasonal, injectable, preservative free
+  2016-11-08 : Influenza, seasonal, injectable, preservative free
+  2015-11-03 : Influenza, seasonal, injectable, preservative free
+  2014-10-28 : Influenza, seasonal, injectable, preservative free
+  2013-10-22 : Influenza, seasonal, injectable, preservative free
+  2012-10-16 : Influenza, seasonal, injectable, preservative free
+  2011-10-11 : Influenza, seasonal, injectable, preservative free
+  2010-10-05 : Influenza, seasonal, injectable, preservative free
+  2009-09-29 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-11-14 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2017-09-15 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2016-11-08 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2015-11-03 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2015-09-03 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2014-10-28 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2013-10-22 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2012-10-16 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2012-09-16 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2011-10-11 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2010-10-05 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2009-09-29 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+2009-01-15 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2004-12-14 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL : Encounter for Chronic pain
+1997-09-23 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+1994-12-06 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+1991-12-03 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+1991-07-23 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL : Encounter for Normal pregnancy
+1965-05-23 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL : Encounter for Sinusitis (disorder)
+1962-08-28 (Dr. Christoper325 Will178) : Encounter at ATHOL MEMORIAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

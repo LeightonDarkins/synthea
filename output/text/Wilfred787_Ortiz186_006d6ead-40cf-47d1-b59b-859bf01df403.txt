@@ -1,0 +1,270 @@
+Wilfred787 Ortiz186
+===================
+Race:                Other
+Ethnicity:           South American
+Gender:              M
+Age:                 41
+Birth Date:          1976-11-23
+Marital Status:      M
+Outpatient Provider: MILFORD REGIONAL MEDICAL CENTER
+Primary Care Provider: 14 PROSPECT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-11-26[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2010-04-26[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  1978-11-30[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-11-30[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-06-05[CURRENT] : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-11-24 - 2017-12-10 : Acute bronchitis (disorder)
+  2014-04-09 - 2014-04-17 : Acute viral pharyngitis (disorder)
+  2013-09-26 - 2013-10-08 : Acute viral pharyngitis (disorder)
+  2010-08-03 -            : Prediabetes
+  2010-08-01 - 2010-08-22 : Viral sinusitis (disorder)
+  2010-04-26 - 2010-05-10 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-11-26[CURRENT] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2010-08-03[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2010-04-26[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2003-10-04[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1978-11-30[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1977-05-22[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-11-29 : Lipid Panel
+           - Total Cholesterol                        168.3 mg/dL
+           - Triglycerides                            102.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.2 mg/dL
+           - High Density Lipoprotein Cholesterol     63.7 mg/dL
+  2016-11-29 : Basic Metabolic Panel
+           - Glucose                                  86.8 mg/dL
+           - Urea Nitrogen                            15.4 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   139.2 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 105.7 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+  2014-04-22 : Basic Metabolic Panel
+           - Glucose                                  82.2 mg/dL
+           - Urea Nitrogen                            18.5 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   137.4 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 102.5 mmol/L
+           - Carbon Dioxide                           20.6 mmol/L
+  2013-10-08 : Basic Metabolic Panel
+           - Glucose                                  96.4 mg/dL
+           - Urea Nitrogen                            14.5 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 103.6 mmol/L
+           - Carbon Dioxide                           22.9 mmol/L
+  2013-08-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+           - MCV [Entitic volume] by Automated count  81.9 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    36.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 415.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 226.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2013-08-06 : Lipid Panel
+           - Total Cholesterol                        173.5 mg/dL
+           - Triglycerides                            146.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      67.6 mg/dL
+           - High Density Lipoprotein Cholesterol     76.6 mg/dL
+  2013-08-06 : Basic Metabolic Panel
+           - Glucose                                  85.4 mg/dL
+           - Urea Nitrogen                            17.8 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 103.9 mmol/L
+           - Carbon Dioxide                           24.3 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-11-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2016-11-29 : Tobacco smoking status NHIS              Former smoker 
+  2016-11-29 : High Density Lipoprotein Cholesterol     63.7 mg/dL
+  2016-11-29 : Low Density Lipoprotein Cholesterol      84.2 mg/dL
+  2016-11-29 : Triglycerides                            102.5 mg/dL
+  2016-11-29 : Total Cholesterol                        168.3 mg/dL
+  2016-11-29 : Carbon Dioxide                           27.0 mmol/L
+  2016-11-29 : Chloride                                 105.7 mmol/L
+  2016-11-29 : Potassium                                5.1 mmol/L
+  2016-11-29 : Sodium                                   139.2 mmol/L
+  2016-11-29 : Calcium                                  9.7 mg/dL
+  2016-11-29 : Creatinine                               1.2 mg/dL
+  2016-11-29 : Urea Nitrogen                            15.4 mg/dL
+  2016-11-29 : Glucose                                  86.8 mg/dL
+  2016-11-29 : Blood Pressure
+           - Diastolic Blood Pressure                 74.6 mmHg
+           - Systolic Blood Pressure                  127.0 mmHg
+  2016-11-29 : Body Mass Index                          27.0 kg/m2
+  2016-11-29 : Body Weight                              86.2 kg
+  2016-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2016-11-29 : Body Height                              178.7 cm
+  2014-04-22 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2014-04-22 : Tobacco smoking status NHIS              Former smoker 
+  2014-04-22 : Carbon Dioxide                           20.6 mmol/L
+  2014-04-22 : Chloride                                 102.5 mmol/L
+  2014-04-22 : Potassium                                5.0 mmol/L
+  2014-04-22 : Sodium                                   137.4 mmol/L
+  2014-04-22 : Calcium                                  9.3 mg/dL
+  2014-04-22 : Creatinine                               1.2 mg/dL
+  2014-04-22 : Urea Nitrogen                            18.5 mg/dL
+  2014-04-22 : Glucose                                  82.2 mg/dL
+  2014-04-22 : Blood Pressure
+           - Diastolic Blood Pressure                 80.4 mmHg
+           - Systolic Blood Pressure                  136.0 mmHg
+  2014-04-22 : Body Mass Index                          25.8 kg/m2
+  2014-04-22 : Body Weight                              82.5 kg
+  2014-04-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2014-04-22 : Body Height                              178.7 cm
+  2014-04-09 : Oral temperature                         37.3 Cel
+  2013-10-08 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2013-10-08 : Tobacco smoking status NHIS              Former smoker 
+  2013-10-08 : Carbon Dioxide                           22.9 mmol/L
+  2013-10-08 : Chloride                                 103.6 mmol/L
+  2013-10-08 : Potassium                                4.2 mmol/L
+  2013-10-08 : Sodium                                   137.7 mmol/L
+  2013-10-08 : Calcium                                  9.1 mg/dL
+  2013-10-08 : Creatinine                               1.2 mg/dL
+  2013-10-08 : Urea Nitrogen                            14.5 mg/dL
+  2013-10-08 : Glucose                                  96.4 mg/dL
+  2013-10-08 : Blood Pressure
+           - Diastolic Blood Pressure                 85.9 mmHg
+           - Systolic Blood Pressure                  106.7 mmHg
+  2013-10-08 : Body Mass Index                          25.5 kg/m2
+  2013-10-08 : Body Weight                              81.5 kg
+  2013-10-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2013-10-08 : Body Height                              178.7 cm
+  2013-09-26 : Oral temperature                         37.2 Cel
+  2013-08-06 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2013-08-06 : Tobacco smoking status NHIS              Former smoker 
+  2013-08-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2013-08-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 226.6 fL
+  2013-08-06 : Platelets [#/volume] in Blood by Automated count 415.3 10*3/uL
+  2013-08-06 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  2013-08-06 : MCHC [Mass/volume] by Automated count    36.0 g/dL
+  2013-08-06 : MCH [Entitic mass] by Automated count    30.6 pg
+  2013-08-06 : MCV [Entitic volume] by Automated count  81.9 fL
+  2013-08-06 : Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+  2013-08-06 : Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+  2013-08-06 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2013-08-06 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2013-08-06 : High Density Lipoprotein Cholesterol     76.6 mg/dL
+  2013-08-06 : Low Density Lipoprotein Cholesterol      67.6 mg/dL
+  2013-08-06 : Triglycerides                            146.1 mg/dL
+  2013-08-06 : Total Cholesterol                        173.5 mg/dL
+  2013-08-06 : Carbon Dioxide                           24.3 mmol/L
+  2013-08-06 : Chloride                                 103.9 mmol/L
+  2013-08-06 : Potassium                                4.9 mmol/L
+  2013-08-06 : Sodium                                   141.5 mmol/L
+  2013-08-06 : Calcium                                  9.7 mg/dL
+  2013-08-06 : Creatinine                               1.2 mg/dL
+  2013-08-06 : Urea Nitrogen                            17.8 mg/dL
+  2013-08-06 : Glucose                                  85.4 mg/dL
+  2013-08-06 : Blood Pressure
+           - Diastolic Blood Pressure                 84.7 mmHg
+           - Systolic Blood Pressure                  133.9 mmHg
+  2013-08-06 : Body Mass Index                          25.5 kg/m2
+  2013-08-06 : Body Weight                              81.5 kg
+  2013-08-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2013-08-06 : Body Height                              178.7 cm
+  2010-08-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2010-08-03 : Tobacco smoking status NHIS              Former smoker 
+  2010-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 87.3 mmHg
+           - Systolic Blood Pressure                  131.1 mmHg
+  2010-08-03 : Body Mass Index                          24.1 kg/m2
+  2010-08-03 : Body Weight                              77.0 kg
+  2010-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2010-08-03 : Body Height                              178.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-04-22 : Documentation of current medications
+  2013-10-08 : Documentation of current medications
+  2010-08-03 : Documentation of current medications
+  2010-04-26 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-12 : Influenza, seasonal, injectable, preservative free
+  2017-12-05 : Hep A, adult
+  2017-12-05 : Td (adult) preservative free
+  2017-12-05 : Influenza, seasonal, injectable, preservative free
+  2016-11-29 : Hep A, adult
+  2016-11-29 : Influenza, seasonal, injectable, preservative free
+  2013-10-08 : Influenza, seasonal, injectable, preservative free
+  2013-10-01 : Influenza, seasonal, injectable, preservative free
+  2013-08-06 : Influenza, seasonal, injectable, preservative free
+  2010-08-03 : Influenza, seasonal, injectable, preservative free
+  2010-05-11 : Influenza, seasonal, injectable, preservative free
+  2010-05-04 : Td (adult) preservative free
+  2010-05-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-12-12 (Dr. Leonore418 Hills818) : Encounter at FALLON CLINIC URGENT CARE
+2017-12-05 (Dr. Leonore418 Hills818) : Encounter at FALLON CLINIC URGENT CARE
+2017-11-26 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2017-08-18 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2017-02-19 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2016-11-29 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2014-09-03 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2014-04-22 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2014-04-09 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2014-04-15 (Dr. Leonore418 Hills818) : Encounter at FALLON CLINIC URGENT CARE
+2013-10-08 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2013-09-26 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2013-10-01 (Dr. Leonore418 Hills818) : Encounter at FALLON CLINIC URGENT CARE
+2013-08-06 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2013-03-12 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2011-03-23 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2010-08-01 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2010-08-03 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2010-05-11 (Dr. Leonore418 Hills818) : Encounter at FALLON CLINIC URGENT CARE
+2010-05-04 (Dr. Leonore418 Hills818) : Encounter at FALLON CLINIC URGENT CARE
+2010-04-26 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2010-03-28 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2010-03-26 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2009-09-27 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2009-03-31 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Asthma
+2003-10-04 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+1978-11-30 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Childhood asthma
+1977-06-05 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+1977-05-22 (Dr. King743 Ward668) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

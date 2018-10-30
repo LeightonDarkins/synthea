@@ -1,0 +1,114 @@
+Karin721 Gaylord332
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 0
+Birth Date:          2017-11-24
+Marital Status:      S
+Outpatient Provider: HEYWOOD HOSPITAL -
+Primary Care Provider: 242 GREEN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-09-25 - 2018-10-16 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-11-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+           - MCV [Entitic volume] by Automated count  81.4 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 158.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 271.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-03 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 73.6 mmHg
+           - Systolic Blood Pressure                  113.8 mmHg
+  2018-08-03 : Body Weight                              7.1 kg
+  2018-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2018-08-03 : Body Height                              69.7 cm
+  2018-05-04 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-04 : Blood Pressure
+           - Diastolic Blood Pressure                 83.5 mmHg
+           - Systolic Blood Pressure                  125.5 mmHg
+  2018-05-04 : Body Weight                              5.8 kg
+  2018-05-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2018-05-04 : Body Height                              64.9 cm
+  2018-03-02 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-02 : Blood Pressure
+           - Diastolic Blood Pressure                 86.9 mmHg
+           - Systolic Blood Pressure                  117.2 mmHg
+  2018-03-02 : Body Weight                              4.3 kg
+  2018-03-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2018-03-02 : Body Height                              58.6 cm
+  2017-12-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-29 : Blood Pressure
+           - Diastolic Blood Pressure                 80.8 mmHg
+           - Systolic Blood Pressure                  104.4 mmHg
+  2017-12-29 : Body Weight                              3.0 kg
+  2017-12-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2017-12-29 : Body Height                              52.1 cm
+  2017-11-24 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2017-11-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 271.9 fL
+  2017-11-24 : Platelets [#/volume] in Blood by Automated count 158.4 10*3/uL
+  2017-11-24 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2017-11-24 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2017-11-24 : MCH [Entitic mass] by Automated count    27.8 pg
+  2017-11-24 : MCV [Entitic volume] by Automated count  81.4 fL
+  2017-11-24 : Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+  2017-11-24 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2017-11-24 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2017-11-24 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2017-11-24 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2017-11-24 : Body Weight                              3.0 kg
+  2017-11-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2017-11-24 : Body Height                              52.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-03 : Hep B, adolescent or pediatric
+  2018-08-03 : Pneumococcal conjugate PCV 13
+  2018-08-03 : DTaP
+  2018-08-03 : Influenza, seasonal, injectable, preservative free
+  2018-08-03 : IPV
+  2018-05-04 : Pneumococcal conjugate PCV 13
+  2018-05-04 : DTaP
+  2018-05-04 : IPV
+  2018-05-04 : rotavirus, monovalent
+  2018-05-04 : Hib (PRP-OMP)
+  2018-03-02 : Pneumococcal conjugate PCV 13
+  2018-03-02 : DTaP
+  2018-03-02 : IPV
+  2018-03-02 : rotavirus, monovalent
+  2018-03-02 : Hib (PRP-OMP)
+  2017-12-29 : Hep B, adolescent or pediatric
+  2017-11-24 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-25 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Viral sinusitis (disorder)
+2018-08-03 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2018-05-04 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2018-03-02 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2017-12-29 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2017-11-24 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

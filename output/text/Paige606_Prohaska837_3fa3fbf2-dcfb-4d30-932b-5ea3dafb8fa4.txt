@@ -1,0 +1,192 @@
+Paige606 Prohaska837
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 38
+Birth Date:          1980-07-14
+Marital Status:      M
+Outpatient Provider: BEVERLY HOSPITAL CORPORATION
+Primary Care Provider: 85 HERRICK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1999-10-25[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-01-16 - 2017-01-27 : Acute viral pharyngitis (disorder)
+  2015-04-13 - 2015-04-23 : Acute viral pharyngitis (disorder)
+  2008-11-03 -            : Prediabetes
+  1998-10-19 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2008-11-03[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-11-13 : Lipid Panel
+           - Total Cholesterol                        185.3 mg/dL
+           - Triglycerides                            131.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.4 mg/dL
+           - High Density Lipoprotein Cholesterol     75.6 mg/dL
+  2017-11-13 : Basic Metabolic Panel
+           - Glucose                                  86.2 mg/dL
+           - Urea Nitrogen                            11.2 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 102.0 mmol/L
+           - Carbon Dioxide                           28.8 mmol/L
+  2014-11-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+           - MCV [Entitic volume] by Automated count  84.1 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 392.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 200.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2014-11-10 : Lipid Panel
+           - Total Cholesterol                        187.5 mg/dL
+           - Triglycerides                            123.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.6 mg/dL
+           - High Density Lipoprotein Cholesterol     68.2 mg/dL
+  2014-11-10 : Basic Metabolic Panel
+           - Glucose                                  70.7 mg/dL
+           - Urea Nitrogen                            10.4 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   140.3 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 109.6 mmol/L
+           - Carbon Dioxide                           26.2 mmol/L
+  2011-11-07 : Lipid Panel
+           - Total Cholesterol                        177.0 mg/dL
+           - Triglycerides                            146.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.4 mg/dL
+           - High Density Lipoprotein Cholesterol     61.3 mg/dL
+  2011-11-07 : Basic Metabolic Panel
+           - Glucose                                  92.6 mg/dL
+           - Urea Nitrogen                            12.0 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   143.9 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 104.8 mmol/L
+           - Carbon Dioxide                           25.1 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-11-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2017-11-13 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-13 : Estimated Glomerular Filtration Rate     130.6 mL/min/{1.73_m2}
+  2017-11-13 : High Density Lipoprotein Cholesterol     75.6 mg/dL
+  2017-11-13 : Low Density Lipoprotein Cholesterol      83.4 mg/dL
+  2017-11-13 : Triglycerides                            131.7 mg/dL
+  2017-11-13 : Total Cholesterol                        185.3 mg/dL
+  2017-11-13 : Carbon Dioxide                           28.8 mmol/L
+  2017-11-13 : Chloride                                 102.0 mmol/L
+  2017-11-13 : Potassium                                5.0 mmol/L
+  2017-11-13 : Sodium                                   142.1 mmol/L
+  2017-11-13 : Calcium                                  8.6 mg/dL
+  2017-11-13 : Creatinine                               1.0 mg/dL
+  2017-11-13 : Urea Nitrogen                            11.2 mg/dL
+  2017-11-13 : Glucose                                  86.2 mg/dL
+  2017-11-13 : Blood Pressure
+           - Diastolic Blood Pressure                 113.0 mmHg
+           - Systolic Blood Pressure                  152.4 mmHg
+  2017-11-13 : Body Mass Index                          35.2 kg/m2
+  2017-11-13 : Body Weight                              82.8 kg
+  2017-11-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2017-11-13 : Body Height                              153.5 cm
+  2017-01-16 : Oral temperature                         37.2 Cel
+  2015-04-13 : Oral temperature                         37.7 Cel
+  2014-11-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2014-11-10 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-10 : Estimated Glomerular Filtration Rate     94.1 mL/min/{1.73_m2}
+  2014-11-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2014-11-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 200.0 fL
+  2014-11-10 : Platelets [#/volume] in Blood by Automated count 392.1 10*3/uL
+  2014-11-10 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2014-11-10 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2014-11-10 : MCH [Entitic mass] by Automated count    32.1 pg
+  2014-11-10 : MCV [Entitic volume] by Automated count  84.1 fL
+  2014-11-10 : Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+  2014-11-10 : Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+  2014-11-10 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2014-11-10 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2014-11-10 : High Density Lipoprotein Cholesterol     68.2 mg/dL
+  2014-11-10 : Low Density Lipoprotein Cholesterol      94.6 mg/dL
+  2014-11-10 : Triglycerides                            123.6 mg/dL
+  2014-11-10 : Total Cholesterol                        187.5 mg/dL
+  2014-11-10 : Carbon Dioxide                           26.2 mmol/L
+  2014-11-10 : Chloride                                 109.6 mmol/L
+  2014-11-10 : Potassium                                4.5 mmol/L
+  2014-11-10 : Sodium                                   140.3 mmol/L
+  2014-11-10 : Calcium                                  9.3 mg/dL
+  2014-11-10 : Creatinine                               1.0 mg/dL
+  2014-11-10 : Urea Nitrogen                            10.4 mg/dL
+  2014-11-10 : Glucose                                  70.7 mg/dL
+  2014-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 99.9 mmHg
+           - Systolic Blood Pressure                  162.3 mmHg
+  2014-11-10 : Body Mass Index                          33.3 kg/m2
+  2014-11-10 : Body Weight                              78.3 kg
+  2014-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-11-10 : Body Height                              153.5 cm
+  2011-11-07 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2011-11-07 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-07 : Estimated Glomerular Filtration Rate     155.2 mL/min/{1.73_m2}
+  2011-11-07 : High Density Lipoprotein Cholesterol     61.3 mg/dL
+  2011-11-07 : Low Density Lipoprotein Cholesterol      86.4 mg/dL
+  2011-11-07 : Triglycerides                            146.1 mg/dL
+  2011-11-07 : Total Cholesterol                        177.0 mg/dL
+  2011-11-07 : Carbon Dioxide                           25.1 mmol/L
+  2011-11-07 : Chloride                                 104.8 mmol/L
+  2011-11-07 : Potassium                                5.1 mmol/L
+  2011-11-07 : Sodium                                   143.9 mmol/L
+  2011-11-07 : Calcium                                  8.7 mg/dL
+  2011-11-07 : Creatinine                               0.9 mg/dL
+  2011-11-07 : Urea Nitrogen                            12.0 mg/dL
+  2011-11-07 : Glucose                                  92.6 mg/dL
+  2011-11-07 : Blood Pressure
+           - Diastolic Blood Pressure                 100.7 mmHg
+           - Systolic Blood Pressure                  159.9 mmHg
+  2011-11-07 : Body Mass Index                          31.3 kg/m2
+  2011-11-07 : Body Weight                              73.8 kg
+  2011-11-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2011-11-07 : Body Height                              153.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-11-13 : Documentation of current medications
+  2017-01-16 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2015-06-29 : Replacement of subcutaneous contraceptive
+  2011-06-27 : Replacement of subcutaneous contraceptive
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-11-13 : Influenza, seasonal, injectable, preservative free
+  2014-11-10 : Influenza, seasonal, injectable, preservative free
+  2011-11-07 : Td (adult) preservative free
+  2011-11-07 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-11-13 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2017-01-16 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Acute viral pharyngitis (disorder)
+2015-06-29 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2015-04-13 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION : Encounter for Acute viral pharyngitis (disorder)
+2014-11-10 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2011-11-07 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2011-06-27 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+2008-11-03 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+1999-10-25 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+1998-10-19 (Dr. Anneliese170 Lueilwitz711) : Encounter at BEVERLY HOSPITAL CORPORATION
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

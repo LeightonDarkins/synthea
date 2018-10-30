@@ -1,0 +1,142 @@
+Reynaldo722 Wisozk929
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 30
+Birth Date:          1988-08-05
+Marital Status:      S
+Outpatient Provider: HEYWOOD HOSPITAL -
+Primary Care Provider: 242 GREEN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-11-11[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2013-04-26[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2010-06-18[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2009-10-05[STOPPED] : Acetaminophen 325 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-07-14 -            : Body mass index 30+ - obesity (finding)
+  2013-11-11 - 2013-12-02 : Laceration of forearm
+  2013-04-26 - 2013-05-03 : Acute bronchitis (disorder)
+  2010-06-18 - 2010-07-09 : Viral sinusitis (disorder)
+  2009-10-05 - 2009-11-02 : Sprain of ankle
+  2008-11-27 - 2008-12-18 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-11-11[STOPPED] : Wound care
+                         Reason: Laceration of forearm
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2013-04-26[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2009-10-05[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-07-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+           - MCV [Entitic volume] by Automated count  80.8 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+           - Platelets [#/volume] in Blood by Automated count 377.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 164.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2011-07-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+           - MCV [Entitic volume] by Automated count  94.7 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/volume] in Blood by Automated count 384.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 368.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-07-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-07-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2017-07-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 164.9 fL
+  2017-07-14 : Platelets [#/volume] in Blood by Automated count 377.8 10*3/uL
+  2017-07-14 : Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+  2017-07-14 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2017-07-14 : MCH [Entitic mass] by Automated count    28.5 pg
+  2017-07-14 : MCV [Entitic volume] by Automated count  80.8 fL
+  2017-07-14 : Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+  2017-07-14 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2017-07-14 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2017-07-14 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  2017-07-14 : Blood Pressure
+           - Diastolic Blood Pressure                 75.8 mmHg
+           - Systolic Blood Pressure                  112.0 mmHg
+  2017-07-14 : Body Mass Index                          30.3 kg/m2
+  2017-07-14 : Body Weight                              91.5 kg
+  2017-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2017-07-14 : Body Height                              173.9 cm
+  2014-07-11 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-11 : Blood Pressure
+           - Diastolic Blood Pressure                 82.2 mmHg
+           - Systolic Blood Pressure                  108.1 mmHg
+  2014-07-11 : Body Mass Index                          28.9 kg/m2
+  2014-07-11 : Body Weight                              87.3 kg
+  2014-07-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2014-07-11 : Body Height                              173.9 cm
+  2011-07-08 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2011-07-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 368.1 fL
+  2011-07-08 : Platelets [#/volume] in Blood by Automated count 384.7 10*3/uL
+  2011-07-08 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2011-07-08 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2011-07-08 : MCH [Entitic mass] by Automated count    27.2 pg
+  2011-07-08 : MCV [Entitic volume] by Automated count  94.7 fL
+  2011-07-08 : Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+  2011-07-08 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2011-07-08 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2011-07-08 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2011-07-08 : Blood Pressure
+           - Diastolic Blood Pressure                 83.1 mmHg
+           - Systolic Blood Pressure                  132.3 mmHg
+  2011-07-08 : Body Mass Index                          27.5 kg/m2
+  2011-07-08 : Body Weight                              83.2 kg
+  2011-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2011-07-08 : Body Height                              173.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2013-11-11 : Suture open wound for Laceration of forearm
+  2013-04-26 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-07-14 : Influenza, seasonal, injectable, preservative free
+  2014-07-11 : Influenza, seasonal, injectable, preservative free
+  2013-05-03 : Influenza, seasonal, injectable, preservative free
+  2011-07-08 : meningococcal MCV4P
+  2011-07-08 : Hep B, adult
+  2011-07-08 : Td (adult) preservative free
+  2011-07-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-07-14 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2014-07-11 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2013-11-11 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2013-05-03 (Dr. José Eduardo181 Arriaga291) : Encounter at GREAT BROOK VALLEY HEALTH CENTER
+2013-04-26 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Acute bronchitis (disorder)
+2011-07-08 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2010-06-18 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Viral sinusitis (disorder)
+2009-10-05 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL -
+2008-11-27 (Dr. Kenneth671 Bahringer146) : Encounter at HEYWOOD HOSPITAL - : Encounter for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

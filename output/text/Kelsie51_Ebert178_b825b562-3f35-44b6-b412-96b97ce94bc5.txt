@@ -1,0 +1,340 @@
+Kelsie51 Ebert178
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1992-09-01
+Marital Status:      S
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1994-02-07 - 2010-08-28 : Allergy to wheat
+  1994-02-07 -            : Allergy to eggs
+  1994-02-07 -            : Allergy to tree pollen
+  1994-02-07 - 2009-03-10 : Allergy to grass pollen
+  1994-02-07 - 2009-03-10 : Dander (animal) allergy
+  1994-02-07 -            : House dust mite allergy
+  1994-02-07 - 2009-03-10 : Allergy to mould
+  1994-02-07 -            : Allergy to bee venom
+  1994-02-07 -            : Latex allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-08-03[CURRENT] : Yaz 28 Day Pack
+  2014-07-24[STOPPED] : Levora 0.15/30 28 Day Pack
+  2011-08-03[STOPPED] : Mirena 52 MG Intrauterine System
+  2009-08-13[STOPPED] : Trinessa 28 Day Pack
+  1994-02-07[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1994-02-07[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-03-29 - 2018-04-12 : Viral sinusitis (disorder)
+  2016-11-22 - 2017-06-27 : Normal pregnancy
+  2012-10-23 - 2013-05-28 : Normal pregnancy
+  1995-09-08 -            : Perennial allergic rhinitis
+  1994-10-28 - 2009-12-30 : Atopic dermatitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-11-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2012-10-23[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2005-09-06[STOPPED] : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy drugs Band 1
+  1994-10-28[STOPPED] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+  1994-01-24[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-04-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.2 %
+           - MCV [Entitic volume] by Automated count  86.7 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 403.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 220.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2010-04-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+           - MCV [Entitic volume] by Automated count  90.4 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 153.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 367.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-04-03 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  133.8 mmHg
+  2018-04-03 : Body Mass Index                          25.1 kg/m2
+  2018-04-03 : Body Weight                              64.4 kg
+  2018-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2018-04-03 : Body Height                              160.3 cm
+  2015-04-21 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2015-04-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 220.1 fL
+  2015-04-21 : Platelets [#/volume] in Blood by Automated count 403.0 10*3/uL
+  2015-04-21 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2015-04-21 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2015-04-21 : MCH [Entitic mass] by Automated count    30.1 pg
+  2015-04-21 : MCV [Entitic volume] by Automated count  86.7 fL
+  2015-04-21 : Hematocrit [Volume Fraction] of Blood by Automated count 44.2 %
+  2015-04-21 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2015-04-21 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2015-04-21 : Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+  2015-04-21 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mmHg
+           - Systolic Blood Pressure                  101.9 mmHg
+  2015-04-21 : Body Mass Index                          23.2 kg/m2
+  2015-04-21 : Body Weight                              59.8 kg
+  2015-04-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2015-04-21 : Body Height                              160.3 cm
+  2012-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mmHg
+           - Systolic Blood Pressure                  106.8 mmHg
+  2012-04-17 : Body Mass Index                          21.8 kg/m2
+  2012-04-17 : Body Weight                              56.1 kg
+  2012-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-04-17 : Body Height                              160.3 cm
+  2011-04-12 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-12 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  124.9 mmHg
+  2011-04-12 : Body Mass Index                          21.5 kg/m2
+  2011-04-12 : Body Weight                              55.1 kg
+  2011-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-04-12 : Body Height                              160.2 cm
+  2010-04-06 : Tobacco smoking status NHIS              Never smoker 
+  2010-04-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2010-04-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 367.3 fL
+  2010-04-06 : Platelets [#/volume] in Blood by Automated count 153.9 10*3/uL
+  2010-04-06 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2010-04-06 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2010-04-06 : MCH [Entitic mass] by Automated count    31.2 pg
+  2010-04-06 : MCV [Entitic volume] by Automated count  90.4 fL
+  2010-04-06 : Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+  2010-04-06 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2010-04-06 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2010-04-06 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2010-04-06 : Blood Pressure
+           - Diastolic Blood Pressure                 87.8 mmHg
+           - Systolic Blood Pressure                  124.5 mmHg
+  2010-04-06 : Body Mass Index                          21.1 kg/m2
+  2010-04-06 : Body Weight                              53.9 kg
+  2010-04-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2010-04-06 : Body Height                              160.0 cm
+  2009-03-31 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-31 : Blood Pressure
+           - Diastolic Blood Pressure                 74.9 mmHg
+           - Systolic Blood Pressure                  108.4 mmHg
+  2009-03-31 : Body Mass Index                          20.7 kg/m2
+  2009-03-31 : Body Weight                              52.8 kg
+  2009-03-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2009-03-31 : Body Height                              159.8 cm
+  2009-03-10 : Latex IgE Ab in Serum                    86.7 kU/L
+  2009-03-10 : Honey bee IgE Ab in Serum                19.8 kU/L
+  2009-03-10 : Cladosporium herbarum IgE Ab in Serum    0.2 kU/L
+  2009-03-10 : American house dust mite IgE Ab in Serum 77.0 kU/L
+  2009-03-10 : Cat dander IgE Ab in Serum               0.0 kU/L
+  2009-03-10 : Common Ragweed IgE Ab in Serum           0.3 kU/L
+  2009-03-10 : White oak IgE Ab in Serum                93.9 kU/L
+  2009-03-10 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2009-03-10 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2009-03-10 : Egg white IgE Ab in Serum                86.2 kU/L
+  2009-03-10 : Wheat IgE Ab in Serum                    61.2 kU/L
+  2009-03-10 : Shrimp IgE Ab in Serum                   0.3 kU/L
+  2009-03-10 : Codfish IgE Ab in Serum                  0.3 kU/L
+  2009-03-10 : Walnut IgE Ab in Serum                   0.3 kU/L
+  2009-03-10 : Peanut IgE Ab in Serum                   0.0 kU/L
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-08-08 : Depression screening
+  2017-08-08 : Physical examination following birth
+  2017-06-27 : Childbirth for Normal pregnancy
+  2017-06-20 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-06 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-06 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-05-09 : Auscultation of the fetal heart for Normal pregnancy
+  2017-05-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-11 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-11 : Urine screening for glucose for Normal pregnancy
+  2017-04-11 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-04-11 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-03-14 : Auscultation of the fetal heart for Normal pregnancy
+  2017-03-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-14 : Auscultation of the fetal heart for Normal pregnancy
+  2017-02-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-01-17 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-01-17 : Alpha-fetoprotein test for Normal pregnancy
+  2017-01-17 : Fetal anatomy study for Normal pregnancy
+  2016-12-20 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-12-20 : Auscultation of the fetal heart for Normal pregnancy
+  2016-12-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-22 : Physical examination of mother for Normal pregnancy
+  2016-11-22 : Urine protein test for Normal pregnancy
+  2016-11-22 : Skin test for tuberculosis for Normal pregnancy
+  2016-11-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-11-22 : Rubella screening for Normal pregnancy
+  2016-11-22 : Hepatitis C antibody test for Normal pregnancy
+  2016-11-22 : Urine screening test for diabetes for Normal pregnancy
+  2016-11-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-11-22 : Urine culture for Normal pregnancy
+  2016-11-22 : Syphilis infection test for Normal pregnancy
+  2016-11-22 : Gonorrhea infection test for Normal pregnancy
+  2016-11-22 : Chlamydia antigen test for Normal pregnancy
+  2016-11-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-11-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-11-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-11-22 : Blood typing, RH typing for Normal pregnancy
+  2016-11-22 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-11-22 : Standard pregnancy test for Normal pregnancy
+  2015-04-21 : Documentation of current medications
+  2013-07-09 : Depression screening
+  2013-07-09 : Physical examination following birth
+  2013-05-28 : Childbirth for Normal pregnancy
+  2013-05-28 : Epidural anesthesia for Normal pregnancy
+  2013-05-21 : Auscultation of the fetal heart for Normal pregnancy
+  2013-05-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-05-07 : Auscultation of the fetal heart for Normal pregnancy
+  2013-05-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-05-07 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2013-04-09 : Auscultation of the fetal heart for Normal pregnancy
+  2013-04-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-03-12 : Auscultation of the fetal heart for Normal pregnancy
+  2013-03-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-03-12 : Urine screening for glucose for Normal pregnancy
+  2013-03-12 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2013-03-12 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-02-12 : Auscultation of the fetal heart for Normal pregnancy
+  2013-02-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-01-15 : Auscultation of the fetal heart for Normal pregnancy
+  2013-01-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-18 : Auscultation of the fetal heart for Normal pregnancy
+  2012-12-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-18 : Alpha-fetoprotein test for Normal pregnancy
+  2012-12-18 : Fetal anatomy study for Normal pregnancy
+  2012-11-20 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-11-20 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-23 : Physical examination of mother for Normal pregnancy
+  2012-10-23 : Urine protein test for Normal pregnancy
+  2012-10-23 : Skin test for tuberculosis for Normal pregnancy
+  2012-10-23 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-10-23 : Rubella screening for Normal pregnancy
+  2012-10-23 : Hepatitis C antibody test for Normal pregnancy
+  2012-10-23 : Urine screening test for diabetes for Normal pregnancy
+  2012-10-23 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-10-23 : Urine culture for Normal pregnancy
+  2012-10-23 : Syphilis infection test for Normal pregnancy
+  2012-10-23 : Gonorrhea infection test for Normal pregnancy
+  2012-10-23 : Chlamydia antigen test for Normal pregnancy
+  2012-10-23 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-10-23 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-10-23 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-10-23 : Blood typing, RH typing for Normal pregnancy
+  2012-10-23 : Auscultation of the fetal heart for Normal pregnancy
+  2012-10-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-23 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-10-23 : Standard pregnancy test for Normal pregnancy
+  2012-08-21 : Removal of intrauterine device
+  2011-08-05 : Insertion of intrauterine contraceptive device
+  2011-04-12 : Documentation of current medications
+  2010-04-06 : Documentation of current medications
+  2009-03-10 : Allergy screening test
+  2009-02-17 : Subcutaneous immunotherapy
+  2009-01-27 : Subcutaneous immunotherapy
+  2009-01-06 : Subcutaneous immunotherapy
+  2008-12-16 : Subcutaneous immunotherapy
+  2008-11-25 : Subcutaneous immunotherapy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-04-03 : Influenza, seasonal, injectable, preservative free
+  2015-04-21 : meningococcal MCV4P
+  2015-04-21 : Hep B, adult
+  2015-04-21 : Td (adult) preservative free
+  2015-04-21 : Influenza, seasonal, injectable, preservative free
+  2012-04-17 : Influenza, seasonal, injectable, preservative free
+  2011-04-12 : Influenza, seasonal, injectable, preservative free
+  2010-04-06 : Influenza, seasonal, injectable, preservative free
+  2009-03-31 : meningococcal MCV4P
+  2009-03-31 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2018-03-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-04-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-08-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2017-06-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2017-06-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2017-06-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2017-05-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2017-04-11 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2017-03-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2017-02-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2017-01-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2016-12-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2016-11-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2015-04-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-07-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-07-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2013-05-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2013-05-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2013-05-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2013-04-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2013-03-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2013-02-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2013-01-15 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2012-12-18 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2012-11-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2012-10-23 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2012-08-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-04-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-08-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-08-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-04-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-04-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-08-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-03-31 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-03-10 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-02-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-01-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2009-01-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-12-16 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-11-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2006-08-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Atopic dermatitis
+2005-09-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1995-09-08 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Perennial allergic rhinitis
+1994-10-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Atopic dermatitis
+1994-02-07 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1994-01-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

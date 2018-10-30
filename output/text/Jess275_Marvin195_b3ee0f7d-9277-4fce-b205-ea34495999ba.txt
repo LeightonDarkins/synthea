@@ -1,0 +1,202 @@
+Jess275 Marvin195
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 36
+Birth Date:          1982-01-09
+Marital Status:      M
+Outpatient Provider: NEWTON-WELLESLEY HOSPITAL
+Primary Care Provider: 2014 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2012-10-21 - 2012-11-11 : Viral sinusitis (disorder)
+  2009-05-16 - 2009-07-04 : Chronic sinusitis (disorder)
+  2009-04-18 - 2009-07-04 : Acute bacterial sinusitis (disorder)
+  2008-01-12 -            : Prediabetes
+  1989-01-07 -            : History of single seizure (situation)
+  1989-01-07 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2008-01-12[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-01-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.3 %
+           - MCV [Entitic volume] by Automated count  91.7 fL
+           - MCH [Entitic mass] by Automated count    29.1 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 330.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 239.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2017-01-21 : Lipid Panel
+           - Total Cholesterol                        177.1 mg/dL
+           - Triglycerides                            126.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.5 mg/dL
+           - High Density Lipoprotein Cholesterol     75.2 mg/dL
+  2017-01-21 : Basic Metabolic Panel
+           - Glucose                                  66.6 mg/dL
+           - Urea Nitrogen                            10.5 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   141.3 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 101.8 mmol/L
+           - Carbon Dioxide                           21.4 mmol/L
+  2014-01-18 : Lipid Panel
+           - Total Cholesterol                        165.2 mg/dL
+           - Triglycerides                            101.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.3 mg/dL
+           - High Density Lipoprotein Cholesterol     60.6 mg/dL
+  2014-01-18 : Basic Metabolic Panel
+           - Glucose                                  89.3 mg/dL
+           - Urea Nitrogen                            8.2 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   140.7 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           28.1 mmol/L
+  2011-01-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.4 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 335.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 514.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2011-01-15 : Basic Metabolic Panel
+           - Glucose                                  66.5 mg/dL
+           - Urea Nitrogen                            11.3 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   138.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 104.5 mmol/L
+           - Carbon Dioxide                           22.9 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-01-21 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2017-01-21 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2017-01-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 239.7 fL
+  2017-01-21 : Platelets [#/volume] in Blood by Automated count 330.1 10*3/uL
+  2017-01-21 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2017-01-21 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2017-01-21 : MCH [Entitic mass] by Automated count    29.1 pg
+  2017-01-21 : MCV [Entitic volume] by Automated count  91.7 fL
+  2017-01-21 : Hematocrit [Volume Fraction] of Blood by Automated count 41.3 %
+  2017-01-21 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2017-01-21 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2017-01-21 : Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+  2017-01-21 : High Density Lipoprotein Cholesterol     75.2 mg/dL
+  2017-01-21 : Low Density Lipoprotein Cholesterol      76.5 mg/dL
+  2017-01-21 : Triglycerides                            126.8 mg/dL
+  2017-01-21 : Total Cholesterol                        177.1 mg/dL
+  2017-01-21 : Carbon Dioxide                           21.4 mmol/L
+  2017-01-21 : Chloride                                 101.8 mmol/L
+  2017-01-21 : Potassium                                4.3 mmol/L
+  2017-01-21 : Sodium                                   141.3 mmol/L
+  2017-01-21 : Calcium                                  8.9 mg/dL
+  2017-01-21 : Creatinine                               1.2 mg/dL
+  2017-01-21 : Urea Nitrogen                            10.5 mg/dL
+  2017-01-21 : Glucose                                  66.6 mg/dL
+  2017-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 72.8 mmHg
+           - Systolic Blood Pressure                  109.3 mmHg
+  2017-01-21 : Body Mass Index                          28.4 kg/m2
+  2017-01-21 : Body Weight                              82.1 kg
+  2017-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2017-01-21 : Body Height                              170.1 cm
+  2014-01-18 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2014-01-18 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-18 : High Density Lipoprotein Cholesterol     60.6 mg/dL
+  2014-01-18 : Low Density Lipoprotein Cholesterol      84.3 mg/dL
+  2014-01-18 : Triglycerides                            101.6 mg/dL
+  2014-01-18 : Total Cholesterol                        165.2 mg/dL
+  2014-01-18 : Carbon Dioxide                           28.1 mmol/L
+  2014-01-18 : Chloride                                 107.5 mmol/L
+  2014-01-18 : Potassium                                4.6 mmol/L
+  2014-01-18 : Sodium                                   140.7 mmol/L
+  2014-01-18 : Calcium                                  8.9 mg/dL
+  2014-01-18 : Creatinine                               1.2 mg/dL
+  2014-01-18 : Urea Nitrogen                            8.2 mg/dL
+  2014-01-18 : Glucose                                  89.3 mg/dL
+  2014-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 75.7 mmHg
+           - Systolic Blood Pressure                  132.5 mmHg
+  2014-01-18 : Body Mass Index                          27.0 kg/m2
+  2014-01-18 : Body Weight                              78.1 kg
+  2014-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2014-01-18 : Body Height                              170.1 cm
+  2011-01-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2011-01-15 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2011-01-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 514.5 fL
+  2011-01-15 : Platelets [#/volume] in Blood by Automated count 335.8 10*3/uL
+  2011-01-15 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2011-01-15 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2011-01-15 : MCH [Entitic mass] by Automated count    30.2 pg
+  2011-01-15 : MCV [Entitic volume] by Automated count  82.3 fL
+  2011-01-15 : Hematocrit [Volume Fraction] of Blood by Automated count 35.4 %
+  2011-01-15 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2011-01-15 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2011-01-15 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2011-01-15 : Carbon Dioxide                           22.9 mmol/L
+  2011-01-15 : Chloride                                 104.5 mmol/L
+  2011-01-15 : Potassium                                4.5 mmol/L
+  2011-01-15 : Sodium                                   138.6 mmol/L
+  2011-01-15 : Calcium                                  8.8 mg/dL
+  2011-01-15 : Creatinine                               1.1 mg/dL
+  2011-01-15 : Urea Nitrogen                            11.3 mg/dL
+  2011-01-15 : Glucose                                  66.5 mg/dL
+  2011-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 88.2 mmHg
+           - Systolic Blood Pressure                  137.4 mmHg
+  2011-01-15 : Body Mass Index                          25.0 kg/m2
+  2011-01-15 : Body Weight                              72.4 kg
+  2011-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2011-01-15 : Body Height                              170.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-01-21 : Documentation of current medications
+  2014-01-18 : Documentation of current medications
+  2009-07-04 : Nasal sinus endoscopy (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-01-21 : Influenza, seasonal, injectable, preservative free
+  2014-01-18 : Td (adult) preservative free
+  2014-01-18 : Influenza, seasonal, injectable, preservative free
+  2011-01-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-01-21 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-01-18 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2012-10-21 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-01-15 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2009-07-04 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2009-05-30 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2009-05-23 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2009-05-16 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2009-04-18 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2008-01-12 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+1989-01-07 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Seizure disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

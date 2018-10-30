@@ -1,0 +1,227 @@
+Cassie490 O'Conner199
+==========='=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 60
+Birth Date:          1958-01-11
+Marital Status:      M
+Outpatient Provider: HOLY FAMILY HOSPITAL
+Primary Care Provider: 70 EAST STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2012-04-17 - 2012-05-08 : Viral sinusitis (disorder)
+  1997-06-21 -            : Miscarriage in first trimester
+  1997-03-15 -            : Body mass index 40+ - severely obese (finding)
+  1980-07-12 -            : Body mass index 30+ - obesity (finding)
+  1972-07-20 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-06-03 : Lipid Panel
+           - Total Cholesterol                        186.8 mg/dL
+           - Triglycerides                            134.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.4 mg/dL
+           - High Density Lipoprotein Cholesterol     63.5 mg/dL
+  2015-05-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+           - MCV [Entitic volume] by Automated count  93.0 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 440.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 244.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2014-05-17 : Lipid Panel
+           - Total Cholesterol                        160.6 mg/dL
+           - Triglycerides                            105.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.3 mg/dL
+           - High Density Lipoprotein Cholesterol     67.3 mg/dL
+  2011-04-30 : Lipid Panel
+           - Total Cholesterol                        164.2 mg/dL
+           - Triglycerides                            145.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      57.2 mg/dL
+           - High Density Lipoprotein Cholesterol     78.0 mg/dL
+  2010-04-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.3 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    32.4 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 175.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 238.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-06-09 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 74.2 mmHg
+           - Systolic Blood Pressure                  102.3 mmHg
+  2018-06-09 : Body Mass Index                          45.4 kg/m2
+  2018-06-09 : Body Weight                              117.3 kg
+  2018-06-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2018-06-09 : Body Height                              160.8 cm
+  2017-06-03 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-03 : High Density Lipoprotein Cholesterol     63.5 mg/dL
+  2017-06-03 : Low Density Lipoprotein Cholesterol      96.4 mg/dL
+  2017-06-03 : Triglycerides                            134.5 mg/dL
+  2017-06-03 : Total Cholesterol                        186.8 mg/dL
+  2017-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 85.3 mmHg
+           - Systolic Blood Pressure                  111.3 mmHg
+  2017-06-03 : Body Mass Index                          45.8 kg/m2
+  2017-06-03 : Body Weight                              118.5 kg
+  2017-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2017-06-03 : Body Height                              160.8 cm
+  2016-05-28 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-28 : Blood Pressure
+           - Diastolic Blood Pressure                 73.3 mmHg
+           - Systolic Blood Pressure                  136.5 mmHg
+  2016-05-28 : Body Mass Index                          45.8 kg/m2
+  2016-05-28 : Body Weight                              118.5 kg
+  2016-05-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2016-05-28 : Body Height                              160.8 cm
+  2015-05-23 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2015-05-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 244.4 fL
+  2015-05-23 : Platelets [#/volume] in Blood by Automated count 440.8 10*3/uL
+  2015-05-23 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  2015-05-23 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2015-05-23 : MCH [Entitic mass] by Automated count    30.2 pg
+  2015-05-23 : MCV [Entitic volume] by Automated count  93.0 fL
+  2015-05-23 : Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+  2015-05-23 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2015-05-23 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2015-05-23 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2015-05-23 : Blood Pressure
+           - Diastolic Blood Pressure                 80.5 mmHg
+           - Systolic Blood Pressure                  138.9 mmHg
+  2015-05-23 : Body Mass Index                          45.8 kg/m2
+  2015-05-23 : Body Weight                              118.5 kg
+  2015-05-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2015-05-23 : Body Height                              160.8 cm
+  2014-05-17 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-17 : High Density Lipoprotein Cholesterol     67.3 mg/dL
+  2014-05-17 : Low Density Lipoprotein Cholesterol      72.3 mg/dL
+  2014-05-17 : Triglycerides                            105.0 mg/dL
+  2014-05-17 : Total Cholesterol                        160.6 mg/dL
+  2014-05-17 : Blood Pressure
+           - Diastolic Blood Pressure                 74.7 mmHg
+           - Systolic Blood Pressure                  136.1 mmHg
+  2014-05-17 : Body Mass Index                          45.8 kg/m2
+  2014-05-17 : Body Weight                              118.5 kg
+  2014-05-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2014-05-17 : Body Height                              160.8 cm
+  2013-05-11 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mmHg
+           - Systolic Blood Pressure                  109.8 mmHg
+  2013-05-11 : Body Mass Index                          45.8 kg/m2
+  2013-05-11 : Body Weight                              118.5 kg
+  2013-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2013-05-11 : Body Height                              160.8 cm
+  2012-05-05 : Tobacco smoking status NHIS              Never smoker 
+  2012-05-05 : Blood Pressure
+           - Diastolic Blood Pressure                 83.3 mmHg
+           - Systolic Blood Pressure                  102.6 mmHg
+  2012-05-05 : Body Mass Index                          45.8 kg/m2
+  2012-05-05 : Body Weight                              118.5 kg
+  2012-05-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2012-05-05 : Body Height                              160.8 cm
+  2011-04-30 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-30 : High Density Lipoprotein Cholesterol     78.0 mg/dL
+  2011-04-30 : Low Density Lipoprotein Cholesterol      57.2 mg/dL
+  2011-04-30 : Triglycerides                            145.1 mg/dL
+  2011-04-30 : Total Cholesterol                        164.2 mg/dL
+  2011-04-30 : Blood Pressure
+           - Diastolic Blood Pressure                 88.5 mmHg
+           - Systolic Blood Pressure                  132.8 mmHg
+  2011-04-30 : Body Mass Index                          45.8 kg/m2
+  2011-04-30 : Body Weight                              118.5 kg
+  2011-04-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2011-04-30 : Body Height                              160.8 cm
+  2010-04-24 : Tobacco smoking status NHIS              Never smoker 
+  2010-04-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2010-04-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 238.5 fL
+  2010-04-24 : Platelets [#/volume] in Blood by Automated count 175.0 10*3/uL
+  2010-04-24 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2010-04-24 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2010-04-24 : MCH [Entitic mass] by Automated count    32.4 pg
+  2010-04-24 : MCV [Entitic volume] by Automated count  92.0 fL
+  2010-04-24 : Hematocrit [Volume Fraction] of Blood by Automated count 43.3 %
+  2010-04-24 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2010-04-24 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2010-04-24 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2010-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 72.3 mmHg
+           - Systolic Blood Pressure                  129.0 mmHg
+  2010-04-24 : Body Mass Index                          45.8 kg/m2
+  2010-04-24 : Body Weight                              118.5 kg
+  2010-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2010-04-24 : Body Height                              160.8 cm
+  2009-04-18 : Tobacco smoking status NHIS              Never smoker 
+  2009-04-18 : Blood Pressure
+           - Diastolic Blood Pressure                 72.5 mmHg
+           - Systolic Blood Pressure                  101.8 mmHg
+  2009-04-18 : Body Mass Index                          45.8 kg/m2
+  2009-04-18 : Body Weight                              118.5 kg
+  2009-04-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2009-04-18 : Body Height                              160.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-01-09 : Colonoscopy
+  2017-06-03 : Documentation of current medications
+  2016-05-28 : Documentation of current medications
+  2013-05-11 : Documentation of current medications
+  2013-01-10 : Colonoscopy
+  2012-05-05 : Documentation of current medications
+  2011-04-30 : Documentation of current medications
+  2009-04-18 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-06-09 : Influenza, seasonal, injectable, preservative free
+  2017-06-03 : Influenza, seasonal, injectable, preservative free
+  2016-05-28 : Influenza, seasonal, injectable, preservative free
+  2015-05-23 : Influenza, seasonal, injectable, preservative free
+  2014-05-17 : Influenza, seasonal, injectable, preservative free
+  2013-05-11 : Influenza, seasonal, injectable, preservative free
+  2012-05-05 : Influenza, seasonal, injectable, preservative free
+  2011-04-30 : Influenza, seasonal, injectable, preservative free
+  2010-04-24 : Influenza, seasonal, injectable, preservative free
+  2009-04-18 : Td (adult) preservative free
+  2009-04-18 : Influenza, seasonal, injectable, preservative free
+  2009-04-18 : zoster
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-06-09 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2018-01-09 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2017-06-03 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2016-05-28 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2015-05-23 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2014-05-17 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2013-05-11 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2013-01-10 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2012-05-05 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2012-04-17 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-04-30 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2010-04-24 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+2009-04-18 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+1997-06-21 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Normal pregnancy
+1997-03-15 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+1980-07-12 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL
+1972-07-20 (Dr. Michal596 Kiehn525) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

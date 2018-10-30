@@ -1,0 +1,265 @@
+Connie24 Lehner980
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2007-10-21
+Marital Status:      S
+Outpatient Provider: MERCY MEDICAL CTR
+Primary Care Provider: 271 CAREW STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-10-24[CURRENT] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2017-07-26[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2017-06-30[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2014-07-16[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2011-05-04[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2011-01-03[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2011-01-03[STOPPED] : Amoxicillin 250 MG Oral Capsule
+  2008-10-15[STOPPED] : Acetaminophen 160 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-10-24 -            : Streptococcal sore throat (disorder)
+  2017-07-26 - 2017-08-09 : Acute bronchitis (disorder)
+  2017-06-30 - 2017-07-21 : Whiplash injury to neck
+  2015-02-09 - 2015-02-23 : Viral sinusitis (disorder)
+  2014-07-16 - 2014-08-15 : Fracture of forearm
+  2013-11-25 - 2013-12-09 : Viral sinusitis (disorder)
+  2011-05-04 - 2011-05-11 : Acute bronchitis (disorder)
+  2011-01-03 - 2011-03-27 : Otitis media
+  2008-10-15 - 2008-12-14 : Fracture of ankle
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-07-26[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2017-06-30[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+  2014-07-16[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2011-05-04[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2008-10-15[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-10-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+           - MCV [Entitic volume] by Automated count  91.8 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    36.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.1 fL
+           - Platelets [#/volume] in Blood by Automated count 264.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 263.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-24 : Oral temperature                         38.2 Cel
+  2018-08-12 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-12 : Blood Pressure
+           - Diastolic Blood Pressure                 72.7 mmHg
+           - Systolic Blood Pressure                  116.1 mmHg
+  2018-08-12 : Body Mass Index                          17.4 kg/m2
+  2018-08-12 : Body Weight                              36.0 kg
+  2018-08-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-08-12 : Body Height                              143.9 cm
+  2017-08-06 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-06 : Blood Pressure
+           - Diastolic Blood Pressure                 73.1 mmHg
+           - Systolic Blood Pressure                  111.3 mmHg
+  2017-08-06 : Body Mass Index                          16.6 kg/m2
+  2017-08-06 : Body Weight                              32.0 kg
+  2017-08-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2017-08-06 : Body Height                              138.9 cm
+  2016-10-23 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-23 : Blood Pressure
+           - Diastolic Blood Pressure                 84.1 mmHg
+           - Systolic Blood Pressure                  136.0 mmHg
+  2016-10-23 : Body Mass Index                          16.1 kg/m2
+  2016-10-23 : Body Weight                              29.2 kg
+  2016-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2016-10-23 : Body Height                              134.6 cm
+  2015-10-18 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 88.6 mmHg
+           - Systolic Blood Pressure                  133.1 mmHg
+  2015-10-18 : Body Mass Index                          15.7 kg/m2
+  2015-10-18 : Body Weight                              26.1 kg
+  2015-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2015-10-18 : Body Height                              128.8 cm
+  2014-10-12 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-12 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  109.8 mmHg
+  2014-10-12 : Body Mass Index                          15.6 kg/m2
+  2014-10-12 : Body Weight                              23.5 kg
+  2014-10-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2014-10-12 : Body Height                              122.6 cm
+  2013-10-06 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2013-10-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 263.1 fL
+  2013-10-06 : Platelets [#/volume] in Blood by Automated count 264.0 10*3/uL
+  2013-10-06 : Erythrocyte distribution width [Entitic volume] by Automated count 40.1 fL
+  2013-10-06 : MCHC [Mass/volume] by Automated count    36.0 g/dL
+  2013-10-06 : MCH [Entitic mass] by Automated count    31.4 pg
+  2013-10-06 : MCV [Entitic volume] by Automated count  91.8 fL
+  2013-10-06 : Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+  2013-10-06 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2013-10-06 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2013-10-06 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2013-10-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.5 mmHg
+           - Systolic Blood Pressure                  100.1 mmHg
+  2013-10-06 : Body Mass Index                          15.6 kg/m2
+  2013-10-06 : Body Weight                              21.0 kg
+  2013-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2013-10-06 : Body Height                              116.2 cm
+  2012-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  111.9 mmHg
+  2012-09-30 : Body Mass Index                          15.5 kg/m2
+  2012-09-30 : Body Weight                              18.7 kg
+  2012-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2012-09-30 : Body Height                              109.6 cm
+  2011-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 87.5 mmHg
+           - Systolic Blood Pressure                  110.7 mmHg
+  2011-09-25 : Body Mass Index                          15.6 kg/m2
+  2011-09-25 : Body Weight                              16.3 kg
+  2011-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-09-25 : Body Height                              102.2 cm
+  2011-03-27 : Tobacco smoking status NHIS              Never smoker 
+  2011-03-27 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  103.7 mmHg
+  2011-03-27 : Body Mass Index                          15.7 kg/m2
+  2011-03-27 : Body Weight                              15.3 kg
+  2011-03-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2011-03-27 : Body Height                              98.6 cm
+  2010-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  128.5 mmHg
+  2010-09-26 : Body Mass Index                          16.0 kg/m2
+  2010-09-26 : Body Weight                              14.4 kg
+  2010-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2010-09-26 : Body Height                              94.8 cm
+  2010-03-28 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-28 : Blood Pressure
+           - Diastolic Blood Pressure                 74.3 mmHg
+           - Systolic Blood Pressure                  115.6 mmHg
+  2010-03-28 : Body Mass Index                          16.3 kg/m2
+  2010-03-28 : Body Weight                              13.6 kg
+  2010-03-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2010-03-28 : Body Height                              91.4 cm
+  2009-09-27 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-27 : Blood Pressure
+           - Diastolic Blood Pressure                 79.5 mmHg
+           - Systolic Blood Pressure                  111.3 mmHg
+  2009-09-27 : Body Weight                              12.7 kg
+  2009-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2009-09-27 : Body Height                              86.7 cm
+  2009-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 84.4 mmHg
+           - Systolic Blood Pressure                  116.8 mmHg
+  2009-03-29 : Body Weight                              11.8 kg
+  2009-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2009-03-29 : Body Height                              82.1 cm
+  2008-12-28 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  121.3 mmHg
+  2008-12-28 : Body Weight                              11.2 kg
+  2008-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2008-12-28 : Body Height                              79.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-12 : Documentation of current medications
+  2017-07-26 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2015-10-18 : Documentation of current medications
+  2014-10-12 : Documentation of current medications
+  2014-07-16 : Bone immobilization for Fracture of forearm
+  2014-07-16 : Upper arm X-ray
+  2012-09-30 : Documentation of current medications
+  2011-09-25 : Documentation of current medications
+  2011-05-04 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2010-09-26 : Documentation of current medications
+  2009-09-27 : Documentation of current medications
+  2009-03-29 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-12 : Influenza, seasonal, injectable, preservative free
+  2017-08-06 : Influenza, seasonal, injectable, preservative free
+  2016-10-23 : Influenza, seasonal, injectable, preservative free
+  2015-10-18 : Influenza, seasonal, injectable, preservative free
+  2014-10-12 : Influenza, seasonal, injectable, preservative free
+  2013-10-06 : Influenza, seasonal, injectable, preservative free
+  2012-09-30 : MMR
+  2012-09-30 : DTaP
+  2012-09-30 : Influenza, seasonal, injectable, preservative free
+  2012-09-30 : IPV
+  2012-09-30 : varicella
+  2011-09-25 : Pneumococcal conjugate PCV 13
+  2011-09-25 : Influenza, seasonal, injectable, preservative free
+  2011-03-27 : Pneumococcal conjugate PCV 13
+  2010-09-26 : Pneumococcal conjugate PCV 13
+  2010-09-26 : Influenza, seasonal, injectable, preservative free
+  2010-03-28 : Hep A, ped/adol, 2 dose
+  2010-03-28 : Pneumococcal conjugate PCV 13
+  2009-09-27 : Influenza, seasonal, injectable, preservative free
+  2009-03-29 : DTaP
+  2008-12-28 : Hep A, ped/adol, 2 dose
+  2008-12-28 : MMR
+  2008-12-28 : varicella
+  2008-12-28 : Hib (PRP-OMP)
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-24 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Streptococcal sore throat (disorder)
+2018-08-12 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2017-08-06 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2017-07-26 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Acute bronchitis (disorder)
+2017-06-30 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2016-10-23 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2015-10-18 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2015-02-09 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Viral sinusitis (disorder)
+2014-10-12 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2014-08-15 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Fracture of forearm
+2014-07-16 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2013-11-25 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Viral sinusitis (disorder)
+2013-10-06 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2012-09-30 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2011-09-25 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2011-05-04 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Acute bronchitis (disorder)
+2011-03-27 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2011-01-03 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Otitis media
+2010-09-26 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2010-03-28 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2009-09-27 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2009-03-29 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2008-12-28 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+2008-12-14 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR : Encounter for Fracture of ankle
+2008-10-15 (Dr. Luz785 Maestas764) : Encounter at MERCY MEDICAL CTR
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2014-07-16 : Digital Radiography, Arm
+  2008-10-15 : Digital Radiography, Ankle
+--------------------------------------------------------------------------------

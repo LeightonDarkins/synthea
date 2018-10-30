@@ -1,0 +1,344 @@
+Isaias604 Schultz619
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1923-05-07
+Marital Status:      M
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2003-09-15[STOPPED] : Captopril 25 MG Oral Tablet
+  2003-09-15[STOPPED] : Atorvastatin 80 MG Oral Tablet
+  2002-11-04[CURRENT] : Simvistatin 10 MG for Hyperlipidemia
+  2002-10-21[CURRENT] : Galantamine 4 MG Oral Tablet for Alzheimer's disease (disorder)
+  2001-11-04[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  1998-09-28[CURRENT] : Amlodipine 5 MG Oral Tablet
+  1998-09-28[CURRENT] : Simvastatin 20 MG Oral Tablet
+  1998-09-28[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1998-09-28[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  1966-04-26[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Localized, primary osteoarthritis of the hand
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2003-09-15 -            : History of myocardial infarction (situation)
+  2003-09-15 -            : Myocardial Infarction
+  2002-10-21 -            : Alzheimer's disease (disorder)
+  2001-10-15 -            : Hyperlipidemia
+  1998-09-28 -            : Coronary Heart Disease
+  1998-05-01 - 1999-07-28 : Polyp of colon
+  1983-07-04 -            : Osteoporosis (disorder)
+  1966-04-26 -            : Localized, primary osteoarthritis of the hand
+  1959-03-15 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2002-10-21[CURRENT] : Demential management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Education about dementia
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  2001-11-04[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  1966-04-26[CURRENT] : Musculoskeletal care
+                         Reason: Localized, primary osteoarthritis of the hand
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1925-04-25[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2003-09-22 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Myocardial Infarction 
+  2002-11-04 : Lipid Panel
+           - Total Cholesterol                        155.5 mg/dL
+           - Triglycerides                            126.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.5 mg/dL
+           - High Density Lipoprotein Cholesterol     59.4 mg/dL
+  2002-11-04 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  85.7 mg/dL
+           - Urea Nitrogen                            8.6 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   141.8 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 104.9 mmol/L
+           - Carbon Dioxide                           25.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 87.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 73.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 52.2 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 55.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.2 U/L
+  2002-10-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 224.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 221.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2002-10-21 : Lipid Panel
+           - Total Cholesterol                        172.2 mg/dL
+           - Triglycerides                            126.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.7 mg/dL
+           - High Density Lipoprotein Cholesterol     64.3 mg/dL
+  2001-10-15 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  98.8 mg/dL
+           - Urea Nitrogen                            19.5 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   143.8 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 104.7 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 84.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 63.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.5 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 44.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.9 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.5 U/L
+  2001-10-15 : Lipid Panel
+           - Total Cholesterol                        233.0 mg/dL
+           - Triglycerides                            277.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      167.0 mg/dL
+           - High Density Lipoprotein Cholesterol     47.4 mg/dL
+  1999-10-04 : Lipid Panel
+           - Total Cholesterol                        168.5 mg/dL
+           - Triglycerides                            132.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.4 mg/dL
+           - High Density Lipoprotein Cholesterol     62.7 mg/dL
+  1997-09-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+           - MCV [Entitic volume] by Automated count  87.7 fL
+           - MCH [Entitic mass] by Automated count    27.9 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 219.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 160.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  1996-09-16 : Lipid Panel
+           - Total Cholesterol                        181.7 mg/dL
+           - Triglycerides                            122.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.7 mg/dL
+           - High Density Lipoprotein Cholesterol     70.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2003-09-22 : Cause of Death [US Standard Certificate of Death] Myocardial Infarction 
+  2002-11-04 : High Density Lipoprotein Cholesterol     59.4 mg/dL
+  2002-11-04 : Low Density Lipoprotein Cholesterol      88.5 mg/dL
+  2002-11-04 : Triglycerides                            126.2 mg/dL
+  2002-11-04 : Total Cholesterol                        155.5 mg/dL
+  2002-11-04 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.2 U/L
+  2002-11-04 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 55.2 U/L
+  2002-11-04 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 52.2 U/L
+  2002-11-04 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.3 mg/dL
+  2002-11-04 : Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+  2002-11-04 : Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+  2002-11-04 : Protein [Mass/volume] in Serum or Plasma 73.6 g/dL
+  2002-11-04 : Glomerular filtration rate/1.73 sq M.predicted 87.5 mL/min
+  2002-11-04 : Carbon Dioxide                           25.9 mmol/L
+  2002-11-04 : Chloride                                 104.9 mmol/L
+  2002-11-04 : Potassium                                4.6 mmol/L
+  2002-11-04 : Sodium                                   141.8 mmol/L
+  2002-11-04 : Calcium                                  9.1 mg/dL
+  2002-11-04 : Creatinine                               2.8 mg/dL
+  2002-11-04 : Urea Nitrogen                            8.6 mg/dL
+  2002-11-04 : Glucose                                  85.7 mg/dL
+  2002-10-21 : Total score [MMSE]                       21.2 (score)
+  2002-10-21 : Tobacco smoking status NHIS              Never smoker 
+  2002-10-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2002-10-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 221.8 fL
+  2002-10-21 : Platelets [#/volume] in Blood by Automated count 224.5 10*3/uL
+  2002-10-21 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2002-10-21 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2002-10-21 : MCH [Entitic mass] by Automated count    31.8 pg
+  2002-10-21 : MCV [Entitic volume] by Automated count  90.7 fL
+  2002-10-21 : Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+  2002-10-21 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2002-10-21 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2002-10-21 : Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+  2002-10-21 : High Density Lipoprotein Cholesterol     64.3 mg/dL
+  2002-10-21 : Low Density Lipoprotein Cholesterol      82.7 mg/dL
+  2002-10-21 : Triglycerides                            126.1 mg/dL
+  2002-10-21 : Total Cholesterol                        172.2 mg/dL
+  2002-10-21 : Blood Pressure
+           - Diastolic Blood Pressure                 74.3 mmHg
+           - Systolic Blood Pressure                  100.9 mmHg
+  2002-10-21 : Body Mass Index                          29.4 kg/m2
+  2002-10-21 : Body Weight                              91.2 kg
+  2002-10-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2002-10-21 : Body Height                              176.1 cm
+  2001-10-15 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.5 U/L
+  2001-10-15 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.9 U/L
+  2001-10-15 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 44.1 U/L
+  2001-10-15 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+  2001-10-15 : Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+  2001-10-15 : Albumin [Mass/volume] in Serum or Plasma 5.5 g/dL
+  2001-10-15 : Protein [Mass/volume] in Serum or Plasma 63.8 g/dL
+  2001-10-15 : Glomerular filtration rate/1.73 sq M.predicted 84.3 mL/min
+  2001-10-15 : Carbon Dioxide                           22.0 mmol/L
+  2001-10-15 : Chloride                                 104.7 mmol/L
+  2001-10-15 : Potassium                                5.0 mmol/L
+  2001-10-15 : Sodium                                   143.8 mmol/L
+  2001-10-15 : Calcium                                  10.1 mg/dL
+  2001-10-15 : Creatinine                               2.8 mg/dL
+  2001-10-15 : Urea Nitrogen                            19.5 mg/dL
+  2001-10-15 : Glucose                                  98.8 mg/dL
+  2001-10-15 : High Density Lipoprotein Cholesterol     47.4 mg/dL
+  2001-10-15 : Low Density Lipoprotein Cholesterol      167.0 mg/dL
+  2001-10-15 : Triglycerides                            277.8 mg/dL
+  2001-10-15 : Total Cholesterol                        233.0 mg/dL
+  2001-10-15 : Tobacco smoking status NHIS              Never smoker 
+  2001-10-15 : Blood Pressure
+           - Diastolic Blood Pressure                 73.9 mmHg
+           - Systolic Blood Pressure                  110.4 mmHg
+  2001-10-15 : Body Mass Index                          29.8 kg/m2
+  2001-10-15 : Body Weight                              92.4 kg
+  2001-10-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2001-10-15 : Body Height                              176.1 cm
+  2000-10-09 : Tobacco smoking status NHIS              Never smoker 
+  2000-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 79.6 mmHg
+           - Systolic Blood Pressure                  122.7 mmHg
+  2000-10-09 : Body Mass Index                          30.2 kg/m2
+  2000-10-09 : Body Weight                              93.7 kg
+  2000-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2000-10-09 : Body Height                              176.1 cm
+  1999-10-04 : Tobacco smoking status NHIS              Never smoker 
+  1999-10-04 : High Density Lipoprotein Cholesterol     62.7 mg/dL
+  1999-10-04 : Low Density Lipoprotein Cholesterol      79.4 mg/dL
+  1999-10-04 : Triglycerides                            132.0 mg/dL
+  1999-10-04 : Total Cholesterol                        168.5 mg/dL
+  1999-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  116.3 mmHg
+  1999-10-04 : Body Mass Index                          30.6 kg/m2
+  1999-10-04 : Body Weight                              94.8 kg
+  1999-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  1999-10-04 : Body Height                              176.1 cm
+  1998-09-28 : Tobacco smoking status NHIS              Never smoker 
+  1998-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  135.8 mmHg
+  1998-09-28 : Body Mass Index                          31.0 kg/m2
+  1998-09-28 : Body Weight                              96.2 kg
+  1998-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  1998-09-28 : Body Height                              176.1 cm
+  1998-05-01 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 360.8 ng/mL
+  1998-05-01 : Polyp size greatest dimension by CAP cancer protocols 16.3 mm
+  1997-09-22 : Tobacco smoking status NHIS              Never smoker 
+  1997-09-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  1997-09-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 160.5 fL
+  1997-09-22 : Platelets [#/volume] in Blood by Automated count 219.6 10*3/uL
+  1997-09-22 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  1997-09-22 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  1997-09-22 : MCH [Entitic mass] by Automated count    27.9 pg
+  1997-09-22 : MCV [Entitic volume] by Automated count  87.7 fL
+  1997-09-22 : Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+  1997-09-22 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  1997-09-22 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  1997-09-22 : Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+  1997-09-22 : Blood Pressure
+           - Diastolic Blood Pressure                 83.2 mmHg
+           - Systolic Blood Pressure                  131.1 mmHg
+  1997-09-22 : Body Mass Index                          31.5 kg/m2
+  1997-09-22 : Body Weight                              97.8 kg
+  1997-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  1997-09-22 : Body Height                              176.1 cm
+  1996-09-16 : Tobacco smoking status NHIS              Never smoker 
+  1996-09-16 : High Density Lipoprotein Cholesterol     70.7 mg/dL
+  1996-09-16 : Low Density Lipoprotein Cholesterol      86.7 mg/dL
+  1996-09-16 : Triglycerides                            122.0 mg/dL
+  1996-09-16 : Total Cholesterol                        181.7 mg/dL
+  1996-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  113.7 mmHg
+  1996-09-16 : Body Mass Index                          32.2 kg/m2
+  1996-09-16 : Body Weight                              99.7 kg
+  1996-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  1996-09-16 : Body Height                              176.1 cm
+  1995-09-11 : Tobacco smoking status NHIS              Never smoker 
+  1995-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  125.7 mmHg
+  1995-09-11 : Body Mass Index                          32.5 kg/m2
+  1995-09-11 : Body Weight                              100.7 kg
+  1995-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  1995-09-11 : Body Height                              176.1 cm
+  1994-09-05 : Tobacco smoking status NHIS              Never smoker 
+  1994-09-05 : Blood Pressure
+           - Diastolic Blood Pressure                 74.4 mmHg
+           - Systolic Blood Pressure                  133.1 mmHg
+  1994-09-05 : Body Mass Index                          32.9 kg/m2
+  1994-09-05 : Body Weight                              101.8 kg
+  1994-09-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  1994-09-05 : Body Height                              176.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2003-09-15 : Coronary artery bypass grafting for Myocardial Infarction
+  2003-09-15 : Percutaneous coronary intervention for Myocardial Infarction
+  2002-10-21 : Documentation of current medications
+  2000-10-09 : Documentation of current medications
+  1999-07-28 : Colonoscopy
+  1998-05-01 : Biopsy of colon for Polyp of colon
+  1998-05-01 : Rectal polypectomy for Polyp of colon
+  1998-05-01 : Fecal occult blood test for Polyp of colon
+  1998-05-01 : Colonoscopy
+  1997-09-22 : Documentation of current medications
+  1996-09-16 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2002-10-21 : Influenza, seasonal, injectable, preservative free
+  2001-10-15 : Influenza, seasonal, injectable, preservative free
+  2000-10-09 : Influenza, seasonal, injectable, preservative free
+  1999-10-04 : Influenza, seasonal, injectable, preservative free
+  1998-09-28 : Influenza, seasonal, injectable, preservative free
+  1997-09-22 : Influenza, seasonal, injectable, preservative free
+  1996-09-16 : Influenza, seasonal, injectable, preservative free
+  1995-09-11 : Influenza, seasonal, injectable, preservative free
+  1994-09-05 : Td (adult) preservative free
+  1994-09-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2003-09-22 : Death Certification
+2003-09-15 : Emergency Encounter
+2002-11-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Hyperlipidemia
+2002-10-21 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2001-11-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Hyperlipidemia
+2001-10-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2000-10-09 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1999-10-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1999-07-28 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1998-09-28 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1998-05-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Polyp of colon
+1998-05-01 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1997-09-22 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1996-09-16 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1995-09-11 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1994-09-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1983-07-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1966-04-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Localized, primary osteoarthritis of the hand
+1959-03-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1925-04-25 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

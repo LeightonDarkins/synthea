@@ -1,0 +1,233 @@
+Marcellus830 Pollich983
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 61
+Birth Date:          1957-11-02
+Marital Status:      M
+Outpatient Provider: NORWOOD HOSPITAL
+Primary Care Provider: 800 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2012-03-15[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-01-09 - 2018-01-23 : Viral sinusitis (disorder)
+  2015-04-30 - 2015-05-21 : Viral sinusitis (disorder)
+  2013-07-08 - 2013-07-16 : Acute viral pharyngitis (disorder)
+  2012-03-15 - 2012-06-13 : Fracture of forearm
+  1999-11-13 -            : Body mass index 40+ - severely obese (finding)
+  1980-01-05 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-03-15[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-12-24 : Lipid Panel
+           - Total Cholesterol                        172.6 mg/dL
+           - Triglycerides                            136.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      69.6 mg/dL
+           - High Density Lipoprotein Cholesterol     75.7 mg/dL
+  2014-12-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+           - MCV [Entitic volume] by Automated count  84.4 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+           - Platelets [#/volume] in Blood by Automated count 273.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 324.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2013-12-07 : Lipid Panel
+           - Total Cholesterol                        191.5 mg/dL
+           - Triglycerides                            147.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.2 mg/dL
+           - High Density Lipoprotein Cholesterol     60.7 mg/dL
+  2010-11-20 : Lipid Panel
+           - Total Cholesterol                        162.8 mg/dL
+           - Triglycerides                            113.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.5 mg/dL
+           - High Density Lipoprotein Cholesterol     71.5 mg/dL
+  2009-11-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  83.3 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 221.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 266.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 72.2 mmHg
+           - Systolic Blood Pressure                  127.4 mmHg
+  2017-12-30 : Body Mass Index                          44.3 kg/m2
+  2017-12-30 : Body Weight                              124.8 kg
+  2017-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2017-12-30 : Body Height                              167.8 cm
+  2016-12-24 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-24 : High Density Lipoprotein Cholesterol     75.7 mg/dL
+  2016-12-24 : Low Density Lipoprotein Cholesterol      69.6 mg/dL
+  2016-12-24 : Triglycerides                            136.6 mg/dL
+  2016-12-24 : Total Cholesterol                        172.6 mg/dL
+  2016-12-24 : Blood Pressure
+           - Diastolic Blood Pressure                 81.6 mmHg
+           - Systolic Blood Pressure                  132.9 mmHg
+  2016-12-24 : Body Mass Index                          44.8 kg/m2
+  2016-12-24 : Body Weight                              126.2 kg
+  2016-12-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-12-24 : Body Height                              167.8 cm
+  2015-12-19 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-19 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  114.8 mmHg
+  2015-12-19 : Body Mass Index                          44.8 kg/m2
+  2015-12-19 : Body Weight                              126.2 kg
+  2015-12-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2015-12-19 : Body Height                              167.8 cm
+  2014-12-13 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2014-12-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 324.7 fL
+  2014-12-13 : Platelets [#/volume] in Blood by Automated count 273.7 10*3/uL
+  2014-12-13 : Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+  2014-12-13 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2014-12-13 : MCH [Entitic mass] by Automated count    29.2 pg
+  2014-12-13 : MCV [Entitic volume] by Automated count  84.4 fL
+  2014-12-13 : Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+  2014-12-13 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2014-12-13 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2014-12-13 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2014-12-13 : Blood Pressure
+           - Diastolic Blood Pressure                 75.7 mmHg
+           - Systolic Blood Pressure                  129.7 mmHg
+  2014-12-13 : Body Mass Index                          44.8 kg/m2
+  2014-12-13 : Body Weight                              126.2 kg
+  2014-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2014-12-13 : Body Height                              167.8 cm
+  2013-12-07 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-07 : High Density Lipoprotein Cholesterol     60.7 mg/dL
+  2013-12-07 : Low Density Lipoprotein Cholesterol      101.2 mg/dL
+  2013-12-07 : Triglycerides                            147.5 mg/dL
+  2013-12-07 : Total Cholesterol                        191.5 mg/dL
+  2013-12-07 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  120.5 mmHg
+  2013-12-07 : Body Mass Index                          44.8 kg/m2
+  2013-12-07 : Body Weight                              126.2 kg
+  2013-12-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2013-12-07 : Body Height                              167.8 cm
+  2013-07-08 : Oral temperature                         37.3 Cel
+  2012-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 86.6 mmHg
+           - Systolic Blood Pressure                  116.9 mmHg
+  2012-12-01 : Body Mass Index                          44.8 kg/m2
+  2012-12-01 : Body Weight                              126.2 kg
+  2012-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2012-12-01 : Body Height                              167.8 cm
+  2012-03-15 : DXA [T-score] Bone density               0.3 {T-score}
+  2011-11-26 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-26 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mmHg
+           - Systolic Blood Pressure                  123.9 mmHg
+  2011-11-26 : Body Mass Index                          44.8 kg/m2
+  2011-11-26 : Body Weight                              126.2 kg
+  2011-11-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2011-11-26 : Body Height                              167.8 cm
+  2010-11-20 : Tobacco smoking status NHIS              Never smoker 
+  2010-11-20 : High Density Lipoprotein Cholesterol     71.5 mg/dL
+  2010-11-20 : Low Density Lipoprotein Cholesterol      68.5 mg/dL
+  2010-11-20 : Triglycerides                            113.9 mg/dL
+  2010-11-20 : Total Cholesterol                        162.8 mg/dL
+  2010-11-20 : Blood Pressure
+           - Diastolic Blood Pressure                 86.5 mmHg
+           - Systolic Blood Pressure                  105.5 mmHg
+  2010-11-20 : Body Mass Index                          44.8 kg/m2
+  2010-11-20 : Body Weight                              126.2 kg
+  2010-11-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2010-11-20 : Body Height                              167.8 cm
+  2009-11-14 : Tobacco smoking status NHIS              Never smoker 
+  2009-11-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2009-11-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 266.1 fL
+  2009-11-14 : Platelets [#/volume] in Blood by Automated count 221.8 10*3/uL
+  2009-11-14 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2009-11-14 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2009-11-14 : MCH [Entitic mass] by Automated count    30.3 pg
+  2009-11-14 : MCV [Entitic volume] by Automated count  83.3 fL
+  2009-11-14 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2009-11-14 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2009-11-14 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2009-11-14 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2009-11-14 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  125.2 mmHg
+  2009-11-14 : Body Mass Index                          44.8 kg/m2
+  2009-11-14 : Body Weight                              126.2 kg
+  2009-11-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2009-11-14 : Body Height                              167.8 cm
+  2008-11-08 : Tobacco smoking status NHIS              Never smoker 
+  2008-11-08 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  122.0 mmHg
+  2008-11-08 : Body Mass Index                          44.8 kg/m2
+  2008-11-08 : Body Weight                              126.2 kg
+  2008-11-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2008-11-08 : Body Height                              167.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-12-24 : Documentation of current medications
+  2013-12-07 : Documentation of current medications
+  2012-03-15 : Bone density scan (procedure) for Fracture of forearm
+  2012-03-15 : Bone immobilization for Fracture of forearm
+  2012-03-15 : Upper arm X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-30 : Influenza, seasonal, injectable, preservative free
+  2016-12-24 : Influenza, seasonal, injectable, preservative free
+  2015-12-19 : Influenza, seasonal, injectable, preservative free
+  2014-12-13 : Influenza, seasonal, injectable, preservative free
+  2013-12-07 : Influenza, seasonal, injectable, preservative free
+  2012-12-01 : Influenza, seasonal, injectable, preservative free
+  2011-11-26 : Influenza, seasonal, injectable, preservative free
+  2010-11-20 : Influenza, seasonal, injectable, preservative free
+  2009-11-14 : Influenza, seasonal, injectable, preservative free
+  2008-11-08 : Td (adult) preservative free
+  2008-11-08 : Influenza, seasonal, injectable, preservative free
+  2008-11-08 : zoster
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2017-12-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-12-24 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-12-19 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-04-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-12-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-12-07 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-07-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2012-12-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2012-06-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Fracture of forearm
+2012-03-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-11-26 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-11-20 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-11-14 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2008-11-08 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+1999-11-13 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+1980-01-05 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2012-03-15 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

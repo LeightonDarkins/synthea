@@ -1,0 +1,276 @@
+Inell560 Denesik803
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 37
+Birth Date:          1981-10-14
+Marital Status:      M
+Outpatient Provider: NEWTON-WELLESLEY HOSPITAL
+Primary Care Provider: 2014 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-09-04[STOPPED] : Jolivette 28 Day Pack
+  2013-09-09[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2012-11-08[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2012-11-08[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2011-04-03[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2009-09-25[STOPPED] : Mirena 52 MG Intrauterine System
+  2008-09-30[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-12-02 - 2016-12-16 : Viral sinusitis (disorder)
+  2016-03-17 - 2016-03-31 : Viral sinusitis (disorder)
+  2012-10-06 - 2012-11-15 : Escherichia coli urinary tract infection
+  2011-04-03 - 2011-04-17 : Acute bronchitis (disorder)
+  2010-12-22 - 2011-08-10 : Normal pregnancy
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-11-08[STOPPED] : Urinary tract infection care
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2011-04-03[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2010-12-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-06-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.4 %
+           - MCV [Entitic volume] by Automated count  81.3 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 287.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 281.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2016-06-01 : Lipid Panel
+           - Total Cholesterol                        177.3 mg/dL
+           - Triglycerides                            139.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.7 mg/dL
+           - High Density Lipoprotein Cholesterol     67.6 mg/dL
+  2013-05-29 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            100.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      89.2 mg/dL
+           - High Density Lipoprotein Cholesterol     72.7 mg/dL
+  2010-05-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+           - MCV [Entitic volume] by Automated count  84.3 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 436.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 261.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-06-01 : Tobacco smoking status NHIS              Former smoker 
+  2016-06-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2016-06-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 281.7 fL
+  2016-06-01 : Platelets [#/volume] in Blood by Automated count 287.2 10*3/uL
+  2016-06-01 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2016-06-01 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2016-06-01 : MCH [Entitic mass] by Automated count    28.8 pg
+  2016-06-01 : MCV [Entitic volume] by Automated count  81.3 fL
+  2016-06-01 : Hematocrit [Volume Fraction] of Blood by Automated count 42.4 %
+  2016-06-01 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2016-06-01 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2016-06-01 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2016-06-01 : High Density Lipoprotein Cholesterol     67.6 mg/dL
+  2016-06-01 : Low Density Lipoprotein Cholesterol      81.7 mg/dL
+  2016-06-01 : Triglycerides                            139.7 mg/dL
+  2016-06-01 : Total Cholesterol                        177.3 mg/dL
+  2016-06-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.2 mmHg
+           - Systolic Blood Pressure                  111.0 mmHg
+  2016-06-01 : Body Mass Index                          25.2 kg/m2
+  2016-06-01 : Body Weight                              72.9 kg
+  2016-06-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-06-01 : Body Height                              170.2 cm
+  2013-05-29 : Tobacco smoking status NHIS              Former smoker 
+  2013-05-29 : High Density Lipoprotein Cholesterol     72.7 mg/dL
+  2013-05-29 : Low Density Lipoprotein Cholesterol      89.2 mg/dL
+  2013-05-29 : Triglycerides                            100.9 mg/dL
+  2013-05-29 : Total Cholesterol                        182.1 mg/dL
+  2013-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 72.7 mmHg
+           - Systolic Blood Pressure                  117.3 mmHg
+  2013-05-29 : Body Mass Index                          23.8 kg/m2
+  2013-05-29 : Body Weight                              69.1 kg
+  2013-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2013-05-29 : Body Height                              170.2 cm
+  2010-05-26 : Tobacco smoking status NHIS              Former smoker 
+  2010-05-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2010-05-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 261.6 fL
+  2010-05-26 : Platelets [#/volume] in Blood by Automated count 436.1 10*3/uL
+  2010-05-26 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2010-05-26 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2010-05-26 : MCH [Entitic mass] by Automated count    27.8 pg
+  2010-05-26 : MCV [Entitic volume] by Automated count  84.3 fL
+  2010-05-26 : Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+  2010-05-26 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2010-05-26 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2010-05-26 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2010-05-26 : Blood Pressure
+           - Diastolic Blood Pressure                 87.5 mmHg
+           - Systolic Blood Pressure                  127.8 mmHg
+  2010-05-26 : Body Mass Index                          22.1 kg/m2
+  2010-05-26 : Body Weight                              64.1 kg
+  2010-05-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2010-05-26 : Body Height                              170.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-05 : Intramuscular injection
+  2018-06-06 : Intramuscular injection
+  2018-03-07 : Intramuscular injection
+  2017-12-06 : Intramuscular injection
+  2017-09-06 : Intramuscular injection
+  2017-08-22 : Insertion of intrauterine contraceptive device
+  2017-06-07 : Intramuscular injection
+  2017-03-08 : Intramuscular injection
+  2016-12-07 : Intramuscular injection
+  2016-09-07 : Intramuscular injection
+  2016-06-08 : Intramuscular injection
+  2016-03-09 : Intramuscular injection
+  2015-12-09 : Intramuscular injection
+  2015-09-09 : Intramuscular injection
+  2015-06-10 : Intramuscular injection
+  2015-03-11 : Intramuscular injection
+  2014-12-10 : Intramuscular injection
+  2014-09-10 : Intramuscular injection
+  2014-06-11 : Intramuscular injection
+  2014-03-12 : Intramuscular injection
+  2013-12-11 : Intramuscular injection
+  2013-09-09 : Intramuscular injection
+  2011-09-21 : Depression screening
+  2011-09-21 : Physical examination following birth
+  2011-09-21 : RhD passive immunization
+  2011-08-10 : Childbirth for Normal pregnancy
+  2011-08-10 : Augmentation of labor for Normal pregnancy
+  2011-08-03 : Auscultation of the fetal heart for Normal pregnancy
+  2011-08-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-07-27 : Auscultation of the fetal heart for Normal pregnancy
+  2011-07-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-07-20 : Auscultation of the fetal heart for Normal pregnancy
+  2011-07-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-07-06 : Auscultation of the fetal heart for Normal pregnancy
+  2011-07-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-07-06 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2011-06-08 : Auscultation of the fetal heart for Normal pregnancy
+  2011-06-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-05-11 : Auscultation of the fetal heart for Normal pregnancy
+  2011-05-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-05-11 : Urine screening for glucose for Normal pregnancy
+  2011-05-11 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2011-05-11 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-05-11 : RhD passive immunization for Normal pregnancy
+  2011-05-11 : Antenatal RhD antibody screening for Normal pregnancy
+  2011-04-13 : Auscultation of the fetal heart for Normal pregnancy
+  2011-04-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-03-16 : Auscultation of the fetal heart for Normal pregnancy
+  2011-03-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-02-16 : Auscultation of the fetal heart for Normal pregnancy
+  2011-02-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-02-16 : Alpha-fetoprotein test for Normal pregnancy
+  2011-02-16 : Fetal anatomy study for Normal pregnancy
+  2011-01-19 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-01-19 : Auscultation of the fetal heart for Normal pregnancy
+  2011-01-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-12-22 : Physical examination of mother for Normal pregnancy
+  2010-12-22 : Urine protein test for Normal pregnancy
+  2010-12-22 : Skin test for tuberculosis for Normal pregnancy
+  2010-12-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2010-12-22 : Rubella screening for Normal pregnancy
+  2010-12-22 : Hepatitis C antibody test for Normal pregnancy
+  2010-12-22 : Urine screening test for diabetes for Normal pregnancy
+  2010-12-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2010-12-22 : Urine culture for Normal pregnancy
+  2010-12-22 : Syphilis infection test for Normal pregnancy
+  2010-12-22 : Gonorrhea infection test for Normal pregnancy
+  2010-12-22 : Chlamydia antigen test for Normal pregnancy
+  2010-12-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2010-12-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2010-12-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2010-12-22 : Blood typing, RH typing for Normal pregnancy
+  2010-12-22 : Auscultation of the fetal heart for Normal pregnancy
+  2010-12-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2010-12-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2010-12-22 : Standard pregnancy test for Normal pregnancy
+  2010-10-20 : Removal of intrauterine device
+  2010-05-26 : Documentation of current medications
+  2009-09-29 : Insertion of intrauterine contraceptive device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-06-01 : Influenza, seasonal, injectable, preservative free
+  2013-05-29 : Td (adult) preservative free
+  2013-05-29 : Influenza, seasonal, injectable, preservative free
+  2010-05-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-05 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2018-06-06 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2018-03-07 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2017-12-06 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2017-09-06 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2017-08-22 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2017-08-19 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2017-06-07 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2017-03-08 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2016-12-07 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2016-12-02 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-09-07 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2016-06-08 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2016-06-01 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2016-03-17 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-03-09 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2015-12-09 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2015-09-09 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2015-06-10 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2015-03-11 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-12-10 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-09-10 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-09-04 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-06-11 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2014-03-12 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2013-12-11 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2013-09-09 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2013-05-29 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2012-10-06 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Escherichia coli urinary tract infection
+2011-09-21 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2011-08-10 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-08-03 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-07-27 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-07-20 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-07-06 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-06-08 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-05-11 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-04-13 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-04-03 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2011-03-16 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-02-16 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2011-01-19 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2010-12-22 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL : Encounter for Normal pregnancy
+2010-10-20 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2010-05-26 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2009-09-29 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2009-09-25 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+2008-09-30 (Dr. Inger271 Bogan287) : Encounter at NEWTON-WELLESLEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

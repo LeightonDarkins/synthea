@@ -1,0 +1,192 @@
+Ema785 Herzog843
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 40
+Birth Date:          1978-05-26
+Marital Status:      M
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1983-06-23 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-04-04[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2010-06-07[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  1983-06-15[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-04-04 - 2016-04-25 : Laceration of foot
+  2011-08-05 - 2011-09-02 : Normal pregnancy
+  2010-08-13 -            : Body mass index 30+ - obesity (finding)
+  2010-06-07 - 2010-07-05 : Whiplash injury to neck
+  1983-06-01 -            : Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-04-04[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2013-10-17[STOPPED] : Surgery care management
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+  2010-06-07[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+  1983-06-23[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+           - MCV [Entitic volume] by Automated count  85.2 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+           - Platelets [#/volume] in Blood by Automated count 205.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 172.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2016-08-19 : Lipid Panel
+           - Total Cholesterol                        185.5 mg/dL
+           - Triglycerides                            107.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.4 mg/dL
+           - High Density Lipoprotein Cholesterol     72.6 mg/dL
+  2013-08-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+           - MCV [Entitic volume] by Automated count  83.0 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.5 fL
+           - Platelets [#/volume] in Blood by Automated count 424.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 426.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2013-08-16 : Lipid Panel
+           - Total Cholesterol                        164.7 mg/dL
+           - Triglycerides                            127.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.8 mg/dL
+           - High Density Lipoprotein Cholesterol     68.4 mg/dL
+  2010-08-13 : Lipid Panel
+           - Total Cholesterol                        171.6 mg/dL
+           - Triglycerides                            116.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.5 mg/dL
+           - High Density Lipoprotein Cholesterol     67.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-24 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2018-08-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 172.7 fL
+  2018-08-24 : Platelets [#/volume] in Blood by Automated count 205.2 10*3/uL
+  2018-08-24 : Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+  2018-08-24 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2018-08-24 : MCH [Entitic mass] by Automated count    30.3 pg
+  2018-08-24 : MCV [Entitic volume] by Automated count  85.2 fL
+  2018-08-24 : Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+  2018-08-24 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2018-08-24 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2018-08-24 : Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+  2018-08-24 : Blood Pressure
+           - Diastolic Blood Pressure                 83.2 mmHg
+           - Systolic Blood Pressure                  102.3 mmHg
+  2018-08-24 : Body Mass Index                          34.1 kg/m2
+  2018-08-24 : Body Weight                              92.8 kg
+  2018-08-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2018-08-24 : Body Height                              165.1 cm
+  2016-08-19 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-19 : High Density Lipoprotein Cholesterol     72.6 mg/dL
+  2016-08-19 : Low Density Lipoprotein Cholesterol      91.4 mg/dL
+  2016-08-19 : Triglycerides                            107.4 mg/dL
+  2016-08-19 : Total Cholesterol                        185.5 mg/dL
+  2016-08-19 : Blood Pressure
+           - Diastolic Blood Pressure                 74.5 mmHg
+           - Systolic Blood Pressure                  133.9 mmHg
+  2016-08-19 : Body Mass Index                          33.3 kg/m2
+  2016-08-19 : Body Weight                              90.7 kg
+  2016-08-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2016-08-19 : Body Height                              165.1 cm
+  2013-08-16 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2013-08-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 426.1 fL
+  2013-08-16 : Platelets [#/volume] in Blood by Automated count 424.9 10*3/uL
+  2013-08-16 : Erythrocyte distribution width [Entitic volume] by Automated count 41.5 fL
+  2013-08-16 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2013-08-16 : MCH [Entitic mass] by Automated count    32.0 pg
+  2013-08-16 : MCV [Entitic volume] by Automated count  83.0 fL
+  2013-08-16 : Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+  2013-08-16 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2013-08-16 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2013-08-16 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2013-08-16 : High Density Lipoprotein Cholesterol     68.4 mg/dL
+  2013-08-16 : Low Density Lipoprotein Cholesterol      70.8 mg/dL
+  2013-08-16 : Triglycerides                            127.3 mg/dL
+  2013-08-16 : Total Cholesterol                        164.7 mg/dL
+  2013-08-16 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  100.0 mmHg
+  2013-08-16 : Body Mass Index                          31.8 kg/m2
+  2013-08-16 : Body Weight                              86.7 kg
+  2013-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2013-08-16 : Body Height                              165.1 cm
+  2010-08-13 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-13 : High Density Lipoprotein Cholesterol     67.8 mg/dL
+  2010-08-13 : Low Density Lipoprotein Cholesterol      80.5 mg/dL
+  2010-08-13 : Triglycerides                            116.4 mg/dL
+  2010-08-13 : Total Cholesterol                        171.6 mg/dL
+  2010-08-13 : Blood Pressure
+           - Diastolic Blood Pressure                 74.6 mmHg
+           - Systolic Blood Pressure                  127.0 mmHg
+  2010-08-13 : Body Mass Index                          30.2 kg/m2
+  2010-08-13 : Body Weight                              82.4 kg
+  2010-08-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2010-08-13 : Body Height                              165.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-24 : Documentation of current medications
+  2016-10-14 : Replacement of contraceptive intrauterine device
+  2016-04-04 : Suture open wound for Laceration of foot
+  2013-10-17 : Bilateral tubal ligation
+  2011-10-14 : Insertion of intrauterine contraceptive device
+  2011-09-02 : Depression screening for Normal pregnancy
+  2011-09-02 : Physical exam following abortion for Normal pregnancy
+  2011-09-02 : Pregnancy termination care for Normal pregnancy
+  2011-08-19 : Induced termination of pregnancy for Normal pregnancy
+  2011-08-19 : Counseling for termination of pregnancy for Normal pregnancy
+  2011-08-05 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-08-05 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-24 : Hep A, adult
+  2018-08-24 : Influenza, seasonal, injectable, preservative free
+  2016-08-19 : Influenza, seasonal, injectable, preservative free
+  2013-08-16 : Influenza, seasonal, injectable, preservative free
+  2010-08-13 : Td (adult) preservative free
+  2010-08-13 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-24 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-10-14 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-08-19 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-04-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-10-17 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-10-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-08-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-10-14 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-10-11 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-09-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2011-08-19 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2011-08-05 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2010-08-13 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-06-07 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+1983-06-23 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+1983-06-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

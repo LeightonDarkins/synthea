@@ -1,0 +1,228 @@
+Ghislaine112 Toy286
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 55
+Birth Date:          1963-08-18
+Marital Status:      M
+Outpatient Provider: HARRINGTON MEMORIAL HOSPITAL-1
+Primary Care Provider: 100 SOUTH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-08-04[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2013-03-26[STOPPED] : Errin 28 Day Pack
+  2011-04-06[STOPPED] : Camila 28 Day Pack
+  2010-04-08[STOPPED] : Mirena 52 MG Intrauterine System
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-08-04 -            : Osteoarthritis of knee
+  2018-04-06 - 2018-04-13 : Viral sinusitis (disorder)
+  2013-08-18 -            : Body mass index 40+ - severely obese (finding)
+  2013-06-10 - 2013-06-24 : Viral sinusitis (disorder)
+  2008-11-02 - 2008-11-23 : Normal pregnancy
+  1997-09-07 -            : Body mass index 30+ - obesity (finding)
+  1997-02-16 - 2008-11-23 : Tubal pregnancy
+  1996-11-03 -            : Miscarriage in first trimester
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-08-04[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-04 : Lipid Panel
+           - Total Cholesterol                        170.7 mg/dL
+           - Triglycerides                            120.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.9 mg/dL
+           - High Density Lipoprotein Cholesterol     60.7 mg/dL
+  2015-08-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+           - MCV [Entitic volume] by Automated count  84.7 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 380.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 229.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2013-08-18 : Lipid Panel
+           - Total Cholesterol                        188.3 mg/dL
+           - Triglycerides                            135.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.2 mg/dL
+           - High Density Lipoprotein Cholesterol     79.0 mg/dL
+  2009-09-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.1 %
+           - MCV [Entitic volume] by Automated count  89.3 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+           - Platelets [#/volume] in Blood by Automated count 239.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 510.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2009-09-06 : Lipid Panel
+           - Total Cholesterol                        175.8 mg/dL
+           - Triglycerides                            110.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.3 mg/dL
+           - High Density Lipoprotein Cholesterol     59.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-16 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  107.5 mmHg
+  2018-09-16 : Body Mass Index                          40.6 kg/m2
+  2018-09-16 : Body Weight                              102.1 kg
+  2018-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2018-09-16 : Body Height                              158.5 cm
+  2018-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 10.0 {score}
+  2017-09-10 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 88.5 mmHg
+           - Systolic Blood Pressure                  117.0 mmHg
+  2017-09-10 : Body Mass Index                          40.6 kg/m2
+  2017-09-10 : Body Weight                              102.1 kg
+  2017-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-09-10 : Body Height                              158.5 cm
+  2016-09-04 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-04 : High Density Lipoprotein Cholesterol     60.7 mg/dL
+  2016-09-04 : Low Density Lipoprotein Cholesterol      85.9 mg/dL
+  2016-09-04 : Triglycerides                            120.7 mg/dL
+  2016-09-04 : Total Cholesterol                        170.7 mg/dL
+  2016-09-04 : Blood Pressure
+           - Diastolic Blood Pressure                 84.2 mmHg
+           - Systolic Blood Pressure                  121.9 mmHg
+  2016-09-04 : Body Mass Index                          40.6 kg/m2
+  2016-09-04 : Body Weight                              102.1 kg
+  2016-09-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2016-09-04 : Body Height                              158.5 cm
+  2015-08-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2015-08-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 229.5 fL
+  2015-08-30 : Platelets [#/volume] in Blood by Automated count 380.9 10*3/uL
+  2015-08-30 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  2015-08-30 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2015-08-30 : MCH [Entitic mass] by Automated count    29.2 pg
+  2015-08-30 : MCV [Entitic volume] by Automated count  84.7 fL
+  2015-08-30 : Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+  2015-08-30 : Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+  2015-08-30 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2015-08-30 : Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+  2015-08-30 : Blood Pressure
+           - Diastolic Blood Pressure                 73.5 mmHg
+           - Systolic Blood Pressure                  122.7 mmHg
+  2015-08-30 : Body Mass Index                          40.6 kg/m2
+  2015-08-30 : Body Weight                              102.1 kg
+  2015-08-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-08-30 : Body Height                              158.5 cm
+  2014-08-24 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-24 : Blood Pressure
+           - Diastolic Blood Pressure                 79.1 mmHg
+           - Systolic Blood Pressure                  124.0 mmHg
+  2014-08-24 : Body Mass Index                          40.6 kg/m2
+  2014-08-24 : Body Weight                              102.1 kg
+  2014-08-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2014-08-24 : Body Height                              158.5 cm
+  2013-08-18 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-18 : High Density Lipoprotein Cholesterol     79.0 mg/dL
+  2013-08-18 : Low Density Lipoprotein Cholesterol      82.2 mg/dL
+  2013-08-18 : Triglycerides                            135.4 mg/dL
+  2013-08-18 : Total Cholesterol                        188.3 mg/dL
+  2013-08-18 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  127.8 mmHg
+  2013-08-18 : Body Mass Index                          40.6 kg/m2
+  2013-08-18 : Body Weight                              102.1 kg
+  2013-08-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2013-08-18 : Body Height                              158.5 cm
+  2011-09-11 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 84.9 mmHg
+           - Systolic Blood Pressure                  104.6 mmHg
+  2011-09-11 : Body Mass Index                          39.9 kg/m2
+  2011-09-11 : Body Weight                              100.4 kg
+  2011-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2011-09-11 : Body Height                              158.5 cm
+  2009-09-06 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2009-09-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 510.2 fL
+  2009-09-06 : Platelets [#/volume] in Blood by Automated count 239.0 10*3/uL
+  2009-09-06 : Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+  2009-09-06 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2009-09-06 : MCH [Entitic mass] by Automated count    31.4 pg
+  2009-09-06 : MCV [Entitic volume] by Automated count  89.3 fL
+  2009-09-06 : Hematocrit [Volume Fraction] of Blood by Automated count 47.1 %
+  2009-09-06 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2009-09-06 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2009-09-06 : Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+  2009-09-06 : High Density Lipoprotein Cholesterol     59.4 mg/dL
+  2009-09-06 : Low Density Lipoprotein Cholesterol      94.3 mg/dL
+  2009-09-06 : Triglycerides                            110.6 mg/dL
+  2009-09-06 : Total Cholesterol                        175.8 mg/dL
+  2009-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 71.7 mmHg
+           - Systolic Blood Pressure                  119.0 mmHg
+  2009-09-06 : Body Mass Index                          38.4 kg/m2
+  2009-09-06 : Body Weight                              96.6 kg
+  2009-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2009-09-06 : Body Height                              158.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-16 : Documentation of current medications
+  2017-09-10 : Documentation of current medications
+  2016-09-04 : Documentation of current medications
+  2014-03-23 : Removal of intrauterine device
+  2011-09-11 : Documentation of current medications
+  2010-04-11 : Insertion of intrauterine contraceptive device
+  2008-11-23 : Depression screening for Normal pregnancy
+  2008-11-23 : Physical examination for Normal pregnancy
+  2008-11-09 : Excision of fallopian tube and surgical removal of ectopic pregnancy for Tubal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-16 : Influenza, seasonal, injectable, preservative free
+  2017-09-10 : Influenza, seasonal, injectable, preservative free
+  2016-09-04 : Influenza, seasonal, injectable, preservative free
+  2015-08-30 : Influenza, seasonal, injectable, preservative free
+  2014-08-24 : Td (adult) preservative free
+  2014-08-24 : Influenza, seasonal, injectable, preservative free
+  2014-08-24 : zoster
+  2013-08-18 : Influenza, seasonal, injectable, preservative free
+  2013-08-18 : zoster
+  2011-09-11 : Influenza, seasonal, injectable, preservative free
+  2009-09-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-16 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2018-08-04 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Osteoarthritis of knee
+2018-04-06 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Viral sinusitis (disorder)
+2017-09-10 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2016-09-04 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2015-08-30 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2014-08-24 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2014-03-23 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2013-08-18 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2013-06-10 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Viral sinusitis (disorder)
+2013-03-26 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2011-09-11 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2011-04-06 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2010-04-11 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2010-04-08 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2009-09-06 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+2008-11-23 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Tubal pregnancy
+2008-11-09 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Tubal pregnancy
+2008-11-02 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Normal pregnancy
+1997-09-07 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1
+1997-02-16 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Normal pregnancy
+1996-11-03 (Dr. Warren653 Bartoletti50) : Encounter at HARRINGTON MEMORIAL HOSPITAL-1 : Encounter for Normal pregnancy
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

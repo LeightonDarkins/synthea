@@ -1,0 +1,164 @@
+Lavonia8 Hackett68
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 50
+Birth Date:          1968-02-26
+Marital Status:      S
+Outpatient Provider: BERKSHIRE MEDICAL CENTER INC - 1
+Primary Care Provider: 725 NORTH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1969-03-04 -            : Allergy to peanuts
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-12-13[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-02-22 - 2015-04-23 : Concussion with no loss of consciousness
+  2013-12-13 - 2013-12-27 : Viral sinusitis (disorder)
+  2010-08-31 - 2010-09-21 : Viral sinusitis (disorder)
+  2002-06-03 -            : Body mass index 30+ - obesity (finding)
+  1993-09-27 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-02-22[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  1969-02-20[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-26 : Lipid Panel
+           - Total Cholesterol                        170.1 mg/dL
+           - Triglycerides                            131.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.8 mg/dL
+           - High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2014-03-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+           - MCV [Entitic volume] by Automated count  80.2 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 264.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 430.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2014-03-17 : Lipid Panel
+           - Total Cholesterol                        190.8 mg/dL
+           - Triglycerides                            133.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.8 mg/dL
+           - High Density Lipoprotein Cholesterol     69.2 mg/dL
+  2010-03-08 : Lipid Panel
+           - Total Cholesterol                        179.0 mg/dL
+           - Triglycerides                            137.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.2 mg/dL
+           - High Density Lipoprotein Cholesterol     72.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-26 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-26 : High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2018-02-26 : Low Density Lipoprotein Cholesterol      70.8 mg/dL
+  2018-02-26 : Triglycerides                            131.7 mg/dL
+  2018-02-26 : Total Cholesterol                        170.1 mg/dL
+  2018-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 72.3 mmHg
+           - Systolic Blood Pressure                  115.3 mmHg
+  2018-02-26 : Body Mass Index                          39.1 kg/m2
+  2018-02-26 : Body Weight                              98.1 kg
+  2018-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2018-02-26 : Body Height                              158.3 cm
+  2016-03-21 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 73.8 mmHg
+           - Systolic Blood Pressure                  126.6 mmHg
+  2016-03-21 : Body Mass Index                          38.7 kg/m2
+  2016-03-21 : Body Weight                              97.0 kg
+  2016-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2016-03-21 : Body Height                              158.3 cm
+  2014-03-17 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2014-03-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 430.4 fL
+  2014-03-17 : Platelets [#/volume] in Blood by Automated count 264.7 10*3/uL
+  2014-03-17 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2014-03-17 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2014-03-17 : MCH [Entitic mass] by Automated count    30.8 pg
+  2014-03-17 : MCV [Entitic volume] by Automated count  80.2 fL
+  2014-03-17 : Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+  2014-03-17 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2014-03-17 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2014-03-17 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2014-03-17 : High Density Lipoprotein Cholesterol     69.2 mg/dL
+  2014-03-17 : Low Density Lipoprotein Cholesterol      94.8 mg/dL
+  2014-03-17 : Triglycerides                            133.5 mg/dL
+  2014-03-17 : Total Cholesterol                        190.8 mg/dL
+  2014-03-17 : Blood Pressure
+           - Diastolic Blood Pressure                 72.8 mmHg
+           - Systolic Blood Pressure                  103.5 mmHg
+  2014-03-17 : Body Mass Index                          37.5 kg/m2
+  2014-03-17 : Body Weight                              94.0 kg
+  2014-03-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2014-03-17 : Body Height                              158.3 cm
+  2012-03-12 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-12 : Blood Pressure
+           - Diastolic Blood Pressure                 86.7 mmHg
+           - Systolic Blood Pressure                  130.8 mmHg
+  2012-03-12 : Body Mass Index                          36.6 kg/m2
+  2012-03-12 : Body Weight                              91.8 kg
+  2012-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2012-03-12 : Body Height                              158.3 cm
+  2010-03-08 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-08 : High Density Lipoprotein Cholesterol     72.3 mg/dL
+  2010-03-08 : Low Density Lipoprotein Cholesterol      79.2 mg/dL
+  2010-03-08 : Triglycerides                            137.6 mg/dL
+  2010-03-08 : Total Cholesterol                        179.0 mg/dL
+  2010-03-08 : Blood Pressure
+           - Diastolic Blood Pressure                 88.8 mmHg
+           - Systolic Blood Pressure                  105.8 mmHg
+  2010-03-08 : Body Mass Index                          35.2 kg/m2
+  2010-03-08 : Body Weight                              88.3 kg
+  2010-03-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2010-03-08 : Body Height                              158.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-12-28 : Replacement of contraceptive intrauterine device
+  2014-03-17 : Documentation of current medications
+  2012-03-12 : Documentation of current medications
+  2010-12-27 : Replacement of contraceptive intrauterine device
+  2010-03-08 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-26 : Influenza, seasonal, injectable, preservative free
+  2018-02-26 : zoster
+  2016-03-21 : Influenza, seasonal, injectable, preservative free
+  2014-03-17 : Influenza, seasonal, injectable, preservative free
+  2012-03-12 : Influenza, seasonal, injectable, preservative free
+  2010-03-08 : Hep A, adult
+  2010-03-08 : Td (adult) preservative free
+  2010-03-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-02-26 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2016-03-21 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2015-12-28 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2015-04-23 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Concussion with no loss of consciousness
+2015-02-22 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2014-03-17 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2013-12-13 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Viral sinusitis (disorder)
+2012-03-12 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2010-12-27 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2010-08-31 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Viral sinusitis (disorder)
+2010-03-08 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2002-06-03 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+1993-09-27 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1 : Encounter for Acute bacterial sinusitis (disorder)
+1969-03-04 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+1969-02-20 (Dr. Henrietta324 Parisian75) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

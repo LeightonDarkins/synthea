@@ -1,0 +1,139 @@
+Ward668 Langworth352
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 31
+Birth Date:          1986-12-30
+Marital Status:      M
+Outpatient Provider: MORTON HOSPITAL
+Primary Care Provider: 88 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-05-09 - 2018-05-16 : Acute viral pharyngitis (disorder)
+  2010-02-18 - 2010-03-11 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-13 : Lipid Panel
+           - Total Cholesterol                        192.0 mg/dL
+           - Triglycerides                            120.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      107.6 mg/dL
+           - High Density Lipoprotein Cholesterol     60.3 mg/dL
+  2015-03-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+           - MCV [Entitic volume] by Automated count  84.1 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 301.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 439.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2009-03-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.8 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 332.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 268.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-09 : Oral temperature                         37.1 Cel
+  2018-03-13 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-13 : High Density Lipoprotein Cholesterol     60.3 mg/dL
+  2018-03-13 : Low Density Lipoprotein Cholesterol      107.6 mg/dL
+  2018-03-13 : Triglycerides                            120.3 mg/dL
+  2018-03-13 : Total Cholesterol                        192.0 mg/dL
+  2018-03-13 : Blood Pressure
+           - Diastolic Blood Pressure                 76.6 mmHg
+           - Systolic Blood Pressure                  119.4 mmHg
+  2018-03-13 : Body Mass Index                          25.1 kg/m2
+  2018-03-13 : Body Weight                              90.8 kg
+  2018-03-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2018-03-13 : Body Height                              190.3 cm
+  2015-03-10 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2015-03-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 439.9 fL
+  2015-03-10 : Platelets [#/volume] in Blood by Automated count 301.3 10*3/uL
+  2015-03-10 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2015-03-10 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2015-03-10 : MCH [Entitic mass] by Automated count    30.6 pg
+  2015-03-10 : MCV [Entitic volume] by Automated count  84.1 fL
+  2015-03-10 : Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+  2015-03-10 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2015-03-10 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2015-03-10 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2015-03-10 : Blood Pressure
+           - Diastolic Blood Pressure                 82.6 mmHg
+           - Systolic Blood Pressure                  136.8 mmHg
+  2015-03-10 : Body Mass Index                          23.9 kg/m2
+  2015-03-10 : Body Weight                              86.5 kg
+  2015-03-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2015-03-10 : Body Height                              190.3 cm
+  2012-03-06 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-06 : Blood Pressure
+           - Diastolic Blood Pressure                 83.2 mmHg
+           - Systolic Blood Pressure                  107.0 mmHg
+  2012-03-06 : Body Mass Index                          22.6 kg/m2
+  2012-03-06 : Body Weight                              81.9 kg
+  2012-03-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2012-03-06 : Body Height                              190.3 cm
+  2009-03-03 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2009-03-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 268.4 fL
+  2009-03-03 : Platelets [#/volume] in Blood by Automated count 332.3 10*3/uL
+  2009-03-03 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2009-03-03 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2009-03-03 : MCH [Entitic mass] by Automated count    30.4 pg
+  2009-03-03 : MCV [Entitic volume] by Automated count  86.0 fL
+  2009-03-03 : Hematocrit [Volume Fraction] of Blood by Automated count 45.8 %
+  2009-03-03 : Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+  2009-03-03 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2009-03-03 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2009-03-03 : Blood Pressure
+           - Diastolic Blood Pressure                 76.6 mmHg
+           - Systolic Blood Pressure                  109.7 mmHg
+  2009-03-03 : Body Mass Index                          21.2 kg/m2
+  2009-03-03 : Body Weight                              76.8 kg
+  2009-03-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2009-03-03 : Body Height                              190.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-05-09 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2018-03-13 : Documentation of current medications
+  2009-03-03 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-13 : Td (adult) preservative free
+  2018-03-13 : Influenza, seasonal, injectable, preservative free
+  2015-03-10 : Influenza, seasonal, injectable, preservative free
+  2012-03-06 : Influenza, seasonal, injectable, preservative free
+  2009-03-03 : meningococcal MCV4P
+  2009-03-03 : Hep B, adult
+  2009-03-03 : Td (adult) preservative free
+  2009-03-03 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-09 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2018-03-13 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2015-03-10 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2012-03-06 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2010-02-18 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2009-03-03 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

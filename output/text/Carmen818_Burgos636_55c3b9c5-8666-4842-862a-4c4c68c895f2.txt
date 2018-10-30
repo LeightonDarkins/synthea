@@ -1,0 +1,278 @@
+Carmen818 Burgos636
+===================
+Race:                Other
+Ethnicity:           Central American
+Gender:              F
+Age:                 27
+Birth Date:          1991-03-18
+Marital Status:      M
+Outpatient Provider: LOWELL GENERAL HOSPITAL
+Primary Care Provider: 295 VARNUM AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-02-14[STOPPED] : Jolivette 28 Day Pack
+  2014-02-24[STOPPED] : Camila 28 Day Pack
+  2014-01-28[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2013-08-20[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2012-02-06[STOPPED] : Jolivette 28 Day Pack
+  2011-02-11[STOPPED] : Jolivette 28 Day Pack
+  2009-12-07[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  2009-02-21[STOPPED] : Jolivette 28 Day Pack
+  2008-02-27[STOPPED] : Yaz 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-04-30 -            : Normal pregnancy
+  2014-09-09 - 2014-09-23 : Viral sinusitis (disorder)
+  2014-02-03 - 2014-02-24 : Normal pregnancy
+  2014-01-28 - 2014-03-04 : First degree burn
+  2013-08-20 - 2013-09-03 : Acute bronchitis (disorder)
+  2012-03-23 -            : Chronic sinusitis (disorder)
+  2012-01-27 - 2012-09-14 : Sinusitis (disorder)
+  2009-12-07 -            : Hypertension
+  2009-07-28 - 2009-08-05 : Acute viral pharyngitis (disorder)
+  1999-03-16 - 2009-03-23 : Child attention deficit disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-04-30[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2014-01-28[STOPPED] : Burn care
+                         Reason: First degree burn
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent sun exposure
+                         Activity: Behavior to prevent infection
+  2013-08-20[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1999-03-16[STOPPED] : Overactivity/inattention behavior management
+                         Reason: Child attention deficit disorder
+                         Activity: Counseling
+                         Activity: Psychological assessment
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-09-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+           - MCV [Entitic volume] by Automated count  84.4 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+           - Platelets [#/volume] in Blood by Automated count 384.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 295.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-09-05 : Tobacco smoking status NHIS              Former smoker 
+  2016-09-05 : Estimated Glomerular Filtration Rate     57.7 mL/min/{1.73_m2}
+  2016-09-05 : Blood Pressure
+           - Diastolic Blood Pressure                 119.3 mmHg
+           - Systolic Blood Pressure                  199.5 mmHg
+  2016-09-05 : Body Mass Index                          20.4 kg/m2
+  2016-09-05 : Body Weight                              58.3 kg
+  2016-09-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2016-09-05 : Body Height                              169.1 cm
+  2013-09-02 : Tobacco smoking status NHIS              Former smoker 
+  2013-09-02 : Estimated Glomerular Filtration Rate     84.9 mL/min/{1.73_m2}
+  2013-09-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2013-09-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 295.8 fL
+  2013-09-02 : Platelets [#/volume] in Blood by Automated count 384.3 10*3/uL
+  2013-09-02 : Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+  2013-09-02 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2013-09-02 : MCH [Entitic mass] by Automated count    29.0 pg
+  2013-09-02 : MCV [Entitic volume] by Automated count  84.4 fL
+  2013-09-02 : Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+  2013-09-02 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2013-09-02 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2013-09-02 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2013-09-02 : Blood Pressure
+           - Diastolic Blood Pressure                 106.0 mmHg
+           - Systolic Blood Pressure                  192.0 mmHg
+  2013-09-02 : Body Mass Index                          19.0 kg/m2
+  2013-09-02 : Body Weight                              54.4 kg
+  2013-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2013-09-02 : Body Height                              169.1 cm
+  2012-07-02 : Tobacco smoking status NHIS              Former smoker 
+  2012-07-02 : Estimated Glomerular Filtration Rate     95.0 mL/min/{1.73_m2}
+  2012-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 103.1 mmHg
+           - Systolic Blood Pressure                  173.0 mmHg
+  2012-07-02 : Body Mass Index                          18.7 kg/m2
+  2012-07-02 : Body Weight                              53.4 kg
+  2012-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2012-07-02 : Body Height                              169.1 cm
+  2012-06-18 : Tobacco smoking status NHIS              Former smoker 
+  2012-06-18 : Estimated Glomerular Filtration Rate     101.2 mL/min/{1.73_m2}
+  2012-06-18 : Blood Pressure
+           - Diastolic Blood Pressure                 108.5 mmHg
+           - Systolic Blood Pressure                  183.0 mmHg
+  2012-06-18 : Body Mass Index                          18.7 kg/m2
+  2012-06-18 : Body Weight                              53.4 kg
+  2012-06-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2012-06-18 : Body Height                              169.1 cm
+  2012-04-23 : Tobacco smoking status NHIS              Former smoker 
+  2012-04-23 : Estimated Glomerular Filtration Rate     153.3 mL/min/{1.73_m2}
+  2012-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 116.2 mmHg
+           - Systolic Blood Pressure                  175.5 mmHg
+  2012-04-23 : Body Mass Index                          18.7 kg/m2
+  2012-04-23 : Body Weight                              53.4 kg
+  2012-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2012-04-23 : Body Height                              169.1 cm
+  2012-04-02 : Tobacco smoking status NHIS              Former smoker 
+  2012-04-02 : Estimated Glomerular Filtration Rate     107.0 mL/min/{1.73_m2}
+  2012-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 92.5 mmHg
+           - Systolic Blood Pressure                  184.8 mmHg
+  2012-04-02 : Body Mass Index                          18.7 kg/m2
+  2012-04-02 : Body Weight                              53.4 kg
+  2012-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2012-04-02 : Body Height                              169.1 cm
+  2010-12-13 : Tobacco smoking status NHIS              Former smoker 
+  2010-12-13 : Estimated Glomerular Filtration Rate     126.1 mL/min/{1.73_m2}
+  2010-12-13 : Blood Pressure
+           - Diastolic Blood Pressure                 90.4 mmHg
+           - Systolic Blood Pressure                  142.9 mmHg
+  2010-12-13 : Body Mass Index                          17.7 kg/m2
+  2010-12-13 : Body Weight                              50.7 kg
+  2010-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-12-13 : Body Height                              169.0 cm
+  2009-12-07 : Tobacco smoking status NHIS              Former smoker 
+  2009-12-07 : Blood Pressure
+           - Diastolic Blood Pressure                 118.9 mmHg
+           - Systolic Blood Pressure                  182.9 mmHg
+  2009-12-07 : Body Mass Index                          17.5 kg/m2
+  2009-12-07 : Body Weight                              50.0 kg
+  2009-12-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2009-12-07 : Body Height                              169.0 cm
+  2009-07-28 : Oral temperature                         37.3 Cel
+  2008-12-01 : Tobacco smoking status NHIS              Former smoker 
+  2008-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 85.8 mmHg
+           - Systolic Blood Pressure                  103.5 mmHg
+  2008-12-01 : Body Mass Index                          17.2 kg/m2
+  2008-12-01 : Body Weight                              49.1 kg
+  2008-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2008-12-01 : Body Height                              168.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-15 : Auscultation of the fetal heart for Normal pregnancy
+  2018-10-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-17 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-17 : Urine screening for glucose for Normal pregnancy
+  2018-09-17 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2018-09-17 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-08-20 : Auscultation of the fetal heart for Normal pregnancy
+  2018-08-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-07-23 : Auscultation of the fetal heart for Normal pregnancy
+  2018-07-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-06-25 : Auscultation of the fetal heart for Normal pregnancy
+  2018-06-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-06-25 : Alpha-fetoprotein test for Normal pregnancy
+  2018-06-25 : Fetal anatomy study for Normal pregnancy
+  2018-05-28 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2018-05-28 : Auscultation of the fetal heart for Normal pregnancy
+  2018-05-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-30 : Physical examination of mother for Normal pregnancy
+  2018-04-30 : Urine protein test for Normal pregnancy
+  2018-04-30 : Skin test for tuberculosis for Normal pregnancy
+  2018-04-30 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2018-04-30 : Rubella screening for Normal pregnancy
+  2018-04-30 : Hepatitis C antibody test for Normal pregnancy
+  2018-04-30 : Urine screening test for diabetes for Normal pregnancy
+  2018-04-30 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2018-04-30 : Urine culture for Normal pregnancy
+  2018-04-30 : Syphilis infection test for Normal pregnancy
+  2018-04-30 : Gonorrhea infection test for Normal pregnancy
+  2018-04-30 : Chlamydia antigen test for Normal pregnancy
+  2018-04-30 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2018-04-30 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2018-04-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-04-30 : Blood typing, RH typing for Normal pregnancy
+  2018-04-30 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-30 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-04-30 : Standard pregnancy test for Normal pregnancy
+  2018-02-26 : Removal of intrauterine device
+  2017-02-11 : Insertion of intrauterine contraceptive device
+  2014-02-24 : Depression screening for Normal pregnancy
+  2014-02-24 : Physical exam following abortion for Normal pregnancy
+  2014-02-24 : Pregnancy termination care for Normal pregnancy
+  2014-02-10 : Induced termination of pregnancy for Normal pregnancy
+  2014-02-10 : Counseling for termination of pregnancy for Normal pregnancy
+  2014-02-03 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-02-03 : Standard pregnancy test for Normal pregnancy
+  2013-09-02 : Documentation of current medications
+  2013-08-20 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2012-06-18 : Documentation of current medications
+  2012-04-02 : Documentation of current medications
+  2010-12-13 : Documentation of current medications
+  2008-12-01 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-09-05 : Influenza, seasonal, injectable, preservative free
+  2013-08-26 : Influenza, seasonal, injectable, preservative free
+  2012-06-18 : Hep B, adult
+  2012-04-23 : Hep B, adult
+  2012-04-02 : meningococcal MCV4P
+  2012-04-02 : Hep B, adult
+  2012-04-02 : Td (adult) preservative free
+  2012-04-02 : Influenza, seasonal, injectable, preservative free
+  2010-12-13 : Influenza, seasonal, injectable, preservative free
+  2009-12-07 : Influenza, seasonal, injectable, preservative free
+  2008-12-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-15 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2018-09-17 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2018-08-20 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2018-07-23 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2018-06-25 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2018-05-28 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2018-04-30 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2018-02-26 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2017-02-11 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2017-02-08 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2016-09-05 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2016-02-14 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2014-09-09 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-03-04 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for First degree burn
+2014-02-24 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2014-02-24 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2014-02-10 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2014-02-03 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2014-01-28 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2013-09-02 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2013-08-20 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Acute bronchitis (disorder)
+2013-08-26 (Dr. Lianne167 Volkman526) : Encounter at SAINTS WALK-IN MEDICAL CENTER - URGENT CARE AND OCCUPATIONAL HEALTH
+2012-07-02 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2012-06-22 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Sinusitis (disorder)
+2012-06-18 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2012-06-08 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Sinusitis (disorder)
+2012-05-04 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Sinusitis (disorder)
+2012-04-20 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Sinusitis (disorder)
+2012-04-23 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2012-04-13 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Sinusitis (disorder)
+2012-04-02 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2012-03-23 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Sinusitis (disorder)
+2012-02-06 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2012-01-27 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Sinusitis (disorder)
+2011-02-11 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2010-12-13 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2009-12-07 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2009-07-28 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2009-02-21 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2008-12-01 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+2008-02-27 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL
+1999-03-16 (Dr. Teri144 Johnston597) : Encounter at LOWELL GENERAL HOSPITAL : Encounter for Child attention deficit disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

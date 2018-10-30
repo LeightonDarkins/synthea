@@ -1,0 +1,153 @@
+Shantay950 Wunsch504
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 1
+Birth Date:          2017-03-21
+Marital Status:      S
+Outpatient Provider: ADCARE HOSPITAL OF WORCESTER INC
+Primary Care Provider: 107 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-06-15[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2017-07-19[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2017-07-19[STOPPED] : Amoxicillin 250 MG Oral Capsule
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-06-15 - 2018-06-28 : Streptococcal sore throat (disorder)
+  2017-07-19 - 2017-08-29 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-03-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+           - MCV [Entitic volume] by Automated count  81.8 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 417.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 337.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-28 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-28 : Blood Pressure
+           - Diastolic Blood Pressure                 75.8 mmHg
+           - Systolic Blood Pressure                  108.0 mmHg
+  2018-08-28 : Body Weight                              12.3 kg
+  2018-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2018-08-28 : Body Height                              75.8 cm
+  2018-06-15 : Oral temperature                         38.1 Cel
+  2018-05-29 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 76.9 mmHg
+           - Systolic Blood Pressure                  104.3 mmHg
+  2018-05-29 : Body Weight                              11.6 kg
+  2018-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2018-05-29 : Body Height                              72.9 cm
+  2018-02-27 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-27 : Blood Pressure
+           - Diastolic Blood Pressure                 87.7 mmHg
+           - Systolic Blood Pressure                  117.2 mmHg
+  2018-02-27 : Body Weight                              10.3 kg
+  2018-02-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2018-02-27 : Body Height                              68.4 cm
+  2017-11-28 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-28 : Blood Pressure
+           - Diastolic Blood Pressure                 74.4 mmHg
+           - Systolic Blood Pressure                  123.1 mmHg
+  2017-11-28 : Body Weight                              9.4 kg
+  2017-11-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2017-11-28 : Body Height                              65.8 cm
+  2017-08-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-29 : Blood Pressure
+           - Diastolic Blood Pressure                 74.6 mmHg
+           - Systolic Blood Pressure                  118.1 mmHg
+  2017-08-29 : Body Weight                              7.9 kg
+  2017-08-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2017-08-29 : Body Height                              61.2 cm
+  2017-06-27 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-27 : Blood Pressure
+           - Diastolic Blood Pressure                 86.5 mmHg
+           - Systolic Blood Pressure                  131.5 mmHg
+  2017-06-27 : Body Weight                              6.0 kg
+  2017-06-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2017-06-27 : Body Height                              55.1 cm
+  2017-04-25 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 75.9 mmHg
+           - Systolic Blood Pressure                  108.8 mmHg
+  2017-04-25 : Body Weight                              4.4 kg
+  2017-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2017-04-25 : Body Height                              48.8 cm
+  2017-03-21 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2017-03-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 337.1 fL
+  2017-03-21 : Platelets [#/volume] in Blood by Automated count 417.4 10*3/uL
+  2017-03-21 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  2017-03-21 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2017-03-21 : MCH [Entitic mass] by Automated count    27.6 pg
+  2017-03-21 : MCV [Entitic volume] by Automated count  81.8 fL
+  2017-03-21 : Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+  2017-03-21 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2017-03-21 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2017-03-21 : Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+  2017-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2017-03-21 : Body Weight                              4.4 kg
+  2017-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2017-03-21 : Body Height                              48.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-05-29 : Documentation of current medications
+  2017-08-29 : Documentation of current medications
+  2017-04-25 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-28 : DTaP
+  2018-05-29 : Hep A, ped/adol, 2 dose
+  2018-05-29 : Pneumococcal conjugate PCV 13
+  2018-05-29 : MMR
+  2018-05-29 : varicella
+  2018-05-29 : Hib (PRP-OMP)
+  2017-11-28 : Hep B, adolescent or pediatric
+  2017-11-28 : Pneumococcal conjugate PCV 13
+  2017-11-28 : DTaP
+  2017-11-28 : Influenza, seasonal, injectable, preservative free
+  2017-11-28 : IPV
+  2017-08-29 : Pneumococcal conjugate PCV 13
+  2017-08-29 : DTaP
+  2017-08-29 : IPV
+  2017-08-29 : rotavirus, monovalent
+  2017-08-29 : Hib (PRP-OMP)
+  2017-06-27 : Pneumococcal conjugate PCV 13
+  2017-06-27 : DTaP
+  2017-06-27 : IPV
+  2017-06-27 : rotavirus, monovalent
+  2017-06-27 : Hib (PRP-OMP)
+  2017-04-25 : Hep B, adolescent or pediatric
+  2017-03-21 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-28 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2018-06-15 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Streptococcal sore throat (disorder)
+2018-05-29 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2018-02-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-11-28 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-08-29 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-07-19 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC : Encounter for Otitis media
+2017-06-27 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-04-25 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+2017-03-21 (Dr. Kara173 O'Connell601) : Encounter at ADCARE HOSPITAL OF WORCESTER INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

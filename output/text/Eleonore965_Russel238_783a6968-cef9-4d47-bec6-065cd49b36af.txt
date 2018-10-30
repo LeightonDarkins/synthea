@@ -1,0 +1,287 @@
+Eleonore965 Russel238
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 9
+Birth Date:          2009-01-23
+Marital Status:      S
+Outpatient Provider: NORWOOD HOSPITAL
+Primary Care Provider: 800 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-03-27[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Acute viral pharyngitis (disorder)
+  2013-12-28[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2013-12-28[STOPPED] : Amoxicillin 250 MG Oral Capsule
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-11-03 - 2015-11-11 : Acute viral pharyngitis (disorder)
+  2015-03-27 - 2015-04-06 : Acute viral pharyngitis (disorder)
+  2013-12-28 - 2015-01-09 : Otitis media
+  2013-01-23 -            : History of appendectomy
+  2013-01-23 -            : Appendicitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-01-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 338.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 412.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2009-01-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+           - MCV [Entitic volume] by Automated count  80.5 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 375.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 474.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-01-26 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 76.1 mmHg
+           - Systolic Blood Pressure                  131.8 mmHg
+  2018-01-26 : Body Mass Index                          13.0 kg/m2
+  2018-01-26 : Body Weight                              24.7 kg
+  2018-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2018-01-26 : Body Height                              138.0 cm
+  2017-01-20 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-20 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  107.5 mmHg
+  2017-01-20 : Body Mass Index                          12.6 kg/m2
+  2017-01-20 : Body Weight                              22.1 kg
+  2017-01-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2017-01-20 : Body Height                              132.3 cm
+  2016-01-15 : Tobacco smoking status NHIS              Never smoker 
+  2016-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 84.1 mmHg
+           - Systolic Blood Pressure                  124.4 mmHg
+  2016-01-15 : Body Mass Index                          12.5 kg/m2
+  2016-01-15 : Body Weight                              19.8 kg
+  2016-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2016-01-15 : Body Height                              125.9 cm
+  2015-11-03 : Oral temperature                         37.3 Cel
+  2015-03-27 : Oral temperature                         37.5 Cel
+  2015-01-09 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2015-01-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 412.1 fL
+  2015-01-09 : Platelets [#/volume] in Blood by Automated count 338.4 10*3/uL
+  2015-01-09 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2015-01-09 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2015-01-09 : MCH [Entitic mass] by Automated count    28.7 pg
+  2015-01-09 : MCV [Entitic volume] by Automated count  90.7 fL
+  2015-01-09 : Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+  2015-01-09 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  2015-01-09 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2015-01-09 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2015-01-09 : Blood Pressure
+           - Diastolic Blood Pressure                 86.4 mmHg
+           - Systolic Blood Pressure                  132.9 mmHg
+  2015-01-09 : Body Mass Index                          12.6 kg/m2
+  2015-01-09 : Body Weight                              17.8 kg
+  2015-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2015-01-09 : Body Height                              118.8 cm
+  2014-01-03 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-03 : Blood Pressure
+           - Diastolic Blood Pressure                 86.7 mmHg
+           - Systolic Blood Pressure                  112.0 mmHg
+  2014-01-03 : Body Mass Index                          12.8 kg/m2
+  2014-01-03 : Body Weight                              15.8 kg
+  2014-01-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-01-03 : Body Height                              111.4 cm
+  2012-12-28 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 70.3 mmHg
+           - Systolic Blood Pressure                  111.6 mmHg
+  2012-12-28 : Body Mass Index                          13.0 kg/m2
+  2012-12-28 : Body Weight                              13.9 kg
+  2012-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2012-12-28 : Body Height                              103.5 cm
+  2012-06-29 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-29 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mmHg
+           - Systolic Blood Pressure                  104.7 mmHg
+  2012-06-29 : Body Mass Index                          13.1 kg/m2
+  2012-06-29 : Body Weight                              13.1 kg
+  2012-06-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2012-06-29 : Body Height                              100.0 cm
+  2011-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  108.6 mmHg
+  2011-12-30 : Body Mass Index                          13.2 kg/m2
+  2011-12-30 : Body Weight                              12.4 kg
+  2011-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2011-12-30 : Body Height                              96.9 cm
+  2011-07-01 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 80.9 mmHg
+           - Systolic Blood Pressure                  130.0 mmHg
+  2011-07-01 : Body Mass Index                          13.6 kg/m2
+  2011-07-01 : Body Weight                              11.7 kg
+  2011-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2011-07-01 : Body Height                              92.7 cm
+  2010-12-31 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-31 : Blood Pressure
+           - Diastolic Blood Pressure                 77.7 mmHg
+           - Systolic Blood Pressure                  134.6 mmHg
+  2010-12-31 : Body Weight                              10.9 kg
+  2010-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2010-12-31 : Body Height                              88.2 cm
+  2010-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  130.9 mmHg
+  2010-07-02 : Body Weight                              9.9 kg
+  2010-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2010-07-02 : Body Height                              82.5 cm
+  2010-04-02 : Tobacco smoking status NHIS              Never smoker 
+  2010-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  127.0 mmHg
+  2010-04-02 : Body Weight                              9.3 kg
+  2010-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2010-04-02 : Body Height                              79.2 cm
+  2010-01-01 : Tobacco smoking status NHIS              Never smoker 
+  2010-01-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.7 mmHg
+           - Systolic Blood Pressure                  113.4 mmHg
+  2010-01-01 : Body Weight                              8.5 kg
+  2010-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2010-01-01 : Body Height                              75.6 cm
+  2009-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 70.4 mmHg
+           - Systolic Blood Pressure                  113.1 mmHg
+  2009-10-02 : Body Weight                              7.5 kg
+  2009-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2009-10-02 : Body Height                              71.4 cm
+  2009-07-03 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-03 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mmHg
+           - Systolic Blood Pressure                  122.5 mmHg
+  2009-07-03 : Body Weight                              6.2 kg
+  2009-07-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2009-07-03 : Body Height                              66.5 cm
+  2009-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2009-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 79.1 mmHg
+           - Systolic Blood Pressure                  120.3 mmHg
+  2009-05-01 : Body Weight                              5.2 kg
+  2009-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2009-05-01 : Body Height                              62.5 cm
+  2009-02-27 : Tobacco smoking status NHIS              Never smoker 
+  2009-02-27 : Blood Pressure
+           - Diastolic Blood Pressure                 71.8 mmHg
+           - Systolic Blood Pressure                  101.6 mmHg
+  2009-02-27 : Body Weight                              3.3 kg
+  2009-02-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2009-02-27 : Body Height                              53.8 cm
+  2009-01-23 : Tobacco smoking status NHIS              Never smoker 
+  2009-01-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2009-01-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 474.2 fL
+  2009-01-23 : Platelets [#/volume] in Blood by Automated count 375.3 10*3/uL
+  2009-01-23 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2009-01-23 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2009-01-23 : MCH [Entitic mass] by Automated count    27.7 pg
+  2009-01-23 : MCV [Entitic volume] by Automated count  80.5 fL
+  2009-01-23 : Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+  2009-01-23 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2009-01-23 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2009-01-23 : Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+  2009-01-23 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2009-01-23 : Body Weight                              3.3 kg
+  2009-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2009-01-23 : Body Height                              53.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-01-26 : Documentation of current medications
+  2015-11-03 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2013-01-23 : Appendectomy for Appendicitis
+  2009-05-01 : Documentation of current medications
+  2009-02-27 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-26 : Influenza, seasonal, injectable, preservative free
+  2017-01-20 : Influenza, seasonal, injectable, preservative free
+  2016-01-15 : Influenza, seasonal, injectable, preservative free
+  2015-01-09 : Influenza, seasonal, injectable, preservative free
+  2014-01-03 : MMR
+  2014-01-03 : DTaP
+  2014-01-03 : Influenza, seasonal, injectable, preservative free
+  2014-01-03 : IPV
+  2014-01-03 : varicella
+  2012-12-28 : Influenza, seasonal, injectable, preservative free
+  2011-12-30 : Influenza, seasonal, injectable, preservative free
+  2011-07-01 : Hep A, ped/adol, 2 dose
+  2010-12-31 : Pneumococcal conjugate PCV 13
+  2010-12-31 : Influenza, seasonal, injectable, preservative free
+  2010-07-02 : Pneumococcal conjugate PCV 13
+  2010-07-02 : DTaP
+  2010-04-02 : Hep A, ped/adol, 2 dose
+  2010-04-02 : Pneumococcal conjugate PCV 13
+  2010-04-02 : MMR
+  2010-04-02 : varicella
+  2010-04-02 : Hib (PRP-OMP)
+  2010-01-01 : Pneumococcal conjugate PCV 13
+  2009-10-02 : Hep B, adolescent or pediatric
+  2009-10-02 : DTaP
+  2009-10-02 : Influenza, seasonal, injectable, preservative free
+  2009-10-02 : IPV
+  2009-07-03 : DTaP
+  2009-07-03 : IPV
+  2009-07-03 : rotavirus, monovalent
+  2009-07-03 : Hib (PRP-OMP)
+  2009-05-01 : DTaP
+  2009-05-01 : IPV
+  2009-05-01 : rotavirus, monovalent
+  2009-05-01 : Hib (PRP-OMP)
+  2009-02-27 : Hep B, adolescent or pediatric
+  2009-01-23 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-26 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2017-01-20 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2016-01-15 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2015-11-03 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2015-03-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2015-01-09 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-12-28 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Otitis media
+2014-01-03 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2013-01-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Appendicitis
+2013-01-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL : Encounter for Appendicitis
+2012-12-28 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2012-06-29 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-12-30 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2011-07-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-12-31 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-07-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-04-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2010-01-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-10-02 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-07-03 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-05-01 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-02-27 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+2009-01-23 (Dr. Bernardine460 Stoltenberg489) : Encounter at NORWOOD HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

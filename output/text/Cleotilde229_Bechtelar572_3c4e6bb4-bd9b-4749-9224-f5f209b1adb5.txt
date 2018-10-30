@@ -1,0 +1,201 @@
+Cleotilde229 Bechtelar572
+=========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 31
+Birth Date:          1986-11-07
+Marital Status:      M
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-11-29[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Cystitis
+  2015-11-29[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Cystitis
+  2015-10-20[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2015-10-20[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+  2015-10-20[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2014-01-14[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2008-06-26[STOPPED] : Seasonique 91 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-09-09 -            : Acute bacterial sinusitis (disorder)
+  2015-10-31 - 2015-12-06 : Cystitis
+  2015-10-20 - 2015-11-24 : Second degree burn
+  2014-11-03 - 2014-11-15 : Acute viral pharyngitis (disorder)
+  2014-01-13 - 2014-01-27 : Viral sinusitis (disorder)
+  2014-01-14 - 2014-01-28 : Facial laceration
+  2010-03-19 - 2010-04-09 : Normal pregnancy
+  2009-10-30 - 2009-11-13 : Normal pregnancy
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-11-29[STOPPED] : Urinary tract infection care
+                         Reason: Cystitis
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2015-10-20[STOPPED] : Burn care
+                         Reason: Second degree burn
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent sun exposure
+                         Activity: Behavior to prevent infection
+  2014-01-14[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2012-06-12[STOPPED] : Surgery care management
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-12-01 : Lipid Panel
+           - Total Cholesterol                        197.1 mg/dL
+           - Triglycerides                            101.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      105.7 mg/dL
+           - High Density Lipoprotein Cholesterol     71.2 mg/dL
+  2014-11-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+           - MCV [Entitic volume] by Automated count  82.0 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+           - Platelets [#/volume] in Blood by Automated count 395.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 216.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2008-11-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+           - MCV [Entitic volume] by Automated count  90.6 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+           - Platelets [#/volume] in Blood by Automated count 318.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 379.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-01 : High Density Lipoprotein Cholesterol     71.2 mg/dL
+  2017-12-01 : Low Density Lipoprotein Cholesterol      105.7 mg/dL
+  2017-12-01 : Triglycerides                            101.1 mg/dL
+  2017-12-01 : Total Cholesterol                        197.1 mg/dL
+  2017-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  122.6 mmHg
+  2017-12-01 : Body Mass Index                          25.7 kg/m2
+  2017-12-01 : Body Weight                              81.8 kg
+  2017-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2017-12-01 : Body Height                              178.3 cm
+  2014-11-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2014-11-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 216.5 fL
+  2014-11-28 : Platelets [#/volume] in Blood by Automated count 395.1 10*3/uL
+  2014-11-28 : Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+  2014-11-28 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2014-11-28 : MCH [Entitic mass] by Automated count    31.2 pg
+  2014-11-28 : MCV [Entitic volume] by Automated count  82.0 fL
+  2014-11-28 : Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+  2014-11-28 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2014-11-28 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2014-11-28 : Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+  2014-11-28 : Blood Pressure
+           - Diastolic Blood Pressure                 85.3 mmHg
+           - Systolic Blood Pressure                  135.2 mmHg
+  2014-11-28 : Body Mass Index                          24.3 kg/m2
+  2014-11-28 : Body Weight                              77.4 kg
+  2014-11-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-11-28 : Body Height                              178.3 cm
+  2014-11-03 : Oral temperature                         37.6 Cel
+  2011-11-25 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-25 : Blood Pressure
+           - Diastolic Blood Pressure                 80.4 mmHg
+           - Systolic Blood Pressure                  108.0 mmHg
+  2011-11-25 : Body Mass Index                          22.8 kg/m2
+  2011-11-25 : Body Weight                              72.4 kg
+  2011-11-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2011-11-25 : Body Height                              178.3 cm
+  2008-11-21 : Tobacco smoking status NHIS              Never smoker 
+  2008-11-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2008-11-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 379.5 fL
+  2008-11-21 : Platelets [#/volume] in Blood by Automated count 318.4 10*3/uL
+  2008-11-21 : Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+  2008-11-21 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2008-11-21 : MCH [Entitic mass] by Automated count    32.8 pg
+  2008-11-21 : MCV [Entitic volume] by Automated count  90.6 fL
+  2008-11-21 : Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+  2008-11-21 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2008-11-21 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2008-11-21 : Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+  2008-11-21 : Blood Pressure
+           - Diastolic Blood Pressure                 76.1 mmHg
+           - Systolic Blood Pressure                  112.9 mmHg
+  2008-11-21 : Body Mass Index                          21.2 kg/m2
+  2008-11-21 : Body Weight                              67.3 kg
+  2008-11-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2008-11-21 : Body Height                              178.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-12-01 : Documentation of current medications
+  2014-11-28 : Documentation of current medications
+  2014-11-03 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2014-01-14 : Suture open wound for Facial laceration
+  2012-06-12 : Bilateral tubal ligation
+  2010-04-09 : Depression screening for Normal pregnancy
+  2010-04-09 : Physical exam following abortion for Normal pregnancy
+  2010-04-09 : Pregnancy termination care for Normal pregnancy
+  2010-04-09 : RhD passive immunization for Normal pregnancy
+  2010-04-02 : Induced termination of pregnancy for Normal pregnancy
+  2010-04-02 : Counseling for termination of pregnancy for Normal pregnancy
+  2010-03-19 : Ultrasound scan for fetal viability for Normal pregnancy
+  2010-03-19 : Standard pregnancy test for Normal pregnancy
+  2009-11-13 : Depression screening for Normal pregnancy
+  2009-11-13 : Physical exam following abortion for Normal pregnancy
+  2009-11-13 : Pregnancy termination care for Normal pregnancy
+  2009-11-13 : RhD passive immunization for Normal pregnancy
+  2009-11-06 : Induced termination of pregnancy for Normal pregnancy
+  2009-11-06 : Counseling for termination of pregnancy for Normal pregnancy
+  2009-10-30 : Ultrasound scan for fetal viability for Normal pregnancy
+  2009-10-30 : Standard pregnancy test for Normal pregnancy
+  2008-11-21 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-01 : Td (adult) preservative free
+  2017-12-01 : Influenza, seasonal, injectable, preservative free
+  2014-11-28 : Influenza, seasonal, injectable, preservative free
+  2011-11-25 : Influenza, seasonal, injectable, preservative free
+  2008-11-21 : meningococcal MCV4P
+  2008-11-21 : Hep B, adult
+  2008-11-21 : Td (adult) preservative free
+  2008-11-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2017-12-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-11-24 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Second degree burn
+2015-10-31 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Cystitis
+2015-10-20 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-11-28 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2014-11-03 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2014-01-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-01-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-06-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-06-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-11-25 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-04-09 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2010-04-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2010-03-19 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2009-11-13 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2009-11-06 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2009-10-30 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Normal pregnancy
+2008-11-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2008-06-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

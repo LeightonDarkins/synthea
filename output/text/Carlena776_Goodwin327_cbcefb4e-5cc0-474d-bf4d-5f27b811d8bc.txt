@@ -1,0 +1,244 @@
+Carlena776 Goodwin327
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2001-10-10
+Marital Status:      S
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-09-21[CURRENT] : Seasonique 91 Day Pack
+  2016-11-03[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2016-06-08[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2016-01-12[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2014-06-04[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2009-04-01[STOPPED] : Ibuprofen 100 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-01-12 -            : Impacted molars
+  2014-06-04 - 2014-06-18 : Sprain of ankle
+  2013-02-16 - 2013-02-24 : Acute viral pharyngitis (disorder)
+  2012-06-11 - 2012-06-18 : Acute viral pharyngitis (disorder)
+  2010-05-10 - 2010-05-21 : Acute viral pharyngitis (disorder)
+  2009-06-02 - 2009-06-11 : Acute viral pharyngitis (disorder)
+  2009-04-01 - 2009-05-31 : Fracture of forearm
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-06-04[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2009-04-01[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-09-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.0 %
+           - MCV [Entitic volume] by Automated count  91.9 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+           - Platelets [#/volume] in Blood by Automated count 411.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 222.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-08-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+           - MCV [Entitic volume] by Automated count  82.4 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 210.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 324.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 74.2 mmHg
+           - Systolic Blood Pressure                  108.1 mmHg
+  2018-09-26 : Body Mass Index                          19.3 kg/m2
+  2018-09-26 : Body Weight                              49.9 kg
+  2018-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-09-26 : Body Height                              160.8 cm
+  2018-02-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2017-09-20 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2017-09-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 222.5 fL
+  2017-09-20 : Platelets [#/volume] in Blood by Automated count 411.9 10*3/uL
+  2017-09-20 : Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+  2017-09-20 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2017-09-20 : MCH [Entitic mass] by Automated count    30.6 pg
+  2017-09-20 : MCV [Entitic volume] by Automated count  91.9 fL
+  2017-09-20 : Hematocrit [Volume Fraction] of Blood by Automated count 40.0 %
+  2017-09-20 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2017-09-20 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2017-09-20 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2017-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 75.6 mmHg
+           - Systolic Blood Pressure                  113.6 mmHg
+  2017-09-20 : Body Mass Index                          18.9 kg/m2
+  2017-09-20 : Body Weight                              48.5 kg
+  2017-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2017-09-20 : Body Height                              160.4 cm
+  2016-11-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.1 {score}
+  2016-09-14 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 72.6 mmHg
+           - Systolic Blood Pressure                  106.6 mmHg
+  2016-09-14 : Body Mass Index                          18.2 kg/m2
+  2016-09-14 : Body Weight                              46.3 kg
+  2016-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2016-09-14 : Body Height                              159.6 cm
+  2016-06-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2016-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.3 {score}
+  2015-09-09 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-09 : Blood Pressure
+           - Diastolic Blood Pressure                 88.5 mmHg
+           - Systolic Blood Pressure                  123.7 mmHg
+  2015-09-09 : Body Mass Index                          17.4 kg/m2
+  2015-09-09 : Body Weight                              43.5 kg
+  2015-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2015-09-09 : Body Height                              157.9 cm
+  2014-09-03 : Tobacco smoking status NHIS              Never smoker 
+  2014-09-03 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mmHg
+           - Systolic Blood Pressure                  112.8 mmHg
+  2014-09-03 : Body Mass Index                          16.8 kg/m2
+  2014-09-03 : Body Weight                              40.0 kg
+  2014-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2014-09-03 : Body Height                              154.3 cm
+  2013-08-28 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-28 : Blood Pressure
+           - Diastolic Blood Pressure                 75.8 mmHg
+           - Systolic Blood Pressure                  107.3 mmHg
+  2013-08-28 : Body Mass Index                          16.5 kg/m2
+  2013-08-28 : Body Weight                              36.1 kg
+  2013-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2013-08-28 : Body Height                              147.8 cm
+  2013-02-16 : Oral temperature                         37.3 Cel
+  2012-08-22 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2012-08-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 324.7 fL
+  2012-08-22 : Platelets [#/volume] in Blood by Automated count 210.9 10*3/uL
+  2012-08-22 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2012-08-22 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2012-08-22 : MCH [Entitic mass] by Automated count    31.1 pg
+  2012-08-22 : MCV [Entitic volume] by Automated count  82.4 fL
+  2012-08-22 : Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+  2012-08-22 : Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+  2012-08-22 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2012-08-22 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2012-08-22 : Blood Pressure
+           - Diastolic Blood Pressure                 86.9 mmHg
+           - Systolic Blood Pressure                  131.2 mmHg
+  2012-08-22 : Body Mass Index                          16.3 kg/m2
+  2012-08-22 : Body Weight                              32.2 kg
+  2012-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2012-08-22 : Body Height                              140.8 cm
+  2012-06-11 : Oral temperature                         37.3 Cel
+  2011-08-17 : Tobacco smoking status NHIS              Never smoker 
+  2011-08-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.6 mmHg
+           - Systolic Blood Pressure                  133.2 mmHg
+  2011-08-17 : Body Mass Index                          15.7 kg/m2
+  2011-08-17 : Body Weight                              28.6 kg
+  2011-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-08-17 : Body Height                              135.2 cm
+  2010-08-11 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-11 : Blood Pressure
+           - Diastolic Blood Pressure                 73.2 mmHg
+           - Systolic Blood Pressure                  103.2 mmHg
+  2010-08-11 : Body Mass Index                          14.9 kg/m2
+  2010-08-11 : Body Weight                              25.2 kg
+  2010-08-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2010-08-11 : Body Height                              129.8 cm
+  2010-05-10 : Oral temperature                         37.6 Cel
+  2009-08-05 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-05 : Blood Pressure
+           - Diastolic Blood Pressure                 78.1 mmHg
+           - Systolic Blood Pressure                  120.5 mmHg
+  2009-08-05 : Body Mass Index                          14.5 kg/m2
+  2009-08-05 : Body Weight                              22.5 kg
+  2009-08-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2009-08-05 : Body Height                              124.5 cm
+  2009-06-02 : Oral temperature                         37.8 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-09-20 : Documentation of current medications
+  2016-11-03 : Extraction of wisdom tooth
+  2016-06-08 : Extraction of wisdom tooth
+  2016-01-12 : Extraction of wisdom tooth
+  2013-08-28 : Documentation of current medications
+  2013-02-16 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2012-08-22 : Documentation of current medications
+  2012-06-11 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2011-08-17 : Documentation of current medications
+  2010-05-10 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2009-06-02 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2009-04-01 : Bone immobilization for Fracture of forearm
+  2009-04-01 : Upper arm X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-26 : meningococcal MCV4P
+  2018-09-26 : Influenza, seasonal, injectable, preservative free
+  2017-09-20 : Influenza, seasonal, injectable, preservative free
+  2016-09-14 : Influenza, seasonal, injectable, preservative free
+  2015-09-09 : HPV, quadrivalent
+  2015-09-09 : Influenza, seasonal, injectable, preservative free
+  2014-09-03 : HPV, quadrivalent
+  2014-09-03 : Influenza, seasonal, injectable, preservative free
+  2013-08-28 : meningococcal MCV4P
+  2013-08-28 : HPV, quadrivalent
+  2013-08-28 : Influenza, seasonal, injectable, preservative free
+  2013-08-28 : Tdap
+  2012-08-22 : Influenza, seasonal, injectable, preservative free
+  2011-08-17 : Influenza, seasonal, injectable, preservative free
+  2010-08-11 : Influenza, seasonal, injectable, preservative free
+  2009-08-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-09-21 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2018-09-26 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2018-02-25 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-09-20 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-06-30 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-05-31 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-05-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-04-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-03-02 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-11-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Impacted molars
+2016-09-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-06-08 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Impacted molars
+2016-01-12 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Impacted molars
+2015-09-09 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-09-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-06-04 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-08-28 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-02-16 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2012-08-22 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-06-11 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2011-08-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-08-11 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-05-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2009-08-05 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-06-02 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2009-05-31 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Fracture of forearm
+2009-04-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2009-04-01 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

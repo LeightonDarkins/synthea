@@ -1,0 +1,377 @@
+Alise864 Tillman293
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 34
+Birth Date:          1984-09-04
+Marital Status:      S
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-10-29[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2015-09-04[STOPPED] : Jolivette 28 Day Pack
+  2014-09-09[STOPPED] : Errin 28 Day Pack
+  2010-08-10[STOPPED] : Mirena 52 MG Intrauterine System
+  2010-03-22[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2008-08-20[STOPPED] : Seasonique 91 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-02-27 - 2018-10-02 : Normal pregnancy
+  2017-10-29 - 2017-11-19 : Viral sinusitis (disorder)
+  2017-02-14 - 2017-09-19 : Normal pregnancy
+  2014-06-10 - 2014-07-29 : Preeclampsia
+  2013-12-24 - 2014-07-29 : Normal pregnancy
+  2012-05-15 - 2012-06-05 : Antepartum eclampsia
+  2011-11-01 - 2012-06-05 : Normal pregnancy
+  2010-03-22 - 2010-04-19 : Whiplash injury to neck
+  2008-04-15 -            : Miscarriage in first trimester
+  1998-09-03 -            : History of appendectomy
+  1998-09-03 -            : Appendicitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-02-27[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2017-02-14[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-12-24[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2011-11-01[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2010-03-22[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-13 : Lipid Panel
+           - Total Cholesterol                        192.4 mg/dL
+           - Triglycerides                            101.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      102.1 mg/dL
+           - High Density Lipoprotein Cholesterol     70.0 mg/dL
+  2013-09-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.6 %
+           - MCV [Entitic volume] by Automated count  80.1 fL
+           - MCH [Entitic mass] by Automated count    28.6 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 321.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 339.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-09-13 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-13 : High Density Lipoprotein Cholesterol     70.0 mg/dL
+  2016-09-13 : Low Density Lipoprotein Cholesterol      102.1 mg/dL
+  2016-09-13 : Triglycerides                            101.8 mg/dL
+  2016-09-13 : Total Cholesterol                        192.4 mg/dL
+  2016-09-13 : Blood Pressure
+           - Diastolic Blood Pressure                 73.9 mmHg
+           - Systolic Blood Pressure                  121.8 mmHg
+  2016-09-13 : Body Mass Index                          26.2 kg/m2
+  2016-09-13 : Body Weight                              80.9 kg
+  2016-09-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2016-09-13 : Body Height                              175.9 cm
+  2013-09-10 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2013-09-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 339.5 fL
+  2013-09-10 : Platelets [#/volume] in Blood by Automated count 321.4 10*3/uL
+  2013-09-10 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2013-09-10 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2013-09-10 : MCH [Entitic mass] by Automated count    28.6 pg
+  2013-09-10 : MCV [Entitic volume] by Automated count  80.1 fL
+  2013-09-10 : Hematocrit [Volume Fraction] of Blood by Automated count 43.6 %
+  2013-09-10 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  2013-09-10 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2013-09-10 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2013-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  138.5 mmHg
+  2013-09-10 : Body Mass Index                          24.0 kg/m2
+  2013-09-10 : Body Weight                              74.3 kg
+  2013-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2013-09-10 : Body Height                              175.9 cm
+  2010-09-07 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 73.9 mmHg
+           - Systolic Blood Pressure                  128.7 mmHg
+  2010-09-07 : Body Mass Index                          22.5 kg/m2
+  2010-09-07 : Body Weight                              69.6 kg
+  2010-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2010-09-07 : Body Height                              175.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-02 : Childbirth for Normal pregnancy
+  2018-09-25 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-11 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-11 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2018-08-14 : Auscultation of the fetal heart for Normal pregnancy
+  2018-08-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-07-17 : Auscultation of the fetal heart for Normal pregnancy
+  2018-07-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-07-17 : Urine screening for glucose for Normal pregnancy
+  2018-07-17 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2018-07-17 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-06-19 : Auscultation of the fetal heart for Normal pregnancy
+  2018-06-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-05-22 : Auscultation of the fetal heart for Normal pregnancy
+  2018-05-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-24 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-24 : Alpha-fetoprotein test for Normal pregnancy
+  2018-04-24 : Fetal anatomy study for Normal pregnancy
+  2018-03-27 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2018-03-27 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-27 : Physical examination of mother for Normal pregnancy
+  2018-02-27 : Urine protein test for Normal pregnancy
+  2018-02-27 : Skin test for tuberculosis for Normal pregnancy
+  2018-02-27 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2018-02-27 : Rubella screening for Normal pregnancy
+  2018-02-27 : Hepatitis C antibody test for Normal pregnancy
+  2018-02-27 : Urine screening test for diabetes for Normal pregnancy
+  2018-02-27 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2018-02-27 : Urine culture for Normal pregnancy
+  2018-02-27 : Syphilis infection test for Normal pregnancy
+  2018-02-27 : Gonorrhea infection test for Normal pregnancy
+  2018-02-27 : Chlamydia antigen test for Normal pregnancy
+  2018-02-27 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2018-02-27 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2018-02-27 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-02-27 : Blood typing, RH typing for Normal pregnancy
+  2018-02-27 : Auscultation of the fetal heart for Normal pregnancy
+  2018-02-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-27 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-02-27 : Standard pregnancy test for Normal pregnancy
+  2017-10-31 : Depression screening
+  2017-10-31 : Physical examination following birth
+  2017-09-19 : Childbirth for Normal pregnancy
+  2017-09-19 : Medical induction of labor for Normal pregnancy
+  2017-09-12 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-29 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-29 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-08-01 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-04 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-04 : Urine screening for glucose for Normal pregnancy
+  2017-07-04 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-07-04 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-06-06 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-05-09 : Auscultation of the fetal heart for Normal pregnancy
+  2017-05-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-11 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-11 : Alpha-fetoprotein test for Normal pregnancy
+  2017-04-11 : Fetal anatomy study for Normal pregnancy
+  2017-03-14 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-03-14 : Auscultation of the fetal heart for Normal pregnancy
+  2017-03-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-14 : Physical examination of mother for Normal pregnancy
+  2017-02-14 : Urine protein test for Normal pregnancy
+  2017-02-14 : Skin test for tuberculosis for Normal pregnancy
+  2017-02-14 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-02-14 : Rubella screening for Normal pregnancy
+  2017-02-14 : Hepatitis C antibody test for Normal pregnancy
+  2017-02-14 : Urine screening test for diabetes for Normal pregnancy
+  2017-02-14 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-02-14 : Urine culture for Normal pregnancy
+  2017-02-14 : Syphilis infection test for Normal pregnancy
+  2017-02-14 : Gonorrhea infection test for Normal pregnancy
+  2017-02-14 : Chlamydia antigen test for Normal pregnancy
+  2017-02-14 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-02-14 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-02-14 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-02-14 : Blood typing, RH typing for Normal pregnancy
+  2017-02-14 : Auscultation of the fetal heart for Normal pregnancy
+  2017-02-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-14 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-02-14 : Standard pregnancy test for Normal pregnancy
+  2014-09-09 : Depression screening
+  2014-09-09 : Physical examination following birth
+  2014-07-29 : Childbirth for Normal pregnancy
+  2014-07-29 : Medical induction of labor for Normal pregnancy
+  2014-07-22 : Auscultation of the fetal heart for Normal pregnancy
+  2014-07-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-07-08 : Auscultation of the fetal heart for Normal pregnancy
+  2014-07-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-07-08 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-06-10 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-05-13 : Auscultation of the fetal heart for Normal pregnancy
+  2014-05-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-05-13 : Urine screening for glucose for Normal pregnancy
+  2014-05-13 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-05-13 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-04-15 : Auscultation of the fetal heart for Normal pregnancy
+  2014-04-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-03-18 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-18 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-18 : Alpha-fetoprotein test for Normal pregnancy
+  2014-02-18 : Fetal anatomy study for Normal pregnancy
+  2014-01-21 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2014-01-21 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-12-24 : Physical examination of mother for Normal pregnancy
+  2013-12-24 : Urine protein test for Normal pregnancy
+  2013-12-24 : Skin test for tuberculosis for Normal pregnancy
+  2013-12-24 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-12-24 : Rubella screening for Normal pregnancy
+  2013-12-24 : Hepatitis C antibody test for Normal pregnancy
+  2013-12-24 : Urine screening test for diabetes for Normal pregnancy
+  2013-12-24 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-12-24 : Urine culture for Normal pregnancy
+  2013-12-24 : Syphilis infection test for Normal pregnancy
+  2013-12-24 : Gonorrhea infection test for Normal pregnancy
+  2013-12-24 : Chlamydia antigen test for Normal pregnancy
+  2013-12-24 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-12-24 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-12-24 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-12-24 : Blood typing, RH typing for Normal pregnancy
+  2013-12-24 : Auscultation of the fetal heart for Normal pregnancy
+  2013-12-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-12-24 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-12-24 : Standard pregnancy test for Normal pregnancy
+  2012-07-17 : Depression screening
+  2012-07-17 : Physical examination following birth
+  2012-06-05 : Cesarean section for Normal pregnancy
+  2012-06-05 : Epidural anesthesia for Normal pregnancy
+  2012-05-29 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-15 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-15 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-04-17 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-20 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-20 : Urine screening for glucose for Normal pregnancy
+  2012-03-20 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-03-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-02-21 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-24 : Auscultation of the fetal heart for Normal pregnancy
+  2012-01-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-12-27 : Auscultation of the fetal heart for Normal pregnancy
+  2011-12-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-12-27 : Alpha-fetoprotein test for Normal pregnancy
+  2011-12-27 : Fetal anatomy study for Normal pregnancy
+  2011-11-29 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-11-29 : Auscultation of the fetal heart for Normal pregnancy
+  2011-11-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-11-01 : Physical examination of mother for Normal pregnancy
+  2011-11-01 : Urine protein test for Normal pregnancy
+  2011-11-01 : Skin test for tuberculosis for Normal pregnancy
+  2011-11-01 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-11-01 : Rubella screening for Normal pregnancy
+  2011-11-01 : Hepatitis C antibody test for Normal pregnancy
+  2011-11-01 : Urine screening test for diabetes for Normal pregnancy
+  2011-11-01 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-11-01 : Urine culture for Normal pregnancy
+  2011-11-01 : Syphilis infection test for Normal pregnancy
+  2011-11-01 : Gonorrhea infection test for Normal pregnancy
+  2011-11-01 : Chlamydia antigen test for Normal pregnancy
+  2011-11-01 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-11-01 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-11-01 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-11-01 : Blood typing, RH typing for Normal pregnancy
+  2011-11-01 : Auscultation of the fetal heart for Normal pregnancy
+  2011-11-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-11-01 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-11-01 : Standard pregnancy test for Normal pregnancy
+  2011-08-30 : Removal of intrauterine device
+  2010-08-13 : Insertion of intrauterine contraceptive device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-09-13 : Td (adult) preservative free
+  2016-09-13 : Influenza, seasonal, injectable, preservative free
+  2013-09-10 : Influenza, seasonal, injectable, preservative free
+  2010-09-07 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-09-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-09-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-08-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-07-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-06-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-05-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-04-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-03-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2018-02-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-10-29 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2017-10-31 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-09-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-09-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-08-29 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-08-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-07-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-06-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-05-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-04-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-03-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2017-02-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-09-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-09-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-09-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-09-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-07-29 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-07-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-07-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-06-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-05-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-03-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-02-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2014-01-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-12-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2013-09-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-07-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-06-05 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2012-05-29 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2012-05-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2012-04-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2012-03-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2012-02-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2012-01-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2011-12-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2011-11-29 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2011-11-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2011-08-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-09-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-08-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-08-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-03-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2008-08-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2008-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+1998-09-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Appendicitis
+1998-09-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Appendicitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

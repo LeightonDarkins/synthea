@@ -1,0 +1,271 @@
+Jalisa590 Murphy561
+===================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 36
+Birth Date:          1982-03-13
+Marital Status:      M
+Outpatient Provider: NASHOBA VALLEY MEDICAL CENTER
+Primary Care Provider: 200 GROTON ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1984-04-09 -            : Dander (animal) allergy
+  1984-04-09 -            : Allergy to bee venom
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-11-29[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2016-04-11[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2016-03-02[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2015-10-13[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2013-12-05[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2012-12-10[STOPPED] : Errin 28 Day Pack
+  2011-12-16[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2010-12-21[STOPPED] : Jolivette 28 Day Pack
+  2008-12-31[STOPPED] : Etonogestrel 68 MG Drug Implant
+  1984-04-02[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-12-19 - 2016-12-26 : Viral sinusitis (disorder)
+  2016-04-11 - 2016-05-02 : Laceration of thigh
+  2016-03-02 - 2016-03-16 : Acute bronchitis (disorder)
+  2015-10-13 - 2015-10-20 : Viral sinusitis (disorder)
+  2007-12-08 -            : Prediabetes
+  1984-03-19 -            : Seasonal allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-04-11[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2016-03-02[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2007-12-08[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1984-04-09[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-12-24 : Lipid Panel
+           - Total Cholesterol                        192.8 mg/dL
+           - Triglycerides                            132.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      100.5 mg/dL
+           - High Density Lipoprotein Cholesterol     65.7 mg/dL
+  2016-12-24 : Basic Metabolic Panel
+           - Glucose                                  83.3 mg/dL
+           - Urea Nitrogen                            18.8 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   143.9 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.8 mmol/L
+           - Carbon Dioxide                           24.2 mmol/L
+  2016-03-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    28.1 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.1 fL
+           - Platelets [#/volume] in Blood by Automated count 233.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 216.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2016-03-19 : Basic Metabolic Panel
+           - Glucose                                  65.8 mg/dL
+           - Urea Nitrogen                            14.6 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   140.5 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 109.3 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2013-12-14 : Lipid Panel
+           - Total Cholesterol                        174.5 mg/dL
+           - Triglycerides                            141.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      71.1 mg/dL
+           - High Density Lipoprotein Cholesterol     75.1 mg/dL
+  2013-12-14 : Basic Metabolic Panel
+           - Glucose                                  64.3 mg/dL
+           - Urea Nitrogen                            14.5 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   137.5 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+  2010-12-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+           - MCV [Entitic volume] by Automated count  88.3 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 449.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 397.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2010-12-11 : Basic Metabolic Panel
+           - Glucose                                  88.0 mg/dL
+           - Urea Nitrogen                            15.7 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   143.8 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 108.4 mmol/L
+           - Carbon Dioxide                           20.1 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-12-24 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2016-12-24 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-24 : High Density Lipoprotein Cholesterol     65.7 mg/dL
+  2016-12-24 : Low Density Lipoprotein Cholesterol      100.5 mg/dL
+  2016-12-24 : Triglycerides                            132.9 mg/dL
+  2016-12-24 : Total Cholesterol                        192.8 mg/dL
+  2016-12-24 : Carbon Dioxide                           24.2 mmol/L
+  2016-12-24 : Chloride                                 108.8 mmol/L
+  2016-12-24 : Potassium                                4.7 mmol/L
+  2016-12-24 : Sodium                                   143.9 mmol/L
+  2016-12-24 : Calcium                                  8.8 mg/dL
+  2016-12-24 : Creatinine                               1.0 mg/dL
+  2016-12-24 : Urea Nitrogen                            18.8 mg/dL
+  2016-12-24 : Glucose                                  83.3 mg/dL
+  2016-12-24 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mmHg
+           - Systolic Blood Pressure                  112.0 mmHg
+  2016-12-24 : Body Mass Index                          34.9 kg/m2
+  2016-12-24 : Body Weight                              80.0 kg
+  2016-12-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2016-12-24 : Body Height                              151.4 cm
+  2016-03-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2016-03-19 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2016-03-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 216.7 fL
+  2016-03-19 : Platelets [#/volume] in Blood by Automated count 233.6 10*3/uL
+  2016-03-19 : Erythrocyte distribution width [Entitic volume] by Automated count 40.1 fL
+  2016-03-19 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2016-03-19 : MCH [Entitic mass] by Automated count    28.1 pg
+  2016-03-19 : MCV [Entitic volume] by Automated count  81.7 fL
+  2016-03-19 : Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+  2016-03-19 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2016-03-19 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2016-03-19 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2016-03-19 : Carbon Dioxide                           26.5 mmol/L
+  2016-03-19 : Chloride                                 109.3 mmol/L
+  2016-03-19 : Potassium                                4.0 mmol/L
+  2016-03-19 : Sodium                                   140.5 mmol/L
+  2016-03-19 : Calcium                                  9.0 mg/dL
+  2016-03-19 : Creatinine                               1.0 mg/dL
+  2016-03-19 : Urea Nitrogen                            14.6 mg/dL
+  2016-03-19 : Glucose                                  65.8 mg/dL
+  2016-03-19 : Blood Pressure
+           - Diastolic Blood Pressure                 78.7 mmHg
+           - Systolic Blood Pressure                  101.2 mmHg
+  2016-03-19 : Body Mass Index                          34.2 kg/m2
+  2016-03-19 : Body Weight                              78.4 kg
+  2016-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2016-03-19 : Body Height                              151.4 cm
+  2013-12-14 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2013-12-14 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-14 : High Density Lipoprotein Cholesterol     75.1 mg/dL
+  2013-12-14 : Low Density Lipoprotein Cholesterol      71.1 mg/dL
+  2013-12-14 : Triglycerides                            141.5 mg/dL
+  2013-12-14 : Total Cholesterol                        174.5 mg/dL
+  2013-12-14 : Carbon Dioxide                           20.3 mmol/L
+  2013-12-14 : Chloride                                 107.5 mmol/L
+  2013-12-14 : Potassium                                4.5 mmol/L
+  2013-12-14 : Sodium                                   137.5 mmol/L
+  2013-12-14 : Calcium                                  10.1 mg/dL
+  2013-12-14 : Creatinine                               1.0 mg/dL
+  2013-12-14 : Urea Nitrogen                            14.5 mg/dL
+  2013-12-14 : Glucose                                  64.3 mg/dL
+  2013-12-14 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  131.7 mmHg
+  2013-12-14 : Body Mass Index                          32.9 kg/m2
+  2013-12-14 : Body Weight                              75.4 kg
+  2013-12-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2013-12-14 : Body Height                              151.4 cm
+  2010-12-11 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2010-12-11 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2010-12-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 397.5 fL
+  2010-12-11 : Platelets [#/volume] in Blood by Automated count 449.2 10*3/uL
+  2010-12-11 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  2010-12-11 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2010-12-11 : MCH [Entitic mass] by Automated count    31.8 pg
+  2010-12-11 : MCV [Entitic volume] by Automated count  88.3 fL
+  2010-12-11 : Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+  2010-12-11 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2010-12-11 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2010-12-11 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2010-12-11 : Carbon Dioxide                           20.1 mmol/L
+  2010-12-11 : Chloride                                 108.4 mmol/L
+  2010-12-11 : Potassium                                5.0 mmol/L
+  2010-12-11 : Sodium                                   143.8 mmol/L
+  2010-12-11 : Calcium                                  9.6 mg/dL
+  2010-12-11 : Creatinine                               1.6 mg/dL
+  2010-12-11 : Urea Nitrogen                            15.7 mg/dL
+  2010-12-11 : Glucose                                  88.0 mg/dL
+  2010-12-11 : Blood Pressure
+           - Diastolic Blood Pressure                 74.7 mmHg
+           - Systolic Blood Pressure                  119.2 mmHg
+  2010-12-11 : Body Mass Index                          30.7 kg/m2
+  2010-12-11 : Body Weight                              70.4 kg
+  2010-12-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2010-12-11 : Body Height                              151.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-01-07 : Replacement of subcutaneous contraceptive
+  2016-11-29 : Insertion of subcutaneous contraceptive
+  2016-04-11 : Suture open wound for Laceration of thigh
+  2016-03-02 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2015-11-29 : Insertion of intrauterine contraceptive device
+  2013-12-05 : Insertion of subcutaneous contraceptive
+  2013-01-05 : Replacement of subcutaneous contraceptive
+  2011-12-16 : Insertion of subcutaneous contraceptive
+  2010-12-11 : Documentation of current medications
+  2008-12-31 : Insertion of subcutaneous contraceptive
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-12-24 : Influenza, seasonal, injectable, preservative free
+  2016-03-19 : Influenza, seasonal, injectable, preservative free
+  2016-03-12 : Influenza, seasonal, injectable, preservative free
+  2015-10-17 : Influenza, seasonal, injectable, preservative free
+  2013-12-14 : Td (adult) preservative free
+  2013-12-14 : Influenza, seasonal, injectable, preservative free
+  2010-12-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-01-07 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2016-12-19 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2016-12-24 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2016-11-29 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2016-04-11 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2016-03-19 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2016-03-12 (Dr. Narcisa997 Willms744) : Encounter at SAINTS WALK-IN MEDICAL CENTER - URGENT CARE AND OCCUPATIONAL HEALTH
+2016-03-02 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2015-11-29 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2015-11-25 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2015-10-13 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2015-10-17 (Dr. Narcisa997 Willms744) : Encounter at SAINTS WALK-IN MEDICAL CENTER - URGENT CARE AND OCCUPATIONAL HEALTH
+2013-12-14 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2013-12-05 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2013-01-05 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2012-12-10 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2011-12-16 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2010-12-21 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2010-12-11 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2008-12-31 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+2007-12-08 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+1984-04-09 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER
+1984-03-19 (Dr. Robbin22 Hintz995) : Encounter at NASHOBA VALLEY MEDICAL CENTER : Encounter for Seasonal allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

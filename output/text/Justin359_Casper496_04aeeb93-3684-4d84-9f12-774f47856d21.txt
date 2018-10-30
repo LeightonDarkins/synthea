@@ -1,0 +1,151 @@
+Justin359 Casper496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 38
+Birth Date:          1980-05-15
+Marital Status:      M
+Outpatient Provider: ANNA JAQUES HOSPITAL
+Primary Care Provider: 25 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2010-08-20[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2002-07-18[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-07-04 - 2015-07-18 : Viral sinusitis (disorder)
+  2013-07-18 -            : Body mass index 30+ - obesity (finding)
+  2011-05-29 - 2011-06-19 : Viral sinusitis (disorder)
+  2010-08-20 - 2010-08-27 : Viral sinusitis (disorder)
+  1998-07-09 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-07-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.7 %
+           - MCV [Entitic volume] by Automated count  85.4 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+           - Platelets [#/volume] in Blood by Automated count 313.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 232.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2016-07-21 : Lipid Panel
+           - Total Cholesterol                        174.7 mg/dL
+           - Triglycerides                            144.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.8 mg/dL
+           - High Density Lipoprotein Cholesterol     67.0 mg/dL
+  2013-07-18 : Lipid Panel
+           - Total Cholesterol                        192.6 mg/dL
+           - Triglycerides                            141.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.9 mg/dL
+           - High Density Lipoprotein Cholesterol     79.5 mg/dL
+  2010-07-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.0 %
+           - MCV [Entitic volume] by Automated count  86.3 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 307.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 414.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2010-07-15 : Lipid Panel
+           - Total Cholesterol                        177.6 mg/dL
+           - Triglycerides                            126.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.5 mg/dL
+           - High Density Lipoprotein Cholesterol     75.9 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-07-21 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-21 : Estimated Glomerular Filtration Rate     159.3 mL/min/{1.73_m2}
+  2016-07-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2016-07-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 232.3 fL
+  2016-07-21 : Platelets [#/volume] in Blood by Automated count 313.4 10*3/uL
+  2016-07-21 : Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+  2016-07-21 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2016-07-21 : MCH [Entitic mass] by Automated count    30.8 pg
+  2016-07-21 : MCV [Entitic volume] by Automated count  85.4 fL
+  2016-07-21 : Hematocrit [Volume Fraction] of Blood by Automated count 39.7 %
+  2016-07-21 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  2016-07-21 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2016-07-21 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2016-07-21 : High Density Lipoprotein Cholesterol     67.0 mg/dL
+  2016-07-21 : Low Density Lipoprotein Cholesterol      78.8 mg/dL
+  2016-07-21 : Triglycerides                            144.8 mg/dL
+  2016-07-21 : Total Cholesterol                        174.7 mg/dL
+  2016-07-21 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mmHg
+           - Systolic Blood Pressure                  145.8 mmHg
+  2016-07-21 : Body Mass Index                          32.5 kg/m2
+  2016-07-21 : Body Weight                              97.4 kg
+  2016-07-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-07-21 : Body Height                              173.1 cm
+  2013-07-18 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-18 : Estimated Glomerular Filtration Rate     110.1 mL/min/{1.73_m2}
+  2013-07-18 : High Density Lipoprotein Cholesterol     79.5 mg/dL
+  2013-07-18 : Low Density Lipoprotein Cholesterol      84.9 mg/dL
+  2013-07-18 : Triglycerides                            141.1 mg/dL
+  2013-07-18 : Total Cholesterol                        192.6 mg/dL
+  2013-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 117.9 mmHg
+           - Systolic Blood Pressure                  173.7 mmHg
+  2013-07-18 : Body Mass Index                          30.9 kg/m2
+  2013-07-18 : Body Weight                              92.6 kg
+  2013-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2013-07-18 : Body Height                              173.1 cm
+  2010-07-15 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-15 : Estimated Glomerular Filtration Rate     84.0 mL/min/{1.73_m2}
+  2010-07-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2010-07-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 414.3 fL
+  2010-07-15 : Platelets [#/volume] in Blood by Automated count 307.4 10*3/uL
+  2010-07-15 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2010-07-15 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2010-07-15 : MCH [Entitic mass] by Automated count    28.2 pg
+  2010-07-15 : MCV [Entitic volume] by Automated count  86.3 fL
+  2010-07-15 : Hematocrit [Volume Fraction] of Blood by Automated count 36.0 %
+  2010-07-15 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2010-07-15 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2010-07-15 : Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+  2010-07-15 : High Density Lipoprotein Cholesterol     75.9 mg/dL
+  2010-07-15 : Low Density Lipoprotein Cholesterol      76.5 mg/dL
+  2010-07-15 : Triglycerides                            126.3 mg/dL
+  2010-07-15 : Total Cholesterol                        177.6 mg/dL
+  2010-07-15 : Blood Pressure
+           - Diastolic Blood Pressure                 104.9 mmHg
+           - Systolic Blood Pressure                  155.6 mmHg
+  2010-07-15 : Body Mass Index                          29.7 kg/m2
+  2010-07-15 : Body Weight                              89.0 kg
+  2010-07-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2010-07-15 : Body Height                              173.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-07-21 : Influenza, seasonal, injectable, preservative free
+  2013-07-18 : Td (adult) preservative free
+  2013-07-18 : Influenza, seasonal, injectable, preservative free
+  2010-07-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2016-07-21 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2015-07-04 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-07-18 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2011-05-29 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Viral sinusitis (disorder)
+2010-08-20 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Viral sinusitis (disorder)
+2010-07-15 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2002-07-18 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1998-07-09 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

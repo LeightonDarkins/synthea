@@ -1,0 +1,187 @@
+Cortez851 Lebsack687
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1982-03-28
+Marital Status:      S
+Outpatient Provider: BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+Primary Care Provider: 275 SANDWICH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1995-04-23[CURRENT] : Carbamazepine[Tegretol]
+  1994-03-25[STOPPED] : Diazepam [Valium]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1994-03-25 -            : Epilepsy
+  1994-03-25 -            : History of single seizure (situation)
+  1994-03-25 -            : Seizure disorder
+  1986-02-16 -            : History of cardiac arrest (situation)
+  1986-02-16 -            : Cardiac Arrest
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  1996-03-10 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1993-04-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.6 %
+           - MCV [Entitic volume] by Automated count  81.1 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 441.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 188.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  1988-03-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+           - MCV [Entitic volume] by Automated count  84.8 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+           - Platelets [#/volume] in Blood by Automated count 420.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 352.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1996-03-10 : Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1995-04-23 : Tobacco smoking status NHIS              Never smoker 
+  1995-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  118.8 mmHg
+  1995-04-23 : Body Mass Index                          18.8 kg/m2
+  1995-04-23 : Body Weight                              49.1 kg
+  1995-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  1995-04-23 : Body Height                              161.4 cm
+  1994-04-17 : Tobacco smoking status NHIS              Never smoker 
+  1994-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 87.9 mmHg
+           - Systolic Blood Pressure                  119.2 mmHg
+  1994-04-17 : Body Mass Index                          18.4 kg/m2
+  1994-04-17 : Body Weight                              43.6 kg
+  1994-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  1994-04-17 : Body Height                              154.1 cm
+  1993-04-11 : Tobacco smoking status NHIS              Never smoker 
+  1993-04-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  1993-04-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 188.2 fL
+  1993-04-11 : Platelets [#/volume] in Blood by Automated count 441.8 10*3/uL
+  1993-04-11 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  1993-04-11 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  1993-04-11 : MCH [Entitic mass] by Automated count    29.8 pg
+  1993-04-11 : MCV [Entitic volume] by Automated count  81.1 fL
+  1993-04-11 : Hematocrit [Volume Fraction] of Blood by Automated count 49.6 %
+  1993-04-11 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  1993-04-11 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  1993-04-11 : Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+  1993-04-11 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mmHg
+           - Systolic Blood Pressure                  131.5 mmHg
+  1993-04-11 : Body Mass Index                          17.6 kg/m2
+  1993-04-11 : Body Weight                              38.6 kg
+  1993-04-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  1993-04-11 : Body Height                              148.2 cm
+  1992-04-05 : Tobacco smoking status NHIS              Never smoker 
+  1992-04-05 : Blood Pressure
+           - Diastolic Blood Pressure                 82.1 mmHg
+           - Systolic Blood Pressure                  131.4 mmHg
+  1992-04-05 : Body Mass Index                          16.7 kg/m2
+  1992-04-05 : Body Weight                              34.2 kg
+  1992-04-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  1992-04-05 : Body Height                              143.1 cm
+  1991-03-31 : Tobacco smoking status NHIS              Never smoker 
+  1991-03-31 : Blood Pressure
+           - Diastolic Blood Pressure                 78.6 mmHg
+           - Systolic Blood Pressure                  121.4 mmHg
+  1991-03-31 : Body Mass Index                          16.0 kg/m2
+  1991-03-31 : Body Weight                              30.1 kg
+  1991-03-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  1991-03-31 : Body Height                              137.2 cm
+  1990-03-25 : Tobacco smoking status NHIS              Never smoker 
+  1990-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 86.5 mmHg
+           - Systolic Blood Pressure                  117.3 mmHg
+  1990-03-25 : Body Mass Index                          15.6 kg/m2
+  1990-03-25 : Body Weight                              27.0 kg
+  1990-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  1990-03-25 : Body Height                              131.3 cm
+  1989-03-19 : Tobacco smoking status NHIS              Never smoker 
+  1989-03-19 : Blood Pressure
+           - Diastolic Blood Pressure                 73.6 mmHg
+           - Systolic Blood Pressure                  119.7 mmHg
+  1989-03-19 : Body Mass Index                          15.5 kg/m2
+  1989-03-19 : Body Weight                              24.2 kg
+  1989-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  1989-03-19 : Body Height                              124.9 cm
+  1988-03-13 : Tobacco smoking status NHIS              Never smoker 
+  1988-03-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  1988-03-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 352.7 fL
+  1988-03-13 : Platelets [#/volume] in Blood by Automated count 420.1 10*3/uL
+  1988-03-13 : Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+  1988-03-13 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  1988-03-13 : MCH [Entitic mass] by Automated count    32.0 pg
+  1988-03-13 : MCV [Entitic volume] by Automated count  84.8 fL
+  1988-03-13 : Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+  1988-03-13 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  1988-03-13 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  1988-03-13 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  1988-03-13 : Blood Pressure
+           - Diastolic Blood Pressure                 84.4 mmHg
+           - Systolic Blood Pressure                  125.7 mmHg
+  1988-03-13 : Body Mass Index                          15.4 kg/m2
+  1988-03-13 : Body Weight                              21.6 kg
+  1988-03-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  1988-03-13 : Body Height                              118.3 cm
+  1987-03-08 : Tobacco smoking status NHIS              Never smoker 
+  1987-03-08 : Blood Pressure
+           - Diastolic Blood Pressure                 77.7 mmHg
+           - Systolic Blood Pressure                  117.6 mmHg
+  1987-03-08 : Body Mass Index                          15.4 kg/m2
+  1987-03-08 : Body Weight                              19.1 kg
+  1987-03-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  1987-03-08 : Body Height                              111.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1994-03-25 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+  1992-04-05 : Documentation of current medications
+  1988-03-13 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1995-04-23 : Influenza, seasonal, injectable, preservative free
+  1994-04-17 : Influenza, seasonal, injectable, preservative free
+  1993-04-11 : Influenza, seasonal, injectable, preservative free
+  1992-04-05 : Influenza, seasonal, injectable, preservative free
+  1991-03-31 : Influenza, seasonal, injectable, preservative free
+  1990-03-25 : Influenza, seasonal, injectable, preservative free
+  1989-03-19 : Influenza, seasonal, injectable, preservative free
+  1988-03-13 : Influenza, seasonal, injectable, preservative free
+  1987-03-08 : MMR
+  1987-03-08 : Influenza, seasonal, injectable, preservative free
+  1987-03-08 : IPV
+  1987-03-08 : varicella
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1996-03-10 : Death Certification
+1995-04-23 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1994-04-17 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1994-03-25 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH : Encounter for Seizure disorder
+1993-04-11 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1992-04-05 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1991-03-31 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1990-03-25 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1989-03-19 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1988-03-13 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1987-03-08 (Dr. Cherlyn665 Kunde533) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+1986-02-16 : Emergency Encounter
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,148 @@
+Johnny786 Haag279
+=================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 37
+Birth Date:          1981-07-22
+Marital Status:      M
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-11-21[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2015-11-21[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2012-09-21[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2011-11-12[STOPPED] : Acetaminophen 325 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-11-21 - 2016-10-05 : Otitis media
+  2012-09-21 - 2012-10-12 : Laceration of foot
+  2011-11-12 - 2011-11-26 : Sprain of wrist
+  2007-09-26 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-09-21[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2011-11-12[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-10-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.1 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 46.0 fL
+           - Platelets [#/volume] in Blood by Automated count 238.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 195.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2016-10-05 : Lipid Panel
+           - Total Cholesterol                        180.3 mg/dL
+           - Triglycerides                            114.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.9 mg/dL
+           - High Density Lipoprotein Cholesterol     69.5 mg/dL
+  2013-10-02 : Lipid Panel
+           - Total Cholesterol                        198.1 mg/dL
+           - Triglycerides                            115.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      103.7 mg/dL
+           - High Density Lipoprotein Cholesterol     71.3 mg/dL
+  2010-09-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+           - MCV [Entitic volume] by Automated count  81.5 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+           - Platelets [#/volume] in Blood by Automated count 377.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 268.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-10-05 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2016-10-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 195.9 fL
+  2016-10-05 : Platelets [#/volume] in Blood by Automated count 238.1 10*3/uL
+  2016-10-05 : Erythrocyte distribution width [Entitic volume] by Automated count 46.0 fL
+  2016-10-05 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2016-10-05 : MCH [Entitic mass] by Automated count    29.8 pg
+  2016-10-05 : MCV [Entitic volume] by Automated count  86.0 fL
+  2016-10-05 : Hematocrit [Volume Fraction] of Blood by Automated count 42.1 %
+  2016-10-05 : Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+  2016-10-05 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2016-10-05 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2016-10-05 : High Density Lipoprotein Cholesterol     69.5 mg/dL
+  2016-10-05 : Low Density Lipoprotein Cholesterol      87.9 mg/dL
+  2016-10-05 : Triglycerides                            114.5 mg/dL
+  2016-10-05 : Total Cholesterol                        180.3 mg/dL
+  2016-10-05 : Blood Pressure
+           - Diastolic Blood Pressure                 77.6 mmHg
+           - Systolic Blood Pressure                  114.3 mmHg
+  2016-10-05 : Body Mass Index                          35.8 kg/m2
+  2016-10-05 : Body Weight                              103.4 kg
+  2016-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-10-05 : Body Height                              170.0 cm
+  2013-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-02 : High Density Lipoprotein Cholesterol     71.3 mg/dL
+  2013-10-02 : Low Density Lipoprotein Cholesterol      103.7 mg/dL
+  2013-10-02 : Triglycerides                            115.4 mg/dL
+  2013-10-02 : Total Cholesterol                        198.1 mg/dL
+  2013-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 75.4 mmHg
+           - Systolic Blood Pressure                  119.4 mmHg
+  2013-10-02 : Body Mass Index                          34.5 kg/m2
+  2013-10-02 : Body Weight                              99.6 kg
+  2013-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-10-02 : Body Height                              170.0 cm
+  2010-09-29 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2010-09-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 268.1 fL
+  2010-09-29 : Platelets [#/volume] in Blood by Automated count 377.6 10*3/uL
+  2010-09-29 : Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+  2010-09-29 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2010-09-29 : MCH [Entitic mass] by Automated count    28.7 pg
+  2010-09-29 : MCV [Entitic volume] by Automated count  81.5 fL
+  2010-09-29 : Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+  2010-09-29 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2010-09-29 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2010-09-29 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2010-09-29 : Blood Pressure
+           - Diastolic Blood Pressure                 74.7 mmHg
+           - Systolic Blood Pressure                  123.3 mmHg
+  2010-09-29 : Body Mass Index                          32.9 kg/m2
+  2010-09-29 : Body Weight                              95.2 kg
+  2010-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2010-09-29 : Body Height                              170.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2012-09-21 : Suture open wound for Laceration of foot
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-10-05 : Influenza, seasonal, injectable, preservative free
+  2013-10-02 : Td (adult) preservative free
+  2013-10-02 : Influenza, seasonal, injectable, preservative free
+  2010-09-29 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2016-10-05 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2015-11-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Otitis media
+2013-10-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2012-09-21 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2011-11-12 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2010-09-29 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+2007-09-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

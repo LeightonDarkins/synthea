@@ -1,0 +1,234 @@
+Sharee66 Ferry570
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 63
+Birth Date:          1954-12-02
+Marital Status:      M
+Outpatient Provider: SOUTH SHORE HOSPITAL
+Primary Care Provider: 55 FOGG ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-08-06[CURRENT] : Alendronic acid 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-11-26 - 2015-12-10 : Acute bacterial sinusitis (disorder)
+  2015-08-06 -            : Osteoporosis (disorder)
+  2012-08-20 - 2012-08-31 : Acute viral pharyngitis (disorder)
+  2011-01-27 - 2011-04-14 : Sinusitis (disorder)
+  2010-12-15 - 2010-12-25 : Acute viral pharyngitis (disorder)
+  1992-03-12 -            : Body mass index 30+ - obesity (finding)
+  1990-05-17 -            : Miscarriage in first trimester
+  1970-11-20 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-08-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.6 %
+           - MCV [Entitic volume] by Automated count  83.5 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 436.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 314.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2017-08-17 : Lipid Panel
+           - Total Cholesterol                        164.6 mg/dL
+           - Triglycerides                            131.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      64.4 mg/dL
+           - High Density Lipoprotein Cholesterol     74.0 mg/dL
+  2014-07-31 : Lipid Panel
+           - Total Cholesterol                        189.4 mg/dL
+           - Triglycerides                            122.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.8 mg/dL
+           - High Density Lipoprotein Cholesterol     65.1 mg/dL
+  2012-07-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.9 %
+           - MCV [Entitic volume] by Automated count  90.5 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+           - Platelets [#/volume] in Blood by Automated count 202.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 491.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2011-07-14 : Lipid Panel
+           - Total Cholesterol                        164.5 mg/dL
+           - Triglycerides                            133.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      58.5 mg/dL
+           - High Density Lipoprotein Cholesterol     79.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-23 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-23 : Blood Pressure
+           - Diastolic Blood Pressure                 72.4 mmHg
+           - Systolic Blood Pressure                  104.4 mmHg
+  2018-08-23 : Body Mass Index                          36.4 kg/m2
+  2018-08-23 : Body Weight                              102.3 kg
+  2018-08-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2018-08-23 : Body Height                              167.6 cm
+  2017-08-17 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2017-08-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 314.5 fL
+  2017-08-17 : Platelets [#/volume] in Blood by Automated count 436.4 10*3/uL
+  2017-08-17 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2017-08-17 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2017-08-17 : MCH [Entitic mass] by Automated count    27.4 pg
+  2017-08-17 : MCV [Entitic volume] by Automated count  83.5 fL
+  2017-08-17 : Hematocrit [Volume Fraction] of Blood by Automated count 43.6 %
+  2017-08-17 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2017-08-17 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2017-08-17 : Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+  2017-08-17 : High Density Lipoprotein Cholesterol     74.0 mg/dL
+  2017-08-17 : Low Density Lipoprotein Cholesterol      64.4 mg/dL
+  2017-08-17 : Triglycerides                            131.1 mg/dL
+  2017-08-17 : Total Cholesterol                        164.6 mg/dL
+  2017-08-17 : Blood Pressure
+           - Diastolic Blood Pressure                 88.8 mmHg
+           - Systolic Blood Pressure                  135.9 mmHg
+  2017-08-17 : Body Mass Index                          37.1 kg/m2
+  2017-08-17 : Body Weight                              104.3 kg
+  2017-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-08-17 : Body Height                              167.6 cm
+  2016-08-11 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-11 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  101.1 mmHg
+  2016-08-11 : Body Mass Index                          37.8 kg/m2
+  2016-08-11 : Body Weight                              106.1 kg
+  2016-08-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2016-08-11 : Body Height                              167.6 cm
+  2015-08-06 : DXA [T-score] Bone density               -3.8 {T-score}
+  2015-08-06 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-06 : Blood Pressure
+           - Diastolic Blood Pressure                 74.1 mmHg
+           - Systolic Blood Pressure                  108.9 mmHg
+  2015-08-06 : Body Mass Index                          38.4 kg/m2
+  2015-08-06 : Body Weight                              108.0 kg
+  2015-08-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2015-08-06 : Body Height                              167.6 cm
+  2014-07-31 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-31 : High Density Lipoprotein Cholesterol     65.1 mg/dL
+  2014-07-31 : Low Density Lipoprotein Cholesterol      99.8 mg/dL
+  2014-07-31 : Triglycerides                            122.4 mg/dL
+  2014-07-31 : Total Cholesterol                        189.4 mg/dL
+  2014-07-31 : Blood Pressure
+           - Diastolic Blood Pressure                 75.7 mmHg
+           - Systolic Blood Pressure                  121.7 mmHg
+  2014-07-31 : Body Mass Index                          38.8 kg/m2
+  2014-07-31 : Body Weight                              109.0 kg
+  2014-07-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2014-07-31 : Body Height                              167.6 cm
+  2013-07-25 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-25 : Blood Pressure
+           - Diastolic Blood Pressure                 82.9 mmHg
+           - Systolic Blood Pressure                  132.1 mmHg
+  2013-07-25 : Body Mass Index                          38.8 kg/m2
+  2013-07-25 : Body Weight                              109.0 kg
+  2013-07-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2013-07-25 : Body Height                              167.6 cm
+  2012-08-20 : Oral temperature                         37.1 Cel
+  2012-07-19 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2012-07-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 491.7 fL
+  2012-07-19 : Platelets [#/volume] in Blood by Automated count 202.8 10*3/uL
+  2012-07-19 : Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+  2012-07-19 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2012-07-19 : MCH [Entitic mass] by Automated count    30.0 pg
+  2012-07-19 : MCV [Entitic volume] by Automated count  90.5 fL
+  2012-07-19 : Hematocrit [Volume Fraction] of Blood by Automated count 39.9 %
+  2012-07-19 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2012-07-19 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2012-07-19 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2012-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 70.9 mmHg
+           - Systolic Blood Pressure                  135.0 mmHg
+  2012-07-19 : Body Mass Index                          38.8 kg/m2
+  2012-07-19 : Body Weight                              109.0 kg
+  2012-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2012-07-19 : Body Height                              167.6 cm
+  2011-07-14 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-14 : High Density Lipoprotein Cholesterol     79.3 mg/dL
+  2011-07-14 : Low Density Lipoprotein Cholesterol      58.5 mg/dL
+  2011-07-14 : Triglycerides                            133.7 mg/dL
+  2011-07-14 : Total Cholesterol                        164.5 mg/dL
+  2011-07-14 : Blood Pressure
+           - Diastolic Blood Pressure                 81.2 mmHg
+           - Systolic Blood Pressure                  112.0 mmHg
+  2011-07-14 : Body Mass Index                          38.8 kg/m2
+  2011-07-14 : Body Weight                              109.0 kg
+  2011-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-07-14 : Body Height                              167.6 cm
+  2010-12-15 : Oral temperature                         37.3 Cel
+  2010-07-08 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-08 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  129.2 mmHg
+  2010-07-08 : Body Mass Index                          38.8 kg/m2
+  2010-07-08 : Body Weight                              109.0 kg
+  2010-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2010-07-08 : Body Height                              167.6 cm
+  2009-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2009-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 71.2 mmHg
+           - Systolic Blood Pressure                  113.1 mmHg
+  2009-07-02 : Body Mass Index                          38.8 kg/m2
+  2009-07-02 : Body Weight                              109.0 kg
+  2009-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2009-07-02 : Body Height                              167.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-12-25 : Colonoscopy
+  2015-08-06 : Bone density scan (procedure)
+  2013-07-25 : Documentation of current medications
+  2011-07-14 : Documentation of current medications
+  2010-12-26 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-23 : Influenza, seasonal, injectable, preservative free
+  2017-08-17 : Influenza, seasonal, injectable, preservative free
+  2016-08-11 : Td (adult) preservative free
+  2016-08-11 : Influenza, seasonal, injectable, preservative free
+  2015-08-06 : Influenza, seasonal, injectable, preservative free
+  2014-07-31 : Influenza, seasonal, injectable, preservative free
+  2013-07-25 : Influenza, seasonal, injectable, preservative free
+  2012-07-19 : Influenza, seasonal, injectable, preservative free
+  2011-07-14 : Influenza, seasonal, injectable, preservative free
+  2010-07-08 : Influenza, seasonal, injectable, preservative free
+  2009-07-02 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-23 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2017-08-17 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2016-08-11 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2015-12-25 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2015-11-26 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2015-08-06 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2014-07-31 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2013-07-25 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2012-08-20 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2012-07-19 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2011-07-14 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2011-03-24 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Sinusitis (disorder)
+2011-02-10 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Sinusitis (disorder)
+2011-01-27 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Sinusitis (disorder)
+2010-12-26 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2010-12-15 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2010-07-08 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2009-07-02 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+1992-03-12 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+1990-05-17 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Normal pregnancy
+1970-11-20 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

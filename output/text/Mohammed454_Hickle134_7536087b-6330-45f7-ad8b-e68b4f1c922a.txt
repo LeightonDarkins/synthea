@@ -1,0 +1,180 @@
+Mohammed454 Hickle134
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 47
+Birth Date:          1971-01-10
+Marital Status:      M
+Outpatient Provider: CAPE COD HOSPITAL
+Primary Care Provider: 88 LEWIS BAY ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-04-23[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2011-03-14[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1989-11-19[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-04-23 - 2017-05-07 : Viral sinusitis (disorder)
+  2017-01-29 -            : Body mass index 40+ - severely obese (finding)
+  2011-03-14 - 2011-04-04 : Whiplash injury to neck
+  1996-12-01 -            : Body mass index 30+ - obesity (finding)
+  1989-11-19 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-03-14[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-01-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+           - MCV [Entitic volume] by Automated count  89.7 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+           - Platelets [#/volume] in Blood by Automated count 176.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 434.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2017-01-29 : Lipid Panel
+           - Total Cholesterol                        181.2 mg/dL
+           - Triglycerides                            145.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.3 mg/dL
+           - High Density Lipoprotein Cholesterol     68.8 mg/dL
+  2013-01-20 : Lipid Panel
+           - Total Cholesterol                        192.4 mg/dL
+           - Triglycerides                            113.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      104.5 mg/dL
+           - High Density Lipoprotein Cholesterol     65.1 mg/dL
+  2011-01-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.5 %
+           - MCV [Entitic volume] by Automated count  93.8 fL
+           - MCH [Entitic mass] by Automated count    29.6 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 416.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 180.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2008-12-14 : Lipid Panel
+           - Total Cholesterol                        184.1 mg/dL
+           - Triglycerides                            149.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.9 mg/dL
+           - High Density Lipoprotein Cholesterol     59.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-01-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-29 : Estimated Glomerular Filtration Rate     145.0 mL/min/{1.73_m2}
+  2017-01-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2017-01-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 434.5 fL
+  2017-01-29 : Platelets [#/volume] in Blood by Automated count 176.4 10*3/uL
+  2017-01-29 : Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+  2017-01-29 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2017-01-29 : MCH [Entitic mass] by Automated count    31.2 pg
+  2017-01-29 : MCV [Entitic volume] by Automated count  89.7 fL
+  2017-01-29 : Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+  2017-01-29 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2017-01-29 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2017-01-29 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  2017-01-29 : High Density Lipoprotein Cholesterol     68.8 mg/dL
+  2017-01-29 : Low Density Lipoprotein Cholesterol      83.3 mg/dL
+  2017-01-29 : Triglycerides                            145.3 mg/dL
+  2017-01-29 : Total Cholesterol                        181.2 mg/dL
+  2017-01-29 : Blood Pressure
+           - Diastolic Blood Pressure                 105.8 mmHg
+           - Systolic Blood Pressure                  148.7 mmHg
+  2017-01-29 : Body Mass Index                          40.9 kg/m2
+  2017-01-29 : Body Weight                              115.0 kg
+  2017-01-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2017-01-29 : Body Height                              167.7 cm
+  2015-01-25 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-25 : Estimated Glomerular Filtration Rate     107.2 mL/min/{1.73_m2}
+  2015-01-25 : Blood Pressure
+           - Diastolic Blood Pressure                 107.6 mmHg
+           - Systolic Blood Pressure                  142.4 mmHg
+  2015-01-25 : Body Mass Index                          39.9 kg/m2
+  2015-01-25 : Body Weight                              112.4 kg
+  2015-01-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2015-01-25 : Body Height                              167.7 cm
+  2013-01-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-20 : Estimated Glomerular Filtration Rate     103.8 mL/min/{1.73_m2}
+  2013-01-20 : High Density Lipoprotein Cholesterol     65.1 mg/dL
+  2013-01-20 : Low Density Lipoprotein Cholesterol      104.5 mg/dL
+  2013-01-20 : Triglycerides                            113.8 mg/dL
+  2013-01-20 : Total Cholesterol                        192.4 mg/dL
+  2013-01-20 : Blood Pressure
+           - Diastolic Blood Pressure                 110.4 mmHg
+           - Systolic Blood Pressure                  197.0 mmHg
+  2013-01-20 : Body Mass Index                          38.9 kg/m2
+  2013-01-20 : Body Weight                              109.4 kg
+  2013-01-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2013-01-20 : Body Height                              167.7 cm
+  2011-01-16 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-16 : Estimated Glomerular Filtration Rate     124.7 mL/min/{1.73_m2}
+  2011-01-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2011-01-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 180.2 fL
+  2011-01-16 : Platelets [#/volume] in Blood by Automated count 416.5 10*3/uL
+  2011-01-16 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2011-01-16 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2011-01-16 : MCH [Entitic mass] by Automated count    29.6 pg
+  2011-01-16 : MCV [Entitic volume] by Automated count  93.8 fL
+  2011-01-16 : Hematocrit [Volume Fraction] of Blood by Automated count 36.5 %
+  2011-01-16 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2011-01-16 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2011-01-16 : Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+  2011-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 104.5 mmHg
+           - Systolic Blood Pressure                  196.3 mmHg
+  2011-01-16 : Body Mass Index                          37.2 kg/m2
+  2011-01-16 : Body Weight                              104.6 kg
+  2011-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-01-16 : Body Height                              167.7 cm
+  2008-12-14 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-14 : Estimated Glomerular Filtration Rate     85.7 mL/min/{1.73_m2}
+  2008-12-14 : High Density Lipoprotein Cholesterol     59.4 mg/dL
+  2008-12-14 : Low Density Lipoprotein Cholesterol      94.9 mg/dL
+  2008-12-14 : Triglycerides                            149.2 mg/dL
+  2008-12-14 : Total Cholesterol                        184.1 mg/dL
+  2008-12-14 : Blood Pressure
+           - Diastolic Blood Pressure                 114.4 mmHg
+           - Systolic Blood Pressure                  157.4 mmHg
+  2008-12-14 : Body Mass Index                          36.1 kg/m2
+  2008-12-14 : Body Weight                              101.5 kg
+  2008-12-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2008-12-14 : Body Height                              167.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-01-29 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-01-29 : Influenza, seasonal, injectable, preservative free
+  2015-01-25 : Influenza, seasonal, injectable, preservative free
+  2013-01-20 : Hep A, adult
+  2013-01-20 : Td (adult) preservative free
+  2013-01-20 : Influenza, seasonal, injectable, preservative free
+  2011-01-16 : Hep A, adult
+  2011-01-16 : Influenza, seasonal, injectable, preservative free
+  2008-12-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-04-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2017-01-29 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-01-25 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2013-01-20 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-03-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-01-16 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2008-12-14 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1996-12-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+1989-11-19 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

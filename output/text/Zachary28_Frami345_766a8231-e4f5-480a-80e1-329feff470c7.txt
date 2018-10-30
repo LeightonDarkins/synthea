@@ -1,0 +1,222 @@
+Zachary28 Frami345
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 57
+Birth Date:          1961-06-30
+Marital Status:      M
+Outpatient Provider: ANNA JAQUES HOSPITAL
+Primary Care Provider: 25 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-06-16[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of hip
+  2009-09-26[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2009-09-26[STOPPED] : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+  2005-01-06[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  1995-12-25[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-04-12 - 2018-05-12 : Concussion with no loss of consciousness
+  2017-06-16 -            : Osteoarthritis of hip
+  2017-04-06 - 2017-04-17 : Acute viral pharyngitis (disorder)
+  2011-02-08 - 2011-02-15 : Viral sinusitis (disorder)
+  2009-11-01 - 2009-11-08 : Viral sinusitis (disorder)
+  2009-09-26 - 2009-11-25 : Fracture of ankle
+  1998-12-04 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-04-12[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2017-06-16[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of hip
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2009-09-26[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-07-29 : Lipid Panel
+           - Total Cholesterol                        177.8 mg/dL
+           - Triglycerides                            112.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.1 mg/dL
+           - High Density Lipoprotein Cholesterol     68.2 mg/dL
+  2013-07-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+           - MCV [Entitic volume] by Automated count  88.6 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+           - Platelets [#/volume] in Blood by Automated count 158.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 503.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2013-07-12 : Lipid Panel
+           - Total Cholesterol                        164.0 mg/dL
+           - Triglycerides                            124.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      63.2 mg/dL
+           - High Density Lipoprotein Cholesterol     75.9 mg/dL
+  2010-05-21 : Lipid Panel
+           - Total Cholesterol                        194.0 mg/dL
+           - Triglycerides                            104.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.4 mg/dL
+           - High Density Lipoprotein Cholesterol     76.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-04-20 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-20 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  111.5 mmHg
+  2018-04-20 : Body Mass Index                          36.9 kg/m2
+  2018-04-20 : Body Weight                              120.7 kg
+  2018-04-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2018-04-20 : Body Height                              180.8 cm
+  2017-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.3 {score}
+  2017-04-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 86.7 mmHg
+           - Systolic Blood Pressure                  121.1 mmHg
+  2017-04-14 : Body Mass Index                          36.9 kg/m2
+  2017-04-14 : Body Weight                              120.7 kg
+  2017-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2017-04-14 : Body Height                              180.8 cm
+  2017-04-06 : Oral temperature                         37.8 Cel
+  2016-07-29 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-29 : High Density Lipoprotein Cholesterol     68.2 mg/dL
+  2016-07-29 : Low Density Lipoprotein Cholesterol      87.1 mg/dL
+  2016-07-29 : Triglycerides                            112.7 mg/dL
+  2016-07-29 : Total Cholesterol                        177.8 mg/dL
+  2016-07-29 : Blood Pressure
+           - Diastolic Blood Pressure                 80.8 mmHg
+           - Systolic Blood Pressure                  113.1 mmHg
+  2016-07-29 : Body Mass Index                          36.9 kg/m2
+  2016-07-29 : Body Weight                              120.7 kg
+  2016-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2016-07-29 : Body Height                              180.8 cm
+  2015-07-24 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  108.4 mmHg
+  2015-07-24 : Body Mass Index                          36.9 kg/m2
+  2015-07-24 : Body Weight                              120.7 kg
+  2015-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2015-07-24 : Body Height                              180.8 cm
+  2014-07-18 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 74.3 mmHg
+           - Systolic Blood Pressure                  124.0 mmHg
+  2014-07-18 : Body Mass Index                          36.9 kg/m2
+  2014-07-18 : Body Weight                              120.7 kg
+  2014-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2014-07-18 : Body Height                              180.8 cm
+  2013-07-12 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2013-07-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 503.7 fL
+  2013-07-12 : Platelets [#/volume] in Blood by Automated count 158.6 10*3/uL
+  2013-07-12 : Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+  2013-07-12 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2013-07-12 : MCH [Entitic mass] by Automated count    27.7 pg
+  2013-07-12 : MCV [Entitic volume] by Automated count  88.6 fL
+  2013-07-12 : Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+  2013-07-12 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2013-07-12 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2013-07-12 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  2013-07-12 : High Density Lipoprotein Cholesterol     75.9 mg/dL
+  2013-07-12 : Low Density Lipoprotein Cholesterol      63.2 mg/dL
+  2013-07-12 : Triglycerides                            124.4 mg/dL
+  2013-07-12 : Total Cholesterol                        164.0 mg/dL
+  2013-07-12 : Blood Pressure
+           - Diastolic Blood Pressure                 73.6 mmHg
+           - Systolic Blood Pressure                  106.7 mmHg
+  2013-07-12 : Body Mass Index                          36.9 kg/m2
+  2013-07-12 : Body Weight                              120.7 kg
+  2013-07-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2013-07-12 : Body Height                              180.8 cm
+  2012-07-06 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-06 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  112.1 mmHg
+  2012-07-06 : Body Mass Index                          36.9 kg/m2
+  2012-07-06 : Body Weight                              120.7 kg
+  2012-07-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2012-07-06 : Body Height                              180.8 cm
+  2011-07-01 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 79.7 mmHg
+           - Systolic Blood Pressure                  123.2 mmHg
+  2011-07-01 : Body Mass Index                          36.9 kg/m2
+  2011-07-01 : Body Weight                              120.7 kg
+  2011-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2011-07-01 : Body Height                              180.8 cm
+  2010-05-21 : Tobacco smoking status NHIS              Never smoker 
+  2010-05-21 : High Density Lipoprotein Cholesterol     76.7 mg/dL
+  2010-05-21 : Low Density Lipoprotein Cholesterol      96.4 mg/dL
+  2010-05-21 : Triglycerides                            104.3 mg/dL
+  2010-05-21 : Total Cholesterol                        194.0 mg/dL
+  2010-05-21 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mmHg
+           - Systolic Blood Pressure                  108.8 mmHg
+  2010-05-21 : Body Mass Index                          36.4 kg/m2
+  2010-05-21 : Body Weight                              119.1 kg
+  2010-05-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2010-05-21 : Body Height                              180.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-04-14 : Documentation of current medications
+  2016-07-29 : Documentation of current medications
+  2015-07-24 : Documentation of current medications
+  2013-07-12 : Documentation of current medications
+  2011-07-01 : Documentation of current medications
+  2010-05-21 : Documentation of current medications
+  2009-09-26 : Bone immobilization for Fracture of ankle
+  2009-09-26 : Ankle X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-04-20 : Influenza, seasonal, injectable, preservative free
+  2017-04-14 : Influenza, seasonal, injectable, preservative free
+  2016-07-29 : Influenza, seasonal, injectable, preservative free
+  2015-07-24 : Influenza, seasonal, injectable, preservative free
+  2014-07-18 : Influenza, seasonal, injectable, preservative free
+  2013-07-12 : Influenza, seasonal, injectable, preservative free
+  2012-07-06 : Td (adult) preservative free
+  2012-07-06 : Influenza, seasonal, injectable, preservative free
+  2012-07-06 : zoster
+  2011-07-01 : Influenza, seasonal, injectable, preservative free
+  2011-07-01 : zoster
+  2010-05-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-12 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Concussion with no loss of consciousness
+2018-04-20 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2018-04-12 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2017-06-16 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Osteoarthritis of hip
+2017-04-14 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2017-04-06 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2016-07-29 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2015-07-24 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2014-07-18 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2013-07-12 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2012-07-06 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2011-07-01 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2011-02-08 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Viral sinusitis (disorder)
+2010-05-21 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2009-11-25 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Fracture of ankle
+2009-11-01 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL : Encounter for Viral sinusitis (disorder)
+2009-09-26 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+2005-01-06 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1998-12-04 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+1995-12-25 (Dr. Tanner110 Braun514) : Encounter at ANNA JAQUES HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2009-09-26 : Digital Radiography, Ankle
+  1995-12-25 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

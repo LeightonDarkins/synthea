@@ -1,0 +1,196 @@
+Gaston250 Wehner319
+===================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 50
+Birth Date:          1968-03-23
+Marital Status:      M
+Outpatient Provider: SOUTH SHORE HOSPITAL
+Primary Care Provider: 55 FOGG ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1989-04-14 -            : Dander (animal) allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1989-04-14[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1989-04-14[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+  1989-03-28[CURRENT] : Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-03-24 -            : Polyp of colon
+  2014-09-21 - 2014-09-29 : Acute viral pharyngitis (disorder)
+  2010-12-06 - 2010-12-27 : Viral sinusitis (disorder)
+  2010-02-17 - 2010-03-03 : Sinusitis (disorder)
+  2000-01-29 -            : Body mass index 30+ - obesity (finding)
+  1991-12-14 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1989-04-14[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-24 : Lipid Panel
+           - Total Cholesterol                        169.5 mg/dL
+           - Triglycerides                            112.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.2 mg/dL
+           - High Density Lipoprotein Cholesterol     72.7 mg/dL
+  2014-12-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.5 %
+           - MCV [Entitic volume] by Automated count  84.8 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+           - Platelets [#/volume] in Blood by Automated count 314.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 514.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2014-12-20 : Lipid Panel
+           - Total Cholesterol                        179.3 mg/dL
+           - Triglycerides                            101.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.2 mg/dL
+           - High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2010-12-11 : Lipid Panel
+           - Total Cholesterol                        193.2 mg/dL
+           - Triglycerides                            109.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      111.7 mg/dL
+           - High Density Lipoprotein Cholesterol     59.6 mg/dL
+  2009-08-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 315.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 182.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-24 : Hemoglobin A1c/Hemoglobin.total in Blood 5.6 %
+  2018-03-24 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 13.4 ng/mL
+  2018-03-24 : Polyp size greatest dimension by CAP cancer protocols 3.2 mm
+  2018-03-24 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-24 : High Density Lipoprotein Cholesterol     72.7 mg/dL
+  2018-03-24 : Low Density Lipoprotein Cholesterol      74.2 mg/dL
+  2018-03-24 : Triglycerides                            112.7 mg/dL
+  2018-03-24 : Total Cholesterol                        169.5 mg/dL
+  2018-03-24 : Blood Pressure
+           - Diastolic Blood Pressure                 73.2 mmHg
+           - Systolic Blood Pressure                  119.7 mmHg
+  2018-03-24 : Body Mass Index                          38.6 kg/m2
+  2018-03-24 : Body Weight                              116.1 kg
+  2018-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2018-03-24 : Body Height                              173.5 cm
+  2016-12-24 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-24 : Blood Pressure
+           - Diastolic Blood Pressure                 79.5 mmHg
+           - Systolic Blood Pressure                  122.1 mmHg
+  2016-12-24 : Body Mass Index                          38.1 kg/m2
+  2016-12-24 : Body Weight                              114.5 kg
+  2016-12-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2016-12-24 : Body Height                              173.5 cm
+  2014-12-20 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2014-12-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 514.0 fL
+  2014-12-20 : Platelets [#/volume] in Blood by Automated count 314.7 10*3/uL
+  2014-12-20 : Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+  2014-12-20 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2014-12-20 : MCH [Entitic mass] by Automated count    30.5 pg
+  2014-12-20 : MCV [Entitic volume] by Automated count  84.8 fL
+  2014-12-20 : Hematocrit [Volume Fraction] of Blood by Automated count 43.5 %
+  2014-12-20 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2014-12-20 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2014-12-20 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2014-12-20 : High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2014-12-20 : Low Density Lipoprotein Cholesterol      94.2 mg/dL
+  2014-12-20 : Triglycerides                            101.3 mg/dL
+  2014-12-20 : Total Cholesterol                        179.3 mg/dL
+  2014-12-20 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  101.1 mmHg
+  2014-12-20 : Body Mass Index                          37.1 kg/m2
+  2014-12-20 : Body Weight                              111.6 kg
+  2014-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2014-12-20 : Body Height                              173.5 cm
+  2014-09-21 : Oral temperature                         37.0 Cel
+  2012-12-15 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 75.4 mmHg
+           - Systolic Blood Pressure                  138.6 mmHg
+  2012-12-15 : Body Mass Index                          36.2 kg/m2
+  2012-12-15 : Body Weight                              108.9 kg
+  2012-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2012-12-15 : Body Height                              173.5 cm
+  2010-12-11 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-11 : High Density Lipoprotein Cholesterol     59.6 mg/dL
+  2010-12-11 : Low Density Lipoprotein Cholesterol      111.7 mg/dL
+  2010-12-11 : Triglycerides                            109.3 mg/dL
+  2010-12-11 : Total Cholesterol                        193.2 mg/dL
+  2010-12-11 : Blood Pressure
+           - Diastolic Blood Pressure                 73.5 mmHg
+           - Systolic Blood Pressure                  111.6 mmHg
+  2010-12-11 : Body Mass Index                          34.9 kg/m2
+  2010-12-11 : Body Weight                              105.1 kg
+  2010-12-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2010-12-11 : Body Height                              173.5 cm
+  2009-08-29 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2009-08-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 182.5 fL
+  2009-08-29 : Platelets [#/volume] in Blood by Automated count 315.5 10*3/uL
+  2009-08-29 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2009-08-29 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2009-08-29 : MCH [Entitic mass] by Automated count    32.9 pg
+  2009-08-29 : MCV [Entitic volume] by Automated count  90.7 fL
+  2009-08-29 : Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+  2009-08-29 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2009-08-29 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2009-08-29 : Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+  2009-08-29 : Blood Pressure
+           - Diastolic Blood Pressure                 80.9 mmHg
+           - Systolic Blood Pressure                  130.4 mmHg
+  2009-08-29 : Body Mass Index                          34.5 kg/m2
+  2009-08-29 : Body Weight                              103.8 kg
+  2009-08-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2009-08-29 : Body Height                              173.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-24 : Rectal polypectomy for Polyp of colon
+  2018-03-24 : Fecal occult blood test for Polyp of colon
+  2018-03-24 : Colonoscopy
+  2009-08-29 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-24 : Influenza, seasonal, injectable, preservative free
+  2018-03-24 : zoster
+  2016-12-24 : Influenza, seasonal, injectable, preservative free
+  2014-12-20 : Influenza, seasonal, injectable, preservative free
+  2012-12-15 : Influenza, seasonal, injectable, preservative free
+  2010-12-11 : Hep A, adult
+  2010-12-11 : Influenza, seasonal, injectable, preservative free
+  2009-08-29 : Hep A, adult
+  2009-08-29 : Td (adult) preservative free
+  2009-08-29 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-24 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2018-03-24 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2016-12-24 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2014-12-20 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2014-09-21 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2012-12-15 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2010-12-06 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Viral sinusitis (disorder)
+2010-12-11 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2010-02-17 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Sinusitis (disorder)
+2009-08-29 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+2000-01-29 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+1991-12-14 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Sinusitis (disorder)
+1989-04-14 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+1989-03-28 (Dr. Garret233 Little434) : Encounter at SOUTH SHORE HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,190 @@
+Rochel591 Nicolas769
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 44
+Birth Date:          1974-06-29
+Marital Status:      M
+Outpatient Provider: LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+Primary Care Provider: 41 & 45 MALL ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-10-12[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2009-10-23[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1993-03-20[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  1975-12-03[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-10-12 - 2018-10-26 : Viral sinusitis (disorder)
+  2018-07-14 -            : Body mass index 30+ - obesity (finding)
+  2017-02-14 - 2017-02-23 : Acute viral pharyngitis (disorder)
+  2009-10-23 - 2012-04-14 : Otitis media
+  2009-08-16 - 2009-08-23 : Acute viral pharyngitis (disorder)
+  1993-03-20 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1975-11-21[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-07-09 : Lipid Panel
+           - Total Cholesterol                        195.5 mg/dL
+           - Triglycerides                            103.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      115.7 mg/dL
+           - High Density Lipoprotein Cholesterol     59.1 mg/dL
+  2014-07-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+           - MCV [Entitic volume] by Automated count  86.9 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+           - Platelets [#/volume] in Blood by Automated count 395.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 417.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2012-04-14 : Lipid Panel
+           - Total Cholesterol                        191.9 mg/dL
+           - Triglycerides                            131.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.4 mg/dL
+           - High Density Lipoprotein Cholesterol     74.1 mg/dL
+  2009-04-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.1 %
+           - MCV [Entitic volume] by Automated count  83.8 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 406.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 481.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2009-04-11 : Lipid Panel
+           - Total Cholesterol                        194.8 mg/dL
+           - Triglycerides                            103.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.1 mg/dL
+           - High Density Lipoprotein Cholesterol     77.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-14 : Tobacco smoking status NHIS              Former smoker 
+  2018-07-14 : Estimated Glomerular Filtration Rate     94.3 mL/min/{1.73_m2}
+  2018-07-14 : Blood Pressure
+           - Diastolic Blood Pressure                 100.2 mmHg
+           - Systolic Blood Pressure                  166.8 mmHg
+  2018-07-14 : Body Mass Index                          31.0 kg/m2
+  2018-07-14 : Body Weight                              84.9 kg
+  2018-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2018-07-14 : Body Height                              165.6 cm
+  2017-02-14 : Oral temperature                         37.5 Cel
+  2016-07-09 : Tobacco smoking status NHIS              Former smoker 
+  2016-07-09 : Estimated Glomerular Filtration Rate     59.7 mL/min/{1.73_m2}
+  2016-07-09 : High Density Lipoprotein Cholesterol     59.1 mg/dL
+  2016-07-09 : Low Density Lipoprotein Cholesterol      115.7 mg/dL
+  2016-07-09 : Triglycerides                            103.7 mg/dL
+  2016-07-09 : Total Cholesterol                        195.5 mg/dL
+  2016-07-09 : Blood Pressure
+           - Diastolic Blood Pressure                 91.8 mmHg
+           - Systolic Blood Pressure                  168.8 mmHg
+  2016-07-09 : Body Mass Index                          29.9 kg/m2
+  2016-07-09 : Body Weight                              82.1 kg
+  2016-07-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2016-07-09 : Body Height                              165.6 cm
+  2014-07-05 : Tobacco smoking status NHIS              Former smoker 
+  2014-07-05 : Estimated Glomerular Filtration Rate     100.5 mL/min/{1.73_m2}
+  2014-07-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2014-07-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 417.9 fL
+  2014-07-05 : Platelets [#/volume] in Blood by Automated count 395.5 10*3/uL
+  2014-07-05 : Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+  2014-07-05 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2014-07-05 : MCH [Entitic mass] by Automated count    31.4 pg
+  2014-07-05 : MCV [Entitic volume] by Automated count  86.9 fL
+  2014-07-05 : Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+  2014-07-05 : Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+  2014-07-05 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2014-07-05 : Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+  2014-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 109.4 mmHg
+           - Systolic Blood Pressure                  140.8 mmHg
+  2014-07-05 : Body Mass Index                          28.1 kg/m2
+  2014-07-05 : Body Weight                              77.0 kg
+  2014-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-07-05 : Body Height                              165.6 cm
+  2012-04-14 : Tobacco smoking status NHIS              Former smoker 
+  2012-04-14 : Estimated Glomerular Filtration Rate     125.8 mL/min/{1.73_m2}
+  2012-04-14 : High Density Lipoprotein Cholesterol     74.1 mg/dL
+  2012-04-14 : Low Density Lipoprotein Cholesterol      91.4 mg/dL
+  2012-04-14 : Triglycerides                            131.7 mg/dL
+  2012-04-14 : Total Cholesterol                        191.9 mg/dL
+  2012-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 108.1 mmHg
+           - Systolic Blood Pressure                  146.8 mmHg
+  2012-04-14 : Body Mass Index                          27.1 kg/m2
+  2012-04-14 : Body Weight                              74.3 kg
+  2012-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2012-04-14 : Body Height                              165.6 cm
+  2009-08-16 : Oral temperature                         38.0 Cel
+  2009-04-11 : Tobacco smoking status NHIS              Former smoker 
+  2009-04-11 : Estimated Glomerular Filtration Rate     159.0 mL/min/{1.73_m2}
+  2009-04-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2009-04-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 481.4 fL
+  2009-04-11 : Platelets [#/volume] in Blood by Automated count 406.7 10*3/uL
+  2009-04-11 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2009-04-11 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2009-04-11 : MCH [Entitic mass] by Automated count    29.4 pg
+  2009-04-11 : MCV [Entitic volume] by Automated count  83.8 fL
+  2009-04-11 : Hematocrit [Volume Fraction] of Blood by Automated count 35.1 %
+  2009-04-11 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2009-04-11 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2009-04-11 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  2009-04-11 : High Density Lipoprotein Cholesterol     77.0 mg/dL
+  2009-04-11 : Low Density Lipoprotein Cholesterol      97.1 mg/dL
+  2009-04-11 : Triglycerides                            103.5 mg/dL
+  2009-04-11 : Total Cholesterol                        194.8 mg/dL
+  2009-04-11 : Blood Pressure
+           - Diastolic Blood Pressure                 114.9 mmHg
+           - Systolic Blood Pressure                  198.0 mmHg
+  2009-04-11 : Body Mass Index                          25.5 kg/m2
+  2009-04-11 : Body Weight                              70.0 kg
+  2009-04-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2009-04-11 : Body Height                              165.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-07-14 : Documentation of current medications
+  2012-04-14 : Documentation of current medications
+  2009-08-16 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2009-04-11 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-14 : Influenza, seasonal, injectable, preservative free
+  2016-07-09 : Hep A, adult
+  2016-07-09 : Td (adult) preservative free
+  2016-07-09 : Influenza, seasonal, injectable, preservative free
+  2014-07-05 : Hep A, adult
+  2014-07-05 : Influenza, seasonal, injectable, preservative free
+  2012-04-14 : Influenza, seasonal, injectable, preservative free
+  2009-04-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-12 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Viral sinusitis (disorder)
+2018-07-14 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2017-02-14 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute viral pharyngitis (disorder)
+2016-07-09 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2014-07-05 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2012-04-14 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2009-10-23 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Otitis media
+2009-08-16 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute viral pharyngitis (disorder)
+2009-04-11 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+1993-03-20 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+1975-12-03 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+1975-11-21 (Dr. Aron520 Tromp100) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

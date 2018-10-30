@@ -1,0 +1,295 @@
+Fernanda589 Maggio310
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1938-04-12
+Marital Status:      S
+Outpatient Provider: METROWEST MEDICAL CENTER
+Primary Care Provider: 115 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-10-06[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2013-10-06[STOPPED] : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+  2010-10-08[CURRENT] : Memantine hydrochloride 2 MG/ML Oral Solution for Alzheimer's disease (disorder)
+  2009-10-13[CURRENT] : Galantamine 4 MG Oral Tablet for Alzheimer's disease (disorder)
+  2002-03-27[STOPPED] : Methotrexate 10 MG Oral Tablet for Rheumatoid arthritis
+  2002-03-27[STOPPED] : Naproxen 500 MG Oral Tablet for Rheumatoid arthritis
+  1995-06-20[CURRENT] : Warfarin Sodium 5 MG Oral Tablet
+  1995-06-20[CURRENT] : Digoxin 0.125 MG Oral Tablet
+  1995-06-20[CURRENT] : Verapamil Hydrochloride 40 MG
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-01-15 -            : Pneumonia
+  2013-10-06 - 2013-11-05 : Closed fracture of hip
+  2013-07-11 - 2013-07-25 : Viral sinusitis (disorder)
+  2009-10-13 -            : Alzheimer's disease (disorder)
+  2002-03-27 - 2006-02-04 : Rheumatoid arthritis
+  1995-06-20 -            : Atrial Fibrillation
+  1981-09-29 -            : Chronic sinusitis (disorder)
+  1979-04-10 -            : Body mass index 40+ - severely obese (finding)
+  1964-02-18 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-10-06[STOPPED] : Fracture care
+                         Reason: Closed fracture of hip
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2009-10-13[CURRENT] : Demential management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Education about dementia
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  2002-03-27[STOPPED] : Musculoskeletal care
+                         Reason: Rheumatoid arthritis
+                         Activity: Physical exercises
+                         Activity: Ice therapy
+                         Activity: Healthy diet
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-01-27 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Pneumonia 
+  2014-11-11 : Lipid Panel
+           - Total Cholesterol                        180.5 mg/dL
+           - Triglycerides                            103.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.7 mg/dL
+           - High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2011-10-25 : Lipid Panel
+           - Total Cholesterol                        171.7 mg/dL
+           - Triglycerides                            120.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.2 mg/dL
+           - High Density Lipoprotein Cholesterol     73.3 mg/dL
+  2010-10-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+           - Platelets [#/volume] in Blood by Automated count 336.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 467.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2008-10-07 : Lipid Panel
+           - Total Cholesterol                        181.1 mg/dL
+           - Triglycerides                            117.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.9 mg/dL
+           - High Density Lipoprotein Cholesterol     70.8 mg/dL
+  2005-09-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+           - MCV [Entitic volume] by Automated count  82.6 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 446.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 369.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2005-09-20 : Lipid Panel
+           - Total Cholesterol                        197.9 mg/dL
+           - Triglycerides                            138.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.1 mg/dL
+           - High Density Lipoprotein Cholesterol     73.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2015-01-27 : Cause of Death [US Standard Certificate of Death] Pneumonia 
+  2014-11-11 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-11 : High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2014-11-11 : Low Density Lipoprotein Cholesterol      81.7 mg/dL
+  2014-11-11 : Triglycerides                            103.5 mg/dL
+  2014-11-11 : Total Cholesterol                        180.5 mg/dL
+  2014-11-11 : Blood Pressure
+           - Diastolic Blood Pressure                 85.1 mmHg
+           - Systolic Blood Pressure                  127.2 mmHg
+  2014-11-11 : Body Mass Index                          34.9 kg/m2
+  2014-11-11 : Body Weight                              86.3 kg
+  2014-11-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2014-11-11 : Body Height                              157.3 cm
+  2014-03-21 : Total score [MMSE]                       5.1 (score)
+  2013-11-05 : Tobacco smoking status NHIS              Never smoker 
+  2013-11-05 : Blood Pressure
+           - Diastolic Blood Pressure                 83.5 mmHg
+           - Systolic Blood Pressure                  126.9 mmHg
+  2013-11-05 : Body Mass Index                          35.5 kg/m2
+  2013-11-05 : Body Weight                              87.9 kg
+  2013-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2013-11-05 : Body Height                              157.3 cm
+  2013-10-06 : DXA [T-score] Bone density               -0.2 {T-score}
+  2012-10-30 : Tobacco smoking status NHIS              Never smoker 
+  2012-10-30 : Blood Pressure
+           - Diastolic Blood Pressure                 74.5 mmHg
+           - Systolic Blood Pressure                  111.1 mmHg
+  2012-10-30 : Body Mass Index                          36.1 kg/m2
+  2012-10-30 : Body Weight                              89.3 kg
+  2012-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-10-30 : Body Height                              157.3 cm
+  2011-10-25 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-25 : High Density Lipoprotein Cholesterol     73.3 mg/dL
+  2011-10-25 : Low Density Lipoprotein Cholesterol      74.2 mg/dL
+  2011-10-25 : Triglycerides                            120.6 mg/dL
+  2011-10-25 : Total Cholesterol                        171.7 mg/dL
+  2011-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 71.9 mmHg
+           - Systolic Blood Pressure                  125.2 mmHg
+  2011-10-25 : Body Mass Index                          36.7 kg/m2
+  2011-10-25 : Body Weight                              90.8 kg
+  2011-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2011-10-25 : Body Height                              157.3 cm
+  2011-10-03 : Total score [MMSE]                       8.0 (score)
+  2010-10-19 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2010-10-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 467.6 fL
+  2010-10-19 : Platelets [#/volume] in Blood by Automated count 336.8 10*3/uL
+  2010-10-19 : Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+  2010-10-19 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2010-10-19 : MCH [Entitic mass] by Automated count    31.1 pg
+  2010-10-19 : MCV [Entitic volume] by Automated count  92.0 fL
+  2010-10-19 : Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+  2010-10-19 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2010-10-19 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2010-10-19 : Leukocytes [#/volume] in Blood by Automated count 7.5 10*3/uL
+  2010-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 84.6 mmHg
+           - Systolic Blood Pressure                  103.2 mmHg
+  2010-10-19 : Body Mass Index                          37.4 kg/m2
+  2010-10-19 : Body Weight                              92.5 kg
+  2010-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2010-10-19 : Body Height                              157.3 cm
+  2010-10-08 : Total score [MMSE]                       12.2 (score)
+  2009-10-13 : Total score [MMSE]                       19.0 (score)
+  2009-10-13 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-13 : Blood Pressure
+           - Diastolic Blood Pressure                 86.5 mmHg
+           - Systolic Blood Pressure                  129.1 mmHg
+  2009-10-13 : Body Mass Index                          37.9 kg/m2
+  2009-10-13 : Body Weight                              93.8 kg
+  2009-10-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2009-10-13 : Body Height                              157.3 cm
+  2008-10-07 : Tobacco smoking status NHIS              Never smoker 
+  2008-10-07 : High Density Lipoprotein Cholesterol     70.8 mg/dL
+  2008-10-07 : Low Density Lipoprotein Cholesterol      86.9 mg/dL
+  2008-10-07 : Triglycerides                            117.4 mg/dL
+  2008-10-07 : Total Cholesterol                        181.1 mg/dL
+  2008-10-07 : Blood Pressure
+           - Diastolic Blood Pressure                 79.4 mmHg
+           - Systolic Blood Pressure                  124.6 mmHg
+  2008-10-07 : Body Mass Index                          38.7 kg/m2
+  2008-10-07 : Body Weight                              95.6 kg
+  2008-10-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2008-10-07 : Body Height                              157.3 cm
+  2007-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2007-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 76.3 mmHg
+           - Systolic Blood Pressure                  119.4 mmHg
+  2007-10-02 : Body Mass Index                          39.3 kg/m2
+  2007-10-02 : Body Weight                              97.1 kg
+  2007-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2007-10-02 : Body Height                              157.3 cm
+  2006-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2006-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 85.5 mmHg
+           - Systolic Blood Pressure                  131.6 mmHg
+  2006-09-26 : Body Mass Index                          39.9 kg/m2
+  2006-09-26 : Body Weight                              98.8 kg
+  2006-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2006-09-26 : Body Height                              157.3 cm
+  2005-09-20 : Tobacco smoking status NHIS              Never smoker 
+  2005-09-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2005-09-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 369.5 fL
+  2005-09-20 : Platelets [#/volume] in Blood by Automated count 446.3 10*3/uL
+  2005-09-20 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2005-09-20 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2005-09-20 : MCH [Entitic mass] by Automated count    32.0 pg
+  2005-09-20 : MCV [Entitic volume] by Automated count  82.6 fL
+  2005-09-20 : Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+  2005-09-20 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2005-09-20 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2005-09-20 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2005-09-20 : High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2005-09-20 : Low Density Lipoprotein Cholesterol      97.1 mg/dL
+  2005-09-20 : Triglycerides                            138.9 mg/dL
+  2005-09-20 : Total Cholesterol                        197.9 mg/dL
+  2005-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mmHg
+           - Systolic Blood Pressure                  117.7 mmHg
+  2005-09-20 : Body Mass Index                          40.7 kg/m2
+  2005-09-20 : Body Weight                              100.8 kg
+  2005-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2005-09-20 : Body Height                              157.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-11-11 : Electrical cardioversion for Atrial Fibrillation
+  2013-11-05 : Documentation of current medications
+  2013-11-05 : Electrical cardioversion for Atrial Fibrillation
+  2013-10-06 : Bone density scan (procedure) for Closed fracture of hip
+  2013-10-06 : Admission to orthopedic department for Closed fracture of hip
+  2013-10-06 : Pelvis X-ray
+  2013-07-23 : Electrical cardioversion for Atrial Fibrillation
+  2013-07-16 : Catheter ablation of tissue of heart for Atrial Fibrillation
+  2013-04-06 : Colonoscopy
+  2012-10-30 : Documentation of current medications
+  2012-10-30 : Electrical cardioversion for Atrial Fibrillation
+  2011-10-25 : Electrical cardioversion for Atrial Fibrillation
+  2010-10-19 : Documentation of current medications
+  2010-10-19 : Catheter ablation of tissue of heart for Atrial Fibrillation
+  2009-10-13 : Electrical cardioversion for Atrial Fibrillation
+  2008-10-07 : Electrical cardioversion for Atrial Fibrillation
+  2008-04-07 : Colonoscopy
+  2007-10-02 : Documentation of current medications
+  2007-10-02 : Electrical cardioversion for Atrial Fibrillation
+  2006-09-26 : Catheter ablation of tissue of heart for Atrial Fibrillation
+  2005-09-20 : Documentation of current medications
+  2005-09-20 : Catheter ablation of tissue of heart for Atrial Fibrillation
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2014-11-11 : Influenza, seasonal, injectable, preservative free
+  2013-11-05 : Influenza, seasonal, injectable, preservative free
+  2012-10-30 : Influenza, seasonal, injectable, preservative free
+  2011-10-25 : Influenza, seasonal, injectable, preservative free
+  2010-10-19 : Influenza, seasonal, injectable, preservative free
+  2009-10-13 : Td (adult) preservative free
+  2009-10-13 : Influenza, seasonal, injectable, preservative free
+  2008-10-07 : Influenza, seasonal, injectable, preservative free
+  2007-10-02 : Influenza, seasonal, injectable, preservative free
+  2006-09-26 : Influenza, seasonal, injectable, preservative free
+  2005-09-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2015-01-27 : Death Certification
+2015-01-15 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Pneumonia
+2014-11-11 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-03-21 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Alzheimer's disease (disorder)
+2013-11-05 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Closed fracture of hip
+2013-11-05 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2013-10-06 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2013-07-23 (Dr. Annmarie79 Jenkins714) : Encounter at WALTHAM URGENT CARE
+2013-07-11 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2013-07-16 (Dr. Annmarie79 Jenkins714) : Encounter at WALTHAM URGENT CARE
+2013-04-06 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2012-10-30 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2011-10-25 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2011-10-03 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Alzheimer's disease (disorder)
+2010-10-19 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2010-10-08 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Alzheimer's disease (disorder)
+2009-10-13 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2008-10-07 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2008-04-07 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2007-10-02 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2006-09-26 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2005-09-20 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2002-03-27 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Rheumatoid arthritis
+1995-06-20 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1981-09-29 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Sinusitis (disorder)
+1979-04-10 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+1964-02-18 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2013-10-06 : Digital Radiography, Pelvis
+--------------------------------------------------------------------------------

@@ -1,0 +1,326 @@
+Idell650 Collins926
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1992-01-22
+Marital Status:      S
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1993-06-27 -            : Allergy to wheat
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-01-06[CURRENT] : Seasonique 91 Day Pack
+  2017-02-09[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2017-02-09[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2017-01-11[STOPPED] : Natazia 28 Day Pack
+  2011-12-18[STOPPED] : Yaz 28 Day Pack
+  2010-12-23[STOPPED] : Camila 28 Day Pack
+  2009-12-28[STOPPED] : Yaz 28 Day Pack
+  2009-01-02[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  1993-06-27[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1993-06-27[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-01-15 - 2017-02-16 : Escherichia coli urinary tract infection
+  2016-04-20 - 2016-11-30 : Normal pregnancy
+  2015-03-25 - 2015-11-04 : Normal pregnancy
+  2014-07-23 - 2014-08-06 : Viral sinusitis (disorder)
+  2011-04-19 - 2011-05-03 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-02-09[STOPPED] : Urinary tract infection care
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2016-04-20[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-03-25[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1993-06-15[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-03-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+           - MCV [Entitic volume] by Automated count  89.6 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+           - Platelets [#/volume] in Blood by Automated count 412.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 471.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-03-22 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-22 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  118.5 mmHg
+  2017-03-22 : Body Mass Index                          23.9 kg/m2
+  2017-03-22 : Body Weight                              64.3 kg
+  2017-03-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2017-03-22 : Body Height                              164.0 cm
+  2014-03-19 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2014-03-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 471.3 fL
+  2014-03-19 : Platelets [#/volume] in Blood by Automated count 412.8 10*3/uL
+  2014-03-19 : Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+  2014-03-19 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2014-03-19 : MCH [Entitic mass] by Automated count    32.2 pg
+  2014-03-19 : MCV [Entitic volume] by Automated count  89.6 fL
+  2014-03-19 : Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+  2014-03-19 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2014-03-19 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2014-03-19 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2014-03-19 : Blood Pressure
+           - Diastolic Blood Pressure                 84.7 mmHg
+           - Systolic Blood Pressure                  134.0 mmHg
+  2014-03-19 : Body Mass Index                          22.2 kg/m2
+  2014-03-19 : Body Weight                              59.7 kg
+  2014-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2014-03-19 : Body Height                              164.0 cm
+  2011-03-16 : Tobacco smoking status NHIS              Never smoker 
+  2011-03-16 : Blood Pressure
+           - Diastolic Blood Pressure                 87.3 mmHg
+           - Systolic Blood Pressure                  133.6 mmHg
+  2011-03-16 : Body Mass Index                          20.3 kg/m2
+  2011-03-16 : Body Weight                              54.6 kg
+  2011-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2011-03-16 : Body Height                              164.0 cm
+  2010-03-10 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-10 : Blood Pressure
+           - Diastolic Blood Pressure                 79.7 mmHg
+           - Systolic Blood Pressure                  104.6 mmHg
+  2010-03-10 : Body Mass Index                          20.0 kg/m2
+  2010-03-10 : Body Weight                              53.6 kg
+  2010-03-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2010-03-10 : Body Height                              163.9 cm
+  2009-03-04 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-04 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mmHg
+           - Systolic Blood Pressure                  107.2 mmHg
+  2009-03-04 : Body Mass Index                          19.6 kg/m2
+  2009-03-04 : Body Weight                              52.6 kg
+  2009-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2009-03-04 : Body Height                              163.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-01-11 : Depression screening
+  2017-01-11 : Physical examination following birth
+  2016-11-30 : Childbirth for Normal pregnancy
+  2016-11-30 : Episiotomy for Normal pregnancy
+  2016-11-23 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-16 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-02 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-02 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-10-05 : Auscultation of the fetal heart for Normal pregnancy
+  2016-10-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-07 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-07 : Urine screening for glucose for Normal pregnancy
+  2016-09-07 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-09-07 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-08-10 : Auscultation of the fetal heart for Normal pregnancy
+  2016-08-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-07-13 : Auscultation of the fetal heart for Normal pregnancy
+  2016-07-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-15 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-15 : Alpha-fetoprotein test for Normal pregnancy
+  2016-06-15 : Fetal anatomy study for Normal pregnancy
+  2016-05-18 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-05-18 : Auscultation of the fetal heart for Normal pregnancy
+  2016-05-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-20 : Physical examination of mother for Normal pregnancy
+  2016-04-20 : Urine protein test for Normal pregnancy
+  2016-04-20 : Skin test for tuberculosis for Normal pregnancy
+  2016-04-20 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-04-20 : Rubella screening for Normal pregnancy
+  2016-04-20 : Hepatitis C antibody test for Normal pregnancy
+  2016-04-20 : Urine screening test for diabetes for Normal pregnancy
+  2016-04-20 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-04-20 : Urine culture for Normal pregnancy
+  2016-04-20 : Syphilis infection test for Normal pregnancy
+  2016-04-20 : Gonorrhea infection test for Normal pregnancy
+  2016-04-20 : Chlamydia antigen test for Normal pregnancy
+  2016-04-20 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-04-20 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-04-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-04-20 : Blood typing, RH typing for Normal pregnancy
+  2016-04-20 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-04-20 : Standard pregnancy test for Normal pregnancy
+  2015-12-16 : Depression screening
+  2015-12-16 : Physical examination following birth
+  2015-11-04 : Childbirth for Normal pregnancy
+  2015-11-04 : Epidural anesthesia for Normal pregnancy
+  2015-10-28 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-21 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-07 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-07 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2015-09-09 : Auscultation of the fetal heart for Normal pregnancy
+  2015-09-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-08-12 : Auscultation of the fetal heart for Normal pregnancy
+  2015-08-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-08-12 : Urine screening for glucose for Normal pregnancy
+  2015-08-12 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2015-08-12 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-07-15 : Auscultation of the fetal heart for Normal pregnancy
+  2015-07-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-06-17 : Auscultation of the fetal heart for Normal pregnancy
+  2015-06-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-05-20 : Auscultation of the fetal heart for Normal pregnancy
+  2015-05-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-05-20 : Alpha-fetoprotein test for Normal pregnancy
+  2015-05-20 : Fetal anatomy study for Normal pregnancy
+  2015-04-22 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-04-22 : Auscultation of the fetal heart for Normal pregnancy
+  2015-04-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-03-25 : Physical examination of mother for Normal pregnancy
+  2015-03-25 : Urine protein test for Normal pregnancy
+  2015-03-25 : Skin test for tuberculosis for Normal pregnancy
+  2015-03-25 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-03-25 : Rubella screening for Normal pregnancy
+  2015-03-25 : Hepatitis C antibody test for Normal pregnancy
+  2015-03-25 : Urine screening test for diabetes for Normal pregnancy
+  2015-03-25 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-03-25 : Urine culture for Normal pregnancy
+  2015-03-25 : Syphilis infection test for Normal pregnancy
+  2015-03-25 : Gonorrhea infection test for Normal pregnancy
+  2015-03-25 : Chlamydia antigen test for Normal pregnancy
+  2015-03-25 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-03-25 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-03-25 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-03-25 : Blood typing, RH typing for Normal pregnancy
+  2015-03-25 : Auscultation of the fetal heart for Normal pregnancy
+  2015-03-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-03-25 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-03-25 : Standard pregnancy test for Normal pregnancy
+  2015-01-07 : Intramuscular injection
+  2014-10-08 : Intramuscular injection
+  2014-07-09 : Intramuscular injection
+  2014-04-09 : Intramuscular injection
+  2014-03-19 : Documentation of current medications
+  2014-01-08 : Intramuscular injection
+  2013-10-09 : Intramuscular injection
+  2013-07-10 : Intramuscular injection
+  2013-04-10 : Intramuscular injection
+  2013-01-09 : Intramuscular injection
+  2012-10-10 : Intramuscular injection
+  2012-07-11 : Intramuscular injection
+  2012-04-11 : Intramuscular injection
+  2012-01-11 : Intramuscular injection
+  2011-10-12 : Intramuscular injection
+  2011-07-13 : Intramuscular injection
+  2011-04-13 : Intramuscular injection
+  2011-01-12 : Intramuscular injection
+  2010-10-13 : Intramuscular injection
+  2010-07-14 : Intramuscular injection
+  2010-04-14 : Intramuscular injection
+  2010-01-13 : Intramuscular injection
+  2009-10-14 : Intramuscular injection
+  2009-07-15 : Intramuscular injection
+  2009-04-15 : Intramuscular injection
+  2009-03-04 : Documentation of current medications
+  2009-01-14 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-03-22 : Influenza, seasonal, injectable, preservative free
+  2014-03-19 : meningococcal MCV4P
+  2014-03-19 : Hep B, adult
+  2014-03-19 : Td (adult) preservative free
+  2014-03-19 : Influenza, seasonal, injectable, preservative free
+  2011-03-16 : Influenza, seasonal, injectable, preservative free
+  2010-03-10 : Influenza, seasonal, injectable, preservative free
+  2009-03-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-03-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-01-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Escherichia coli urinary tract infection
+2017-01-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-01-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-11-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-11-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-11-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-11-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-10-05 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-09-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-08-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-07-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-06-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-05-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2016-04-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-12-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-11-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-10-28 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-10-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-10-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-09-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-08-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-07-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-06-17 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-05-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-04-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-03-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2015-01-07 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-10-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-07-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2014-07-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-04-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-03-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-01-08 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-10-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-07-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-04-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-01-09 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-10-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-07-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-04-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-01-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-12-18 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-10-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-07-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-04-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Viral sinusitis (disorder)
+2011-04-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-03-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2011-01-12 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-12-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-10-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-07-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-04-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-03-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-01-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-12-28 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-10-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-07-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-03-04 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-01-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-01-02 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+1993-06-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+1993-06-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

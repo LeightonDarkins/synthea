@@ -1,0 +1,296 @@
+Kimi714 Schumm995
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1984-12-17
+Marital Status:      M
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-07-20[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2016-07-18[STOPPED] : Liletta 52 MG Intrauterine System
+  2014-04-15[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2010-03-29[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2003-06-16[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-02-27 - 2017-03-09 : Acute viral pharyngitis (disorder)
+  2016-07-04 - 2016-07-18 : Blighted ovum
+  2016-07-04 -            : Miscarriage in first trimester
+  2016-07-04 - 2016-07-18 : Normal pregnancy
+  2016-03-21 - 2016-03-31 : Acute viral pharyngitis (disorder)
+  2014-04-15 - 2014-04-28 : Streptococcal sore throat (disorder)
+  2013-08-26 - 2013-09-16 : Normal pregnancy
+  2011-09-05 - 2012-04-23 : Normal pregnancy
+  2009-08-03 - 2010-02-15 : Normal pregnancy
+  2008-12-17 - 2008-12-24 : Viral sinusitis (disorder)
+  2003-06-16 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-09-05[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2009-08-03[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-03-06 : Lipid Panel
+           - Total Cholesterol                        173.2 mg/dL
+           - Triglycerides                            113.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      73.1 mg/dL
+           - High Density Lipoprotein Cholesterol     77.3 mg/dL
+  2013-07-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+           - MCV [Entitic volume] by Automated count  91.5 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 150.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 150.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-03-06 : Tobacco smoking status NHIS              Former smoker 
+  2017-03-06 : Estimated Glomerular Filtration Rate     121.5 mL/min/{1.73_m2}
+  2017-03-06 : High Density Lipoprotein Cholesterol     77.3 mg/dL
+  2017-03-06 : Low Density Lipoprotein Cholesterol      73.1 mg/dL
+  2017-03-06 : Triglycerides                            113.6 mg/dL
+  2017-03-06 : Total Cholesterol                        173.2 mg/dL
+  2017-03-06 : Blood Pressure
+           - Diastolic Blood Pressure                 100.2 mmHg
+           - Systolic Blood Pressure                  193.1 mmHg
+  2017-03-06 : Body Mass Index                          24.4 kg/m2
+  2017-03-06 : Body Weight                              62.8 kg
+  2017-03-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2017-03-06 : Body Height                              160.3 cm
+  2017-02-27 : Oral temperature                         37.8 Cel
+  2016-03-21 : Oral temperature                         37.7 Cel
+  2014-04-15 : Oral temperature                         39.0 Cel
+  2014-04-21 : Tobacco smoking status NHIS              Former smoker 
+  2014-04-21 : Estimated Glomerular Filtration Rate     142.7 mL/min/{1.73_m2}
+  2014-04-21 : Blood Pressure
+           - Diastolic Blood Pressure                 112.0 mmHg
+           - Systolic Blood Pressure                  148.7 mmHg
+  2014-04-21 : Body Mass Index                          22.6 kg/m2
+  2014-04-21 : Body Weight                              57.9 kg
+  2014-04-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2014-04-21 : Body Height                              160.3 cm
+  2013-07-01 : Tobacco smoking status NHIS              Former smoker 
+  2013-07-01 : Estimated Glomerular Filtration Rate     75.8 mL/min/{1.73_m2}
+  2013-07-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2013-07-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 150.5 fL
+  2013-07-01 : Platelets [#/volume] in Blood by Automated count 150.8 10*3/uL
+  2013-07-01 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2013-07-01 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2013-07-01 : MCH [Entitic mass] by Automated count    28.8 pg
+  2013-07-01 : MCV [Entitic volume] by Automated count  91.5 fL
+  2013-07-01 : Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+  2013-07-01 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2013-07-01 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2013-07-01 : Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+  2013-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 110.9 mmHg
+           - Systolic Blood Pressure                  198.8 mmHg
+  2013-07-01 : Body Mass Index                          22.1 kg/m2
+  2013-07-01 : Body Weight                              56.6 kg
+  2013-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2013-07-01 : Body Height                              160.3 cm
+  2010-06-28 : Tobacco smoking status NHIS              Former smoker 
+  2010-06-28 : Estimated Glomerular Filtration Rate     87.0 mL/min/{1.73_m2}
+  2010-06-28 : Blood Pressure
+           - Diastolic Blood Pressure                 93.7 mmHg
+           - Systolic Blood Pressure                  183.6 mmHg
+  2010-06-28 : Body Mass Index                          20.6 kg/m2
+  2010-06-28 : Body Weight                              52.9 kg
+  2010-06-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2010-06-28 : Body Height                              160.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-07-20 : Insertion of subcutaneous contraceptive
+  2017-02-27 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2016-07-21 : Insertion of intrauterine contraceptive device
+  2016-07-18 : Depression screening for Normal pregnancy
+  2016-07-18 : Physical examination for Normal pregnancy
+  2016-07-04 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-07-04 : Standard pregnancy test for Normal pregnancy
+  2014-04-15 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2014-04-21 : Documentation of current medications
+  2013-09-16 : Depression screening for Normal pregnancy
+  2013-09-16 : Physical exam following abortion for Normal pregnancy
+  2013-09-16 : Pregnancy termination care for Normal pregnancy
+  2013-09-02 : Induced termination of pregnancy for Normal pregnancy
+  2013-09-02 : Counseling for termination of pregnancy for Normal pregnancy
+  2013-08-26 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-08-26 : Standard pregnancy test for Normal pregnancy
+  2013-07-01 : Documentation of current medications
+  2013-06-24 : Removal of intrauterine device
+  2012-06-07 : Insertion of intrauterine contraceptive device
+  2012-06-04 : Depression screening
+  2012-06-04 : Physical examination following birth
+  2012-04-23 : Childbirth for Normal pregnancy
+  2012-04-23 : Epidural anesthesia for Normal pregnancy
+  2012-04-16 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-09 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-19 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-19 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-02-20 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-23 : Auscultation of the fetal heart for Normal pregnancy
+  2012-01-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-23 : Urine screening for glucose for Normal pregnancy
+  2012-01-23 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-01-23 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-12-26 : Auscultation of the fetal heart for Normal pregnancy
+  2011-12-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-11-28 : Auscultation of the fetal heart for Normal pregnancy
+  2011-11-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-31 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-31 : Alpha-fetoprotein test for Normal pregnancy
+  2011-10-31 : Fetal anatomy study for Normal pregnancy
+  2011-10-03 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-10-03 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-09-05 : Physical examination of mother for Normal pregnancy
+  2011-09-05 : Urine protein test for Normal pregnancy
+  2011-09-05 : Skin test for tuberculosis for Normal pregnancy
+  2011-09-05 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-09-05 : Rubella screening for Normal pregnancy
+  2011-09-05 : Hepatitis C antibody test for Normal pregnancy
+  2011-09-05 : Urine screening test for diabetes for Normal pregnancy
+  2011-09-05 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-09-05 : Urine culture for Normal pregnancy
+  2011-09-05 : Syphilis infection test for Normal pregnancy
+  2011-09-05 : Gonorrhea infection test for Normal pregnancy
+  2011-09-05 : Chlamydia antigen test for Normal pregnancy
+  2011-09-05 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-09-05 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-09-05 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-09-05 : Blood typing, RH typing for Normal pregnancy
+  2011-09-05 : Auscultation of the fetal heart for Normal pregnancy
+  2011-09-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-09-05 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-09-05 : Standard pregnancy test for Normal pregnancy
+  2011-07-04 : Removal of subcutaneous contraceptive
+  2010-03-29 : Insertion of subcutaneous contraceptive
+  2010-03-29 : Depression screening
+  2010-03-29 : Physical examination following birth
+  2010-02-15 : Premature birth of newborn for Normal pregnancy
+  2010-02-15 : Augmentation of labor for Normal pregnancy
+  2010-01-18 : Auscultation of the fetal heart for Normal pregnancy
+  2010-01-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-12-21 : Auscultation of the fetal heart for Normal pregnancy
+  2009-12-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-12-21 : Urine screening for glucose for Normal pregnancy
+  2009-12-21 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2009-12-21 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-11-23 : Auscultation of the fetal heart for Normal pregnancy
+  2009-11-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-10-26 : Auscultation of the fetal heart for Normal pregnancy
+  2009-10-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-09-28 : Auscultation of the fetal heart for Normal pregnancy
+  2009-09-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-09-28 : Alpha-fetoprotein test for Normal pregnancy
+  2009-09-28 : Fetal anatomy study for Normal pregnancy
+  2009-08-31 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2009-08-31 : Auscultation of the fetal heart for Normal pregnancy
+  2009-08-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-08-03 : Physical examination of mother for Normal pregnancy
+  2009-08-03 : Urine protein test for Normal pregnancy
+  2009-08-03 : Skin test for tuberculosis for Normal pregnancy
+  2009-08-03 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2009-08-03 : Rubella screening for Normal pregnancy
+  2009-08-03 : Hepatitis C antibody test for Normal pregnancy
+  2009-08-03 : Urine screening test for diabetes for Normal pregnancy
+  2009-08-03 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2009-08-03 : Urine culture for Normal pregnancy
+  2009-08-03 : Syphilis infection test for Normal pregnancy
+  2009-08-03 : Gonorrhea infection test for Normal pregnancy
+  2009-08-03 : Chlamydia antigen test for Normal pregnancy
+  2009-08-03 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2009-08-03 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2009-08-03 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2009-08-03 : Blood typing, RH typing for Normal pregnancy
+  2009-08-03 : Auscultation of the fetal heart for Normal pregnancy
+  2009-08-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-08-03 : Ultrasound scan for fetal viability for Normal pregnancy
+  2009-08-03 : Standard pregnancy test for Normal pregnancy
+  2009-04-06 : Intramuscular injection
+  2009-01-05 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-03-06 : Td (adult) preservative free
+  2017-03-06 : Influenza, seasonal, injectable, preservative free
+  2014-04-21 : Influenza, seasonal, injectable, preservative free
+  2013-07-01 : Influenza, seasonal, injectable, preservative free
+  2010-06-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-07-20 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-03-06 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-02-27 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2016-07-21 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-07-18 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-07-18 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Blighted ovum
+2016-07-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2016-03-21 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2014-04-15 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2014-04-21 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-09-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2013-09-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2013-08-26 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2013-07-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-06-24 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-06-07 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-06-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-06-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-04-23 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2012-04-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2012-04-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2012-04-02 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2012-03-19 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2012-02-20 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2012-01-23 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2011-12-26 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2011-11-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2011-10-31 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2011-10-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2011-09-05 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2011-07-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-06-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-03-29 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-03-29 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-02-15 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2010-01-18 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2009-12-21 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2009-11-23 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2009-10-26 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2009-09-28 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2009-08-31 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2009-08-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2009-04-06 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-01-05 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2008-12-17 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2003-06-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

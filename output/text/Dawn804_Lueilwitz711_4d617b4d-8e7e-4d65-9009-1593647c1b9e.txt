@@ -1,0 +1,323 @@
+Dawn804 Lueilwitz711
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 8
+Birth Date:          2010-05-09
+Marital Status:      S
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2011-02-15 -            : Allergy to nut
+  2011-02-15 -            : Allergy to tree pollen
+  2011-02-15 -            : Allergy to grass pollen
+  2011-02-15 -            : Dander (animal) allergy
+  2011-02-15 -            : House dust mite allergy
+  2011-02-15 -            : Allergy to mould
+  2011-02-15 -            : Latex allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-06-25[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2012-05-15[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-05-15[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-07-03[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2011-07-03[STOPPED] : Amoxicillin 250 MG Oral Capsule
+  2011-02-15[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2011-02-15[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+  2011-02-03[STOPPED] : predniSONE 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2013-06-25 - 2013-07-08 : Streptococcal sore throat (disorder)
+  2012-05-15 -            : Childhood asthma
+  2011-07-03 - 2011-07-17 : Otitis media
+  2011-02-03 - 2011-02-03 : Acute allergic reaction
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-05-15[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  2011-02-06[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-01-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.7 %
+           - MCV [Entitic volume] by Automated count  88.1 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 151.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 299.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2010-05-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.4 %
+           - MCV [Entitic volume] by Automated count  90.5 fL
+           - MCH [Entitic mass] by Automated count    27.0 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+           - Platelets [#/volume] in Blood by Automated count 166.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 383.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-04 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-04 : Blood Pressure
+           - Diastolic Blood Pressure                 72.8 mmHg
+           - Systolic Blood Pressure                  111.3 mmHg
+  2018-02-04 : Body Mass Index                          11.8 kg/m2
+  2018-02-04 : Body Weight                              20.9 kg
+  2018-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2018-02-04 : Body Height                              133.1 cm
+  2017-01-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-29 : Blood Pressure
+           - Diastolic Blood Pressure                 80.4 mmHg
+           - Systolic Blood Pressure                  122.8 mmHg
+  2017-01-29 : Body Mass Index                          11.8 kg/m2
+  2017-01-29 : Body Weight                              18.8 kg
+  2017-01-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2017-01-29 : Body Height                              126.4 cm
+  2016-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2016-01-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2016-01-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 299.3 fL
+  2016-01-24 : Platelets [#/volume] in Blood by Automated count 151.9 10*3/uL
+  2016-01-24 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2016-01-24 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2016-01-24 : MCH [Entitic mass] by Automated count    30.9 pg
+  2016-01-24 : MCV [Entitic volume] by Automated count  88.1 fL
+  2016-01-24 : Hematocrit [Volume Fraction] of Blood by Automated count 46.7 %
+  2016-01-24 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2016-01-24 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2016-01-24 : Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+  2016-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 83.9 mmHg
+           - Systolic Blood Pressure                  135.8 mmHg
+  2016-01-24 : Body Mass Index                          11.9 kg/m2
+  2016-01-24 : Body Weight                              16.9 kg
+  2016-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2016-01-24 : Body Height                              119.0 cm
+  2015-01-18 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 72.5 mmHg
+           - Systolic Blood Pressure                  122.8 mmHg
+  2015-01-18 : Body Mass Index                          12.1 kg/m2
+  2015-01-18 : Body Weight                              15.0 kg
+  2015-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2015-01-18 : Body Height                              111.4 cm
+  2014-01-12 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-12 : Blood Pressure
+           - Diastolic Blood Pressure                 72.3 mmHg
+           - Systolic Blood Pressure                  136.1 mmHg
+  2014-01-12 : Body Mass Index                          12.4 kg/m2
+  2014-01-12 : Body Weight                              13.2 kg
+  2014-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2014-01-12 : Body Height                              103.4 cm
+  2013-07-14 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-14 : Blood Pressure
+           - Diastolic Blood Pressure                 78.8 mmHg
+           - Systolic Blood Pressure                  110.6 mmHg
+  2013-07-14 : Body Mass Index                          12.5 kg/m2
+  2013-07-14 : Body Weight                              12.4 kg
+  2013-07-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2013-07-14 : Body Height                              99.7 cm
+  2013-06-25 : Oral temperature                         39.1 Cel
+  2013-04-14 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 88.8 mmHg
+           - Systolic Blood Pressure                  109.4 mmHg
+  2013-04-14 : Body Mass Index                          12.6 kg/m2
+  2013-04-14 : Body Weight                              12.1 kg
+  2013-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2013-04-14 : Body Height                              97.8 cm
+  2012-10-14 : Tobacco smoking status NHIS              Never smoker 
+  2012-10-14 : Blood Pressure
+           - Diastolic Blood Pressure                 85.8 mmHg
+           - Systolic Blood Pressure                  122.4 mmHg
+  2012-10-14 : Body Mass Index                          13.0 kg/m2
+  2012-10-14 : Body Weight                              11.3 kg
+  2012-10-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2012-10-14 : Body Height                              93.3 cm
+  2012-04-15 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-15 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mmHg
+           - Systolic Blood Pressure                  127.4 mmHg
+  2012-04-15 : Body Weight                              10.5 kg
+  2012-04-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2012-04-15 : Body Height                              88.6 cm
+  2011-10-16 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-16 : Blood Pressure
+           - Diastolic Blood Pressure                 79.3 mmHg
+           - Systolic Blood Pressure                  120.3 mmHg
+  2011-10-16 : Body Weight                              9.7 kg
+  2011-10-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2011-10-16 : Body Height                              83.6 cm
+  2011-07-17 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-17 : Blood Pressure
+           - Diastolic Blood Pressure                 74.6 mmHg
+           - Systolic Blood Pressure                  125.3 mmHg
+  2011-07-17 : Body Weight                              9.1 kg
+  2011-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2011-07-17 : Body Height                              80.3 cm
+  2011-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 87.5 mmHg
+           - Systolic Blood Pressure                  121.9 mmHg
+  2011-04-17 : Body Weight                              8.3 kg
+  2011-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2011-04-17 : Body Height                              76.6 cm
+  2011-02-15 : Latex IgE Ab in Serum                    9.0 kU/L
+  2011-02-15 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2011-02-15 : Cladosporium herbarum IgE Ab in Serum    76.9 kU/L
+  2011-02-15 : American house dust mite IgE Ab in Serum 13.5 kU/L
+  2011-02-15 : Cat dander IgE Ab in Serum               14.0 kU/L
+  2011-02-15 : Common Ragweed IgE Ab in Serum           4.9 kU/L
+  2011-02-15 : White oak IgE Ab in Serum                13.1 kU/L
+  2011-02-15 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2011-02-15 : Soybean IgE Ab in Serum                  0.0 kU/L
+  2011-02-15 : Egg white IgE Ab in Serum                0.2 kU/L
+  2011-02-15 : Wheat IgE Ab in Serum                    0.2 kU/L
+  2011-02-15 : Shrimp IgE Ab in Serum                   0.2 kU/L
+  2011-02-15 : Codfish IgE Ab in Serum                  0.1 kU/L
+  2011-02-15 : Walnut IgE Ab in Serum                   60.1 kU/L
+  2011-02-15 : Peanut IgE Ab in Serum                   0.2 kU/L
+  2011-01-16 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 79.5 mmHg
+           - Systolic Blood Pressure                  126.0 mmHg
+  2011-01-16 : Body Weight                              7.3 kg
+  2011-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-01-16 : Body Height                              72.4 cm
+  2010-10-17 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-17 : Blood Pressure
+           - Diastolic Blood Pressure                 82.5 mmHg
+           - Systolic Blood Pressure                  123.5 mmHg
+  2010-10-17 : Body Weight                              6.1 kg
+  2010-10-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-10-17 : Body Height                              67.5 cm
+  2010-08-15 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-15 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mmHg
+           - Systolic Blood Pressure                  134.0 mmHg
+  2010-08-15 : Body Weight                              4.5 kg
+  2010-08-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2010-08-15 : Body Height                              61.1 cm
+  2010-06-13 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-13 : Blood Pressure
+           - Diastolic Blood Pressure                 76.8 mmHg
+           - Systolic Blood Pressure                  108.2 mmHg
+  2010-06-13 : Body Weight                              3.2 kg
+  2010-06-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2010-06-13 : Body Height                              54.8 cm
+  2010-05-09 : Tobacco smoking status NHIS              Never smoker 
+  2010-05-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2010-05-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 383.3 fL
+  2010-05-09 : Platelets [#/volume] in Blood by Automated count 166.5 10*3/uL
+  2010-05-09 : Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+  2010-05-09 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2010-05-09 : MCH [Entitic mass] by Automated count    27.0 pg
+  2010-05-09 : MCV [Entitic volume] by Automated count  90.5 fL
+  2010-05-09 : Hematocrit [Volume Fraction] of Blood by Automated count 41.4 %
+  2010-05-09 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2010-05-09 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2010-05-09 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2010-05-09 : Blood Pressure
+           - Diastolic Blood Pressure                 null mmHg
+           - Systolic Blood Pressure                  null mmHg
+  2010-05-09 : Body Weight                              3.2 kg
+  2010-05-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2010-05-09 : Body Height                              54.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-01-29 : Documentation of current medications
+  2015-01-18 : Documentation of current medications
+  2013-07-14 : Documentation of current medications
+  2013-04-14 : Documentation of current medications
+  2012-05-15 : Asthma screening for Childhood asthma
+  2012-04-15 : Documentation of current medications
+  2011-10-16 : Documentation of current medications
+  2011-02-15 : Allergy screening test
+  2011-02-03 : Injection of adrenaline
+  2010-10-17 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-04 : Influenza, seasonal, injectable, preservative free
+  2017-01-29 : Influenza, seasonal, injectable, preservative free
+  2016-01-24 : Influenza, seasonal, injectable, preservative free
+  2015-01-18 : MMR
+  2015-01-18 : DTaP
+  2015-01-18 : Influenza, seasonal, injectable, preservative free
+  2015-01-18 : IPV
+  2015-01-18 : varicella
+  2014-01-12 : Influenza, seasonal, injectable, preservative free
+  2013-04-14 : Influenza, seasonal, injectable, preservative free
+  2012-10-14 : Hep A, ped/adol, 2 dose
+  2012-04-15 : Influenza, seasonal, injectable, preservative free
+  2011-10-16 : DTaP
+  2011-07-17 : Hep A, ped/adol, 2 dose
+  2011-07-17 : Pneumococcal conjugate PCV 13
+  2011-07-17 : MMR
+  2011-07-17 : varicella
+  2011-07-17 : Hib (PRP-OMP)
+  2011-01-16 : Hep B, adolescent or pediatric
+  2011-01-16 : Pneumococcal conjugate PCV 13
+  2011-01-16 : DTaP
+  2011-01-16 : Influenza, seasonal, injectable, preservative free
+  2011-01-16 : IPV
+  2010-10-17 : Pneumococcal conjugate PCV 13
+  2010-10-17 : DTaP
+  2010-10-17 : IPV
+  2010-10-17 : rotavirus, monovalent
+  2010-10-17 : Hib (PRP-OMP)
+  2010-08-15 : Pneumococcal conjugate PCV 13
+  2010-08-15 : DTaP
+  2010-08-15 : IPV
+  2010-08-15 : rotavirus, monovalent
+  2010-08-15 : Hib (PRP-OMP)
+  2010-06-13 : Hep B, adolescent or pediatric
+  2010-05-09 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Childhood asthma
+2018-02-04 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-04-19 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Childhood asthma
+2017-01-29 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-04-24 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Childhood asthma
+2016-01-24 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2015-04-30 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Childhood asthma
+2015-01-18 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-01-12 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-11-06 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Childhood asthma
+2013-07-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-07-07 (Dr. Phillip440 McDermott739) : Encounter at WALK IN AND PRIMARY CARE
+2013-06-25 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2013-06-30 (Dr. Phillip440 McDermott739) : Encounter at WALK IN AND PRIMARY CARE
+2013-04-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-10-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-05-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Childhood asthma
+2012-04-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-10-16 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-07-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-07-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Otitis media
+2011-04-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-02-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-02-06 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-02-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-01-16 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-10-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-08-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-06-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-05-09 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,192 @@
+Arden380 Torphy630
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 24
+Birth Date:          1993-11-25
+Marital Status:      S
+Outpatient Provider: CAPE COD HOSPITAL
+Primary Care Provider: 88 LEWIS BAY ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-09-27[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2018-04-18[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-09-27 - 2018-10-11 : Acute bronchitis (disorder)
+  2018-04-18 - 2018-05-16 : Sprain of ankle
+  2014-07-27 - 2014-08-03 : Viral sinusitis (disorder)
+  2011-09-19 - 2011-10-03 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-09-27[CURRENT] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2018-04-18[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2002-12-09[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2002-01-30[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1998-06-11[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1995-08-18[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+           - MCV [Entitic volume] by Automated count  90.8 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    36.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/volume] in Blood by Automated count 157.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 390.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2009-08-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.7 %
+           - MCV [Entitic volume] by Automated count  80.5 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 436.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 215.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-04 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 86.2 mmHg
+           - Systolic Blood Pressure                  122.8 mmHg
+  2018-10-04 : Body Mass Index                          23.6 kg/m2
+  2018-10-04 : Body Weight                              72.6 kg
+  2018-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2018-10-04 : Body Height                              175.3 cm
+  2016-09-15 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2016-09-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 390.0 fL
+  2016-09-15 : Platelets [#/volume] in Blood by Automated count 157.5 10*3/uL
+  2016-09-15 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2016-09-15 : MCHC [Mass/volume] by Automated count    36.0 g/dL
+  2016-09-15 : MCH [Entitic mass] by Automated count    30.2 pg
+  2016-09-15 : MCV [Entitic volume] by Automated count  90.8 fL
+  2016-09-15 : Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+  2016-09-15 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2016-09-15 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2016-09-15 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2016-09-15 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  133.8 mmHg
+  2016-09-15 : Body Mass Index                          22.5 kg/m2
+  2016-09-15 : Body Weight                              69.1 kg
+  2016-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2016-09-15 : Body Height                              175.3 cm
+  2013-09-12 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-12 : Blood Pressure
+           - Diastolic Blood Pressure                 81.3 mmHg
+           - Systolic Blood Pressure                  102.0 mmHg
+  2013-09-12 : Body Mass Index                          21.0 kg/m2
+  2013-09-12 : Body Weight                              64.4 kg
+  2013-09-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2013-09-12 : Body Height                              175.2 cm
+  2012-09-06 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 83.8 mmHg
+           - Systolic Blood Pressure                  109.4 mmHg
+  2012-09-06 : Body Mass Index                          20.6 kg/m2
+  2012-09-06 : Body Weight                              63.0 kg
+  2012-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2012-09-06 : Body Height                              175.0 cm
+  2011-09-01 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.3 mmHg
+           - Systolic Blood Pressure                  130.9 mmHg
+  2011-09-01 : Body Mass Index                          20.1 kg/m2
+  2011-09-01 : Body Weight                              61.1 kg
+  2011-09-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2011-09-01 : Body Height                              174.4 cm
+  2010-08-26 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-26 : Blood Pressure
+           - Diastolic Blood Pressure                 86.6 mmHg
+           - Systolic Blood Pressure                  116.2 mmHg
+  2010-08-26 : Body Mass Index                          19.3 kg/m2
+  2010-08-26 : Body Weight                              58.1 kg
+  2010-08-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2010-08-26 : Body Height                              173.3 cm
+  2009-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2009-08-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2009-08-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 215.1 fL
+  2009-08-20 : Platelets [#/volume] in Blood by Automated count 436.1 10*3/uL
+  2009-08-20 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  2009-08-20 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2009-08-20 : MCH [Entitic mass] by Automated count    31.2 pg
+  2009-08-20 : MCV [Entitic volume] by Automated count  80.5 fL
+  2009-08-20 : Hematocrit [Volume Fraction] of Blood by Automated count 42.7 %
+  2009-08-20 : Hemoglobin [Mass/volume] in Blood        17.5 g/dL
+  2009-08-20 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2009-08-20 : Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+  2009-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 80.6 mmHg
+           - Systolic Blood Pressure                  126.0 mmHg
+  2009-08-20 : Body Mass Index                          18.5 kg/m2
+  2009-08-20 : Body Weight                              54.2 kg
+  2009-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2009-08-20 : Body Height                              171.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2012-09-06 : Documentation of current medications
+  2010-08-26 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-04 : Influenza, seasonal, injectable, preservative free
+  2016-09-15 : meningococcal MCV4P
+  2016-09-15 : Hep B, adult
+  2016-09-15 : Td (adult) preservative free
+  2016-09-15 : Influenza, seasonal, injectable, preservative free
+  2013-09-12 : Influenza, seasonal, injectable, preservative free
+  2012-09-06 : Influenza, seasonal, injectable, preservative free
+  2011-09-01 : Influenza, seasonal, injectable, preservative free
+  2010-08-26 : meningococcal MCV4P
+  2010-08-26 : Influenza, seasonal, injectable, preservative free
+  2009-08-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-04 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-09-27 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute bronchitis (disorder)
+2018-04-18 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2016-09-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2014-07-27 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-09-12 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2012-09-06 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-09-19 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2011-09-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-08-26 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2009-08-20 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2002-12-09 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute bronchitis (disorder)
+2002-01-30 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute bronchitis (disorder)
+1998-06-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute bronchitis (disorder)
+1995-08-18 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

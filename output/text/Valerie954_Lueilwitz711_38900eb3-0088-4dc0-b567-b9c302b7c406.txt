@@ -1,0 +1,334 @@
+Valerie954 Lueilwitz711
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 20
+Birth Date:          1998-02-03
+Marital Status:      S
+Outpatient Provider: CAPE COD HOSPITAL
+Primary Care Provider: 88 LEWIS BAY ROAD
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-08-21[CURRENT] : Yaz 28 Day Pack
+  2015-01-15[STOPPED] : Errin 28 Day Pack
+  2012-01-31[STOPPED] : Seasonique 91 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-07-18 - 2018-08-08 : Viral sinusitis (disorder)
+  2017-12-26 - 2018-07-10 : Normal pregnancy
+  2008-02-01 - 2012-11-30 : Child attention deficit disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-12-26[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2008-02-01[STOPPED] : Overactivity/inattention behavior management
+                         Reason: Child attention deficit disorder
+                         Activity: Counseling
+                         Activity: Psychological assessment
+--------------------------------------------------------------------------------
+REPORTS:
+  2013-12-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+           - Platelets [#/volume] in Blood by Automated count 162.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 423.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-17 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-17 : Blood Pressure
+           - Diastolic Blood Pressure                 71.5 mmHg
+           - Systolic Blood Pressure                  132.0 mmHg
+  2018-07-17 : Body Mass Index                          21.0 kg/m2
+  2018-07-17 : Body Weight                              54.5 kg
+  2018-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-07-17 : Body Height                              160.9 cm
+  2017-12-26 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-26 : Blood Pressure
+           - Diastolic Blood Pressure                 78.5 mmHg
+           - Systolic Blood Pressure                  130.5 mmHg
+  2017-12-26 : Body Mass Index                          20.3 kg/m2
+  2017-12-26 : Body Weight                              52.4 kg
+  2017-12-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2017-12-26 : Body Height                              160.9 cm
+  2016-12-20 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-20 : Blood Pressure
+           - Diastolic Blood Pressure                 80.5 mmHg
+           - Systolic Blood Pressure                  114.7 mmHg
+  2016-12-20 : Body Mass Index                          20.0 kg/m2
+  2016-12-20 : Body Weight                              51.7 kg
+  2016-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2016-12-20 : Body Height                              160.8 cm
+  2015-12-15 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 86.8 mmHg
+           - Systolic Blood Pressure                  101.6 mmHg
+  2015-12-15 : Body Mass Index                          19.7 kg/m2
+  2015-12-15 : Body Weight                              50.8 kg
+  2015-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2015-12-15 : Body Height                              160.6 cm
+  2014-12-09 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-09 : Blood Pressure
+           - Diastolic Blood Pressure                 79.2 mmHg
+           - Systolic Blood Pressure                  127.3 mmHg
+  2014-12-09 : Body Mass Index                          19.3 kg/m2
+  2014-12-09 : Body Weight                              49.7 kg
+  2014-12-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2014-12-09 : Body Height                              160.4 cm
+  2013-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2013-12-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 423.6 fL
+  2013-12-03 : Platelets [#/volume] in Blood by Automated count 162.6 10*3/uL
+  2013-12-03 : Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+  2013-12-03 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2013-12-03 : MCH [Entitic mass] by Automated count    28.0 pg
+  2013-12-03 : MCV [Entitic volume] by Automated count  86.0 fL
+  2013-12-03 : Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+  2013-12-03 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2013-12-03 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2013-12-03 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2013-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 84.5 mmHg
+           - Systolic Blood Pressure                  117.7 mmHg
+  2013-12-03 : Body Mass Index                          18.8 kg/m2
+  2013-12-03 : Body Weight                              48.2 kg
+  2013-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2013-12-03 : Body Height                              160.0 cm
+  2012-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 74.1 mmHg
+           - Systolic Blood Pressure                  104.7 mmHg
+  2012-11-27 : Body Mass Index                          18.2 kg/m2
+  2012-11-27 : Body Weight                              46.1 kg
+  2012-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-11-27 : Body Height                              159.2 cm
+  2011-11-22 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-22 : Blood Pressure
+           - Diastolic Blood Pressure                 82.2 mmHg
+           - Systolic Blood Pressure                  113.4 mmHg
+  2011-11-22 : Body Mass Index                          17.4 kg/m2
+  2011-11-22 : Body Weight                              43.2 kg
+  2011-11-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2011-11-22 : Body Height                              157.4 cm
+  2010-11-16 : Tobacco smoking status NHIS              Never smoker 
+  2010-11-16 : Blood Pressure
+           - Diastolic Blood Pressure                 87.3 mmHg
+           - Systolic Blood Pressure                  107.3 mmHg
+  2010-11-16 : Body Mass Index                          16.8 kg/m2
+  2010-11-16 : Body Weight                              39.6 kg
+  2010-11-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2010-11-16 : Body Height                              153.5 cm
+  2009-11-10 : Tobacco smoking status NHIS              Never smoker 
+  2009-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mmHg
+           - Systolic Blood Pressure                  105.2 mmHg
+  2009-11-10 : Body Mass Index                          16.6 kg/m2
+  2009-11-10 : Body Weight                              35.8 kg
+  2009-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2009-11-10 : Body Height                              146.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-08-21 : Depression screening
+  2018-08-21 : Physical examination following birth
+  2018-07-10 : Cesarean section for Normal pregnancy
+  2018-07-10 : Medical induction of labor for Normal pregnancy
+  2018-06-12 : Auscultation of the fetal heart for Normal pregnancy
+  2018-06-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-05-15 : Auscultation of the fetal heart for Normal pregnancy
+  2018-05-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-05-15 : Urine screening for glucose for Normal pregnancy
+  2018-05-15 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2018-05-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-04-17 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-03-20 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-20 : Auscultation of the fetal heart for Normal pregnancy
+  2018-02-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-20 : Alpha-fetoprotein test for Normal pregnancy
+  2018-02-20 : Fetal anatomy study for Normal pregnancy
+  2018-01-23 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2018-01-23 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-26 : Physical examination of mother for Normal pregnancy
+  2017-12-26 : Urine protein test for Normal pregnancy
+  2017-12-26 : Skin test for tuberculosis for Normal pregnancy
+  2017-12-26 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-12-26 : Rubella screening for Normal pregnancy
+  2017-12-26 : Hepatitis C antibody test for Normal pregnancy
+  2017-12-26 : Urine screening test for diabetes for Normal pregnancy
+  2017-12-26 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-12-26 : Urine culture for Normal pregnancy
+  2017-12-26 : Syphilis infection test for Normal pregnancy
+  2017-12-26 : Gonorrhea infection test for Normal pregnancy
+  2017-12-26 : Chlamydia antigen test for Normal pregnancy
+  2017-12-26 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-12-26 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-12-26 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-12-26 : Blood typing, RH typing for Normal pregnancy
+  2017-12-26 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-26 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-12-26 : Standard pregnancy test for Normal pregnancy
+  2017-12-26 : Documentation of current medications
+  2015-12-15 : Documentation of current medications
+  2014-12-09 : Documentation of current medications
+  2013-12-03 : Documentation of current medications
+  2012-11-30 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-11-27 : Documentation of current medications
+  2012-10-26 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-09-21 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-08-24 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-07-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-06-22 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-05-25 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-04-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-03-23 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-02-17 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2012-01-20 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-12-23 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-11-18 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-11-22 : Documentation of current medications
+  2011-10-21 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-09-16 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-08-19 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-07-15 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-06-10 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-05-13 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-04-15 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-03-11 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-02-11 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-01-07 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-12-03 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-11-05 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-10-08 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-09-10 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-08-06 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-07-09 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-06-11 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-05-07 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-04-02 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-03-05 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-01-29 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2010-01-01 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-12-04 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-10-30 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-10-02 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-08-28 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-07-24 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-06-26 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-05-29 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-05-01 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-03-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-02-20 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2009-01-23 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2008-12-19 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2008-11-21 : Cognitive and behavioral therapy for Child attention deficit disorder
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-17 : Hep B, adult
+  2017-12-26 : Influenza, seasonal, injectable, preservative free
+  2016-12-20 : Influenza, seasonal, injectable, preservative free
+  2015-12-15 : Influenza, seasonal, injectable, preservative free
+  2014-12-09 : meningococcal MCV4P
+  2014-12-09 : Influenza, seasonal, injectable, preservative free
+  2013-12-03 : Influenza, seasonal, injectable, preservative free
+  2012-11-27 : Influenza, seasonal, injectable, preservative free
+  2011-11-22 : HPV, quadrivalent
+  2011-11-22 : Influenza, seasonal, injectable, preservative free
+  2010-11-16 : HPV, quadrivalent
+  2010-11-16 : Influenza, seasonal, injectable, preservative free
+  2009-11-10 : meningococcal MCV4P
+  2009-11-10 : HPV, quadrivalent
+  2009-11-10 : Influenza, seasonal, injectable, preservative free
+  2009-11-10 : Tdap
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-21 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-08-21 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-07-18 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-07-17 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2018-07-10 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Normal pregnancy
+2018-06-12 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Normal pregnancy
+2018-05-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Normal pregnancy
+2018-04-17 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Normal pregnancy
+2018-03-20 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Normal pregnancy
+2018-02-20 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Normal pregnancy
+2018-01-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Normal pregnancy
+2017-12-26 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Normal pregnancy
+2017-12-26 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2016-12-20 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-12-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2015-01-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2014-12-09 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2013-12-03 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2012-11-30 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-11-27 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2012-10-26 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-09-21 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-08-24 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-07-27 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-06-22 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-05-25 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-04-27 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-03-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-02-17 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2012-01-31 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2012-01-20 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-12-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-11-18 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-11-22 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2011-10-21 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-09-16 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-08-19 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-07-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-06-10 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-05-13 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-04-15 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-03-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-02-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2011-01-07 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-12-03 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-11-16 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2010-11-05 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-10-08 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-09-10 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-08-06 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-07-09 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-06-11 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-05-07 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-04-02 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-03-05 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-01-29 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2010-01-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-12-04 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-11-10 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL
+2009-10-30 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-10-02 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-08-28 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-07-24 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-06-26 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-05-29 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-05-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-03-27 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-02-20 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2009-01-23 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2008-12-19 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2008-11-21 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+2008-02-01 (Dr. Frederic454 Cassin499) : Encounter at CAPE COD HOSPITAL : Encounter for Child attention deficit disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

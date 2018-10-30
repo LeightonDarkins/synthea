@@ -1,0 +1,247 @@
+Weston546 Batz141
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 26
+Birth Date:          1992-08-30
+Marital Status:      S
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-05-30[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2014-04-25[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2014-01-21[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-11-15[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-07-05[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-04-29[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2012-12-05[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2012-08-31[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2012-04-26[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2012-01-28[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2011-12-15[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2011-10-10[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2011-08-13[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2011-06-30[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2011-04-03[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2010-09-23[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2010-06-27[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2009-12-30[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2009-10-18[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2009-07-06[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2009-05-02[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2009-03-26[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2009-01-26[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2008-12-13[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin]
+  2008-09-26[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-09-09 -            : Drug overdose
+  2012-11-29 - 2012-12-11 : Acute viral pharyngitis (disorder)
+  2010-04-02 - 2010-04-13 : Acute viral pharyngitis (disorder)
+  2007-11-06 -            : Chronic intractable migraine without aura
+  2007-04-20 -            : Impacted molars
+  2006-11-01 -            : Chronic pain
+  1995-10-20 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-09-09[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-07-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.1 %
+           - MCV [Entitic volume] by Automated count  91.9 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 241.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 159.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-08 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-08 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mmHg
+           - Systolic Blood Pressure                  114.7 mmHg
+  2018-07-08 : Body Mass Index                          25.0 kg/m2
+  2018-07-08 : Body Weight                              82.1 kg
+  2018-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2018-07-08 : Body Height                              181.3 cm
+  2016-10-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.8 {score}
+  2015-07-05 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2015-07-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 159.4 fL
+  2015-07-05 : Platelets [#/volume] in Blood by Automated count 241.6 10*3/uL
+  2015-07-05 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2015-07-05 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2015-07-05 : MCH [Entitic mass] by Automated count    30.7 pg
+  2015-07-05 : MCV [Entitic volume] by Automated count  91.9 fL
+  2015-07-05 : Hematocrit [Volume Fraction] of Blood by Automated count 43.1 %
+  2015-07-05 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2015-07-05 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2015-07-05 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  2015-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 76.7 mmHg
+           - Systolic Blood Pressure                  136.2 mmHg
+  2015-07-05 : Body Mass Index                          23.6 kg/m2
+  2015-07-05 : Body Weight                              77.6 kg
+  2015-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2015-07-05 : Body Height                              181.3 cm
+  2014-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.3 {score}
+  2014-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.5 {score}
+  2014-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.7 {score}
+  2013-11-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.3 {score}
+  2013-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.2 {score}
+  2013-04-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.7 {score}
+  2012-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.8 {score}
+  2012-11-29 : Oral temperature                         38.0 Cel
+  2012-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.8 {score}
+  2012-07-01 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 73.6 mmHg
+           - Systolic Blood Pressure                  104.0 mmHg
+  2012-07-01 : Body Mass Index                          22.0 kg/m2
+  2012-07-01 : Body Weight                              72.4 kg
+  2012-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2012-07-01 : Body Height                              181.3 cm
+  2012-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.9 {score}
+  2012-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.1 {score}
+  2011-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.9 {score}
+  2011-10-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.7 {score}
+  2011-08-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.4 {score}
+  2011-06-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.3 {score}
+  2011-06-26 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 73.7 mmHg
+           - Systolic Blood Pressure                  138.3 mmHg
+  2011-06-26 : Body Mass Index                          21.6 kg/m2
+  2011-06-26 : Body Weight                              70.7 kg
+  2011-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2011-06-26 : Body Height                              181.0 cm
+  2011-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.6 {score}
+  2010-09-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.9 {score}
+  2010-06-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.7 {score}
+  2010-06-20 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-20 : Blood Pressure
+           - Diastolic Blood Pressure                 80.2 mmHg
+           - Systolic Blood Pressure                  104.3 mmHg
+  2010-06-20 : Body Mass Index                          21.1 kg/m2
+  2010-06-20 : Body Weight                              68.7 kg
+  2010-06-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2010-06-20 : Body Height                              180.5 cm
+  2010-04-02 : Oral temperature                         37.4 Cel
+  2009-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.7 {score}
+  2009-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.2 {score}
+  2009-07-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.9 {score}
+  2009-06-14 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-14 : Blood Pressure
+           - Diastolic Blood Pressure                 74.4 mmHg
+           - Systolic Blood Pressure                  129.6 mmHg
+  2009-06-14 : Body Mass Index                          20.4 kg/m2
+  2009-06-14 : Body Weight                              65.8 kg
+  2009-06-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2009-06-14 : Body Height                              179.5 cm
+  2009-05-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.9 {score}
+  2009-03-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.2 {score}
+  2009-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.3 {score}
+  2008-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.2 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2013-04-29 : Extraction of wisdom tooth
+  2012-08-31 : Extraction of wisdom tooth
+  2012-07-01 : Documentation of current medications
+  2011-12-15 : Extraction of wisdom tooth
+  2011-10-10 : Extraction of wisdom tooth
+  2011-08-13 : Extraction of wisdom tooth
+  2011-06-30 : Extraction of wisdom tooth
+  2010-09-23 : Extraction of wisdom tooth
+  2010-06-20 : Documentation of current medications
+  2009-06-14 : Documentation of current medications
+  2009-01-26 : Extraction of wisdom tooth
+  2008-12-13 : Extraction of wisdom tooth
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-08 : Influenza, seasonal, injectable, preservative free
+  2015-07-05 : meningococcal MCV4P
+  2015-07-05 : Hep B, adult
+  2015-07-05 : Td (adult) preservative free
+  2015-07-05 : Influenza, seasonal, injectable, preservative free
+  2012-07-01 : Influenza, seasonal, injectable, preservative free
+  2011-06-26 : Influenza, seasonal, injectable, preservative free
+  2010-06-20 : Influenza, seasonal, injectable, preservative free
+  2009-06-14 : meningococcal MCV4P
+  2009-06-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-08-03 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-07-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-06-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-04-09 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Drug overdose
+2017-01-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-10-21 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-09-09 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Drug overdose
+2016-05-25 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-04-25 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-03-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-02-24 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2016-01-25 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-12-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-11-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-09-16 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-08-17 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-07-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-07-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-06-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-05-19 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-04-19 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-03-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-05-30 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2014-04-25 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2014-01-21 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2013-11-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2013-07-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2013-04-29 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2012-12-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic pain
+2012-11-29 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2012-08-31 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2012-07-01 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-04-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic pain
+2012-01-28 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic pain
+2011-12-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2011-10-10 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2011-08-13 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2011-06-30 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2011-06-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2011-04-03 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2010-09-23 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2010-06-27 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2010-06-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-04-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2009-12-30 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic pain
+2009-10-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic pain
+2009-07-06 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic pain
+2009-06-14 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-05-02 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2009-03-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic pain
+2009-01-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2008-12-13 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2008-09-26 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2007-11-06 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic intractable migraine without aura
+2007-04-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Impacted molars
+2006-11-01 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Chronic pain
+1995-10-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

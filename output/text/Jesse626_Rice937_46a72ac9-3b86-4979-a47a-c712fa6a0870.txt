@@ -1,0 +1,208 @@
+Jesse626 Rice937
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 25
+Birth Date:          1993-10-08
+Marital Status:      S
+Outpatient Provider: MORTON HOSPITAL
+Primary Care Provider: 88 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1994-10-16 - 2011-12-03 : Allergy to eggs
+  1994-10-16 -            : Dander (animal) allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-05-17[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2012-10-06[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2012-09-25[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2012-05-25[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  2011-11-13[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  1994-10-16[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1994-10-16[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-05-17 - 2015-05-26 : Streptococcal sore throat (disorder)
+  2012-10-06 - 2012-10-27 : Laceration of hand
+  2012-09-25 - 2012-10-02 : Acute bronchitis (disorder)
+  2012-05-25 -            : Hypertension
+  2012-05-17 - 2012-05-30 : Acute viral pharyngitis (disorder)
+  2011-11-13 - 2011-12-11 : Sprain of ankle
+  2010-07-14 - 2010-07-23 : Acute viral pharyngitis (disorder)
+  1998-10-14 -            : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-10-06[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2012-09-25[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2011-11-13[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1994-10-03[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-06-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.6 %
+           - MCV [Entitic volume] by Automated count  84.5 fL
+           - MCH [Entitic mass] by Automated count    28.6 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+           - Platelets [#/volume] in Blood by Automated count 181.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 507.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2010-02-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 401.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 169.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-06-03 : Tobacco smoking status NHIS              Former smoker 
+  2016-06-03 : Estimated Glomerular Filtration Rate     94.4 mL/min/{1.73_m2}
+  2016-06-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2016-06-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 507.2 fL
+  2016-06-03 : Platelets [#/volume] in Blood by Automated count 181.2 10*3/uL
+  2016-06-03 : Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+  2016-06-03 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2016-06-03 : MCH [Entitic mass] by Automated count    28.6 pg
+  2016-06-03 : MCV [Entitic volume] by Automated count  84.5 fL
+  2016-06-03 : Hematocrit [Volume Fraction] of Blood by Automated count 39.6 %
+  2016-06-03 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2016-06-03 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2016-06-03 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2016-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 101.3 mmHg
+           - Systolic Blood Pressure                  193.0 mmHg
+  2016-06-03 : Body Mass Index                          29.2 kg/m2
+  2016-06-03 : Body Weight                              88.1 kg
+  2016-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2016-06-03 : Body Height                              173.8 cm
+  2015-05-17 : Oral temperature                         37.8 Cel
+  2013-05-31 : Tobacco smoking status NHIS              Former smoker 
+  2013-05-31 : Estimated Glomerular Filtration Rate     86.0 mL/min/{1.73_m2}
+  2013-05-31 : Blood Pressure
+           - Diastolic Blood Pressure                 116.0 mmHg
+           - Systolic Blood Pressure                  182.5 mmHg
+  2013-05-31 : Body Mass Index                          27.4 kg/m2
+  2013-05-31 : Body Weight                              82.7 kg
+  2013-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2013-05-31 : Body Height                              173.7 cm
+  2012-05-25 : Tobacco smoking status NHIS              Former smoker 
+  2012-05-25 : Blood Pressure
+           - Diastolic Blood Pressure                 117.8 mmHg
+           - Systolic Blood Pressure                  150.9 mmHg
+  2012-05-25 : Body Mass Index                          26.9 kg/m2
+  2012-05-25 : Body Weight                              80.9 kg
+  2012-05-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2012-05-25 : Body Height                              173.4 cm
+  2012-05-17 : Oral temperature                         37.6 Cel
+  2011-07-29 : Tobacco smoking status NHIS              Current every day smoker 
+  2011-07-29 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mmHg
+           - Systolic Blood Pressure                  132.5 mmHg
+  2011-07-29 : Body Mass Index                          26.4 kg/m2
+  2011-07-29 : Body Weight                              79.0 kg
+  2011-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2011-07-29 : Body Height                              173.0 cm
+  2010-07-23 : Tobacco smoking status NHIS              Current every day smoker 
+  2010-07-23 : Blood Pressure
+           - Diastolic Blood Pressure                 80.1 mmHg
+           - Systolic Blood Pressure                  127.0 mmHg
+  2010-07-23 : Body Mass Index                          25.7 kg/m2
+  2010-07-23 : Body Weight                              75.9 kg
+  2010-07-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2010-07-23 : Body Height                              171.9 cm
+  2010-07-14 : Oral temperature                         37.6 Cel
+  2010-02-12 : Tobacco smoking status NHIS              Current every day smoker 
+  2010-02-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2010-02-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 169.1 fL
+  2010-02-12 : Platelets [#/volume] in Blood by Automated count 401.3 10*3/uL
+  2010-02-12 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2010-02-12 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2010-02-12 : MCH [Entitic mass] by Automated count    28.7 pg
+  2010-02-12 : MCV [Entitic volume] by Automated count  82.3 fL
+  2010-02-12 : Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+  2010-02-12 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2010-02-12 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2010-02-12 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2010-02-12 : Blood Pressure
+           - Diastolic Blood Pressure                 81.4 mmHg
+           - Systolic Blood Pressure                  113.1 mmHg
+  2010-02-12 : Body Mass Index                          25.3 kg/m2
+  2010-02-12 : Body Weight                              73.9 kg
+  2010-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2010-02-12 : Body Height                              171.0 cm
+  2009-02-06 : Tobacco smoking status NHIS              Never smoker 
+  2009-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 70.1 mmHg
+           - Systolic Blood Pressure                  137.8 mmHg
+  2009-02-06 : Body Mass Index                          24.5 kg/m2
+  2009-02-06 : Body Weight                              69.2 kg
+  2009-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2009-02-06 : Body Height                              167.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-05-17 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2013-05-31 : Documentation of current medications
+  2012-10-06 : Suture open wound for Laceration of hand
+  2012-09-25 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2012-05-25 : Documentation of current medications
+  2010-02-12 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-06-03 : Hep B, adult
+  2016-06-03 : Influenza, seasonal, injectable, preservative free
+  2015-05-22 : meningococcal MCV4P
+  2015-05-22 : Hep B, adult
+  2015-05-22 : Td (adult) preservative free
+  2015-05-22 : Influenza, seasonal, injectable, preservative free
+  2013-05-31 : Influenza, seasonal, injectable, preservative free
+  2012-05-25 : Influenza, seasonal, injectable, preservative free
+  2011-07-29 : Influenza, seasonal, injectable, preservative free
+  2010-07-23 : Influenza, seasonal, injectable, preservative free
+  2010-02-12 : meningococcal MCV4P
+  2010-02-12 : Influenza, seasonal, injectable, preservative free
+  2009-02-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2016-06-03 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2015-05-17 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2015-05-22 (Dr. Genaro214 Dach178) : Encounter at ROUTE 44 MEDICAL WALK-IN
+2013-05-31 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2012-10-06 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2012-10-05 (Dr. Genaro214 Dach178) : Encounter at ROUTE 44 MEDICAL WALK-IN
+2012-09-25 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Acute bronchitis (disorder)
+2012-05-25 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2012-05-17 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2011-11-13 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2011-07-29 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2010-07-23 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2010-07-14 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2010-02-12 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2009-02-06 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+1998-10-14 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Perennial allergic rhinitis
+1994-10-16 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+1994-10-03 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

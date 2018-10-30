@@ -1,0 +1,100 @@
+Rubén780 Valentín837
+===é===========í====
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 28
+Birth Date:          1990-09-03
+Marital Status:      S
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-11-08 -            : Pulmonary emphysema (disorder)
+  1997-08-01 -            : Chronic sinusitis (disorder)
+  1991-09-03 -            : History of single seizure (situation)
+  1991-09-03 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-11-08[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2012-11-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+           - MCV [Entitic volume] by Automated count  92.3 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 254.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 230.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2015-11-08 : FEV1/FVC                                 55.4 %
+  2015-11-08 : Tobacco smoking status NHIS              Former smoker 
+  2015-11-08 : Blood Pressure
+           - Diastolic Blood Pressure                 73.4 mmHg
+           - Systolic Blood Pressure                  118.0 mmHg
+  2015-11-08 : Body Mass Index                          26.1 kg/m2
+  2015-11-08 : Body Weight                              85.6 kg
+  2015-11-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2015-11-08 : Body Height                              181.2 cm
+  2012-11-04 : Tobacco smoking status NHIS              Former smoker 
+  2012-11-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2012-11-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 230.0 fL
+  2012-11-04 : Platelets [#/volume] in Blood by Automated count 254.2 10*3/uL
+  2012-11-04 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2012-11-04 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2012-11-04 : MCH [Entitic mass] by Automated count    31.6 pg
+  2012-11-04 : MCV [Entitic volume] by Automated count  92.3 fL
+  2012-11-04 : Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+  2012-11-04 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2012-11-04 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2012-11-04 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2012-11-04 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mmHg
+           - Systolic Blood Pressure                  109.3 mmHg
+  2012-11-04 : Body Mass Index                          24.9 kg/m2
+  2012-11-04 : Body Weight                              81.6 kg
+  2012-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2012-11-04 : Body Height                              181.2 cm
+  2009-11-01 : Tobacco smoking status NHIS              Former smoker 
+  2009-11-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.9 mmHg
+           - Systolic Blood Pressure                  106.4 mmHg
+  2009-11-01 : Body Mass Index                          23.1 kg/m2
+  2009-11-01 : Body Weight                              75.7 kg
+  2009-11-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2009-11-01 : Body Height                              181.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-11-08 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2015-11-08 : Influenza, seasonal, injectable, preservative free
+  2012-11-04 : meningococcal MCV4P
+  2012-11-04 : Hep B, adult
+  2012-11-04 : Td (adult) preservative free
+  2012-11-04 : Influenza, seasonal, injectable, preservative free
+  2009-11-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2015-11-08 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-11-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-11-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+1997-08-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+1991-09-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Seizure disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

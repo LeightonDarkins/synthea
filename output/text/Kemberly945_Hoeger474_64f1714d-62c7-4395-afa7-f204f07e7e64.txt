@@ -1,0 +1,228 @@
+Kemberly945 Hoeger474
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 13
+Birth Date:          2005-07-25
+Marital Status:      S
+Outpatient Provider: STURDY MEMORIAL HOSPITAL
+Primary Care Provider: 211 PARK STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2009-08-21[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2009-08-14[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+  2008-12-16[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2009-07-31 -            : Perennial allergic rhinitis with seasonal variation
+  2008-12-16 - 2008-12-24 : Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2009-08-21[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-06-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+           - MCV [Entitic volume] by Automated count  85.4 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+           - Platelets [#/volume] in Blood by Automated count 259.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 351.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2011-05-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.8 %
+           - MCV [Entitic volume] by Automated count  91.8 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 241.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 290.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 85.5 mmHg
+           - Systolic Blood Pressure                  131.7 mmHg
+  2018-07-02 : Body Mass Index                          22.9 kg/m2
+  2018-07-02 : Body Weight                              51.8 kg
+  2018-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2018-07-02 : Body Height                              150.5 cm
+  2017-06-26 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 81.9 mmHg
+           - Systolic Blood Pressure                  100.9 mmHg
+  2017-06-26 : Body Mass Index                          22.7 kg/m2
+  2017-06-26 : Body Weight                              46.8 kg
+  2017-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2017-06-26 : Body Height                              143.4 cm
+  2016-06-20 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2016-06-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 351.7 fL
+  2016-06-20 : Platelets [#/volume] in Blood by Automated count 259.2 10*3/uL
+  2016-06-20 : Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+  2016-06-20 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2016-06-20 : MCH [Entitic mass] by Automated count    30.3 pg
+  2016-06-20 : MCV [Entitic volume] by Automated count  85.4 fL
+  2016-06-20 : Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+  2016-06-20 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2016-06-20 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2016-06-20 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2016-06-20 : Blood Pressure
+           - Diastolic Blood Pressure                 78.9 mmHg
+           - Systolic Blood Pressure                  117.6 mmHg
+  2016-06-20 : Body Mass Index                          22.4 kg/m2
+  2016-06-20 : Body Weight                              41.7 kg
+  2016-06-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2016-06-20 : Body Height                              136.5 cm
+  2015-06-15 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-15 : Blood Pressure
+           - Diastolic Blood Pressure                 71.1 mmHg
+           - Systolic Blood Pressure                  109.7 mmHg
+  2015-06-15 : Body Mass Index                          21.3 kg/m2
+  2015-06-15 : Body Weight                              36.7 kg
+  2015-06-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2015-06-15 : Body Height                              131.3 cm
+  2014-06-09 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 76.9 mmHg
+           - Systolic Blood Pressure                  108.7 mmHg
+  2014-06-09 : Body Mass Index                          20.0 kg/m2
+  2014-06-09 : Body Weight                              32.1 kg
+  2014-06-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2014-06-09 : Body Height                              126.7 cm
+  2013-06-03 : Tobacco smoking status NHIS              Never smoker 
+  2013-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 81.5 mmHg
+           - Systolic Blood Pressure                  130.0 mmHg
+  2013-06-03 : Body Mass Index                          19.1 kg/m2
+  2013-06-03 : Body Weight                              28.2 kg
+  2013-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2013-06-03 : Body Height                              121.6 cm
+  2012-05-28 : Tobacco smoking status NHIS              Never smoker 
+  2012-05-28 : Blood Pressure
+           - Diastolic Blood Pressure                 83.2 mmHg
+           - Systolic Blood Pressure                  127.4 mmHg
+  2012-05-28 : Body Mass Index                          18.5 kg/m2
+  2012-05-28 : Body Weight                              24.6 kg
+  2012-05-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.6 {score}
+  2012-05-28 : Body Height                              115.2 cm
+  2011-05-23 : Tobacco smoking status NHIS              Never smoker 
+  2011-05-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2011-05-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 290.8 fL
+  2011-05-23 : Platelets [#/volume] in Blood by Automated count 241.1 10*3/uL
+  2011-05-23 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2011-05-23 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2011-05-23 : MCH [Entitic mass] by Automated count    28.5 pg
+  2011-05-23 : MCV [Entitic volume] by Automated count  91.8 fL
+  2011-05-23 : Hematocrit [Volume Fraction] of Blood by Automated count 46.8 %
+  2011-05-23 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  2011-05-23 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2011-05-23 : Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+  2011-05-23 : Blood Pressure
+           - Diastolic Blood Pressure                 80.5 mmHg
+           - Systolic Blood Pressure                  118.2 mmHg
+  2011-05-23 : Body Mass Index                          18.4 kg/m2
+  2011-05-23 : Body Weight                              21.7 kg
+  2011-05-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2011-05-23 : Body Height                              108.7 cm
+  2010-05-17 : Tobacco smoking status NHIS              Never smoker 
+  2010-05-17 : Blood Pressure
+           - Diastolic Blood Pressure                 80.2 mmHg
+           - Systolic Blood Pressure                  108.5 mmHg
+  2010-05-17 : Body Mass Index                          18.4 kg/m2
+  2010-05-17 : Body Weight                              19.1 kg
+  2010-05-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2010-05-17 : Body Height                              102.0 cm
+  2009-08-21 : Latex IgE Ab in Serum                    0.3 kU/L
+  2009-08-21 : Honey bee IgE Ab in Serum                0.0 kU/L
+  2009-08-21 : Cladosporium herbarum IgE Ab in Serum    0.1 kU/L
+  2009-08-21 : American house dust mite IgE Ab in Serum 0.3 kU/L
+  2009-08-21 : Cat dander IgE Ab in Serum               0.2 kU/L
+  2009-08-21 : Common Ragweed IgE Ab in Serum           0.3 kU/L
+  2009-08-21 : White oak IgE Ab in Serum                0.1 kU/L
+  2009-08-21 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2009-08-21 : Soybean IgE Ab in Serum                  0.0 kU/L
+  2009-08-21 : Egg white IgE Ab in Serum                0.1 kU/L
+  2009-08-21 : Wheat IgE Ab in Serum                    0.2 kU/L
+  2009-08-21 : Shrimp IgE Ab in Serum                   0.3 kU/L
+  2009-08-21 : Codfish IgE Ab in Serum                  0.2 kU/L
+  2009-08-21 : Walnut IgE Ab in Serum                   0.1 kU/L
+  2009-08-21 : Peanut IgE Ab in Serum                   0.3 kU/L
+  2009-05-11 : Tobacco smoking status NHIS              Never smoker 
+  2009-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 73.8 mmHg
+           - Systolic Blood Pressure                  113.9 mmHg
+  2009-05-11 : Body Mass Index                          18.3 kg/m2
+  2009-05-11 : Body Weight                              16.7 kg
+  2009-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2009-05-11 : Body Height                              95.4 cm
+  2008-12-16 : Oral temperature                         38.8 Cel
+  2008-11-10 : Tobacco smoking status NHIS              Never smoker 
+  2008-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 81.5 mmHg
+           - Systolic Blood Pressure                  101.2 mmHg
+  2008-11-10 : Body Mass Index                          18.3 kg/m2
+  2008-11-10 : Body Weight                              15.6 kg
+  2008-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2008-11-10 : Body Height                              92.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2015-06-15 : Documentation of current medications
+  2013-06-03 : Documentation of current medications
+  2012-05-28 : Documentation of current medications
+  2011-05-23 : Documentation of current medications
+  2009-08-21 : Allergy screening test
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-02 : HPV, quadrivalent
+  2018-07-02 : Influenza, seasonal, injectable, preservative free
+  2017-06-26 : meningococcal MCV4P
+  2017-06-26 : HPV, quadrivalent
+  2017-06-26 : Influenza, seasonal, injectable, preservative free
+  2017-06-26 : Tdap
+  2016-06-20 : Influenza, seasonal, injectable, preservative free
+  2015-06-15 : Influenza, seasonal, injectable, preservative free
+  2014-06-09 : Influenza, seasonal, injectable, preservative free
+  2013-06-03 : Influenza, seasonal, injectable, preservative free
+  2012-05-28 : Influenza, seasonal, injectable, preservative free
+  2011-05-23 : Influenza, seasonal, injectable, preservative free
+  2010-05-17 : Pneumococcal conjugate PCV 13
+  2010-05-17 : MMR
+  2010-05-17 : DTaP
+  2010-05-17 : Influenza, seasonal, injectable, preservative free
+  2010-05-17 : IPV
+  2010-05-17 : varicella
+  2009-05-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-30 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2018-07-02 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2017-06-26 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2016-06-20 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2015-06-15 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2014-06-09 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2013-06-03 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2012-05-28 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2011-05-23 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2010-05-17 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2009-08-21 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2009-07-31 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Perennial allergic rhinitis with seasonal variation
+2009-05-11 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+2008-12-16 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2008-11-10 (Dr. Otto672 Rolfson709) : Encounter at STURDY MEMORIAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,290 @@
+Carolyne559 Erdman779
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 31
+Birth Date:          1986-12-18
+Marital Status:      M
+Outpatient Provider: HOLYOKE MEDICAL CENTER
+Primary Care Provider: 575 BEECH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-09-24[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2016-08-12[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2016-08-12[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+  2014-10-05[STOPPED] : 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe
+  2013-10-07[STOPPED] : Mirena 52 MG Intrauterine System
+  2011-10-18[STOPPED] : Levora 0.15/30 28 Day Pack
+  2009-10-28[STOPPED] : 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-03-22 - 2018-10-18 : Normal pregnancy
+  2018-03-01 -            : Body mass index 30+ - obesity (finding)
+  2017-11-23 - 2017-12-21 : Normal pregnancy
+  2016-08-12 - 2016-11-10 : Fracture of clavicle
+  2016-03-24 - 2016-04-14 : Normal pregnancy
+  1995-10-12 -            : History of cardiac arrest (situation)
+  1995-10-12 -            : Cardiac Arrest
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-03-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2016-08-12[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-01 : Lipid Panel
+           - Total Cholesterol                        191.2 mg/dL
+           - Triglycerides                            138.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.5 mg/dL
+           - High Density Lipoprotein Cholesterol     72.1 mg/dL
+  2015-02-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.9 %
+           - MCV [Entitic volume] by Automated count  80.9 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+           - Platelets [#/volume] in Blood by Automated count 314.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 514.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2009-02-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.8 %
+           - MCV [Entitic volume] by Automated count  90.8 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/volume] in Blood by Automated count 327.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 466.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-01 : High Density Lipoprotein Cholesterol     72.1 mg/dL
+  2018-03-01 : Low Density Lipoprotein Cholesterol      91.5 mg/dL
+  2018-03-01 : Triglycerides                            138.2 mg/dL
+  2018-03-01 : Total Cholesterol                        191.2 mg/dL
+  2018-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 80.9 mmHg
+           - Systolic Blood Pressure                  128.3 mmHg
+  2018-03-01 : Body Mass Index                          31.2 kg/m2
+  2018-03-01 : Body Weight                              72.5 kg
+  2018-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2018-03-01 : Body Height                              152.3 cm
+  2015-02-26 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2015-02-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 514.5 fL
+  2015-02-26 : Platelets [#/volume] in Blood by Automated count 314.1 10*3/uL
+  2015-02-26 : Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+  2015-02-26 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2015-02-26 : MCH [Entitic mass] by Automated count    30.5 pg
+  2015-02-26 : MCV [Entitic volume] by Automated count  80.9 fL
+  2015-02-26 : Hematocrit [Volume Fraction] of Blood by Automated count 43.9 %
+  2015-02-26 : Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+  2015-02-26 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2015-02-26 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2015-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 86.7 mmHg
+           - Systolic Blood Pressure                  135.3 mmHg
+  2015-02-26 : Body Mass Index                          29.7 kg/m2
+  2015-02-26 : Body Weight                              69.0 kg
+  2015-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2015-02-26 : Body Height                              152.3 cm
+  2012-02-23 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-23 : Blood Pressure
+           - Diastolic Blood Pressure                 71.3 mmHg
+           - Systolic Blood Pressure                  122.7 mmHg
+  2012-02-23 : Body Mass Index                          27.9 kg/m2
+  2012-02-23 : Body Weight                              64.7 kg
+  2012-02-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2012-02-23 : Body Height                              152.3 cm
+  2009-02-19 : Tobacco smoking status NHIS              Never smoker 
+  2009-02-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2009-02-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 466.1 fL
+  2009-02-19 : Platelets [#/volume] in Blood by Automated count 327.7 10*3/uL
+  2009-02-19 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2009-02-19 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2009-02-19 : MCH [Entitic mass] by Automated count    27.2 pg
+  2009-02-19 : MCV [Entitic volume] by Automated count  90.8 fL
+  2009-02-19 : Hematocrit [Volume Fraction] of Blood by Automated count 36.8 %
+  2009-02-19 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2009-02-19 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2009-02-19 : Leukocytes [#/volume] in Blood by Automated count 6.3 10*3/uL
+  2009-02-19 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mmHg
+           - Systolic Blood Pressure                  131.0 mmHg
+  2009-02-19 : Body Mass Index                          25.6 kg/m2
+  2009-02-19 : Body Weight                              59.3 kg
+  2009-02-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2009-02-19 : Body Height                              152.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-10-18 : Childbirth for Normal pregnancy
+  2018-10-18 : Episiotomy for Normal pregnancy
+  2018-10-04 : Auscultation of the fetal heart for Normal pregnancy
+  2018-10-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-10-04 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2018-09-06 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-08-09 : Auscultation of the fetal heart for Normal pregnancy
+  2018-08-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-08-09 : Urine screening for glucose for Normal pregnancy
+  2018-08-09 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2018-08-09 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-07-12 : Auscultation of the fetal heart for Normal pregnancy
+  2018-07-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-06-14 : Auscultation of the fetal heart for Normal pregnancy
+  2018-06-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-05-17 : Auscultation of the fetal heart for Normal pregnancy
+  2018-05-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-05-17 : Alpha-fetoprotein test for Normal pregnancy
+  2018-05-17 : Fetal anatomy study for Normal pregnancy
+  2018-04-19 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2018-04-19 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-03-22 : Physical examination of mother for Normal pregnancy
+  2018-03-22 : Urine protein test for Normal pregnancy
+  2018-03-22 : Skin test for tuberculosis for Normal pregnancy
+  2018-03-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2018-03-22 : Rubella screening for Normal pregnancy
+  2018-03-22 : Hepatitis C antibody test for Normal pregnancy
+  2018-03-22 : Urine screening test for diabetes for Normal pregnancy
+  2018-03-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2018-03-22 : Urine culture for Normal pregnancy
+  2018-03-22 : Syphilis infection test for Normal pregnancy
+  2018-03-22 : Gonorrhea infection test for Normal pregnancy
+  2018-03-22 : Chlamydia antigen test for Normal pregnancy
+  2018-03-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2018-03-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2018-03-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-03-22 : Blood typing, RH typing for Normal pregnancy
+  2018-03-22 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-03-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-03-22 : Standard pregnancy test for Normal pregnancy
+  2017-12-21 : Depression screening for Normal pregnancy
+  2017-12-21 : Physical exam following abortion for Normal pregnancy
+  2017-12-21 : Pregnancy termination care for Normal pregnancy
+  2017-12-07 : Induced termination of pregnancy for Normal pregnancy
+  2017-12-07 : Counseling for termination of pregnancy for Normal pregnancy
+  2017-11-23 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-11-23 : Standard pregnancy test for Normal pregnancy
+  2016-08-12 : Admission to orthopedic department for Fracture of clavicle
+  2016-08-12 : Clavicle X-ray
+  2016-04-14 : Depression screening for Normal pregnancy
+  2016-04-14 : Physical exam following abortion for Normal pregnancy
+  2016-04-14 : Pregnancy termination care for Normal pregnancy
+  2016-03-31 : Induced termination of pregnancy for Normal pregnancy
+  2016-03-31 : Counseling for termination of pregnancy for Normal pregnancy
+  2016-03-24 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-03-24 : Standard pregnancy test for Normal pregnancy
+  2015-10-22 : Intramuscular injection
+  2015-07-23 : Intramuscular injection
+  2015-04-23 : Intramuscular injection
+  2015-01-22 : Intramuscular injection
+  2014-10-23 : Intramuscular injection
+  2014-10-05 : Intramuscular injection
+  2014-07-24 : Intramuscular injection
+  2014-04-24 : Intramuscular injection
+  2014-01-23 : Intramuscular injection
+  2013-10-24 : Intramuscular injection
+  2013-10-09 : Insertion of intrauterine contraceptive device
+  2013-07-25 : Intramuscular injection
+  2013-04-25 : Intramuscular injection
+  2013-01-24 : Intramuscular injection
+  2012-10-25 : Intramuscular injection
+  2012-07-26 : Intramuscular injection
+  2012-04-26 : Intramuscular injection
+  2012-02-23 : Documentation of current medications
+  2012-01-26 : Intramuscular injection
+  2011-10-27 : Intramuscular injection
+  2011-07-28 : Intramuscular injection
+  2011-04-28 : Intramuscular injection
+  2011-01-27 : Intramuscular injection
+  2010-10-28 : Intramuscular injection
+  2010-07-29 : Intramuscular injection
+  2010-04-29 : Intramuscular injection
+  2010-01-28 : Intramuscular injection
+  2009-10-28 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-01 : Td (adult) preservative free
+  2018-03-01 : Influenza, seasonal, injectable, preservative free
+  2015-02-26 : Influenza, seasonal, injectable, preservative free
+  2012-02-23 : Influenza, seasonal, injectable, preservative free
+  2009-02-19 : meningococcal MCV4P
+  2009-02-19 : Hep B, adult
+  2009-02-19 : Td (adult) preservative free
+  2009-02-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-18 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-10-04 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-09-06 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-08-09 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-07-12 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-06-14 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-05-17 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-04-19 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-03-22 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2018-03-01 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2017-12-21 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2017-12-07 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2017-11-23 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2016-11-10 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Fracture of clavicle
+2016-09-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2016-08-12 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2016-04-14 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2016-03-31 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2016-03-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Normal pregnancy
+2015-10-22 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2015-07-23 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2015-04-23 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2015-02-26 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2015-01-22 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2014-10-23 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2014-10-05 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2014-07-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2014-04-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2014-01-23 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2013-10-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2013-10-09 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2013-10-07 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2013-07-25 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2013-04-25 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2013-01-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2012-10-25 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2012-07-26 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2012-04-26 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2012-02-23 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2012-01-26 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2011-10-27 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2011-10-18 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2011-07-28 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2011-04-28 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2011-01-27 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2010-10-28 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2010-07-29 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2010-04-29 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2010-01-28 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2009-10-28 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2009-02-19 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+1995-10-12 : Emergency Encounter
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2016-08-12 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------

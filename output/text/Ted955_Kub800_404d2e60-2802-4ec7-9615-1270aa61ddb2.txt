@@ -1,0 +1,191 @@
+Ted955 Kub800
+=============
+Race:                Other
+Ethnicity:           Puerto Rican
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1940-06-11
+Marital Status:      M
+Outpatient Provider: CARNEY HOSPITAL
+Primary Care Provider: 2100 DORCHESTER AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1987-01-13[STOPPED] : Atropine Sulfate 1 MG/ML Injectable Solution
+  1987-01-13[STOPPED] : 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+  1987-01-13[STOPPED] : 1 ML Epinephrine 1 MG/ML Injection
+  1986-07-01[CURRENT] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  1986-07-01[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+  1983-10-02[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Acute bacterial sinusitis (disorder)
+  1977-09-27[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1987-01-13 -            : History of cardiac arrest (situation)
+  1987-01-13 -            : Cardiac Arrest
+  1986-11-04 - 1986-11-25 : Viral sinusitis (disorder)
+  1986-07-01 -            : Diabetes
+  1986-07-01 -            : Hypertension
+  1984-06-26 -            : Body mass index 30+ - obesity (finding)
+  1983-10-02 - 1983-10-16 : Acute bacterial sinusitis (disorder)
+  1977-09-27 -            : Coronary Heart Disease
+  1977-07-14 - 1977-07-21 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1986-07-01[CURRENT] : Diabetes self management plan
+                         Reason: Diabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  1987-01-20 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Cardiac Arrest 
+  1986-07-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.1 %
+           - MCV [Entitic volume] by Automated count  93.3 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 272.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 430.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  1986-07-01 : Lipid Panel
+           - Total Cholesterol                        182.9 mg/dL
+           - Triglycerides                            115.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      92.5 mg/dL
+           - High Density Lipoprotein Cholesterol     67.4 mg/dL
+  1982-06-22 : Lipid Panel
+           - Total Cholesterol                        180.3 mg/dL
+           - Triglycerides                            125.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.6 mg/dL
+           - High Density Lipoprotein Cholesterol     76.7 mg/dL
+  1980-06-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+           - MCV [Entitic volume] by Automated count  80.9 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 441.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 267.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  1977-09-27 : Lipid Panel
+           - Total Cholesterol                        167.6 mg/dL
+           - Triglycerides                            124.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      66.0 mg/dL
+           - High Density Lipoprotein Cholesterol     76.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1987-01-20 : Cause of Death [US Standard Certificate of Death] Cardiac Arrest 
+  1986-07-01 : Hemoglobin A1c/Hemoglobin.total in Blood 7.8 %
+  1986-07-01 : Tobacco smoking status NHIS              Never smoker 
+  1986-07-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  1986-07-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 430.4 fL
+  1986-07-01 : Platelets [#/volume] in Blood by Automated count 272.9 10*3/uL
+  1986-07-01 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  1986-07-01 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  1986-07-01 : MCH [Entitic mass] by Automated count    27.6 pg
+  1986-07-01 : MCV [Entitic volume] by Automated count  93.3 fL
+  1986-07-01 : Hematocrit [Volume Fraction] of Blood by Automated count 42.1 %
+  1986-07-01 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  1986-07-01 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  1986-07-01 : Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+  1986-07-01 : High Density Lipoprotein Cholesterol     67.4 mg/dL
+  1986-07-01 : Low Density Lipoprotein Cholesterol      92.5 mg/dL
+  1986-07-01 : Triglycerides                            115.2 mg/dL
+  1986-07-01 : Total Cholesterol                        182.9 mg/dL
+  1986-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 99.0 mmHg
+           - Systolic Blood Pressure                  141.5 mmHg
+  1986-07-01 : Body Mass Index                          31.4 kg/m2
+  1986-07-01 : Body Weight                              109.4 kg
+  1986-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  1986-07-01 : Body Height                              186.6 cm
+  1984-06-26 : Tobacco smoking status NHIS              Never smoker 
+  1984-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 72.1 mmHg
+           - Systolic Blood Pressure                  128.3 mmHg
+  1984-06-26 : Body Mass Index                          30.5 kg/m2
+  1984-06-26 : Body Weight                              106.2 kg
+  1984-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  1984-06-26 : Body Height                              186.6 cm
+  1982-06-22 : Tobacco smoking status NHIS              Never smoker 
+  1982-06-22 : High Density Lipoprotein Cholesterol     76.7 mg/dL
+  1982-06-22 : Low Density Lipoprotein Cholesterol      78.6 mg/dL
+  1982-06-22 : Triglycerides                            125.2 mg/dL
+  1982-06-22 : Total Cholesterol                        180.3 mg/dL
+  1982-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 86.6 mmHg
+           - Systolic Blood Pressure                  116.3 mmHg
+  1982-06-22 : Body Mass Index                          29.5 kg/m2
+  1982-06-22 : Body Weight                              102.7 kg
+  1982-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  1982-06-22 : Body Height                              186.6 cm
+  1980-06-17 : Tobacco smoking status NHIS              Never smoker 
+  1980-06-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  1980-06-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 267.7 fL
+  1980-06-17 : Platelets [#/volume] in Blood by Automated count 441.5 10*3/uL
+  1980-06-17 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  1980-06-17 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  1980-06-17 : MCH [Entitic mass] by Automated count    32.8 pg
+  1980-06-17 : MCV [Entitic volume] by Automated count  80.9 fL
+  1980-06-17 : Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+  1980-06-17 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  1980-06-17 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  1980-06-17 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  1980-06-17 : Blood Pressure
+           - Diastolic Blood Pressure                 88.4 mmHg
+           - Systolic Blood Pressure                  107.3 mmHg
+  1980-06-17 : Body Mass Index                          28.0 kg/m2
+  1980-06-17 : Body Weight                              97.5 kg
+  1980-06-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1980-06-17 : Body Height                              186.6 cm
+  1977-09-27 : Tobacco smoking status NHIS              Never smoker 
+  1977-09-27 : High Density Lipoprotein Cholesterol     76.7 mg/dL
+  1977-09-27 : Low Density Lipoprotein Cholesterol      66.0 mg/dL
+  1977-09-27 : Triglycerides                            124.3 mg/dL
+  1977-09-27 : Total Cholesterol                        167.6 mg/dL
+  1977-09-27 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mmHg
+           - Systolic Blood Pressure                  137.2 mmHg
+  1977-09-27 : Body Mass Index                          27.2 kg/m2
+  1977-09-27 : Body Weight                              94.9 kg
+  1977-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  1977-09-27 : Body Height                              186.6 cm
+  1977-07-14 : Oral temperature                         37.6 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1987-01-13 : Catheter ablation of tissue of heart for Cardiac Arrest
+  1987-01-13 : Insertion of biventricular implantable cardioverter defibrillator for Cardiac Arrest
+  1986-07-01 : Documentation of current medications
+  1984-06-26 : Documentation of current medications
+  1982-06-22 : Documentation of current medications
+  1980-06-17 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1986-07-01 : Influenza, seasonal, injectable, preservative free
+  1984-06-26 : Influenza, seasonal, injectable, preservative free
+  1982-06-22 : Influenza, seasonal, injectable, preservative free
+  1980-06-17 : Influenza, seasonal, injectable, preservative free
+  1977-09-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1987-01-20 : Death Certification
+1987-01-13 : Emergency Encounter
+1986-11-04 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Viral sinusitis (disorder)
+1986-07-01 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1984-06-26 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1983-10-02 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+1982-06-22 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1980-06-17 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1977-09-27 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL
+1977-07-14 (Dr. Joesph309 Schamberger479) : Encounter at CARNEY HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,275 @@
+Abel832 Muller251
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 18
+Birth Date:          2000-06-02
+Marital Status:      S
+Outpatient Provider: NORTH SHORE MEDICAL CENTER -
+Primary Care Provider: 81 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2001-05-13 -            : Allergy to fish
+  2001-05-13 -            : Allergy to tree pollen
+  2001-05-13 -            : Allergy to grass pollen
+  2001-05-13 -            : Dander (animal) allergy
+  2001-05-13 -            : House dust mite allergy
+  2001-05-13 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-12-18[STOPPED] : Atropine Sulfate 1 MG/ML Injectable Solution
+  2015-12-18[STOPPED] : 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+  2015-12-18[STOPPED] : 1 ML Epinephrine 1 MG/ML Injection
+  2013-04-11[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2012-07-20[STOPPED] : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+  2012-07-13[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2008-11-18[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2001-05-13[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2001-05-13[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-02-06 - 2018-02-13 : Viral sinusitis (disorder)
+  2015-12-18 -            : History of cardiac arrest (situation)
+  2015-12-18 -            : Cardiac Arrest
+  2013-08-24 - 2013-08-31 : Acute viral pharyngitis (disorder)
+  2013-04-11 - 2013-04-18 : Acute bronchitis (disorder)
+  2012-07-13 - 2012-08-19 : Injury of medial collateral ligament of knee
+  2012-02-17 - 2012-03-01 : Acute viral pharyngitis (disorder)
+  2010-10-11 - 2010-10-22 : Acute viral pharyngitis (disorder)
+  2008-11-18 - 2008-12-02 : Acute bronchitis (disorder)
+  2001-01-05 -            : Atopic dermatitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-04-11[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2012-07-13[STOPPED] : Physical therapy procedure
+                         Reason: Injury of medial collateral ligament of knee
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2008-11-18[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2001-04-28[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+  2001-01-05[CURRENT] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-05-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.6 %
+           - MCV [Entitic volume] by Automated count  85.7 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 442.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 205.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2011-12-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+           - MCV [Entitic volume] by Automated count  91.7 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 393.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 262.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-05-18 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-18 : Blood Pressure
+           - Diastolic Blood Pressure                 73.7 mmHg
+           - Systolic Blood Pressure                  126.8 mmHg
+  2018-05-18 : Body Mass Index                          22.8 kg/m2
+  2018-05-18 : Body Weight                              70.0 kg
+  2018-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2018-05-18 : Body Height                              175.4 cm
+  2017-05-12 : Tobacco smoking status NHIS              Never smoker 
+  2017-05-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2017-05-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 205.4 fL
+  2017-05-12 : Platelets [#/volume] in Blood by Automated count 442.5 10*3/uL
+  2017-05-12 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2017-05-12 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2017-05-12 : MCH [Entitic mass] by Automated count    30.1 pg
+  2017-05-12 : MCV [Entitic volume] by Automated count  85.7 fL
+  2017-05-12 : Hematocrit [Volume Fraction] of Blood by Automated count 35.6 %
+  2017-05-12 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2017-05-12 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2017-05-12 : Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+  2017-05-12 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mmHg
+           - Systolic Blood Pressure                  137.5 mmHg
+  2017-05-12 : Body Mass Index                          22.1 kg/m2
+  2017-05-12 : Body Weight                              67.3 kg
+  2017-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2017-05-12 : Body Height                              174.5 cm
+  2016-05-06 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-06 : Blood Pressure
+           - Diastolic Blood Pressure                 88.4 mmHg
+           - Systolic Blood Pressure                  112.8 mmHg
+  2016-05-06 : Body Mass Index                          21.3 kg/m2
+  2016-05-06 : Body Weight                              63.2 kg
+  2016-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2016-05-06 : Body Height                              172.4 cm
+  2015-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 72.8 mmHg
+           - Systolic Blood Pressure                  104.8 mmHg
+  2015-05-01 : Body Mass Index                          20.6 kg/m2
+  2015-05-01 : Body Weight                              58.4 kg
+  2015-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2015-05-01 : Body Height                              168.5 cm
+  2014-04-25 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  110.7 mmHg
+  2014-04-25 : Body Mass Index                          20.1 kg/m2
+  2014-04-25 : Body Weight                              52.9 kg
+  2014-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2014-04-25 : Body Height                              162.1 cm
+  2013-08-24 : Oral temperature                         37.7 Cel
+  2013-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 73.9 mmHg
+           - Systolic Blood Pressure                  116.7 mmHg
+  2013-04-19 : Body Mass Index                          19.9 kg/m2
+  2013-04-19 : Body Weight                              47.3 kg
+  2013-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.1 {score}
+  2013-04-19 : Body Height                              154.3 cm
+  2013-03-01 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 85.4 mmHg
+           - Systolic Blood Pressure                  105.2 mmHg
+  2013-03-01 : Body Mass Index                          19.8 kg/m2
+  2013-03-01 : Body Weight                              46.4 kg
+  2013-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2013-03-01 : Body Height                              153.1 cm
+  2012-02-24 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 80.3 mmHg
+           - Systolic Blood Pressure                  100.3 mmHg
+  2012-02-24 : Body Mass Index                          19.2 kg/m2
+  2012-02-24 : Body Weight                              41.1 kg
+  2012-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2012-02-24 : Body Height                              146.5 cm
+  2012-02-17 : Oral temperature                         37.6 Cel
+  2011-12-23 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2011-12-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 262.6 fL
+  2011-12-23 : Platelets [#/volume] in Blood by Automated count 393.5 10*3/uL
+  2011-12-23 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2011-12-23 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2011-12-23 : MCH [Entitic mass] by Automated count    29.7 pg
+  2011-12-23 : MCV [Entitic volume] by Automated count  91.7 fL
+  2011-12-23 : Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+  2011-12-23 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2011-12-23 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2011-12-23 : Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+  2011-12-23 : Blood Pressure
+           - Diastolic Blood Pressure                 78.2 mmHg
+           - Systolic Blood Pressure                  104.6 mmHg
+  2011-12-23 : Body Mass Index                          19.0 kg/m2
+  2011-12-23 : Body Weight                              40.3 kg
+  2011-12-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2011-12-23 : Body Height                              145.6 cm
+  2010-12-17 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-17 : Blood Pressure
+           - Diastolic Blood Pressure                 82.7 mmHg
+           - Systolic Blood Pressure                  138.1 mmHg
+  2010-12-17 : Body Mass Index                          18.1 kg/m2
+  2010-12-17 : Body Weight                              35.7 kg
+  2010-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2010-12-17 : Body Height                              140.5 cm
+  2010-10-11 : Oral temperature                         37.7 Cel
+  2009-12-11 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-11 : Blood Pressure
+           - Diastolic Blood Pressure                 79.9 mmHg
+           - Systolic Blood Pressure                  134.9 mmHg
+  2009-12-11 : Body Mass Index                          17.2 kg/m2
+  2009-12-11 : Body Weight                              31.7 kg
+  2009-12-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2009-12-11 : Body Height                              135.7 cm
+  2008-12-05 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-05 : Blood Pressure
+           - Diastolic Blood Pressure                 70.1 mmHg
+           - Systolic Blood Pressure                  112.6 mmHg
+  2008-12-05 : Body Mass Index                          16.6 kg/m2
+  2008-12-05 : Body Weight                              28.1 kg
+  2008-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2008-12-05 : Body Height                              129.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-05-18 : Documentation of current medications
+  2017-05-12 : Documentation of current medications
+  2015-12-18 : Catheter ablation of tissue of heart for Cardiac Arrest
+  2015-12-18 : Insertion of biventricular implantable cardioverter defibrillator for Cardiac Arrest
+  2015-05-01 : Documentation of current medications
+  2013-08-24 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2012-07-20 : Surgical manipulation of joint of knee for Injury of medial collateral ligament of knee
+  2012-07-13 : Knee X-ray
+  2012-02-24 : Documentation of current medications
+  2012-02-17 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2010-10-11 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2008-11-18 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-18 : Influenza, seasonal, injectable, preservative free
+  2017-05-12 : meningococcal MCV4P
+  2017-05-12 : Influenza, seasonal, injectable, preservative free
+  2016-05-06 : Influenza, seasonal, injectable, preservative free
+  2015-05-01 : Influenza, seasonal, injectable, preservative free
+  2014-04-25 : Influenza, seasonal, injectable, preservative free
+  2013-03-01 : HPV, quadrivalent
+  2013-03-01 : Influenza, seasonal, injectable, preservative free
+  2012-02-24 : HPV, quadrivalent
+  2011-12-23 : meningococcal MCV4P
+  2011-12-23 : HPV, quadrivalent
+  2011-12-23 : Influenza, seasonal, injectable, preservative free
+  2011-12-23 : Tdap
+  2010-12-17 : Influenza, seasonal, injectable, preservative free
+  2009-12-11 : Influenza, seasonal, injectable, preservative free
+  2008-12-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-05-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2018-02-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Viral sinusitis (disorder)
+2017-05-12 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2016-05-06 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2015-12-18 : Emergency Encounter
+2015-05-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2014-04-25 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-08-24 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute viral pharyngitis (disorder)
+2013-06-07 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-04-19 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2013-04-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute bronchitis (disorder)
+2013-03-01 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-07-20 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Injury of medial collateral ligament of knee
+2012-07-13 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-02-24 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2012-02-17 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute viral pharyngitis (disorder)
+2011-12-23 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-12-17 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2010-10-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute viral pharyngitis (disorder)
+2009-12-11 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2008-12-05 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2008-11-28 (Dr. Maria750 Fay398) : Encounter at LAHEY CLINIC NORTHSHORE
+2008-11-18 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Acute bronchitis (disorder)
+2001-05-13 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2001-04-28 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER -
+2001-01-05 (Dr. Danilo179 Donnelly343) : Encounter at NORTH SHORE MEDICAL CENTER - : Encounter for Atopic dermatitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2012-07-13 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

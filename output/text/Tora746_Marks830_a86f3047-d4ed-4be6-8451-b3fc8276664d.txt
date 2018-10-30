@@ -1,0 +1,532 @@
+Tora746 Marks830
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 49
+Birth Date:          1969-11-03
+Marital Status:      S
+Outpatient Provider: HALLMARK HEALTH SYSTEM
+Primary Care Provider: 585 LEBANON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-04-14[CURRENT] : Simvistatin 10 MG for Hyperlipidemia
+  2018-04-15[CURRENT] : Mirena 52 MG Intrauterine System
+  2017-12-30[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2017-04-20[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2017-04-14[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  2016-04-14[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  2015-05-01[STOPPED] : Errin 28 Day Pack
+  2015-04-15[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  2014-05-06[STOPPED] : Errin 28 Day Pack
+  2014-04-15[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  2013-10-23[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2013-05-11[STOPPED] : Jolivette 28 Day Pack
+  2013-04-15[STOPPED] : Simvistatin 10 MG for Hyperlipidemia
+  2012-05-16[STOPPED] : Jolivette 28 Day Pack
+  2012-01-14[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2010-05-27[STOPPED] : Jolivette 28 Day Pack
+  2007-12-03[STOPPED] : Jolivette 28 Day Pack
+  2005-11-13[STOPPED] : Mirena 52 MG Intrauterine System
+  1971-11-24[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-12-30 - 2018-01-13 : Acute bronchitis (disorder)
+  2013-10-23 -            : Osteoarthritis of knee
+  2013-03-25 -            : Hyperlipidemia
+  2012-01-14 - 2012-01-21 : Acute bronchitis (disorder)
+  2011-03-15 - 2011-03-23 : Acute viral pharyngitis (disorder)
+  2009-03-16 - 2009-04-13 : Antepartum eclampsia
+  2009-02-16 - 2009-03-16 : Preeclampsia
+  2008-09-01 - 2009-04-13 : Normal pregnancy
+  2008-03-10 -            : Body mass index 30+ - obesity (finding)
+  1992-11-23 -            : Miscarriage in first trimester
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-12-30[CURRENT] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2013-10-23[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2013-04-15[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  2012-01-14[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2008-09-01[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2002-12-11[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1971-12-01[CURRENT] : Self care
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-04-14 : Lipid Panel
+           - Total Cholesterol                        159.2 mg/dL
+           - Triglycerides                            174.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      132.2 mg/dL
+           - High Density Lipoprotein Cholesterol     32.7 mg/dL
+  2018-04-14 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  97.1 mg/dL
+           - Urea Nitrogen                            16.9 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   137.5 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 103.6 mmol/L
+           - Carbon Dioxide                           23.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 77.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 79.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.4 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 98.5 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 49.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.1 U/L
+  2017-04-14 : Lipid Panel
+           - Total Cholesterol                        160.6 mg/dL
+           - Triglycerides                            132.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.9 mg/dL
+           - High Density Lipoprotein Cholesterol     51.6 mg/dL
+  2017-04-14 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  86.6 mg/dL
+           - Urea Nitrogen                            16.3 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 107.8 mmol/L
+           - Carbon Dioxide                           22.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 86.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 71.4 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 37.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 54.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.8 U/L
+  2016-04-14 : Lipid Panel
+           - Total Cholesterol                        193.8 mg/dL
+           - Triglycerides                            148.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.5 mg/dL
+           - High Density Lipoprotein Cholesterol     56.0 mg/dL
+  2016-04-14 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  80.1 mg/dL
+           - Urea Nitrogen                            14.4 mg/dL
+           - Creatinine                               3.2 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   139.2 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 101.9 mmol/L
+           - Carbon Dioxide                           26.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 83.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 76.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.5 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 74.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.4 U/L
+  2015-04-15 : Lipid Panel
+           - Total Cholesterol                        208.7 mg/dL
+           - Triglycerides                            138.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      141.8 mg/dL
+           - High Density Lipoprotein Cholesterol     33.3 mg/dL
+  2015-04-15 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  87.2 mg/dL
+           - Urea Nitrogen                            10.4 mg/dL
+           - Creatinine                               3.2 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 104.3 mmol/L
+           - Carbon Dioxide                           26.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 68.7 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 65.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.4 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.4 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 118.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.9 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.9 U/L
+  2015-03-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+           - MCV [Entitic volume] by Automated count  84.1 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.3 fL
+           - Platelets [#/volume] in Blood by Automated count 174.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 151.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2015-03-30 : Lipid Panel
+           - Total Cholesterol                        176.5 mg/dL
+           - Triglycerides                            108.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      95.5 mg/dL
+           - High Density Lipoprotein Cholesterol     59.2 mg/dL
+  2014-04-15 : Lipid Panel
+           - Total Cholesterol                        191.0 mg/dL
+           - Triglycerides                            153.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.4 mg/dL
+           - High Density Lipoprotein Cholesterol     65.7 mg/dL
+  2014-04-15 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  73.5 mg/dL
+           - Urea Nitrogen                            11.2 mg/dL
+           - Creatinine                               3.0 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   137.1 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 103.1 mmol/L
+           - Carbon Dioxide                           24.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 80.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 72.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 23.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 51.6 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.3 U/L
+  2013-03-25 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  96.1 mg/dL
+           - Urea Nitrogen                            16.0 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 102.5 mmol/L
+           - Carbon Dioxide                           24.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 84.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 79.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 128.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 45.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 32.5 U/L
+  2013-03-25 : Lipid Panel
+           - Total Cholesterol                        287.8 mg/dL
+           - Triglycerides                            384.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      124.9 mg/dL
+           - High Density Lipoprotein Cholesterol     41.4 mg/dL
+  2011-03-21 : Lipid Panel
+           - Total Cholesterol                        197.9 mg/dL
+           - Triglycerides                            129.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.0 mg/dL
+           - High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2010-03-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+           - MCV [Entitic volume] by Automated count  84.5 fL
+           - MCH [Entitic mass] by Automated count    32.7 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 345.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 407.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-04-14 : High Density Lipoprotein Cholesterol     32.7 mg/dL
+  2018-04-14 : Low Density Lipoprotein Cholesterol      132.2 mg/dL
+  2018-04-14 : Triglycerides                            174.7 mg/dL
+  2018-04-14 : Total Cholesterol                        159.2 mg/dL
+  2018-04-14 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.1 U/L
+  2018-04-14 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 49.3 U/L
+  2018-04-14 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 98.5 U/L
+  2018-04-14 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+  2018-04-14 : Globulin [Mass/volume] in Serum by calculation 2.4 g/L
+  2018-04-14 : Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+  2018-04-14 : Protein [Mass/volume] in Serum or Plasma 79.9 g/dL
+  2018-04-14 : Glomerular filtration rate/1.73 sq M.predicted 77.1 mL/min
+  2018-04-14 : Carbon Dioxide                           23.2 mmol/L
+  2018-04-14 : Chloride                                 103.6 mmol/L
+  2018-04-14 : Potassium                                5.2 mmol/L
+  2018-04-14 : Sodium                                   137.5 mmol/L
+  2018-04-14 : Calcium                                  9.2 mg/dL
+  2018-04-14 : Creatinine                               3.1 mg/dL
+  2018-04-14 : Urea Nitrogen                            16.9 mg/dL
+  2018-04-14 : Glucose                                  97.1 mg/dL
+  2017-04-14 : High Density Lipoprotein Cholesterol     51.6 mg/dL
+  2017-04-14 : Low Density Lipoprotein Cholesterol      87.9 mg/dL
+  2017-04-14 : Triglycerides                            132.3 mg/dL
+  2017-04-14 : Total Cholesterol                        160.6 mg/dL
+  2017-04-14 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.8 U/L
+  2017-04-14 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 54.7 U/L
+  2017-04-14 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 37.0 U/L
+  2017-04-14 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+  2017-04-14 : Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+  2017-04-14 : Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+  2017-04-14 : Protein [Mass/volume] in Serum or Plasma 71.4 g/dL
+  2017-04-14 : Glomerular filtration rate/1.73 sq M.predicted 86.9 mL/min
+  2017-04-14 : Carbon Dioxide                           22.3 mmol/L
+  2017-04-14 : Chloride                                 107.8 mmol/L
+  2017-04-14 : Potassium                                3.9 mmol/L
+  2017-04-14 : Sodium                                   142.1 mmol/L
+  2017-04-14 : Calcium                                  8.8 mg/dL
+  2017-04-14 : Creatinine                               2.9 mg/dL
+  2017-04-14 : Urea Nitrogen                            16.3 mg/dL
+  2017-04-14 : Glucose                                  86.6 mg/dL
+  2017-04-03 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 77.3 mmHg
+           - Systolic Blood Pressure                  100.6 mmHg
+  2017-04-03 : Body Mass Index                          35.6 kg/m2
+  2017-04-03 : Body Weight                              101.7 kg
+  2017-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.8 {score}
+  2017-04-03 : Body Height                              169.0 cm
+  2016-04-14 : High Density Lipoprotein Cholesterol     56.0 mg/dL
+  2016-04-14 : Low Density Lipoprotein Cholesterol      87.5 mg/dL
+  2016-04-14 : Triglycerides                            148.3 mg/dL
+  2016-04-14 : Total Cholesterol                        193.8 mg/dL
+  2016-04-14 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.4 U/L
+  2016-04-14 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+  2016-04-14 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 74.8 U/L
+  2016-04-14 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+  2016-04-14 : Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+  2016-04-14 : Albumin [Mass/volume] in Serum or Plasma 5.5 g/dL
+  2016-04-14 : Protein [Mass/volume] in Serum or Plasma 76.5 g/dL
+  2016-04-14 : Glomerular filtration rate/1.73 sq M.predicted 83.9 mL/min
+  2016-04-14 : Carbon Dioxide                           26.7 mmol/L
+  2016-04-14 : Chloride                                 101.9 mmol/L
+  2016-04-14 : Potassium                                4.4 mmol/L
+  2016-04-14 : Sodium                                   139.2 mmol/L
+  2016-04-14 : Calcium                                  9.8 mg/dL
+  2016-04-14 : Creatinine                               3.2 mg/dL
+  2016-04-14 : Urea Nitrogen                            14.4 mg/dL
+  2016-04-14 : Glucose                                  80.1 mg/dL
+  2015-04-15 : High Density Lipoprotein Cholesterol     33.3 mg/dL
+  2015-04-15 : Low Density Lipoprotein Cholesterol      141.8 mg/dL
+  2015-04-15 : Triglycerides                            138.6 mg/dL
+  2015-04-15 : Total Cholesterol                        208.7 mg/dL
+  2015-04-15 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.9 U/L
+  2015-04-15 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.9 U/L
+  2015-04-15 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 118.7 U/L
+  2015-04-15 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+  2015-04-15 : Globulin [Mass/volume] in Serum by calculation 3.4 g/L
+  2015-04-15 : Albumin [Mass/volume] in Serum or Plasma 5.4 g/dL
+  2015-04-15 : Protein [Mass/volume] in Serum or Plasma 65.1 g/dL
+  2015-04-15 : Glomerular filtration rate/1.73 sq M.predicted 68.7 mL/min
+  2015-04-15 : Carbon Dioxide                           26.6 mmol/L
+  2015-04-15 : Chloride                                 104.3 mmol/L
+  2015-04-15 : Potassium                                5.0 mmol/L
+  2015-04-15 : Sodium                                   140.4 mmol/L
+  2015-04-15 : Calcium                                  9.6 mg/dL
+  2015-04-15 : Creatinine                               3.2 mg/dL
+  2015-04-15 : Urea Nitrogen                            10.4 mg/dL
+  2015-04-15 : Glucose                                  87.2 mg/dL
+  2015-03-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2015-03-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 151.1 fL
+  2015-03-30 : Platelets [#/volume] in Blood by Automated count 174.0 10*3/uL
+  2015-03-30 : Erythrocyte distribution width [Entitic volume] by Automated count 40.3 fL
+  2015-03-30 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2015-03-30 : MCH [Entitic mass] by Automated count    32.8 pg
+  2015-03-30 : MCV [Entitic volume] by Automated count  84.1 fL
+  2015-03-30 : Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+  2015-03-30 : Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+  2015-03-30 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2015-03-30 : Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+  2015-03-30 : High Density Lipoprotein Cholesterol     59.2 mg/dL
+  2015-03-30 : Low Density Lipoprotein Cholesterol      95.5 mg/dL
+  2015-03-30 : Triglycerides                            108.4 mg/dL
+  2015-03-30 : Total Cholesterol                        176.5 mg/dL
+  2015-03-30 : Blood Pressure
+           - Diastolic Blood Pressure                 70.4 mmHg
+           - Systolic Blood Pressure                  129.6 mmHg
+  2015-03-30 : Body Mass Index                          34.3 kg/m2
+  2015-03-30 : Body Weight                              97.9 kg
+  2015-03-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2015-03-30 : Body Height                              169.0 cm
+  2014-04-15 : High Density Lipoprotein Cholesterol     65.7 mg/dL
+  2014-04-15 : Low Density Lipoprotein Cholesterol      99.4 mg/dL
+  2014-04-15 : Triglycerides                            153.3 mg/dL
+  2014-04-15 : Total Cholesterol                        191.0 mg/dL
+  2014-04-15 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.3 U/L
+  2014-04-15 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 51.6 U/L
+  2014-04-15 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 23.0 U/L
+  2014-04-15 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2014-04-15 : Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+  2014-04-15 : Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+  2014-04-15 : Protein [Mass/volume] in Serum or Plasma 72.7 g/dL
+  2014-04-15 : Glomerular filtration rate/1.73 sq M.predicted 80.9 mL/min
+  2014-04-15 : Carbon Dioxide                           24.9 mmol/L
+  2014-04-15 : Chloride                                 103.1 mmol/L
+  2014-04-15 : Potassium                                5.0 mmol/L
+  2014-04-15 : Sodium                                   137.1 mmol/L
+  2014-04-15 : Calcium                                  9.7 mg/dL
+  2014-04-15 : Creatinine                               3.0 mg/dL
+  2014-04-15 : Urea Nitrogen                            11.2 mg/dL
+  2014-04-15 : Glucose                                  73.5 mg/dL
+  2013-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.5 {score}
+  2013-03-25 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 32.5 U/L
+  2013-03-25 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 45.5 U/L
+  2013-03-25 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 128.8 U/L
+  2013-03-25 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2013-03-25 : Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+  2013-03-25 : Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+  2013-03-25 : Protein [Mass/volume] in Serum or Plasma 79.7 g/dL
+  2013-03-25 : Glomerular filtration rate/1.73 sq M.predicted 84.4 mL/min
+  2013-03-25 : Carbon Dioxide                           24.9 mmol/L
+  2013-03-25 : Chloride                                 102.5 mmol/L
+  2013-03-25 : Potassium                                4.4 mmol/L
+  2013-03-25 : Sodium                                   141.5 mmol/L
+  2013-03-25 : Calcium                                  9.9 mg/dL
+  2013-03-25 : Creatinine                               2.9 mg/dL
+  2013-03-25 : Urea Nitrogen                            16.0 mg/dL
+  2013-03-25 : Glucose                                  96.1 mg/dL
+  2013-03-25 : High Density Lipoprotein Cholesterol     41.4 mg/dL
+  2013-03-25 : Low Density Lipoprotein Cholesterol      124.9 mg/dL
+  2013-03-25 : Triglycerides                            384.7 mg/dL
+  2013-03-25 : Total Cholesterol                        287.8 mg/dL
+  2013-03-25 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 77.4 mmHg
+           - Systolic Blood Pressure                  107.3 mmHg
+  2013-03-25 : Body Mass Index                          33.3 kg/m2
+  2013-03-25 : Body Weight                              95.0 kg
+  2013-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2013-03-25 : Body Height                              169.0 cm
+  2011-03-15 : Oral temperature                         37.3 Cel
+  2011-03-21 : Tobacco smoking status NHIS              Never smoker 
+  2011-03-21 : High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2011-03-21 : Low Density Lipoprotein Cholesterol      99.0 mg/dL
+  2011-03-21 : Triglycerides                            129.0 mg/dL
+  2011-03-21 : Total Cholesterol                        197.9 mg/dL
+  2011-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 81.7 mmHg
+           - Systolic Blood Pressure                  120.0 mmHg
+  2011-03-21 : Body Mass Index                          32.2 kg/m2
+  2011-03-21 : Body Weight                              92.0 kg
+  2011-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2011-03-21 : Body Height                              169.0 cm
+  2010-03-15 : Tobacco smoking status NHIS              Never smoker 
+  2010-03-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2010-03-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 407.4 fL
+  2010-03-15 : Platelets [#/volume] in Blood by Automated count 345.6 10*3/uL
+  2010-03-15 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  2010-03-15 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2010-03-15 : MCH [Entitic mass] by Automated count    32.7 pg
+  2010-03-15 : MCV [Entitic volume] by Automated count  84.5 fL
+  2010-03-15 : Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+  2010-03-15 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2010-03-15 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2010-03-15 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2010-03-15 : Blood Pressure
+           - Diastolic Blood Pressure                 73.9 mmHg
+           - Systolic Blood Pressure                  105.3 mmHg
+  2010-03-15 : Body Mass Index                          31.8 kg/m2
+  2010-03-15 : Body Weight                              90.8 kg
+  2010-03-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2010-03-15 : Body Height                              169.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-04-19 : Insertion of intrauterine contraceptive device
+  2017-12-30 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2017-04-20 : Intramuscular injection
+  2015-03-30 : Documentation of current medications
+  2014-05-26 : Replacement of contraceptive intrauterine device
+  2012-01-14 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2011-03-15 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2010-03-15 : Documentation of current medications
+  2009-05-28 : Insertion of intrauterine contraceptive device
+  2009-05-25 : Depression screening
+  2009-05-25 : Physical examination following birth
+  2009-04-13 : Cesarean section for Normal pregnancy
+  2009-04-13 : Medical induction of labor for Normal pregnancy
+  2009-04-06 : Auscultation of the fetal heart for Normal pregnancy
+  2009-04-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-03-30 : Auscultation of the fetal heart for Normal pregnancy
+  2009-03-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-03-16 : Auscultation of the fetal heart for Normal pregnancy
+  2009-03-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-03-16 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2009-02-16 : Auscultation of the fetal heart for Normal pregnancy
+  2009-02-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-01-19 : Auscultation of the fetal heart for Normal pregnancy
+  2009-01-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2009-01-19 : Urine screening for glucose for Normal pregnancy
+  2009-01-19 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2009-01-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2008-12-22 : Auscultation of the fetal heart for Normal pregnancy
+  2008-12-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2008-11-24 : Auscultation of the fetal heart for Normal pregnancy
+  2008-11-24 : Evaluation of uterine fundal height for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-08 : Influenza, seasonal, injectable, preservative free
+  2017-04-03 : Influenza, seasonal, injectable, preservative free
+  2015-03-30 : Influenza, seasonal, injectable, preservative free
+  2013-03-25 : Influenza, seasonal, injectable, preservative free
+  2012-01-23 : Influenza, seasonal, injectable, preservative free
+  2011-03-21 : Hep A, adult
+  2011-03-21 : Td (adult) preservative free
+  2011-03-21 : Influenza, seasonal, injectable, preservative free
+  2010-03-15 : Hep A, adult
+  2010-03-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-04-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-04-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Hyperlipidemia
+2018-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2018-01-08 (Dr. Zachery872 Hessel84) : Encounter at CHELSEA MGH HEALTH CENTER MEDICAL WALK IN
+2017-12-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute bronchitis (disorder)
+2017-04-20 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2017-04-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Hyperlipidemia
+2017-04-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2016-04-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Hyperlipidemia
+2015-05-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2015-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Hyperlipidemia
+2015-03-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-05-26 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-05-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2014-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Hyperlipidemia
+2013-10-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Osteoarthritis of knee
+2013-05-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2013-04-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Hyperlipidemia
+2013-03-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-05-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2012-01-23 (Dr. Zachery872 Hessel84) : Encounter at CHELSEA MGH HEALTH CENTER MEDICAL WALK IN
+2012-01-14 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute bronchitis (disorder)
+2011-03-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute viral pharyngitis (disorder)
+2011-03-21 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-05-27 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2010-03-15 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-05-28 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-05-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-05-25 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2009-04-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2009-04-06 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2009-03-30 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2009-03-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2009-02-16 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2009-01-19 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2008-12-22 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2008-11-24 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2008-09-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+2008-03-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2007-12-03 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2005-11-13 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+2002-12-11 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute bronchitis (disorder)
+1992-11-23 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Normal pregnancy
+1971-12-01 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM
+1971-11-10 (Dr. Benjamín452 Pantoja215) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

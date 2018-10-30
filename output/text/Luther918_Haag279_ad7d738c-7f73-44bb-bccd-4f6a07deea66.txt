@@ -1,0 +1,196 @@
+Luther918 Haag279
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2001-05-31
+Marital Status:      S
+Outpatient Provider: MORTON HOSPITAL
+Primary Care Provider: 88 WASHINGTON STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-11-24[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-11-24 - 2016-12-08 : Viral sinusitis (disorder)
+  2016-02-15 - 2016-02-22 : Viral sinusitis (disorder)
+  2014-02-19 - 2014-03-19 : Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-07-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.2 %
+           - MCV [Entitic volume] by Automated count  88.8 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 361.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 403.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-06-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+           - MCV [Entitic volume] by Automated count  86.4 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+           - Platelets [#/volume] in Blood by Automated count 294.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 324.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-07-19 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 79.2 mmHg
+           - Systolic Blood Pressure                  112.4 mmHg
+  2018-07-19 : Body Mass Index                          28.0 kg/m2
+  2018-07-19 : Body Weight                              82.0 kg
+  2018-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2018-07-19 : Body Height                              171.2 cm
+  2017-07-13 : Tobacco smoking status NHIS              Never smoker 
+  2017-07-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2017-07-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 403.3 fL
+  2017-07-13 : Platelets [#/volume] in Blood by Automated count 361.6 10*3/uL
+  2017-07-13 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  2017-07-13 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2017-07-13 : MCH [Entitic mass] by Automated count    32.9 pg
+  2017-07-13 : MCV [Entitic volume] by Automated count  88.8 fL
+  2017-07-13 : Hematocrit [Volume Fraction] of Blood by Automated count 39.2 %
+  2017-07-13 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2017-07-13 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2017-07-13 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2017-07-13 : Blood Pressure
+           - Diastolic Blood Pressure                 88.9 mmHg
+           - Systolic Blood Pressure                  112.4 mmHg
+  2017-07-13 : Body Mass Index                          27.2 kg/m2
+  2017-07-13 : Body Weight                              78.0 kg
+  2017-07-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-07-13 : Body Height                              169.4 cm
+  2016-07-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-07 : Blood Pressure
+           - Diastolic Blood Pressure                 70.8 mmHg
+           - Systolic Blood Pressure                  121.7 mmHg
+  2016-07-07 : Body Mass Index                          26.4 kg/m2
+  2016-07-07 : Body Weight                              72.4 kg
+  2016-07-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2016-07-07 : Body Height                              165.5 cm
+  2015-07-02 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-02 : Blood Pressure
+           - Diastolic Blood Pressure                 80.4 mmHg
+           - Systolic Blood Pressure                  109.4 mmHg
+  2015-07-02 : Body Mass Index                          26.2 kg/m2
+  2015-07-02 : Body Weight                              66.5 kg
+  2015-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2015-07-02 : Body Height                              159.4 cm
+  2014-06-26 : Tobacco smoking status NHIS              Never smoker 
+  2014-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mmHg
+           - Systolic Blood Pressure                  107.4 mmHg
+  2014-06-26 : Body Mass Index                          26.1 kg/m2
+  2014-06-26 : Body Weight                              60.2 kg
+  2014-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2014-06-26 : Body Height                              151.8 cm
+  2013-06-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-06-20 : Blood Pressure
+           - Diastolic Blood Pressure                 79.2 mmHg
+           - Systolic Blood Pressure                  113.0 mmHg
+  2013-06-20 : Body Mass Index                          25.6 kg/m2
+  2013-06-20 : Body Weight                              53.7 kg
+  2013-06-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2013-06-20 : Body Height                              145.0 cm
+  2012-06-14 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2012-06-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 324.9 fL
+  2012-06-14 : Platelets [#/volume] in Blood by Automated count 294.3 10*3/uL
+  2012-06-14 : Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+  2012-06-14 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2012-06-14 : MCH [Entitic mass] by Automated count    29.5 pg
+  2012-06-14 : MCV [Entitic volume] by Automated count  86.4 fL
+  2012-06-14 : Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+  2012-06-14 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  2012-06-14 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2012-06-14 : Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+  2012-06-14 : Blood Pressure
+           - Diastolic Blood Pressure                 75.3 mmHg
+           - Systolic Blood Pressure                  103.4 mmHg
+  2012-06-14 : Body Mass Index                          24.4 kg/m2
+  2012-06-14 : Body Weight                              47.5 kg
+  2012-06-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.1 {score}
+  2012-06-14 : Body Height                              139.7 cm
+  2011-06-09 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mmHg
+           - Systolic Blood Pressure                  126.9 mmHg
+  2011-06-09 : Body Mass Index                          22.9 kg/m2
+  2011-06-09 : Body Weight                              41.8 kg
+  2011-06-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-06-09 : Body Height                              135.0 cm
+  2010-06-03 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 80.1 mmHg
+           - Systolic Blood Pressure                  117.7 mmHg
+  2010-06-03 : Body Mass Index                          21.6 kg/m2
+  2010-06-03 : Body Weight                              36.3 kg
+  2010-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2010-06-03 : Body Height                              129.7 cm
+  2009-05-28 : Tobacco smoking status NHIS              Never smoker 
+  2009-05-28 : Blood Pressure
+           - Diastolic Blood Pressure                 81.1 mmHg
+           - Systolic Blood Pressure                  130.8 mmHg
+  2009-05-28 : Body Mass Index                          20.7 kg/m2
+  2009-05-28 : Body Weight                              32.0 kg
+  2009-05-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2009-05-28 : Body Height                              124.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-07-19 : Documentation of current medications
+  2016-07-07 : Documentation of current medications
+  2015-07-02 : Documentation of current medications
+  2012-06-14 : Documentation of current medications
+  2009-05-28 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-07-19 : Influenza, seasonal, injectable, preservative free
+  2017-07-13 : meningococcal MCV4P
+  2017-07-13 : Influenza, seasonal, injectable, preservative free
+  2016-07-07 : Influenza, seasonal, injectable, preservative free
+  2015-07-02 : Influenza, seasonal, injectable, preservative free
+  2014-06-26 : HPV, quadrivalent
+  2014-06-26 : Influenza, seasonal, injectable, preservative free
+  2013-06-20 : HPV, quadrivalent
+  2013-06-20 : Influenza, seasonal, injectable, preservative free
+  2012-06-14 : meningococcal MCV4P
+  2012-06-14 : HPV, quadrivalent
+  2012-06-14 : Influenza, seasonal, injectable, preservative free
+  2012-06-14 : Tdap
+  2011-06-09 : Influenza, seasonal, injectable, preservative free
+  2010-06-03 : Influenza, seasonal, injectable, preservative free
+  2009-05-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-07-19 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2017-07-13 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2016-11-24 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-07-07 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2016-02-15 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2015-07-02 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2014-06-26 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2014-02-19 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+2013-06-20 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2012-06-14 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2011-06-09 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2010-06-03 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+2009-05-28 (Dr. Karmen270 Bradtke547) : Encounter at MORTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

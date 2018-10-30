@@ -1,0 +1,372 @@
+Pennie519 McDermott739
+======================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2001-06-29
+Marital Status:      S
+Outpatient Provider: METROWEST MEDICAL CENTER
+Primary Care Provider: 115 LINCOLN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2002-05-04 -            : Allergy to nut
+  2002-05-04 -            : Shellfish allergy
+  2002-05-04 -            : Allergy to dairy product
+  2002-05-04 -            : Allergy to tree pollen
+  2002-05-04 - 2018-01-05 : Allergy to grass pollen
+  2002-05-04 -            : Dander (animal) allergy
+  2002-05-04 - 2018-01-05 : House dust mite allergy
+  2002-05-04 - 2018-01-05 : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-06-10[CURRENT] : Jolivette 28 Day Pack
+  2017-12-18[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2017-06-15[STOPPED] : Yaz 28 Day Pack
+  2015-06-26[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2013-05-29[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2002-05-04[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2002-05-04[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-12-18 - 2017-12-29 : Streptococcal sore throat (disorder)
+  2013-05-29 - 2013-06-05 : Acute bronchitis (disorder)
+  2012-06-03 - 2012-06-17 : Viral sinusitis (disorder)
+  2003-07-06 -            : Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-07-04[STOPPED] : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy drugs Band 1
+  2013-05-29[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2002-04-25[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-11-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.1 %
+           - MCV [Entitic volume] by Automated count  93.6 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 285.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 398.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2011-10-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+           - MCV [Entitic volume] by Automated count  84.3 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+           - Platelets [#/volume] in Blood by Automated count 373.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 208.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-01-05 : Latex IgE Ab in Serum                    0.1 kU/L
+  2018-01-05 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2018-01-05 : Cladosporium herbarum IgE Ab in Serum    0.3 kU/L
+  2018-01-05 : American house dust mite IgE Ab in Serum 0.2 kU/L
+  2018-01-05 : Cat dander IgE Ab in Serum               75.2 kU/L
+  2018-01-05 : Common Ragweed IgE Ab in Serum           0.1 kU/L
+  2018-01-05 : White oak IgE Ab in Serum                96.9 kU/L
+  2018-01-05 : Cow milk IgE Ab in Serum                 90.8 kU/L
+  2018-01-05 : Soybean IgE Ab in Serum                  0.0 kU/L
+  2018-01-05 : Egg white IgE Ab in Serum                0.2 kU/L
+  2018-01-05 : Wheat IgE Ab in Serum                    0.2 kU/L
+  2018-01-05 : Shrimp IgE Ab in Serum                   49.1 kU/L
+  2018-01-05 : Codfish IgE Ab in Serum                  0.1 kU/L
+  2018-01-05 : Walnut IgE Ab in Serum                   82.2 kU/L
+  2018-01-05 : Peanut IgE Ab in Serum                   0.2 kU/L
+  2017-12-18 : Oral temperature                         38.2 Cel
+  2017-11-10 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 82.7 mmHg
+           - Systolic Blood Pressure                  113.1 mmHg
+  2017-11-10 : Body Mass Index                          22.7 kg/m2
+  2017-11-10 : Body Weight                              58.3 kg
+  2017-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2017-11-10 : Body Height                              160.3 cm
+  2016-11-04 : Tobacco smoking status NHIS              Never smoker 
+  2016-11-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2016-11-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 398.8 fL
+  2016-11-04 : Platelets [#/volume] in Blood by Automated count 285.0 10*3/uL
+  2016-11-04 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2016-11-04 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2016-11-04 : MCH [Entitic mass] by Automated count    32.0 pg
+  2016-11-04 : MCV [Entitic volume] by Automated count  93.6 fL
+  2016-11-04 : Hematocrit [Volume Fraction] of Blood by Automated count 48.1 %
+  2016-11-04 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2016-11-04 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2016-11-04 : Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+  2016-11-04 : Blood Pressure
+           - Diastolic Blood Pressure                 86.8 mmHg
+           - Systolic Blood Pressure                  128.0 mmHg
+  2016-11-04 : Body Mass Index                          22.2 kg/m2
+  2016-11-04 : Body Weight                              56.6 kg
+  2016-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2016-11-04 : Body Height                              159.7 cm
+  2015-10-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-30 : Blood Pressure
+           - Diastolic Blood Pressure                 74.2 mmHg
+           - Systolic Blood Pressure                  133.8 mmHg
+  2015-10-30 : Body Mass Index                          21.6 kg/m2
+  2015-10-30 : Body Weight                              54.2 kg
+  2015-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2015-10-30 : Body Height                              158.5 cm
+  2014-10-24 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-24 : Blood Pressure
+           - Diastolic Blood Pressure                 88.5 mmHg
+           - Systolic Blood Pressure                  137.7 mmHg
+  2014-10-24 : Body Mass Index                          20.9 kg/m2
+  2014-10-24 : Body Weight                              50.8 kg
+  2014-10-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2014-10-24 : Body Height                              155.9 cm
+  2014-07-04 : Latex IgE Ab in Serum                    0.1 kU/L
+  2014-07-04 : Honey bee IgE Ab in Serum                0.3 kU/L
+  2014-07-04 : Cladosporium herbarum IgE Ab in Serum    48.0 kU/L
+  2014-07-04 : American house dust mite IgE Ab in Serum 56.3 kU/L
+  2014-07-04 : Cat dander IgE Ab in Serum               20.4 kU/L
+  2014-07-04 : Common Ragweed IgE Ab in Serum           2.5 kU/L
+  2014-07-04 : White oak IgE Ab in Serum                81.5 kU/L
+  2014-07-04 : Cow milk IgE Ab in Serum                 95.0 kU/L
+  2014-07-04 : Soybean IgE Ab in Serum                  0.3 kU/L
+  2014-07-04 : Egg white IgE Ab in Serum                0.1 kU/L
+  2014-07-04 : Wheat IgE Ab in Serum                    0.2 kU/L
+  2014-07-04 : Shrimp IgE Ab in Serum                   87.7 kU/L
+  2014-07-04 : Codfish IgE Ab in Serum                  0.2 kU/L
+  2014-07-04 : Walnut IgE Ab in Serum                   97.7 kU/L
+  2014-07-04 : Peanut IgE Ab in Serum                   0.0 kU/L
+  2013-10-18 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mmHg
+           - Systolic Blood Pressure                  120.8 mmHg
+  2013-10-18 : Body Mass Index                          20.6 kg/m2
+  2013-10-18 : Body Weight                              46.6 kg
+  2013-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2013-10-18 : Body Height                              150.5 cm
+  2012-10-12 : Tobacco smoking status NHIS              Never smoker 
+  2012-10-12 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mmHg
+           - Systolic Blood Pressure                  109.7 mmHg
+  2012-10-12 : Body Mass Index                          20.4 kg/m2
+  2012-10-12 : Body Weight                              41.8 kg
+  2012-10-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2012-10-12 : Body Height                              143.3 cm
+  2011-10-07 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2011-10-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 208.1 fL
+  2011-10-07 : Platelets [#/volume] in Blood by Automated count 373.7 10*3/uL
+  2011-10-07 : Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+  2011-10-07 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2011-10-07 : MCH [Entitic mass] by Automated count    27.5 pg
+  2011-10-07 : MCV [Entitic volume] by Automated count  84.3 fL
+  2011-10-07 : Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+  2011-10-07 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  2011-10-07 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2011-10-07 : Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+  2011-10-07 : Blood Pressure
+           - Diastolic Blood Pressure                 72.7 mmHg
+           - Systolic Blood Pressure                  105.5 mmHg
+  2011-10-07 : Body Mass Index                          19.7 kg/m2
+  2011-10-07 : Body Weight                              37.0 kg
+  2011-10-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2011-10-07 : Body Height                              137.1 cm
+  2010-10-01 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 73.9 mmHg
+           - Systolic Blood Pressure                  130.9 mmHg
+  2010-10-01 : Body Mass Index                          18.5 kg/m2
+  2010-10-01 : Body Weight                              32.1 kg
+  2010-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2010-10-01 : Body Height                              131.7 cm
+  2009-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2009-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 78.5 mmHg
+           - Systolic Blood Pressure                  116.5 mmHg
+  2009-09-25 : Body Mass Index                          17.6 kg/m2
+  2009-09-25 : Body Weight                              28.2 kg
+  2009-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2009-09-25 : Body Height                              126.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-01-05 : Allergy screening test
+  2017-12-15 : Subcutaneous immunotherapy
+  2017-11-24 : Subcutaneous immunotherapy
+  2017-11-03 : Subcutaneous immunotherapy
+  2017-10-13 : Subcutaneous immunotherapy
+  2017-09-22 : Subcutaneous immunotherapy
+  2017-09-01 : Subcutaneous immunotherapy
+  2017-08-11 : Subcutaneous immunotherapy
+  2017-07-21 : Subcutaneous immunotherapy
+  2017-06-30 : Subcutaneous immunotherapy
+  2017-06-09 : Subcutaneous immunotherapy
+  2017-05-19 : Subcutaneous immunotherapy
+  2017-04-28 : Subcutaneous immunotherapy
+  2017-04-07 : Subcutaneous immunotherapy
+  2017-03-17 : Subcutaneous immunotherapy
+  2017-02-24 : Subcutaneous immunotherapy
+  2017-02-03 : Subcutaneous immunotherapy
+  2017-01-13 : Subcutaneous immunotherapy
+  2016-12-23 : Subcutaneous immunotherapy
+  2016-12-02 : Subcutaneous immunotherapy
+  2016-11-11 : Subcutaneous immunotherapy
+  2016-11-04 : Documentation of current medications
+  2016-10-21 : Subcutaneous immunotherapy
+  2016-09-30 : Subcutaneous immunotherapy
+  2016-09-09 : Subcutaneous immunotherapy
+  2016-08-19 : Subcutaneous immunotherapy
+  2016-07-29 : Subcutaneous immunotherapy
+  2016-07-08 : Subcutaneous immunotherapy
+  2016-06-17 : Subcutaneous immunotherapy
+  2016-05-27 : Subcutaneous immunotherapy
+  2016-05-06 : Subcutaneous immunotherapy
+  2016-04-15 : Subcutaneous immunotherapy
+  2016-03-25 : Subcutaneous immunotherapy
+  2016-03-04 : Subcutaneous immunotherapy
+  2016-02-12 : Subcutaneous immunotherapy
+  2016-01-22 : Subcutaneous immunotherapy
+  2016-01-01 : Subcutaneous immunotherapy
+  2015-12-11 : Subcutaneous immunotherapy
+  2015-11-20 : Subcutaneous immunotherapy
+  2015-10-30 : Subcutaneous immunotherapy
+  2015-10-09 : Subcutaneous immunotherapy
+  2015-09-18 : Subcutaneous immunotherapy
+  2015-08-28 : Subcutaneous immunotherapy
+  2015-08-07 : Subcutaneous immunotherapy
+  2015-07-17 : Subcutaneous immunotherapy
+  2015-06-26 : Subcutaneous immunotherapy
+  2015-06-05 : Subcutaneous immunotherapy
+  2015-05-15 : Subcutaneous immunotherapy
+  2015-04-24 : Subcutaneous immunotherapy
+  2015-04-03 : Subcutaneous immunotherapy
+  2015-03-13 : Subcutaneous immunotherapy
+  2015-02-20 : Subcutaneous immunotherapy
+  2015-01-30 : Subcutaneous immunotherapy
+  2015-01-09 : Subcutaneous immunotherapy
+  2014-12-19 : Subcutaneous immunotherapy
+  2014-11-28 : Subcutaneous immunotherapy
+  2014-11-07 : Subcutaneous immunotherapy
+  2014-10-17 : Subcutaneous immunotherapy
+  2014-09-26 : Subcutaneous immunotherapy
+  2014-09-05 : Subcutaneous immunotherapy
+  2014-08-15 : Subcutaneous immunotherapy
+  2014-07-25 : Subcutaneous immunotherapy
+  2014-07-04 : Allergy screening test
+  2013-10-18 : Documentation of current medications
+  2013-05-29 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-12-29 : Influenza, seasonal, injectable, preservative free
+  2017-11-10 : meningococcal MCV4P
+  2017-11-10 : Influenza, seasonal, injectable, preservative free
+  2016-11-04 : Influenza, seasonal, injectable, preservative free
+  2015-10-30 : Influenza, seasonal, injectable, preservative free
+  2014-10-24 : Influenza, seasonal, injectable, preservative free
+  2013-10-18 : HPV, quadrivalent
+  2013-06-07 : HPV, quadrivalent
+  2013-06-07 : Influenza, seasonal, injectable, preservative free
+  2012-10-12 : meningococcal MCV4P
+  2012-10-12 : HPV, quadrivalent
+  2012-10-12 : Influenza, seasonal, injectable, preservative free
+  2012-10-12 : Tdap
+  2011-10-07 : Influenza, seasonal, injectable, preservative free
+  2010-10-01 : Influenza, seasonal, injectable, preservative free
+  2009-09-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-06-10 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2018-01-05 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-12-29 (Dr. Annmarie79 Jenkins714) : Encounter at WALTHAM URGENT CARE
+2017-12-18 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Streptococcal sore throat (disorder)
+2017-12-15 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-11-24 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-11-10 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-11-03 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-10-13 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-09-22 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-09-01 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-08-11 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-07-21 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-06-30 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-06-15 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-06-09 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-05-19 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-04-28 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-04-07 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-03-17 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-02-24 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-02-03 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2017-01-13 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-12-23 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-12-02 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-11-11 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-11-04 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-10-21 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-09-30 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-09-09 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-08-19 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-07-29 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-07-08 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-06-17 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-05-27 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-05-06 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-04-15 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-03-25 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-03-04 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-02-12 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-01-22 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2016-01-01 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-12-11 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-11-20 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-10-30 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-10-30 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-10-09 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-09-18 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-08-28 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-08-07 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-07-17 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-06-26 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-06-26 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-06-05 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-05-15 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-04-24 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-04-03 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-03-13 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-02-20 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-01-30 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2015-01-09 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-12-19 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-11-28 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-11-07 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-10-24 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-10-17 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-09-26 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-09-05 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-08-15 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-07-25 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2014-07-04 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2013-10-18 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2013-06-07 (Dr. Annmarie79 Jenkins714) : Encounter at WALTHAM URGENT CARE
+2013-05-29 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2012-10-12 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2012-06-03 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2011-10-07 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2010-10-01 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2009-09-25 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2003-07-06 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER : Encounter for Perennial allergic rhinitis with seasonal variation
+2002-05-04 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+2002-04-25 (Dr. Floy720 Gulgowski816) : Encounter at METROWEST MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,315 @@
+Clemente531 Grimes165
+=====================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2007-01-03
+Marital Status:      S
+Outpatient Provider: WINCHESTER HOSPITAL
+Primary Care Provider: 41 HIGHLAND AVENUE
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2007-12-15 -            : Allergy to fish
+  2007-12-15 -            : Shellfish allergy
+  2007-12-15 -            : Allergy to grass pollen
+  2007-12-15 -            : Dander (animal) allergy
+  2007-12-15 -            : House dust mite allergy
+  2007-12-15 -            : Allergy to mould
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-01-31[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2012-07-26[STOPPED] : Acetaminophen 160 MG Oral Tablet
+  2012-02-04[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2011-12-19[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2010-08-15[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2010-01-09[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-01-09[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-12-15[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2007-12-15[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-10-09 -            : Viral sinusitis (disorder)
+  2016-02-02 - 2016-02-16 : Viral sinusitis (disorder)
+  2014-01-31 - 2014-02-07 : Viral sinusitis (disorder)
+  2012-07-26 - 2012-09-24 : Fracture of ankle
+  2012-02-04 - 2012-02-14 : Streptococcal sore throat (disorder)
+  2011-12-19 - 2012-01-01 : Streptococcal sore throat (disorder)
+  2010-09-16 - 2010-09-23 : Acute viral pharyngitis (disorder)
+  2010-08-15 - 2010-09-05 : Laceration of forearm
+  2010-01-09 -            : Childhood asthma
+  2010-01-09 -            : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-07-26[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2010-08-15[STOPPED] : Wound care
+                         Reason: Laceration of forearm
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2010-01-09[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  2007-11-29[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-02-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+           - MCV [Entitic volume] by Automated count  84.4 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 218.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 455.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2012-02-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+           - MCV [Entitic volume] by Automated count  89.1 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 332.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 204.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-10 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-10 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  134.3 mmHg
+  2018-10-10 : Body Mass Index                          21.5 kg/m2
+  2018-10-10 : Body Weight                              43.4 kg
+  2018-10-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2018-10-10 : Body Height                              141.9 cm
+  2018-02-28 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.8 mmHg
+           - Systolic Blood Pressure                  131.2 mmHg
+  2018-02-28 : Body Mass Index                          20.8 kg/m2
+  2018-02-28 : Body Weight                              40.0 kg
+  2018-02-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2018-02-28 : Body Height                              138.5 cm
+  2017-02-22 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2017-02-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 455.6 fL
+  2017-02-22 : Platelets [#/volume] in Blood by Automated count 218.1 10*3/uL
+  2017-02-22 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2017-02-22 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2017-02-22 : MCH [Entitic mass] by Automated count    30.3 pg
+  2017-02-22 : MCV [Entitic volume] by Automated count  84.4 fL
+  2017-02-22 : Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+  2017-02-22 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2017-02-22 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2017-02-22 : Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+  2017-02-22 : Blood Pressure
+           - Diastolic Blood Pressure                 79.7 mmHg
+           - Systolic Blood Pressure                  100.9 mmHg
+  2017-02-22 : Body Mass Index                          19.7 kg/m2
+  2017-02-22 : Body Weight                              35.4 kg
+  2017-02-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-02-22 : Body Height                              133.9 cm
+  2016-02-17 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-17 : Blood Pressure
+           - Diastolic Blood Pressure                 88.2 mmHg
+           - Systolic Blood Pressure                  104.2 mmHg
+  2016-02-17 : Body Mass Index                          18.8 kg/m2
+  2016-02-17 : Body Weight                              31.4 kg
+  2016-02-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.5 {score}
+  2016-02-17 : Body Height                              129.2 cm
+  2015-03-04 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-04 : Blood Pressure
+           - Diastolic Blood Pressure                 73.4 mmHg
+           - Systolic Blood Pressure                  101.3 mmHg
+  2015-03-04 : Body Mass Index                          18.3 kg/m2
+  2015-03-04 : Body Weight                              28.0 kg
+  2015-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.4 {score}
+  2015-03-04 : Body Height                              124.0 cm
+  2014-02-26 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 83.6 mmHg
+           - Systolic Blood Pressure                  131.6 mmHg
+  2014-02-26 : Body Mass Index                          18.0 kg/m2
+  2014-02-26 : Body Weight                              25.1 kg
+  2014-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-02-26 : Body Height                              118.2 cm
+  2013-02-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 73.1 mmHg
+           - Systolic Blood Pressure                  133.6 mmHg
+  2013-02-20 : Body Mass Index                          17.9 kg/m2
+  2013-02-20 : Body Weight                              22.4 kg
+  2013-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2013-02-20 : Body Height                              112.1 cm
+  2012-02-15 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2012-02-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 204.1 fL
+  2012-02-15 : Platelets [#/volume] in Blood by Automated count 332.3 10*3/uL
+  2012-02-15 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2012-02-15 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2012-02-15 : MCH [Entitic mass] by Automated count    27.8 pg
+  2012-02-15 : MCV [Entitic volume] by Automated count  89.1 fL
+  2012-02-15 : Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+  2012-02-15 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2012-02-15 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2012-02-15 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2012-02-15 : Blood Pressure
+           - Diastolic Blood Pressure                 85.2 mmHg
+           - Systolic Blood Pressure                  104.5 mmHg
+  2012-02-15 : Body Mass Index                          17.7 kg/m2
+  2012-02-15 : Body Weight                              19.9 kg
+  2012-02-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.1 {score}
+  2012-02-15 : Body Height                              105.9 cm
+  2012-02-04 : Oral temperature                         37.5 Cel
+  2011-12-19 : Oral temperature                         38.7 Cel
+  2011-12-14 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-14 : Blood Pressure
+           - Diastolic Blood Pressure                 78.2 mmHg
+           - Systolic Blood Pressure                  109.3 mmHg
+  2011-12-14 : Body Mass Index                          17.7 kg/m2
+  2011-12-14 : Body Weight                              19.5 kg
+  2011-12-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2011-12-14 : Body Height                              104.9 cm
+  2010-12-08 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-08 : Blood Pressure
+           - Diastolic Blood Pressure                 88.6 mmHg
+           - Systolic Blood Pressure                  120.2 mmHg
+  2010-12-08 : Body Mass Index                          17.6 kg/m2
+  2010-12-08 : Body Weight                              16.9 kg
+  2010-12-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.3 {score}
+  2010-12-08 : Body Height                              98.0 cm
+  2010-09-16 : Oral temperature                         38.0 Cel
+  2010-06-09 : Tobacco smoking status NHIS              Never smoker 
+  2010-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 81.8 mmHg
+           - Systolic Blood Pressure                  115.9 mmHg
+  2010-06-09 : Body Mass Index                          17.7 kg/m2
+  2010-06-09 : Body Weight                              15.8 kg
+  2010-06-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-06-09 : Body Height                              94.6 cm
+  2009-12-09 : Tobacco smoking status NHIS              Never smoker 
+  2009-12-09 : Blood Pressure
+           - Diastolic Blood Pressure                 75.3 mmHg
+           - Systolic Blood Pressure                  128.7 mmHg
+  2009-12-09 : Body Mass Index                          18.0 kg/m2
+  2009-12-09 : Body Weight                              14.9 kg
+  2009-12-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.2 {score}
+  2009-12-09 : Body Height                              91.0 cm
+  2009-06-10 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-10 : Blood Pressure
+           - Diastolic Blood Pressure                 82.7 mmHg
+           - Systolic Blood Pressure                  131.0 mmHg
+  2009-06-10 : Body Mass Index                          18.4 kg/m2
+  2009-06-10 : Body Weight                              14.1 kg
+  2009-06-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2009-06-10 : Body Height                              87.7 cm
+  2008-12-10 : Tobacco smoking status NHIS              Never smoker 
+  2008-12-10 : Blood Pressure
+           - Diastolic Blood Pressure                 75.5 mmHg
+           - Systolic Blood Pressure                  108.9 mmHg
+  2008-12-10 : Body Weight                              13.3 kg
+  2008-12-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2008-12-10 : Body Height                              84.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-02-28 : Documentation of current medications
+  2017-02-22 : Documentation of current medications
+  2013-02-20 : Documentation of current medications
+  2012-07-26 : Bone immobilization for Fracture of ankle
+  2012-07-26 : Ankle X-ray
+  2012-02-15 : Documentation of current medications
+  2012-02-04 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2011-12-14 : Documentation of current medications
+  2010-09-16 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2010-08-15 : Suture open wound for Laceration of forearm
+  2010-06-09 : Documentation of current medications
+  2010-01-09 : Asthma screening for Childhood asthma
+  2009-06-10 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-10 : HPV, quadrivalent
+  2018-10-10 : Influenza, seasonal, injectable, preservative free
+  2018-02-28 : meningococcal MCV4P
+  2018-02-28 : HPV, quadrivalent
+  2018-02-28 : Influenza, seasonal, injectable, preservative free
+  2018-02-28 : Tdap
+  2017-02-22 : Influenza, seasonal, injectable, preservative free
+  2016-02-10 : Influenza, seasonal, injectable, preservative free
+  2015-03-04 : Influenza, seasonal, injectable, preservative free
+  2014-02-05 : Influenza, seasonal, injectable, preservative free
+  2013-02-20 : Influenza, seasonal, injectable, preservative free
+  2011-12-14 : MMR
+  2011-12-14 : DTaP
+  2011-12-14 : Influenza, seasonal, injectable, preservative free
+  2011-12-14 : IPV
+  2011-12-14 : varicella
+  2010-12-08 : Pneumococcal conjugate PCV 13
+  2010-09-29 : Pneumococcal conjugate PCV 13
+  2010-09-22 : Pneumococcal conjugate PCV 13
+  2010-09-22 : Influenza, seasonal, injectable, preservative free
+  2010-06-09 : Pneumococcal conjugate PCV 13
+  2009-12-09 : Influenza, seasonal, injectable, preservative free
+  2009-06-10 : Hep A, ped/adol, 2 dose
+  2008-12-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-09 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-10-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2018-02-28 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2017-12-04 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2017-12-02 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2017-02-22 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-06-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2016-06-08 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2016-02-17 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2016-02-10 (Dr. Moshe758 Kuhic920) : Encounter at PROMPT CARE WALK-IN CLINIC
+2016-02-02 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Viral sinusitis (disorder)
+2015-12-11 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2015-03-04 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-12-16 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2014-02-26 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2014-01-31 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-02-05 (Dr. Moshe758 Kuhic920) : Encounter at PROMPT CARE WALK-IN CLINIC
+2013-12-21 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2013-02-20 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2012-12-26 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2012-09-24 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Fracture of ankle
+2012-07-26 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2012-02-15 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2012-02-04 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2012-02-08 (Dr. Moshe758 Kuhic920) : Encounter at PROMPT CARE WALK-IN CLINIC
+2012-01-01 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2011-12-30 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2012-01-04 (Dr. Moshe758 Kuhic920) : Encounter at PROMPT CARE WALK-IN CLINIC
+2011-12-28 (Dr. Moshe758 Kuhic920) : Encounter at PROMPT CARE WALK-IN CLINIC
+2011-12-19 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2011-12-14 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2010-12-08 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2010-09-29 (Dr. Moshe758 Kuhic920) : Encounter at PROMPT CARE WALK-IN CLINIC
+2010-09-16 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2010-09-22 (Dr. Moshe758 Kuhic920) : Encounter at PROMPT CARE WALK-IN CLINIC
+2010-08-15 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2010-06-09 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2010-01-09 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Childhood asthma
+2010-01-09 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL : Encounter for Perennial allergic rhinitis
+2009-12-09 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2009-06-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2008-12-10 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2007-12-15 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+2007-11-29 (Dr. Dyan186 McDermott739) : Encounter at WINCHESTER HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2012-07-26 : Digital Radiography, Ankle
+--------------------------------------------------------------------------------

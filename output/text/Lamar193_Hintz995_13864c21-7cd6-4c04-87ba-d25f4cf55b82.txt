@@ -1,0 +1,266 @@
+Lamar193 Hintz995
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 60
+Birth Date:          1958-09-02
+Marital Status:      M
+Outpatient Provider: SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+Primary Care Provider: 680 CENTER STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-06-22[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  1977-02-01[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-06-22 - 2017-06-29 : Viral sinusitis (disorder)
+  2014-10-18 - 2014-12-17 : Concussion with no loss of consciousness
+  2012-10-16 -            : Drug overdose
+  2012-03-16 - 2012-03-29 : Acute viral pharyngitis (disorder)
+  1998-09-08 -            : Body mass index 30+ - obesity (finding)
+  1990-11-13 -            : Chronic pain
+  1990-07-09 -            : Chronic intractable migraine without aura
+  1990-03-03 -            : Impacted molars
+  1977-02-01 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-10-18[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2012-10-16[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-10-18 : Lipid Panel
+           - Total Cholesterol                        189.7 mg/dL
+           - Triglycerides                            105.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.5 mg/dL
+           - High Density Lipoprotein Cholesterol     72.2 mg/dL
+  2015-10-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.5 %
+           - MCV [Entitic volume] by Automated count  81.4 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+           - Platelets [#/volume] in Blood by Automated count 442.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 513.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2013-10-01 : Lipid Panel
+           - Total Cholesterol                        173.6 mg/dL
+           - Triglycerides                            119.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.8 mg/dL
+           - High Density Lipoprotein Cholesterol     79.0 mg/dL
+  2010-09-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.5 %
+           - MCV [Entitic volume] by Automated count  87.0 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+           - Platelets [#/volume] in Blood by Automated count 346.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 292.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2010-09-14 : Lipid Panel
+           - Total Cholesterol                        162.0 mg/dL
+           - Triglycerides                            100.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.6 mg/dL
+           - High Density Lipoprotein Cholesterol     63.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-30 : Tobacco smoking status NHIS              Former smoker 
+  2018-10-30 : Estimated Glomerular Filtration Rate     81.8 mL/min/{1.73_m2}
+  2018-10-30 : Blood Pressure
+           - Diastolic Blood Pressure                 101.0 mmHg
+           - Systolic Blood Pressure                  157.0 mmHg
+  2018-10-30 : Body Mass Index                          33.2 kg/m2
+  2018-10-30 : Body Weight                              111.5 kg
+  2018-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2018-10-30 : Body Height                              183.2 cm
+  2017-10-24 : Tobacco smoking status NHIS              Former smoker 
+  2017-10-24 : Estimated Glomerular Filtration Rate     121.7 mL/min/{1.73_m2}
+  2017-10-24 : Blood Pressure
+           - Diastolic Blood Pressure                 107.2 mmHg
+           - Systolic Blood Pressure                  188.4 mmHg
+  2017-10-24 : Body Mass Index                          33.8 kg/m2
+  2017-10-24 : Body Weight                              113.3 kg
+  2017-10-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2017-10-24 : Body Height                              183.2 cm
+  2016-10-18 : Tobacco smoking status NHIS              Former smoker 
+  2016-10-18 : Estimated Glomerular Filtration Rate     157.5 mL/min/{1.73_m2}
+  2016-10-18 : High Density Lipoprotein Cholesterol     72.2 mg/dL
+  2016-10-18 : Low Density Lipoprotein Cholesterol      96.5 mg/dL
+  2016-10-18 : Triglycerides                            105.2 mg/dL
+  2016-10-18 : Total Cholesterol                        189.7 mg/dL
+  2016-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 116.4 mmHg
+           - Systolic Blood Pressure                  147.6 mmHg
+  2016-10-18 : Body Mass Index                          33.8 kg/m2
+  2016-10-18 : Body Weight                              113.3 kg
+  2016-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.7 {score}
+  2016-10-18 : Body Height                              183.2 cm
+  2016-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2015-10-13 : Tobacco smoking status NHIS              Former smoker 
+  2015-10-13 : Estimated Glomerular Filtration Rate     130.1 mL/min/{1.73_m2}
+  2015-10-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2015-10-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 513.5 fL
+  2015-10-13 : Platelets [#/volume] in Blood by Automated count 442.9 10*3/uL
+  2015-10-13 : Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+  2015-10-13 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2015-10-13 : MCH [Entitic mass] by Automated count    30.6 pg
+  2015-10-13 : MCV [Entitic volume] by Automated count  81.4 fL
+  2015-10-13 : Hematocrit [Volume Fraction] of Blood by Automated count 37.5 %
+  2015-10-13 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2015-10-13 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2015-10-13 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2015-10-13 : Blood Pressure
+           - Diastolic Blood Pressure                 118.3 mmHg
+           - Systolic Blood Pressure                  197.5 mmHg
+  2015-10-13 : Body Mass Index                          33.8 kg/m2
+  2015-10-13 : Body Weight                              113.3 kg
+  2015-10-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2015-10-13 : Body Height                              183.2 cm
+  2014-10-07 : Tobacco smoking status NHIS              Former smoker 
+  2014-10-07 : Estimated Glomerular Filtration Rate     147.1 mL/min/{1.73_m2}
+  2014-10-07 : Blood Pressure
+           - Diastolic Blood Pressure                 107.2 mmHg
+           - Systolic Blood Pressure                  153.1 mmHg
+  2014-10-07 : Body Mass Index                          33.8 kg/m2
+  2014-10-07 : Body Weight                              113.3 kg
+  2014-10-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.7 {score}
+  2014-10-07 : Body Height                              183.2 cm
+  2013-11-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.5 {score}
+  2013-10-01 : Tobacco smoking status NHIS              Former smoker 
+  2013-10-01 : Estimated Glomerular Filtration Rate     126.0 mL/min/{1.73_m2}
+  2013-10-01 : High Density Lipoprotein Cholesterol     79.0 mg/dL
+  2013-10-01 : Low Density Lipoprotein Cholesterol      70.8 mg/dL
+  2013-10-01 : Triglycerides                            119.2 mg/dL
+  2013-10-01 : Total Cholesterol                        173.6 mg/dL
+  2013-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 108.0 mmHg
+           - Systolic Blood Pressure                  158.2 mmHg
+  2013-10-01 : Body Mass Index                          33.8 kg/m2
+  2013-10-01 : Body Weight                              113.3 kg
+  2013-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.2 {score}
+  2013-10-01 : Body Height                              183.2 cm
+  2012-09-25 : Tobacco smoking status NHIS              Former smoker 
+  2012-09-25 : Estimated Glomerular Filtration Rate     101.7 mL/min/{1.73_m2}
+  2012-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 111.2 mmHg
+           - Systolic Blood Pressure                  179.2 mmHg
+  2012-09-25 : Body Mass Index                          33.8 kg/m2
+  2012-09-25 : Body Weight                              113.3 kg
+  2012-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.9 {score}
+  2012-09-25 : Body Height                              183.2 cm
+  2012-03-16 : Oral temperature                         37.2 Cel
+  2011-09-20 : Tobacco smoking status NHIS              Former smoker 
+  2011-09-20 : Estimated Glomerular Filtration Rate     151.5 mL/min/{1.73_m2}
+  2011-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 106.1 mmHg
+           - Systolic Blood Pressure                  183.9 mmHg
+  2011-09-20 : Body Mass Index                          33.8 kg/m2
+  2011-09-20 : Body Weight                              113.3 kg
+  2011-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-09-20 : Body Height                              183.2 cm
+  2010-09-14 : Tobacco smoking status NHIS              Former smoker 
+  2010-09-14 : Estimated Glomerular Filtration Rate     141.8 mL/min/{1.73_m2}
+  2010-09-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2010-09-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 292.7 fL
+  2010-09-14 : Platelets [#/volume] in Blood by Automated count 346.7 10*3/uL
+  2010-09-14 : Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+  2010-09-14 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2010-09-14 : MCH [Entitic mass] by Automated count    32.6 pg
+  2010-09-14 : MCV [Entitic volume] by Automated count  87.0 fL
+  2010-09-14 : Hematocrit [Volume Fraction] of Blood by Automated count 44.5 %
+  2010-09-14 : Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+  2010-09-14 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2010-09-14 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2010-09-14 : High Density Lipoprotein Cholesterol     63.4 mg/dL
+  2010-09-14 : Low Density Lipoprotein Cholesterol      78.6 mg/dL
+  2010-09-14 : Triglycerides                            100.4 mg/dL
+  2010-09-14 : Total Cholesterol                        162.0 mg/dL
+  2010-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 106.9 mmHg
+           - Systolic Blood Pressure                  181.3 mmHg
+  2010-09-14 : Body Mass Index                          33.8 kg/m2
+  2010-09-14 : Body Weight                              113.3 kg
+  2010-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.2 {score}
+  2010-09-14 : Body Height                              183.2 cm
+  2009-09-08 : Tobacco smoking status NHIS              Former smoker 
+  2009-09-08 : Estimated Glomerular Filtration Rate     109.3 mL/min/{1.73_m2}
+  2009-09-08 : Blood Pressure
+           - Diastolic Blood Pressure                 101.1 mmHg
+           - Systolic Blood Pressure                  171.3 mmHg
+  2009-09-08 : Body Mass Index                          33.8 kg/m2
+  2009-09-08 : Body Weight                              113.3 kg
+  2009-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2009-09-08 : Body Height                              183.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-10-24 : Documentation of current medications
+  2014-10-07 : Documentation of current medications
+  2011-09-20 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-30 : Influenza, seasonal, injectable, preservative free
+  2017-10-24 : Influenza, seasonal, injectable, preservative free
+  2016-10-18 : Influenza, seasonal, injectable, preservative free
+  2015-10-13 : Influenza, seasonal, injectable, preservative free
+  2014-10-07 : Influenza, seasonal, injectable, preservative free
+  2013-10-01 : Influenza, seasonal, injectable, preservative free
+  2012-09-25 : Influenza, seasonal, injectable, preservative free
+  2011-09-20 : Influenza, seasonal, injectable, preservative free
+  2010-09-14 : Influenza, seasonal, injectable, preservative free
+  2009-09-08 : Td (adult) preservative free
+  2009-09-08 : Influenza, seasonal, injectable, preservative free
+  2009-09-08 : zoster
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-30 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-04-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-03-05 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-02-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-01-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-10-24 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-06-22 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-10-18 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-01-07 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-10-13 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-12-17 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Concussion with no loss of consciousness
+2014-11-11 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-10-18 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-10-07 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-11-19 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2013-10-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-10-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Drug overdose
+2012-09-25 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2012-03-16 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2011-09-20 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-03-06 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-02-04 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-01-05 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-11-08 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2010-09-14 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-09-08 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2009-01-24 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2008-12-25 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+1998-09-08 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+1990-11-13 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Chronic pain
+1990-07-09 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Chronic intractable migraine without aura
+1990-03-03 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Impacted molars
+1977-02-01 (Dr. Nigel915 Brown30) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

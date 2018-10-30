@@ -1,0 +1,184 @@
+Bridgett849 Roberts511
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 47
+Birth Date:          1971-08-24
+Marital Status:      M
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-06-19[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  1989-10-17[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2013-06-19 - 2013-07-10 : Laceration of thigh
+  2009-11-21 - 2009-11-28 : Viral sinusitis (disorder)
+  1993-10-26 -            : Body mass index 40+ - severely obese (finding)
+  1990-03-01 -            : Chronic pain
+  1989-10-17 -            : Hypertension
+  1981-09-01 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-06-19[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    27.9 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 173.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 257.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2018-02-06 : Lipid Panel
+           - Total Cholesterol                        196.2 mg/dL
+           - Triglycerides                            127.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      102.9 mg/dL
+           - High Density Lipoprotein Cholesterol     67.8 mg/dL
+  2014-01-28 : Lipid Panel
+           - Total Cholesterol                        187.7 mg/dL
+           - Triglycerides                            144.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.5 mg/dL
+           - High Density Lipoprotein Cholesterol     67.4 mg/dL
+  2012-01-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+           - MCV [Entitic volume] by Automated count  83.4 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 211.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 402.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2010-01-19 : Lipid Panel
+           - Total Cholesterol                        167.7 mg/dL
+           - Triglycerides                            117.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      64.8 mg/dL
+           - High Density Lipoprotein Cholesterol     79.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-02-06 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-06 : Estimated Glomerular Filtration Rate     87.7 mL/min/{1.73_m2}
+  2018-02-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2018-02-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 257.9 fL
+  2018-02-06 : Platelets [#/volume] in Blood by Automated count 173.8 10*3/uL
+  2018-02-06 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2018-02-06 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2018-02-06 : MCH [Entitic mass] by Automated count    27.9 pg
+  2018-02-06 : MCV [Entitic volume] by Automated count  92.0 fL
+  2018-02-06 : Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+  2018-02-06 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2018-02-06 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2018-02-06 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2018-02-06 : High Density Lipoprotein Cholesterol     67.8 mg/dL
+  2018-02-06 : Low Density Lipoprotein Cholesterol      102.9 mg/dL
+  2018-02-06 : Triglycerides                            127.4 mg/dL
+  2018-02-06 : Total Cholesterol                        196.2 mg/dL
+  2018-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 113.5 mmHg
+           - Systolic Blood Pressure                  189.3 mmHg
+  2018-02-06 : Body Mass Index                          54.8 kg/m2
+  2018-02-06 : Body Weight                              135.3 kg
+  2018-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.6 {score}
+  2018-02-06 : Body Height                              157.2 cm
+  2016-02-02 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-02 : Estimated Glomerular Filtration Rate     72.0 mL/min/{1.73_m2}
+  2016-02-02 : Blood Pressure
+           - Diastolic Blood Pressure                 92.8 mmHg
+           - Systolic Blood Pressure                  179.6 mmHg
+  2016-02-02 : Body Mass Index                          53.7 kg/m2
+  2016-02-02 : Body Weight                              132.6 kg
+  2016-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2016-02-02 : Body Height                              157.2 cm
+  2014-01-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-28 : Estimated Glomerular Filtration Rate     153.6 mL/min/{1.73_m2}
+  2014-01-28 : High Density Lipoprotein Cholesterol     67.4 mg/dL
+  2014-01-28 : Low Density Lipoprotein Cholesterol      91.5 mg/dL
+  2014-01-28 : Triglycerides                            144.4 mg/dL
+  2014-01-28 : Total Cholesterol                        187.7 mg/dL
+  2014-01-28 : Blood Pressure
+           - Diastolic Blood Pressure                 92.6 mmHg
+           - Systolic Blood Pressure                  176.8 mmHg
+  2014-01-28 : Body Mass Index                          52.4 kg/m2
+  2014-01-28 : Body Weight                              129.6 kg
+  2014-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-01-28 : Body Height                              157.2 cm
+  2012-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2012-01-24 : Estimated Glomerular Filtration Rate     63.4 mL/min/{1.73_m2}
+  2012-01-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2012-01-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 402.5 fL
+  2012-01-24 : Platelets [#/volume] in Blood by Automated count 211.4 10*3/uL
+  2012-01-24 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2012-01-24 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2012-01-24 : MCH [Entitic mass] by Automated count    29.0 pg
+  2012-01-24 : MCV [Entitic volume] by Automated count  83.4 fL
+  2012-01-24 : Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+  2012-01-24 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2012-01-24 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2012-01-24 : Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+  2012-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 105.6 mmHg
+           - Systolic Blood Pressure                  164.0 mmHg
+  2012-01-24 : Body Mass Index                          51.0 kg/m2
+  2012-01-24 : Body Weight                              126.1 kg
+  2012-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2012-01-24 : Body Height                              157.2 cm
+  2010-01-19 : Tobacco smoking status NHIS              Never smoker 
+  2010-01-19 : Estimated Glomerular Filtration Rate     57.6 mL/min/{1.73_m2}
+  2010-01-19 : High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2010-01-19 : Low Density Lipoprotein Cholesterol      64.8 mg/dL
+  2010-01-19 : Triglycerides                            117.3 mg/dL
+  2010-01-19 : Total Cholesterol                        167.7 mg/dL
+  2010-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 110.4 mmHg
+           - Systolic Blood Pressure                  166.4 mmHg
+  2010-01-19 : Body Mass Index                          49.6 kg/m2
+  2010-01-19 : Body Weight                              122.6 kg
+  2010-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2010-01-19 : Body Height                              157.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-02-06 : Documentation of current medications
+  2014-01-28 : Documentation of current medications
+  2013-06-19 : Suture open wound for Laceration of thigh
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-02-06 : Influenza, seasonal, injectable, preservative free
+  2016-02-02 : Influenza, seasonal, injectable, preservative free
+  2014-01-28 : Hep A, adult
+  2014-01-28 : Td (adult) preservative free
+  2014-01-28 : Influenza, seasonal, injectable, preservative free
+  2012-01-24 : Hep A, adult
+  2012-01-24 : Influenza, seasonal, injectable, preservative free
+  2010-01-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-02-06 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-02-02 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-01-28 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-06-19 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-01-24 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2010-01-19 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-11-21 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+1993-10-26 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1990-03-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Chronic pain
+1989-10-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1981-09-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

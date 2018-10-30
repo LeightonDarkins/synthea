@@ -1,0 +1,152 @@
+Renda520 Predovic534
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 40
+Birth Date:          1978-01-11
+Marital Status:      M
+Outpatient Provider: BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+Primary Care Provider: 148 CHESTNUT STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2012-03-28 -            : Body mass index 40+ - severely obese (finding)
+  2009-09-03 - 2009-09-24 : Viral sinusitis (disorder)
+  1995-03-01 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-01-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+           - MCV [Entitic volume] by Automated count  87.9 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+           - Platelets [#/volume] in Blood by Automated count 194.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 225.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2015-04-01 : Lipid Panel
+           - Total Cholesterol                        175.3 mg/dL
+           - Triglycerides                            127.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.8 mg/dL
+           - High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2012-03-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.6 %
+           - MCV [Entitic volume] by Automated count  80.1 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 205.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 232.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2012-03-28 : Lipid Panel
+           - Total Cholesterol                        187.5 mg/dL
+           - Triglycerides                            113.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.0 mg/dL
+           - High Density Lipoprotein Cholesterol     70.8 mg/dL
+  2009-03-25 : Lipid Panel
+           - Total Cholesterol                        185.0 mg/dL
+           - Triglycerides                            148.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.1 mg/dL
+           - High Density Lipoprotein Cholesterol     68.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-01-17 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2018-01-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 225.0 fL
+  2018-01-17 : Platelets [#/volume] in Blood by Automated count 194.6 10*3/uL
+  2018-01-17 : Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+  2018-01-17 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2018-01-17 : MCH [Entitic mass] by Automated count    30.5 pg
+  2018-01-17 : MCV [Entitic volume] by Automated count  87.9 fL
+  2018-01-17 : Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+  2018-01-17 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2018-01-17 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2018-01-17 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2018-01-17 : Blood Pressure
+           - Diastolic Blood Pressure                 77.3 mmHg
+           - Systolic Blood Pressure                  137.1 mmHg
+  2018-01-17 : Body Mass Index                          43.4 kg/m2
+  2018-01-17 : Body Weight                              110.5 kg
+  2018-01-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2018-01-17 : Body Height                              159.6 cm
+  2015-04-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-01 : High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2015-04-01 : Low Density Lipoprotein Cholesterol      83.8 mg/dL
+  2015-04-01 : Triglycerides                            127.9 mg/dL
+  2015-04-01 : Total Cholesterol                        175.3 mg/dL
+  2015-04-01 : Blood Pressure
+           - Diastolic Blood Pressure                 83.1 mmHg
+           - Systolic Blood Pressure                  134.7 mmHg
+  2015-04-01 : Body Mass Index                          42.4 kg/m2
+  2015-04-01 : Body Weight                              107.9 kg
+  2015-04-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-04-01 : Body Height                              159.6 cm
+  2012-03-28 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2012-03-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 232.6 fL
+  2012-03-28 : Platelets [#/volume] in Blood by Automated count 205.0 10*3/uL
+  2012-03-28 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2012-03-28 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2012-03-28 : MCH [Entitic mass] by Automated count    31.4 pg
+  2012-03-28 : MCV [Entitic volume] by Automated count  80.1 fL
+  2012-03-28 : Hematocrit [Volume Fraction] of Blood by Automated count 47.6 %
+  2012-03-28 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2012-03-28 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2012-03-28 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2012-03-28 : High Density Lipoprotein Cholesterol     70.8 mg/dL
+  2012-03-28 : Low Density Lipoprotein Cholesterol      94.0 mg/dL
+  2012-03-28 : Triglycerides                            113.8 mg/dL
+  2012-03-28 : Total Cholesterol                        187.5 mg/dL
+  2012-03-28 : Blood Pressure
+           - Diastolic Blood Pressure                 85.7 mmHg
+           - Systolic Blood Pressure                  108.0 mmHg
+  2012-03-28 : Body Mass Index                          40.7 kg/m2
+  2012-03-28 : Body Weight                              103.6 kg
+  2012-03-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.5 {score}
+  2012-03-28 : Body Height                              159.6 cm
+  2009-03-25 : Tobacco smoking status NHIS              Never smoker 
+  2009-03-25 : High Density Lipoprotein Cholesterol     68.3 mg/dL
+  2009-03-25 : Low Density Lipoprotein Cholesterol      87.1 mg/dL
+  2009-03-25 : Triglycerides                            148.1 mg/dL
+  2009-03-25 : Total Cholesterol                        185.0 mg/dL
+  2009-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 73.8 mmHg
+           - Systolic Blood Pressure                  134.7 mmHg
+  2009-03-25 : Body Mass Index                          38.6 kg/m2
+  2009-03-25 : Body Weight                              98.4 kg
+  2009-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2009-03-25 : Body Height                              159.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-01-17 : Hep A, adult
+  2018-01-17 : Influenza, seasonal, injectable, preservative free
+  2015-04-01 : Influenza, seasonal, injectable, preservative free
+  2012-03-28 : Influenza, seasonal, injectable, preservative free
+  2009-03-25 : Td (adult) preservative free
+  2009-03-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-17 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2015-04-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2012-03-28 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+2009-09-03 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM : Encounter for Viral sinusitis (disorder)
+2009-03-25 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+1995-03-01 (Dr. Charlette938 Nikolaus26) : Encounter at BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

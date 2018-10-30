@@ -1,0 +1,155 @@
+Cornelius968 Gulgowski816
+=========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 35
+Birth Date:          1983-09-15
+Marital Status:      M
+Outpatient Provider: HOLYOKE MEDICAL CENTER
+Primary Care Provider: 575 BEECH STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-09-06[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2007-02-11[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-11-30 -            : Body mass index 30+ - obesity (finding)
+  2016-09-06 -            : Osteoarthritis of knee
+  2009-09-29 - 2009-10-06 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-09-06[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2007-02-11[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-11-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+           - MCV [Entitic volume] by Automated count  93.1 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 394.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 284.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2017-11-30 : Lipid Panel
+           - Total Cholesterol                        198.0 mg/dL
+           - Triglycerides                            135.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      104.0 mg/dL
+           - High Density Lipoprotein Cholesterol     66.8 mg/dL
+  2014-11-27 : Lipid Panel
+           - Total Cholesterol                        190.2 mg/dL
+           - Triglycerides                            134.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      100.5 mg/dL
+           - High Density Lipoprotein Cholesterol     62.7 mg/dL
+  2011-11-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.3 %
+           - MCV [Entitic volume] by Automated count  92.1 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+           - Platelets [#/volume] in Blood by Automated count 386.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 283.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-11-30 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2017-11-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 284.4 fL
+  2017-11-30 : Platelets [#/volume] in Blood by Automated count 394.1 10*3/uL
+  2017-11-30 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2017-11-30 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2017-11-30 : MCH [Entitic mass] by Automated count    31.4 pg
+  2017-11-30 : MCV [Entitic volume] by Automated count  93.1 fL
+  2017-11-30 : Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+  2017-11-30 : Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+  2017-11-30 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2017-11-30 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2017-11-30 : High Density Lipoprotein Cholesterol     66.8 mg/dL
+  2017-11-30 : Low Density Lipoprotein Cholesterol      104.0 mg/dL
+  2017-11-30 : Triglycerides                            135.7 mg/dL
+  2017-11-30 : Total Cholesterol                        198.0 mg/dL
+  2017-11-30 : Blood Pressure
+           - Diastolic Blood Pressure                 84.2 mmHg
+           - Systolic Blood Pressure                  136.8 mmHg
+  2017-11-30 : Body Mass Index                          30.5 kg/m2
+  2017-11-30 : Body Weight                              97.1 kg
+  2017-11-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.5 {score}
+  2017-11-30 : Body Height                              178.3 cm
+  2016-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.3 {score}
+  2014-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-27 : High Density Lipoprotein Cholesterol     62.7 mg/dL
+  2014-11-27 : Low Density Lipoprotein Cholesterol      100.5 mg/dL
+  2014-11-27 : Triglycerides                            134.7 mg/dL
+  2014-11-27 : Total Cholesterol                        190.2 mg/dL
+  2014-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mmHg
+           - Systolic Blood Pressure                  138.3 mmHg
+  2014-11-27 : Body Mass Index                          29.2 kg/m2
+  2014-11-27 : Body Weight                              93.0 kg
+  2014-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-11-27 : Body Height                              178.3 cm
+  2011-11-24 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2011-11-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 283.5 fL
+  2011-11-24 : Platelets [#/volume] in Blood by Automated count 386.2 10*3/uL
+  2011-11-24 : Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+  2011-11-24 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2011-11-24 : MCH [Entitic mass] by Automated count    27.1 pg
+  2011-11-24 : MCV [Entitic volume] by Automated count  92.1 fL
+  2011-11-24 : Hematocrit [Volume Fraction] of Blood by Automated count 39.3 %
+  2011-11-24 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  2011-11-24 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2011-11-24 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2011-11-24 : Blood Pressure
+           - Diastolic Blood Pressure                 88.3 mmHg
+           - Systolic Blood Pressure                  137.0 mmHg
+  2011-11-24 : Body Mass Index                          27.9 kg/m2
+  2011-11-24 : Body Weight                              88.6 kg
+  2011-11-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2011-11-24 : Body Height                              178.3 cm
+  2008-11-20 : Tobacco smoking status NHIS              Never smoker 
+  2008-11-20 : Blood Pressure
+           - Diastolic Blood Pressure                 72.1 mmHg
+           - Systolic Blood Pressure                  126.9 mmHg
+  2008-11-20 : Body Mass Index                          26.4 kg/m2
+  2008-11-20 : Body Weight                              83.9 kg
+  2008-11-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2008-11-20 : Body Height                              178.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-11-30 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-11-30 : Influenza, seasonal, injectable, preservative free
+  2014-11-27 : Td (adult) preservative free
+  2014-11-27 : Influenza, seasonal, injectable, preservative free
+  2011-11-24 : Influenza, seasonal, injectable, preservative free
+  2008-11-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-11-30 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2016-09-06 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Osteoarthritis of knee
+2014-11-27 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2011-11-24 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2009-09-29 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2008-11-20 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+2007-02-11 (Dr. Shaquana156 Nitzsche158) : Encounter at HOLYOKE MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,247 @@
+Kevin729 Swaniawski813
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 66
+Birth Date:          1952-05-18
+Marital Status:      S
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2009-06-17[CURRENT] : Memantine hydrochloride 2 MG/ML Oral Solution for Familial Alzheimer's disease of early onset (disorder)
+  2008-06-22[CURRENT] : Galantamine 4 MG Oral Tablet for Familial Alzheimer's disease of early onset (disorder)
+  1970-07-12[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2008-06-22 -            : Familial Alzheimer's disease of early onset (disorder)
+  1993-05-01 -            : Chronic sinusitis (disorder)
+  1986-08-03 -            : Body mass index 40+ - severely obese (finding)
+  1970-07-12 -            : Hypertension
+  1967-06-25 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2008-06-22[CURRENT] : Demential management
+                         Reason: Familial Alzheimer's disease of early onset (disorder)
+                         Activity: Education about dementia
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-08-13 : Lipid Panel
+           - Total Cholesterol                        195.9 mg/dL
+           - Triglycerides                            109.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.9 mg/dL
+           - High Density Lipoprotein Cholesterol     77.2 mg/dL
+  2014-07-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+           - MCV [Entitic volume] by Automated count  88.3 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 324.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 431.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2014-07-27 : Lipid Panel
+           - Total Cholesterol                        164.9 mg/dL
+           - Triglycerides                            116.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      69.6 mg/dL
+           - High Density Lipoprotein Cholesterol     72.1 mg/dL
+  2011-07-10 : Lipid Panel
+           - Total Cholesterol                        199.8 mg/dL
+           - Triglycerides                            112.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      111.1 mg/dL
+           - High Density Lipoprotein Cholesterol     66.3 mg/dL
+  2009-06-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+           - MCV [Entitic volume] by Automated count  88.6 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 266.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 438.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-08-19 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-19 : Estimated Glomerular Filtration Rate     59.5 mL/min/{1.73_m2}
+  2018-08-19 : Blood Pressure
+           - Diastolic Blood Pressure                 115.4 mmHg
+           - Systolic Blood Pressure                  142.3 mmHg
+  2018-08-19 : Body Mass Index                          46.9 kg/m2
+  2018-08-19 : Body Weight                              111.0 kg
+  2018-08-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.7 {score}
+  2018-08-19 : Body Height                              153.9 cm
+  2017-08-13 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-13 : Estimated Glomerular Filtration Rate     92.7 mL/min/{1.73_m2}
+  2017-08-13 : High Density Lipoprotein Cholesterol     77.2 mg/dL
+  2017-08-13 : Low Density Lipoprotein Cholesterol      96.9 mg/dL
+  2017-08-13 : Triglycerides                            109.0 mg/dL
+  2017-08-13 : Total Cholesterol                        195.9 mg/dL
+  2017-08-13 : Blood Pressure
+           - Diastolic Blood Pressure                 94.1 mmHg
+           - Systolic Blood Pressure                  159.9 mmHg
+  2017-08-13 : Body Mass Index                          47.6 kg/m2
+  2017-08-13 : Body Weight                              112.7 kg
+  2017-08-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.4 {score}
+  2017-08-13 : Body Height                              153.9 cm
+  2016-08-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-07 : Estimated Glomerular Filtration Rate     105.8 mL/min/{1.73_m2}
+  2016-08-07 : Blood Pressure
+           - Diastolic Blood Pressure                 118.2 mmHg
+           - Systolic Blood Pressure                  187.0 mmHg
+  2016-08-07 : Body Mass Index                          48.1 kg/m2
+  2016-08-07 : Body Weight                              113.9 kg
+  2016-08-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-08-07 : Body Height                              153.9 cm
+  2015-08-02 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-02 : Estimated Glomerular Filtration Rate     133.3 mL/min/{1.73_m2}
+  2015-08-02 : Blood Pressure
+           - Diastolic Blood Pressure                 108.2 mmHg
+           - Systolic Blood Pressure                  148.8 mmHg
+  2015-08-02 : Body Mass Index                          48.8 kg/m2
+  2015-08-02 : Body Weight                              115.5 kg
+  2015-08-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.8 {score}
+  2015-08-02 : Body Height                              153.9 cm
+  2014-07-27 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-27 : Estimated Glomerular Filtration Rate     80.7 mL/min/{1.73_m2}
+  2014-07-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2014-07-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 431.0 fL
+  2014-07-27 : Platelets [#/volume] in Blood by Automated count 324.3 10*3/uL
+  2014-07-27 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  2014-07-27 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2014-07-27 : MCH [Entitic mass] by Automated count    29.7 pg
+  2014-07-27 : MCV [Entitic volume] by Automated count  88.3 fL
+  2014-07-27 : Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+  2014-07-27 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2014-07-27 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2014-07-27 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2014-07-27 : High Density Lipoprotein Cholesterol     72.1 mg/dL
+  2014-07-27 : Low Density Lipoprotein Cholesterol      69.6 mg/dL
+  2014-07-27 : Triglycerides                            116.2 mg/dL
+  2014-07-27 : Total Cholesterol                        164.9 mg/dL
+  2014-07-27 : Blood Pressure
+           - Diastolic Blood Pressure                 108.6 mmHg
+           - Systolic Blood Pressure                  196.5 mmHg
+  2014-07-27 : Body Mass Index                          49.4 kg/m2
+  2014-07-27 : Body Weight                              117.0 kg
+  2014-07-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.3 {score}
+  2014-07-27 : Body Height                              153.9 cm
+  2013-09-24 : Total score [MMSE]                       1.8 (score)
+  2013-07-21 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-21 : Estimated Glomerular Filtration Rate     110.7 mL/min/{1.73_m2}
+  2013-07-21 : Blood Pressure
+           - Diastolic Blood Pressure                 118.7 mmHg
+           - Systolic Blood Pressure                  169.6 mmHg
+  2013-07-21 : Body Mass Index                          49.9 kg/m2
+  2013-07-21 : Body Weight                              118.3 kg
+  2013-07-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.9 {score}
+  2013-07-21 : Body Height                              153.9 cm
+  2012-07-15 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-15 : Estimated Glomerular Filtration Rate     98.6 mL/min/{1.73_m2}
+  2012-07-15 : Blood Pressure
+           - Diastolic Blood Pressure                 91.8 mmHg
+           - Systolic Blood Pressure                  148.7 mmHg
+  2012-07-15 : Body Mass Index                          50.5 kg/m2
+  2012-07-15 : Body Weight                              119.5 kg
+  2012-07-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2012-07-15 : Body Height                              153.9 cm
+  2011-07-10 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-10 : Estimated Glomerular Filtration Rate     129.0 mL/min/{1.73_m2}
+  2011-07-10 : High Density Lipoprotein Cholesterol     66.3 mg/dL
+  2011-07-10 : Low Density Lipoprotein Cholesterol      111.1 mg/dL
+  2011-07-10 : Triglycerides                            112.4 mg/dL
+  2011-07-10 : Total Cholesterol                        199.8 mg/dL
+  2011-07-10 : Blood Pressure
+           - Diastolic Blood Pressure                 118.3 mmHg
+           - Systolic Blood Pressure                  197.0 mmHg
+  2011-07-10 : Body Mass Index                          51.1 kg/m2
+  2011-07-10 : Body Weight                              121.1 kg
+  2011-07-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2011-07-10 : Body Height                              153.9 cm
+  2011-03-09 : Total score [MMSE]                       6.5 (score)
+  2010-07-04 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-04 : Estimated Glomerular Filtration Rate     61.7 mL/min/{1.73_m2}
+  2010-07-04 : Blood Pressure
+           - Diastolic Blood Pressure                 117.2 mmHg
+           - Systolic Blood Pressure                  198.3 mmHg
+  2010-07-04 : Body Mass Index                          51.1 kg/m2
+  2010-07-04 : Body Weight                              121.1 kg
+  2010-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.8 {score}
+  2010-07-04 : Body Height                              153.9 cm
+  2009-06-28 : Tobacco smoking status NHIS              Never smoker 
+  2009-06-28 : Estimated Glomerular Filtration Rate     90.6 mL/min/{1.73_m2}
+  2009-06-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2009-06-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 438.8 fL
+  2009-06-28 : Platelets [#/volume] in Blood by Automated count 266.8 10*3/uL
+  2009-06-28 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2009-06-28 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2009-06-28 : MCH [Entitic mass] by Automated count    32.9 pg
+  2009-06-28 : MCV [Entitic volume] by Automated count  88.6 fL
+  2009-06-28 : Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+  2009-06-28 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2009-06-28 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2009-06-28 : Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+  2009-06-28 : Blood Pressure
+           - Diastolic Blood Pressure                 107.2 mmHg
+           - Systolic Blood Pressure                  149.8 mmHg
+  2009-06-28 : Body Mass Index                          51.1 kg/m2
+  2009-06-28 : Body Weight                              121.1 kg
+  2009-06-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2009-06-28 : Body Height                              153.9 cm
+  2009-06-17 : Total score [MMSE]                       15.1 (score)
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-08-07 : Documentation of current medications
+  2014-07-27 : Documentation of current medications
+  2012-07-15 : Documentation of current medications
+  2011-07-10 : Documentation of current medications
+  2009-06-28 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-08-19 : pneumococcal polysaccharide vaccine, 23 valent
+  2018-08-19 : Influenza, seasonal, injectable, preservative free
+  2017-08-13 : Pneumococcal conjugate PCV 13
+  2017-08-13 : Influenza, seasonal, injectable, preservative free
+  2016-08-07 : Influenza, seasonal, injectable, preservative free
+  2015-08-02 : Influenza, seasonal, injectable, preservative free
+  2014-07-27 : Influenza, seasonal, injectable, preservative free
+  2013-07-21 : Td (adult) preservative free
+  2013-07-21 : Influenza, seasonal, injectable, preservative free
+  2012-07-15 : Influenza, seasonal, injectable, preservative free
+  2011-07-10 : Influenza, seasonal, injectable, preservative free
+  2010-07-04 : Influenza, seasonal, injectable, preservative free
+  2009-06-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-08-19 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2017-08-13 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-08-07 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2015-08-02 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-07-27 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2013-09-24 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Familial Alzheimer's disease of early onset (disorder)
+2013-07-21 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-07-15 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-07-10 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2011-03-09 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Familial Alzheimer's disease of early onset (disorder)
+2010-07-04 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-06-28 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-06-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Familial Alzheimer's disease of early onset (disorder)
+2008-06-22 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1993-05-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Sinusitis (disorder)
+1986-08-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1970-07-12 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1967-06-25 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

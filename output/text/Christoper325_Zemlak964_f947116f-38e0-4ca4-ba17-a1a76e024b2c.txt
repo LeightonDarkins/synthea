@@ -1,0 +1,167 @@
+Christoper325 Zemlak964
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 38
+Birth Date:          1980-07-18
+Marital Status:      M
+Outpatient Provider: MOUNT AUBURN HOSPITAL
+Primary Care Provider: 330 MOUNT AUBURN STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1981-01-28 -            : Allergy to grass pollen
+  1981-01-28 -            : House dust mite allergy
+  1981-01-28 -            : Allergy to bee venom
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-10-11[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2009-08-22[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  1982-07-25[CURRENT] : 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-07-25[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1981-01-28[CURRENT] : Astemizole 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-10-11 - 2014-10-21 : Streptococcal sore throat (disorder)
+  2011-09-30 -            : Body mass index 40+ - severely obese (finding)
+  2009-08-22 - 2009-09-04 : Streptococcal sore throat (disorder)
+  1991-08-02 -            : Body mass index 30+ - obesity (finding)
+  1983-07-25 -            : Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1982-07-25[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1981-01-16[CURRENT] : Self care
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-10-20 : Lipid Panel
+           - Total Cholesterol                        199.8 mg/dL
+           - Triglycerides                            140.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      110.0 mg/dL
+           - High Density Lipoprotein Cholesterol     61.7 mg/dL
+  2014-10-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.4 %
+           - MCV [Entitic volume] by Automated count  87.0 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+           - Platelets [#/volume] in Blood by Automated count 288.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 269.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2014-10-03 : Lipid Panel
+           - Total Cholesterol                        184.9 mg/dL
+           - Triglycerides                            130.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.2 mg/dL
+           - High Density Lipoprotein Cholesterol     75.5 mg/dL
+  2011-09-30 : Lipid Panel
+           - Total Cholesterol                        191.3 mg/dL
+           - Triglycerides                            147.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      98.1 mg/dL
+           - High Density Lipoprotein Cholesterol     63.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-10-20 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-20 : High Density Lipoprotein Cholesterol     61.7 mg/dL
+  2017-10-20 : Low Density Lipoprotein Cholesterol      110.0 mg/dL
+  2017-10-20 : Triglycerides                            140.4 mg/dL
+  2017-10-20 : Total Cholesterol                        199.8 mg/dL
+  2017-10-20 : Blood Pressure
+           - Diastolic Blood Pressure                 70.2 mmHg
+           - Systolic Blood Pressure                  108.6 mmHg
+  2017-10-20 : Body Mass Index                          43.7 kg/m2
+  2017-10-20 : Body Weight                              130.1 kg
+  2017-10-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.4 {score}
+  2017-10-20 : Body Height                              172.5 cm
+  2014-10-11 : Oral temperature                         39.2 Cel
+  2014-10-17 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-17 : Blood Pressure
+           - Diastolic Blood Pressure                 74.2 mmHg
+           - Systolic Blood Pressure                  111.1 mmHg
+  2014-10-17 : Body Mass Index                          42.2 kg/m2
+  2014-10-17 : Body Weight                              125.5 kg
+  2014-10-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.6 {score}
+  2014-10-17 : Body Height                              172.5 cm
+  2014-10-03 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2014-10-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 269.0 fL
+  2014-10-03 : Platelets [#/volume] in Blood by Automated count 288.3 10*3/uL
+  2014-10-03 : Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+  2014-10-03 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2014-10-03 : MCH [Entitic mass] by Automated count    28.7 pg
+  2014-10-03 : MCV [Entitic volume] by Automated count  87.0 fL
+  2014-10-03 : Hematocrit [Volume Fraction] of Blood by Automated count 37.4 %
+  2014-10-03 : Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+  2014-10-03 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2014-10-03 : Leukocytes [#/volume] in Blood by Automated count 7.9 10*3/uL
+  2014-10-03 : High Density Lipoprotein Cholesterol     75.5 mg/dL
+  2014-10-03 : Low Density Lipoprotein Cholesterol      83.2 mg/dL
+  2014-10-03 : Triglycerides                            130.7 mg/dL
+  2014-10-03 : Total Cholesterol                        184.9 mg/dL
+  2014-10-03 : Blood Pressure
+           - Diastolic Blood Pressure                 79.6 mmHg
+           - Systolic Blood Pressure                  136.0 mmHg
+  2014-10-03 : Body Mass Index                          42.2 kg/m2
+  2014-10-03 : Body Weight                              125.5 kg
+  2014-10-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-10-03 : Body Height                              172.5 cm
+  2011-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-30 : High Density Lipoprotein Cholesterol     63.8 mg/dL
+  2011-09-30 : Low Density Lipoprotein Cholesterol      98.1 mg/dL
+  2011-09-30 : Triglycerides                            147.4 mg/dL
+  2011-09-30 : Total Cholesterol                        191.3 mg/dL
+  2011-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 77.4 mmHg
+           - Systolic Blood Pressure                  132.4 mmHg
+  2011-09-30 : Body Mass Index                          40.9 kg/m2
+  2011-09-30 : Body Weight                              121.7 kg
+  2011-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.9 {score}
+  2011-09-30 : Body Height                              172.5 cm
+  2009-08-22 : Oral temperature                         39.0 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-10-11 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2014-10-17 : Documentation of current medications
+  2011-09-30 : Documentation of current medications
+  2009-08-22 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-10-20 : Influenza, seasonal, injectable, preservative free
+  2014-10-17 : Influenza, seasonal, injectable, preservative free
+  2014-10-03 : Influenza, seasonal, injectable, preservative free
+  2011-09-30 : Td (adult) preservative free
+  2011-09-30 : Influenza, seasonal, injectable, preservative free
+  2009-09-04 : Influenza, seasonal, injectable, preservative free
+  2009-08-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-01-01 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Asthma
+2017-12-30 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Asthma
+2017-10-20 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2016-07-08 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Asthma
+2015-07-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Asthma
+2014-10-11 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2014-10-17 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2014-10-03 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2012-07-29 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Asthma
+2011-09-30 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+2009-09-04 (Dr. Marjory382 Predovic534) : Encounter at URGENT CARE MEDICAL CLINIC
+2009-08-22 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2009-08-28 (Dr. Marjory382 Predovic534) : Encounter at URGENT CARE MEDICAL CLINIC
+2009-08-14 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Asthma
+1991-08-02 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1983-07-25 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Perennial allergic rhinitis with seasonal variation
+1982-07-25 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Childhood asthma
+1981-01-28 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+1981-01-16 (Dr. Wendi133 Rippin620) : Encounter at MOUNT AUBURN HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,281 @@
+Joellen497 Miller503
+====================
+Race:                Other
+Ethnicity:           Central American
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1935-11-25
+Marital Status:      M
+Outpatient Provider: SAINT ANNE'S HOSPITAL
+Primary Care Provider: 795 MIDDLE STREET
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-02-23[CURRENT] : Memantine hydrochloride 2 MG/ML Oral Solution for Alzheimer's disease (disorder)
+  2013-12-20[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2013-12-20[STOPPED] : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+  2013-04-29[CURRENT] : Galantamine 4 MG Oral Tablet for Alzheimer's disease (disorder)
+  2010-05-12[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2006-03-20[CURRENT] : Alendronic acid 10 MG Oral Tablet
+  1955-08-15[CURRENT] : Hydrochlorothiazide 25 MG for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-11-04 -            : Pneumonia
+  2013-12-20 - 2014-02-18 : Pathological fracture due to osteoporosis (disorder)
+  2013-12-20 - 2014-02-18 : Fracture of forearm
+  2013-04-29 -            : Alzheimer's disease (disorder)
+  2010-05-12 - 2010-06-09 : Sprain of wrist
+  2006-03-20 -            : Osteoporosis (disorder)
+  1975-12-01 -            : Body mass index 30+ - obesity (finding)
+  1966-07-04 -            : Miscarriage in first trimester
+  1954-08-09 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-12-20[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2013-04-29[CURRENT] : Demential management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Education about dementia
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  2010-05-12[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-11-13 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Pneumonia 
+  2016-05-16 : Lipid Panel
+           - Total Cholesterol                        167.7 mg/dL
+           - Triglycerides                            108.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.7 mg/dL
+           - High Density Lipoprotein Cholesterol     71.2 mg/dL
+  2013-04-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.7 %
+           - MCV [Entitic volume] by Automated count  85.1 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 312.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 427.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2013-04-29 : Lipid Panel
+           - Total Cholesterol                        174.5 mg/dL
+           - Triglycerides                            140.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      71.0 mg/dL
+           - High Density Lipoprotein Cholesterol     75.4 mg/dL
+  2010-04-12 : Lipid Panel
+           - Total Cholesterol                        164.4 mg/dL
+           - Triglycerides                            127.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.7 mg/dL
+           - High Density Lipoprotein Cholesterol     61.1 mg/dL
+  2008-03-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+           - MCV [Entitic volume] by Automated count  81.5 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+           - Platelets [#/volume] in Blood by Automated count 386.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 248.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-11-13 : Cause of Death [US Standard Certificate of Death] Pneumonia 
+  2017-05-22 : Tobacco smoking status NHIS              Former smoker 
+  2017-05-22 : Estimated Glomerular Filtration Rate     152.3 mL/min/{1.73_m2}
+  2017-05-22 : Blood Pressure
+           - Diastolic Blood Pressure                 113.8 mmHg
+           - Systolic Blood Pressure                  151.1 mmHg
+  2017-05-22 : Body Mass Index                          24.9 kg/m2
+  2017-05-22 : Body Weight                              64.4 kg
+  2017-05-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.3 {score}
+  2017-05-22 : Body Height                              160.8 cm
+  2017-01-08 : Total score [MMSE]                       0.7 (score)
+  2016-05-16 : Tobacco smoking status NHIS              Former smoker 
+  2016-05-16 : Estimated Glomerular Filtration Rate     142.6 mL/min/{1.73_m2}
+  2016-05-16 : High Density Lipoprotein Cholesterol     71.2 mg/dL
+  2016-05-16 : Low Density Lipoprotein Cholesterol      74.7 mg/dL
+  2016-05-16 : Triglycerides                            108.7 mg/dL
+  2016-05-16 : Total Cholesterol                        167.7 mg/dL
+  2016-05-16 : Blood Pressure
+           - Diastolic Blood Pressure                 98.9 mmHg
+           - Systolic Blood Pressure                  160.7 mmHg
+  2016-05-16 : Body Mass Index                          25.6 kg/m2
+  2016-05-16 : Body Weight                              66.2 kg
+  2016-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.2 {score}
+  2016-05-16 : Body Height                              160.8 cm
+  2015-05-11 : Tobacco smoking status NHIS              Former smoker 
+  2015-05-11 : Estimated Glomerular Filtration Rate     130.8 mL/min/{1.73_m2}
+  2015-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 100.7 mmHg
+           - Systolic Blood Pressure                  160.0 mmHg
+  2015-05-11 : Body Mass Index                          26.0 kg/m2
+  2015-05-11 : Body Weight                              67.4 kg
+  2015-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.7 {score}
+  2015-05-11 : Body Height                              160.8 cm
+  2015-02-18 : Total score [MMSE]                       6.8 (score)
+  2014-05-05 : Tobacco smoking status NHIS              Former smoker 
+  2014-05-05 : Estimated Glomerular Filtration Rate     57.3 mL/min/{1.73_m2}
+  2014-05-05 : Blood Pressure
+           - Diastolic Blood Pressure                 110.7 mmHg
+           - Systolic Blood Pressure                  157.3 mmHg
+  2014-05-05 : Body Mass Index                          26.6 kg/m2
+  2014-05-05 : Body Weight                              68.9 kg
+  2014-05-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.4 {score}
+  2014-05-05 : Body Height                              160.8 cm
+  2014-02-23 : Total score [MMSE]                       15.5 (score)
+  2013-04-29 : Total score [MMSE]                       18.7 (score)
+  2013-04-29 : Tobacco smoking status NHIS              Former smoker 
+  2013-04-29 : Estimated Glomerular Filtration Rate     111.6 mL/min/{1.73_m2}
+  2013-04-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2013-04-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 427.6 fL
+  2013-04-29 : Platelets [#/volume] in Blood by Automated count 312.1 10*3/uL
+  2013-04-29 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  2013-04-29 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2013-04-29 : MCH [Entitic mass] by Automated count    31.9 pg
+  2013-04-29 : MCV [Entitic volume] by Automated count  85.1 fL
+  2013-04-29 : Hematocrit [Volume Fraction] of Blood by Automated count 48.7 %
+  2013-04-29 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2013-04-29 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2013-04-29 : Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+  2013-04-29 : High Density Lipoprotein Cholesterol     75.4 mg/dL
+  2013-04-29 : Low Density Lipoprotein Cholesterol      71.0 mg/dL
+  2013-04-29 : Triglycerides                            140.0 mg/dL
+  2013-04-29 : Total Cholesterol                        174.5 mg/dL
+  2013-04-29 : Blood Pressure
+           - Diastolic Blood Pressure                 114.3 mmHg
+           - Systolic Blood Pressure                  143.6 mmHg
+  2013-04-29 : Body Mass Index                          27.2 kg/m2
+  2013-04-29 : Body Weight                              70.5 kg
+  2013-04-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.9 {score}
+  2013-04-29 : Body Height                              160.8 cm
+  2012-12-05 : History of Hospitalizations+Outpatient visits 2.6 {count}
+  2012-12-05 : Are you covered by health insurance or some other kind of health care plan [PhenX] Yes {nominal}
+  2012-12-05 : Housing status                           Patient is homeless {nominal}
+  2012-12-05 : Abuse Status [OMAHA]                     Severe signs/symptoms {nominal}
+  2012-12-05 : HIV status                               not HIV positive {nominal}
+  2012-12-05 : Sexual orientation                       heterosexual {nominal}
+  2012-04-23 : Tobacco smoking status NHIS              Former smoker 
+  2012-04-23 : Estimated Glomerular Filtration Rate     78.1 mL/min/{1.73_m2}
+  2012-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 93.9 mmHg
+           - Systolic Blood Pressure                  199.6 mmHg
+  2012-04-23 : Body Mass Index                          28.0 kg/m2
+  2012-04-23 : Body Weight                              72.4 kg
+  2012-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.3 {score}
+  2012-04-23 : Body Height                              160.8 cm
+  2011-04-18 : Tobacco smoking status NHIS              Former smoker 
+  2011-04-18 : Estimated Glomerular Filtration Rate     103.7 mL/min/{1.73_m2}
+  2011-04-18 : Blood Pressure
+           - Diastolic Blood Pressure                 90.1 mmHg
+           - Systolic Blood Pressure                  143.4 mmHg
+  2011-04-18 : Body Mass Index                          28.5 kg/m2
+  2011-04-18 : Body Weight                              73.7 kg
+  2011-04-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.6 {score}
+  2011-04-18 : Body Height                              160.8 cm
+  2010-04-12 : Tobacco smoking status NHIS              Former smoker 
+  2010-04-12 : Estimated Glomerular Filtration Rate     97.6 mL/min/{1.73_m2}
+  2010-04-12 : High Density Lipoprotein Cholesterol     61.1 mg/dL
+  2010-04-12 : Low Density Lipoprotein Cholesterol      77.7 mg/dL
+  2010-04-12 : Triglycerides                            127.9 mg/dL
+  2010-04-12 : Total Cholesterol                        164.4 mg/dL
+  2010-04-12 : Blood Pressure
+           - Diastolic Blood Pressure                 102.6 mmHg
+           - Systolic Blood Pressure                  163.6 mmHg
+  2010-04-12 : Body Mass Index                          29.1 kg/m2
+  2010-04-12 : Body Weight                              75.2 kg
+  2010-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.1 {score}
+  2010-04-12 : Body Height                              160.8 cm
+  2009-04-06 : Tobacco smoking status NHIS              Former smoker 
+  2009-04-06 : Estimated Glomerular Filtration Rate     97.1 mL/min/{1.73_m2}
+  2009-04-06 : Blood Pressure
+           - Diastolic Blood Pressure                 106.9 mmHg
+           - Systolic Blood Pressure                  180.3 mmHg
+  2009-04-06 : Body Mass Index                          29.5 kg/m2
+  2009-04-06 : Body Weight                              76.2 kg
+  2009-04-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.8 {score}
+  2009-04-06 : Body Height                              160.8 cm
+  2008-03-31 : Tobacco smoking status NHIS              Former smoker 
+  2008-03-31 : Estimated Glomerular Filtration Rate     83.6 mL/min/{1.73_m2}
+  2008-03-31 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2008-03-31 : Platelet distribution width [Entitic volume] in Blood by Automated count 248.2 fL
+  2008-03-31 : Platelets [#/volume] in Blood by Automated count 386.5 10*3/uL
+  2008-03-31 : Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+  2008-03-31 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2008-03-31 : MCH [Entitic mass] by Automated count    31.3 pg
+  2008-03-31 : MCV [Entitic volume] by Automated count  81.5 fL
+  2008-03-31 : Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+  2008-03-31 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2008-03-31 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2008-03-31 : Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+  2008-03-31 : Blood Pressure
+           - Diastolic Blood Pressure                 110.2 mmHg
+           - Systolic Blood Pressure                  192.5 mmHg
+  2008-03-31 : Body Mass Index                          29.9 kg/m2
+  2008-03-31 : Body Weight                              77.4 kg
+  2008-03-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.5 {score}
+  2008-03-31 : Body Height                              160.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-05-16 : Documentation of current medications
+  2013-12-20 : Bone immobilization for Fracture of forearm
+  2013-12-20 : Upper arm X-ray
+  2013-04-29 : Documentation of current medications
+  2012-12-05 : Information gathering (procedure)
+  2011-04-18 : Documentation of current medications
+  2010-04-12 : Documentation of current medications
+  2009-04-06 : Documentation of current medications
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-05-22 : Td (adult) preservative free
+  2017-05-22 : Influenza, seasonal, injectable, preservative free
+  2016-05-16 : Influenza, seasonal, injectable, preservative free
+  2015-05-11 : Influenza, seasonal, injectable, preservative free
+  2014-05-05 : Influenza, seasonal, injectable, preservative free
+  2013-04-29 : Influenza, seasonal, injectable, preservative free
+  2012-04-23 : Influenza, seasonal, injectable, preservative free
+  2011-04-18 : Influenza, seasonal, injectable, preservative free
+  2010-04-12 : Influenza, seasonal, injectable, preservative free
+  2009-04-06 : Influenza, seasonal, injectable, preservative free
+  2008-03-31 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-11-13 : Death Certification
+2017-11-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Pneumonia
+2017-05-22 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2017-01-08 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Alzheimer's disease (disorder)
+2016-05-16 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-05-11 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2015-02-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Alzheimer's disease (disorder)
+2014-05-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2014-02-23 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Alzheimer's disease (disorder)
+2014-02-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Fracture of forearm
+2013-12-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2013-04-29 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-12-05 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2012-04-23 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2011-04-18 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-05-12 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2010-04-12 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2009-04-06 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2008-03-31 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+2006-03-20 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1975-12-01 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1966-07-04 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL : Encounter for Normal pregnancy
+1955-08-15 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+1954-08-09 (Dr. Gregory545 Bartoletti50) : Encounter at SAINT ANNE'S HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2013-12-20 : Digital Radiography, Arm
+--------------------------------------------------------------------------------
